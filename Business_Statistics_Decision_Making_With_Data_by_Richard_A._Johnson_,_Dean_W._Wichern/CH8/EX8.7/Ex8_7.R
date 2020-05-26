@@ -1,0 +1,13 @@
+#Pg.no.395
+n=43
+s=1.2
+sem=s/sqrt(n)
+alpha1=0.05
+E=qnorm(1-(alpha/2))*sem
+xbar=7.40
+iepm1=round((xbar+c(-E,E)),2)
+iepm1
+alpha2=0.2
+E2=qnorm(1-(alpha2/2))*sem
+iepm2=round((xbar+c(-E2,E2)),2)
+iepm2

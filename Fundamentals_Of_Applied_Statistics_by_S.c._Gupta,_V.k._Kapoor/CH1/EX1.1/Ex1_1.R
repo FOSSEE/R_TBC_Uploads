@@ -1,0 +1,24 @@
+#Page no. 1.19
+rm(list=ls(all=T))  
+n=5                 
+k=10                
+d_2<-2.326
+d_3<-0.864
+x_bar<-c(43,49,37,44,45,37,51,46,43,47)   
+r<-c(5,6,5,7,7,4,8,6,4,6)                 
+x_double_bar<-sum(x_bar)/k                
+x_double_bar
+r_bar<-sum(r)/k
+r_bar
+CL_x<-x_double_bar
+CL_x
+UCL_x<-x_double_bar+((3*r_bar)/(d_2*sqrt(n)))
+UCL_x
+LCL_x<-x_double_bar-((3*r_bar)/(d_2*sqrt(n)))
+LCL_x
+CL_r<-r_bar
+CL_r
+UCL_r<-r_bar+((3*d_3*r_bar)/d_2)
+UCL_r
+LCL_r<-ifelse((r_bar-((3*d_3*r_bar)/d_2))<0,0,(r_bar-((3*d_3*r_bar)/d_2)))
+LCL_r

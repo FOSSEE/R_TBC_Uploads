@@ -1,0 +1,9 @@
+####page_no_215###
+rm(list=ls())
+x<-c(0,1,2,3,4,5)
+h<-c(1218,32379,37961,19387,7714,2842)
+px<-h/sum(h);px
+E<-sum(x*px);E
+v<-sum(((x-E)^2)*px);v
+var<-(sum((x^2)*px)-E^2);var
+sd<-sqrt(var);sd

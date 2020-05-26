@@ -1,0 +1,16 @@
+#pg.no.445
+n1=80
+n2=70
+xbar=21.7
+ybar=18.5
+s1=9.3
+s2=4.8
+d=xbar-ybar
+sd=sqrt(((s1^2)/n1)+((s2^2)/n2))
+alpha=0.05
+z_tab=qnorm(1-alpha/2)
+z_cal=d/sd
+pval=pnorm(-z_cal)+(1-pnorm(z_cal))
+z_tab
+z_cal
+pval

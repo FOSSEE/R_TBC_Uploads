@@ -1,0 +1,114 @@
+18#Classical Optimization theory#18.1.3#Newton Raphson method#18.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.3/18.1.3.R#S##395
+18#Classical Optimization theory#18.1.1#Necessary and sufficient conditions#18.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.1/18.1.1.R#S##394
+17# Simulation Modelling#17.4.1#Multiplicative congruential method#17.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.4.1/17.4.1.R#S##393
+17# Simulation Modelling#17.3.3#Erlang distribution#17.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.3.3/17.3.3.R#S##392
+17# Simulation Modelling#17.1.1#Monte carlo sampling#17.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.1.1/17.1.1.R#S##391
+16# Queuing Systems#16.9.3#Aspiration level model#16.9.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.3/16.9.3.R#S##390
+16# Queuing Systems#16.9.2#Practical problem for MMc GDInfInf model#16.9.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.2/16.9.2.R#S##389
+16# Queuing Systems#16.9.1#Cost models#16.9.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.1/16.9.1.R#S##388
+16# Queuing Systems#16.7.1#MG1 GDInfInf model or  Pollaczek Khintchine formula#16.7.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.7.1/16.7.1.R#S##387
+16# Queuing Systems#16.6.8#MMR GDKK or Machine servicing model#16.6.8.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.8/16.6.8.R#S##386
+16# Queuing Systems#16.6.7#MMInf GDInfNEInf or Slef service models#16.6.7.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.7/16.6.7.R#S##385
+16# Queuing Systems#16.6.6#MMc GDNInf model#16.6.6.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.6/16.6.6.R#S##384
+16# Queuing Systems#16.6.5#MMc GDInfInf model#16.6.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.5/16.6.5.R#S##383
+16# Queuing Systems#16.6.4#MM1 GDNInf model#16.6.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.4/16.6.4.R#S##382
+16# Queuing Systems#16.6.2#MM1 GDInfInf model#16.6.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.2/16.6.2.R#S##381
+16# Queuing Systems#16.6.1#Measures of performance#16.6.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.1/16.6.1.R#S##380
+16# Queuing Systems#16.4.2#Pure death model#16.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.2/16.4.2.R#S##379
+16# Queuing Systems#16.4.1#Pure birth model#16.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.1/16.4.1.R#S##378
+15#Markov Chain#15.6.1#Analysis of absorbing states#15.6.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.6.1/15.6.1.R#S##377
+15#Markov Chain#15.5.1#Mean first passage time#15.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.5.1/15.5.1.R#S##376
+15#Markov Chain#15.4.2#Cost model#15.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.2/15.4.2.R#S##375
+15#Markov Chain#15.4.1#Steady state probabilities#15.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.1/15.4.1.R#S##374
+15#Markov Chain#15.3.2#Periodic states#15.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.2/15.3.2.R#S##373
+15#Markov Chain#15.3.1#Absorbing and transient states#15.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.1/15.3.1.R#S##372
+15#Markov Chain#15.2.1#Absolute probabilities after transitions#15.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.2.1/15.2.1.R#S##371
+14#Probabilistic Inventory Models#14.2.1#Newsvendor problem#14.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.2.1/14.2.1.R#S##370
+14#Probabilistic Inventory Models#14.1.1#Probabilistic Inventory Models with normal distribution of demand#14.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.1.1/14.1.1.R#S##369
+13#Decision Analysis and Games#13.4.3#Mixed strategy games#13.4.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.3/13.4.3.R#S##368
+13#Decision Analysis and Games#13.4.1#Two person zero sum game#13.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.1/13.4.1.R#S##367
+13#Decision Analysis and Games#13.3.1#Decision under uncertainity#13.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.3.1/13.3.1.R#S##366
+13#Decision Analysis and Games#13.2.2#Expected value criterion#13.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.2/13.2.2.R#S##365
+13#Decision Analysis and Games#13.2.1#Decision tree#13.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.1/13.2.1.R#S##364
+13#Decision Analysis and Games#13.1.3#Consistency ratio#13.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.3/13.1.3.R#S##363
+13#Decision Analysis and Games#13.1.2#Weights and consistency for AHP#13.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.2/13.1.2.R#S##362
+13#Decision Analysis and Games#13.1.1#Overall Idea of AHP#13.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.1/13.1.1.R#S##361
+12#Deterministic Inventory Modelling#12.4.1#Dynamic EOQ models with no setup#12.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.4.1/12.4.1.R#S##360
+12#Deterministic Inventory Modelling#12.3.2#Optimal order policy#12.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.2/12.3.2.R#S##359
+12#Deterministic Inventory Modelling#12.3.1#Classic EOQ model problem#12.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.1/12.3.1.R#S##358
+12#Deterministic Inventory Modelling#12.2.1#Analyzing the nature of demand#12.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.2.1/12.2.1.R#S##357
+11#Deterministic Dynamic Programming#11.1.1#Shortest route problem using dynamic programming#11.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH11/EX11.1.1/11.1.1.R#S##356
+10# Travelling Salesman Problem#10.4.1#Travelling Salesman Problem using nearest neighbour heuristic#10.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.4.1/10.4.1.R#S##355
+10# Travelling Salesman Problem#10.3.2#Travelling Salesman Problem using cutting plane algorithm#10.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.2/10.3.2.R#S##354
+10# Travelling Salesman Problem#10.3.1#Travelling Salesman Problem using branch and bound algorithm#10.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.1/10.3.1.R#S##353
+9# Heuristic Programming#9.3.4#Job scheduling using simulated annealing algorithm#9.3.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.4/9.3.4.R#S##352
+9# Heuristic Programming#9.3.3#Minimization of single varibale function using simulated annealing algorithm#9.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.3/9.3.3.R#S##351
+9# Heuristic Programming#9.3.1#Minimization of single varibale function using tabu search algorithm#9.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.1/9.3.1.R#S##350
+9# Heuristic Programming#9.2.3#Random walk heuristic for continuous variables#9.2.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.3/9.2.3.R#S##349
+9# Heuristic Programming#9.2.2#Random walk heuristic#9.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.2/9.2.2.R#S##348
+9# Heuristic Programming#9.2.1#Discrete variable heuristics#9.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.1/9.2.1.R#S##347
+8# Integer Linear Programming#8.2.2#Cutting plane algorithm#8.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.2/8.2.2.R#S##346
+8# Integer Linear Programming#8.2.1#Branch and bound algorithm#8.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.1/8.2.1.R#S##345
+8# Integer Linear Programming#8.1.4#Job scheeduling model#8.1.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.4/8.1.4.R#S##344
+8# Integer Linear Programming#8.1.3#Choosing a telephone company#8.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.3/8.1.3.R#S##343
+8# Integer Linear Programming#8.1.2#Installing security phones#8.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.2/8.1.2.R#S##342
+8# Integer Linear Programming#8.1.1#Project selection#8.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.1/8.1.1.R#S##341
+7#Advanced Linear Programming#7.4.1#Dual simplex algorithm#7.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.4.1/7.4.1.R#S##340
+7#Advanced Linear Programming#7.3.1#Bounded variables algorithm#7.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.3.1/7.3.1.R#S##339
+7#Advanced Linear Programming#7.2.1#Revised simplex algoithmr#7.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.2.1/7.2.1.R#S##338
+7#Advanced Linear Programming#7.1.3#Simmplex tableau in matrix form#7.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.3/7.1.3.R#S##337
+7#Advanced Linear Programming#7.1.2#All basic feasible and infeasible solutions of an equation#7.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.2/7.1.2.R#S##336
+6#Network Model#6.5.5#LP formulation and solution of project scheduling problem#6.5.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.5/6.5.5.R#S##335
+6#Network Model#6.5.4#Determination of floats and red flag rule#6.5.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.4/6.5.4.R#S##334
+6#Network Model#6.5.3#Preliminary schedule#6.5.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.3/6.5.3.R#S##333
+6#Network Model#6.5.2#Critical path method#6.5.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.2/6.5.2.R#S##332
+6#Network Model#6.5.1#Network representation for PERT and CPM#6.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.1/6.5.1.R#S##331
+6#Network Model#6.4.3#LP formulation and solution of Maximal flow Mode #6.4.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.3/6.4.3.R#S##330
+6#Network Model#6.4.2#Maximal flow algorithm#6.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.2/6.4.2.R#S##329
+6#Network Model#6.3.6#LP formulation and solution of shortest route problem#6.3.6.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.6/6.3.6.R#S##328
+6#Network Model#6.3.5#Floyds algorithm#6.3.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.5/6.3.5.R#S##327
+6#Network Model#6.3.4#Djiktras algorithm#6.3.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.4/6.3.4.R#S##326
+6#Network Model#6.3.3#Three jub puzzle#6.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.3/6.3.3.R#S##325
+6#Network Model#6.3.2#Most reliable route#6.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.2/6.3.2.R#S##324
+6#Network Model#6.3.1#Equipment replacement as shortest route problem#6.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.1/6.3.1.R#S##323
+6#Network Model#6.2.1#Minimal spanning tree algorithm#6.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.2.1/6.2.1.R#S##322
+5#Transportation Model and its Variant#5.4.2#Hungarian method 2#5.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.2/5.4.2.R#S##321
+5#Transportation Model and its Variant#5.4.1#Hungarian method 1#5.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.1/5.4.1.R#S##320
+5#Transportation Model and its Variant#5.3.5#Method of multipliers#5.3.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.5/5.3.5.R#S##319
+5#Transportation Model and its Variant#5.3.3#Least cost method#5.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.3/5.3.3.R#S##318
+5#Transportation Model and its Variant#5.3.2#Northwest corner method#5.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.2/5.3.2.R#S##317
+5#Transportation Model and its Variant#5.3.1#Sunray Transport#5.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.1/5.3.1.R#S##316
+5#Transportation Model and its Variant#5.2.2#Tool sharpening#5.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.2/5.2.2.R#S##315
+5#Transportation Model and its Variant#5.2.1#Production inventory control#5.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.1/5.2.1.R#S##314
+5#Transportation Model and its Variant#5.1.2#Balancing transportation models#5.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.2/5.1.2.R#S##313
+5#Transportation Model and its Variant#5.1.1#A general transportation model#5.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.1/5.1.1.R#S##312
+4#Duality and Post optimality Analysis#4.5.4#Addition of a new activity#4.5.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.4/4.5.4.R#S##311
+4#Duality and Post optimality Analysis#4.5.3#Changes in objective coefficient#4.5.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.3/4.5.3.R#S##310
+4#Duality and Post optimality Analysis#4.5.2#Addition of a new constraint#4.5.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.2/4.5.2.R#S##309
+4#Duality and Post optimality Analysis#4.5.1#Changes in RHS#4.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.1/4.5.1.R#S##308
+4#Duality and Post optimality Analysis#4.4.1#Dual Simplex using glpk library #4.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.4.1/4.4.1.R#S##307
+4#Duality and Post optimality Analysis#4.3.2#Economic interpretation of Dual constraints of Reddy Mikks Problem#4.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.2/4.3.2.R#S##306
+4#Duality and Post optimality Analysis#4.3.1#Economic interpretation of Dual variables of Reddy Mikks Problem#4.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.1/4.3.1.R#S##305
+4#Duality and Post optimality Analysis#4.2.3#Getting the simplex tableau at any iteration from the original data and inverse of the iteration#4.2.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.3/4.2.3.R#S##304
+4#Duality and Post optimality Analysis#4.2.2#Associated objective values for arbitrary feasible primal and dual solutions#4.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.2/4.2.2.R#S##303
+4#Duality and Post optimality Analysis#4.2.1#Solving primal and dual problem using linprog pacakge#4.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.1/4.2.1.R#S##302
+3#The Simplex Method and Sensitivity Analysis#3.6.3#Sensitivity Analysis using TOYCO Model#3.6.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.3/3.6.3.R#S##301
+3#The Simplex Method and Sensitivity Analysis#3.6.2#Changing objective coefficient for Sensitivity analysis#3.6.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.2/3.6.2.R#S##300
+3#The Simplex Method and Sensitivity Analysis#3.6.1#Changing RHS for Sensitivity analysis#3.6.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.1/3.6.1.R#S##299
+3#The Simplex Method and Sensitivity Analysis#3.5.4#Infeasible Solution Space#3.5.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.4/3.5.4.R#S##298
+3#The Simplex Method and Sensitivity Analysis#3.5.3#Unbounded objective value#3.5.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.3/3.5.3.R#S##297
+3#The Simplex Method and Sensitivity Analysis#3.5.2#Infinite Solutions to an LP#3.5.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.2/3.5.2.R#S##296
+3#The Simplex Method and Sensitivity Analysis#3.5.1#Degenerate Optimal Solution#3.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.1/3.5.1.R#S##295
+3#The Simplex Method and Sensitivity Analysis#3.4.2#LP solution using Two Phase Method#3.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.2/3.4.2.R#S##294
+3#The Simplex Method and Sensitivity Analysis#3.4.1#LP solution using M Method#3.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.1/3.4.1.R#S##293
+3#The Simplex Method and Sensitivity Analysis#3.3.1#LP solution for Reddy Mikks Problem using lpSolve#3.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.3.1/3.3.1.R#S##292
+3#The Simplex Method and Sensitivity Analysis#3.2.1#Graphical solution of LP with 2 variables#3.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.2.1/3.2.1.R#S##291
+2#Modelling with Linear Programming#2.4.7#LP solution for Crude Oil Refining and Gasoline Blending Problem#2.4.7.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.7/2.4.7.R#S##290
+2#Modelling with Linear Programming#2.4.6#LP solution for Urban Renewal Model Problem#2.4.6.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.6/2.4.6.R#S##289
+2#Modelling with Linear Programming#2.4.5#LP solution for Bus Scheduling Problem#2.4.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.5/2.4.5.R#S##288
+2#Modelling with Linear Programming#2.4.4#LP solution for Multi period Production smoothing Model#2.4.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.4/2.4.4.R#S##287
+2#Modelling with Linear Programming#2.4.3#LP solution for Multi period Production Inventory Model#2.4.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.3/2.4.3.R#S##286
+2#Modelling with Linear Programming#2.4.2#LP solution for Single period Production Model#2.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.2/2.4.2.R#S##285
+2#Modelling with Linear Programming#2.4.1#LP solution for Bank Loan Problem #2.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.1/2.4.1.R#S##284
+2#Modelling with Linear Programming#2.2.2#Graphical solution of LP for Diet Problem#2.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.2/2.2.2.R#S##283
+2#Modelling with Linear Programming#2.2.1#Graphical Solution to LP Problems#2.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.1/2.2.1.R#S##282

@@ -1,0 +1,31 @@
+#page no. 3.22
+rm(list=ls(all=T))
+Article<-c(1,2,3,4)
+po<-c(5,7.75,9.63,12.50)
+qo<-c(5,6,4,9)
+pi<-c(6.50,8.80,7.75,12.75)
+qi<-c(7,10,6,9)
+df<-data.frame(Article,po,qo,pi,qi,"piqo"=pi*qo,"poqo"=po*qo,"piqi"=pi*qi,"poqi"=po*qi,stringsAsFactors=F)
+computation<-rbind(df,c("Total","","","","",sum(pi*qo),sum(po*qo),sum(pi*qi),sum(po*qi)))
+computation
+Poi_La<-(sum(pi*qo)/sum(po*qo))*100
+Poi_La
+Qoi_La<-(sum(qi*po)/sum(qo*po))*100
+Qoi_La
+Poi_Pa<-(sum(pi*qi)/sum(po*qi))*100
+Poi_Pa
+Qoi_Pa<-(sum(pi*qi)/sum(qo*pi))*100
+Qoi_Pa
+Poi_ME<-sum(Poi_La,Poi_Pa)/2
+Poi_ME
+Qoi_ME<-(Qoi_La+Qoi_Pa)/2
+Qoi_ME
+Poi_F<-sqrt(Poi_La*Poi_Pa)
+Poi_F
+Qoi_F<-sqrt(Qoi_La*Qoi_Pa)
+Qoi_F
+Poi_FxPio_F<-(sqrt((sum(pi*qo)/sum(po*qo))*(sum(pi*qi)/sum(po*qi))))*(sqrt((sum(po*qi)/sum(pi*qi))*(sum(po*qo)/sum(pi*qo))))
+Poi_FxPio_F
+Voi<-(sum(pi*qi)/sum(po*qo))
+if((Poi_F*Qoi_F)/10000==Voi){print("True")}else{print("False")}
+#"The answer may slightly vary due to rounding off values." 

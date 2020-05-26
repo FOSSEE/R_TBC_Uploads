@@ -1,0 +1,11 @@
+#Pg.no.335
+X=208
+mu=200
+sig=5
+list(z=(208-200)/sig,
+p1=round(1-pnorm(z),4))
+x1=190
+x2=200
+list(z1=(x1-mu)/sig,
+z2=(x2-mu)/sig,
+p2=round(pnorm(200,200,5)-pnorm(190,200,5),4))

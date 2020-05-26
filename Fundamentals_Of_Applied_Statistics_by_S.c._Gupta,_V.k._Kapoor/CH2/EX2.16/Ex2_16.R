@@ -1,0 +1,30 @@
+#Page no. 2.43
+rm(list=ls(all=T))
+year<-1995:1999
+q1<-c(30,34,40,54,80);q2<-c(40,52,58,76,92)
+q3<-c(36,50,54,68,86);q4<-c(34,44,48,62,82)
+total<-q1+q2+q3+q4
+avg_q<-total/4
+fit<-lm(avg_q~year)
+trend_val<-fitted(fit)
+comp_linear_trend<-data.frame(year,total,avg_q,trend_val)
+comp_linear_trend
+q_inc<-fit$coefficients[[2]]/4
+q_inc
+tv_q2<-trend_val-(q_inc/2)
+tv_q1<-tv_q2-q_inc
+tv_q3<-trend_val+(q_inc/2)
+tv_q4<-tv_q3+q_inc
+te_q1<-round((q1/tv_q1)*100,digits=1)
+te_q2<-round((q2/tv_q2)*100,digits=1)
+te_q3<-round((q3/tv_q3)*100,digits=1)
+te_q4<-round((q4/tv_q4)*100,digits=1)
+k<-400/sum(mean(te_q1),mean(te_q2),mean(te_q3),mean(te_q4))
+df<-round(data.frame(year,tv_q1,tv_q2,tv_q3,tv_q4,te_q1,te_q2,te_q3,te_q4,stringsAsFactors=F),digits=1)
+r1<-c("","","","","Total",sum(te_q1),sum(te_q2),sum(te_q3),sum(te_q4))
+r2<-c("","","","","AM_ses_ind",mean(te_q1),mean(te_q2),mean(te_q3),mean(te_q4))
+r3<-c("","","","","Adj_ses_ind",round(mean(te_q1)*k,digits=2),round(mean(te_q2)*k,digits=2),round(mean(te_q3)*k,digits=2),round((mean(te_q4)*k),digits=3))
+comp_ses_ind<-rbind(df,r1,r2,r3)
+comp_ses_ind
+k
+#"The answer may slightly vary due to rounding off values."

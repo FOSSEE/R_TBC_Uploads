@@ -1,0 +1,9 @@
+#PAGE=79
+x=c(3,5,6,6,7,10,12)
+len=length(x)
+y=x**2
+y=sum(y)
+y=y/len
+z=y^(1/2)
+z=round(z,digits=2)
+z

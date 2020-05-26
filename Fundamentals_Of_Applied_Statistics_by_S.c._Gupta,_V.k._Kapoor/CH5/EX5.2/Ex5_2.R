@@ -1,0 +1,30 @@
+#Page no. 5.19
+rm(list=ls(all=T))
+ni<-c(10,6,8,11,5)
+yi_bar<-c(10.9,13.5,11.5,11.2,15.4)
+si<-c(12.72,5.96,3.24,5.65,3.64)
+Ti<-ni*yi_bar
+sq_yi_bar<-yi_bar^2
+sq_si<-si^2
+sum_yij_sq<-ni*(si^2+yi_bar^2)
+CF<-sum(Ti)^2/sum(ni)
+RSS<-sum(sum_yij_sq)
+TSS<-RSS-CF
+SST<-sum(Ti^2/ni)-CF
+ESS<-TSS-SST
+df<-rbind(ni,yi_bar,Ti,sq_yi_bar,sq_si,sum_yij_sq)
+colnames(df)<-(c("A","B","C","D","E"))
+df
+CF
+RSS
+TSS
+SST
+ESS
+anova_table<-data.frame("source_of_var"=c("Bw_st_typ","error","Total"),
+                        "df"=c(length(ni)-1,sum(ni)-length(ni),sum(ni)-1),
+                        "Sum_Sq"=c(SST,ESS,TSS),"MSS"=c(SST/(length(ni)-1),ESS/(sum(ni)-length(ni)),""),
+                        "VR"=c((ESS/(sum(ni)-length(ni)))/((SST/(length(ni)-1))),"",""))
+anova_table
+F_tab<-qf(0.95,35,4)
+F_tab
+ifelse(as.numeric(anova_table$VR[1])<F_tab,"Ho may Accepted","Ho Rejected")

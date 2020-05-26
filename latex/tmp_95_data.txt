@@ -1,0 +1,241 @@
+13# Nonparametric Statistics#13.7#Textbook Ratings#ex13_7.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.7/ex13_7.R.zip#S##3987
+13# Nonparametric Statistics#13.6#Milliequivalents of Potassium in Breakfast Drinks#ex13_6.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.6/ex13_6.R#S##4317
+13# Nonparametric Statistics#13.5#Shoplifting Incidents#ex13_5.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.5/ex13_5.R.zip#S##3985
+13# Nonparametric Statistics#13.4#Times to Complete an Obstacle Course#ex13_4.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.4/ex13_4.R.zip#S##3984
+13# Nonparametric Statistics#13.3#Ear infections in Swimmers#ex13_3.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.3/ex13_3.R#S##4315
+13# Nonparametric Statistics#13.2#Age of ForeignBorn Residents#ex13_2.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.2/ex13_2.R.zip#S##3982
+13# Nonparametric Statistics#13.10#Ages of Drug Program Participants#ex13_10.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.10/ex13_10.R#S##4318
+13# Nonparametric Statistics#13.1#snow Cone Sales#ex13_1.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH13/EX13.1/ex13_1.R#S##4316
+12# Analysis of Variance#12.5#Gasoline Consumption#ex12_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH12/EX12.5/ex12_5.R#S##4509
+12# Analysis of Variance#12.4#Turkey Test#ex12_4.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH12/EX12.4/ex12_4.R#S##4340
+12# Analysis of Variance#12.3#Scheffe Test#ex12_3.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH12/EX12.3/ex12_3.R#S##4507
+12# Analysis of Variance#12.2#Employees at Toll Road Interchanges#ex12_2.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH12/EX12.2/ex12_2.R#S##4494
+12# Analysis of Variance#12.1#Lowering Blood Pressure#ex12_1.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH12/EX12.1/ex12_1.R#S##4493
+11# Other Chi Square Tests#11.7#Lost Luggage on Airline Flights#ex11_7.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.7/ex11_7.R#S##4492
+11# Other Chi Square Tests#11.6#Alcohol and Gender#ex11_6.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.6/ex11_6.R#S##4491
+11# Other Chi Square Tests#11.5#College Education and Place of Residence#ex11_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.5/ex11_5.R#S##4490
+11# Other Chi Square Tests#11.4#Test of Normality#ex11_4.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.4/ex11_4.R.zip#S##3972
+11# Other Chi Square Tests#11.3#Firearm Deaths#ex11_3.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.3/ex11_3.R.zip#S##3971
+11# Other Chi Square Tests#11.2#Retired Senior Executives Return to Work#ex11_2.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.2/ex11_2.R.zip#S##3970
+11# Other Chi Square Tests#11.1#Fruit Soda Flavor Preference#ex11_1.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH11/EX11.1/ex11_1.R#S##4314
+10# Correlation and Regression#10.9#Car Rental Companies#ex10_9.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.9/ex10_9.R.zip#S##3961
+10# Correlation and Regression#10.8#Correlation coefficient#ex10_8.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.8/ex10_8.R.zip#S##3960
+10# Correlation and Regression#10.7#Correlation coefficient#ex10_7.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.7/ex10_7.R.zip#S##3959
+10# Correlation and Regression#10.6#Exercise and Milk Consumption#ex10_6.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.6/ex10_6.R.zip#S##3958
+10# Correlation and Regression#10.5#Absences and Final Grades#ex10_5.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.5/ex10_5.R.zip#S##3957
+10# Correlation and Regression#10.4#Car Rental Companies#ex10_4.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.4/ex10_4.R.zip#S##3956
+10# Correlation and Regression#10.3#Exercise and Milk Consumption#ex10_3.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.3/ex10_3.R.zip#S##3955
+10# Correlation and Regression#10.2#Absences and Final Grades#ex10_2.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.2/ex10_2.R.zip#S##3954
+10# Correlation and Regression#10.17#State board scores#ex10_17.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.17/ex10_17.R#S##4502
+10# Correlation and Regression#10.16#State board scores#ex10_16.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.16/ex10_16.R#S##4504
+10# Correlation and Regression#10.15#State board scores#ex10_15.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.15/ex10_15.R#S##4503
+10# Correlation and Regression#10.14#Standard error estimation#ex10_14.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.14/ex10_14.R#S##4505
+10# Correlation and Regression#10.13#Standard error estimation#ex10_13.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.13/ex10_13.R.zip#S##3964
+10# Correlation and Regression#10.12#Copy Machine Maintenance Costs#ex10_12.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.12/ex10_12.R#S##4506
+10# Correlation and Regression#10.10#Absences and Final Grades#ex10_10.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.10/ex10_10.R.zip#S##3962
+10# Correlation and Regression#10.1#Car Rental Companies#ex10_1.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH10/EX10.1/ex10_1.R.zip#S##3953
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.9#Vaccination Rates in Nursing Homes#ex9_9.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.9/ex9_9.R#S##4304
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.8#Confidence Interval#ex9_8.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.8/ex9_8.R#S##4489
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.7#Cholesterol Levels#ex9_7.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.7/ex9_7.R#S##4488
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.6#Vitamin for Increased Strength#ex9_6.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.6/ex9_6.R#S##4523
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.5#Confidence Interval#ex9_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.5/ex9_5.R#S##4486
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.4#Farm Sizes#ex9_4.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.4/ex9_4.R#S##4485
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.3#Confidence Interval#ex9_3.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.3/ex9_3.R#S##4301
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.2#College Sports Offerings#ex9_2.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.2/ex9_2.R.zip#S##3938
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.16#Airport Passengers#ex9_16.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.16/ex9_16.R.zip#S##3952
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.15#Waiting Time to See a Doctor#ex9_15.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.15/ex9_15.R.zip#S##3951
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.14#Critical Values#ex9_14.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.14/ex9_14.R.zip#S##3950
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.13#Critical Values#ex9_13.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.13/ex9_13.R.zip#S##3949
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.12#Critical Values#ex9_12.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.12/ex9_12.R.zip#S##3948
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.11#Confidence Interval#ex9_11.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.11/ex9_11.R#S##4310
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.10#Missing Work#ex9_10.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.10/ex9_10.R#S##4308
+9# Testing the Difference Between Two Means and Two Proportions and Two Variances#9.1#Hotel Room Cost#ex9_1.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH9/EX9.1/ex9_1.R#S##4302
+8# Hypothesis Testing#8.9#Critical t value#ex8_9.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.9/ex8_9.R.zip#S##3908
+8# Hypothesis Testing#8.8#Critical t value#ex8_8.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.8/ex8_8.R.zip#S##3907
+8# Hypothesis Testing#8.7#Wind Speed#ex8_7.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.7/ex8_7.R.zip#S##3906
+8# Hypothesis Testing#8.6#Cost of College Tuition#ex8_6.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.6/ex8_6.R.zip#S##3905
+8# Hypothesis Testing#8.5#Cost of Rehabilitation#ex8_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.5/ex8_5.R#S##4500
+8# Hypothesis Testing#8.4#Costs of Mens Athletic Shoes#ex8_4.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.4/ex8_4.R#S##4498
+8# Hypothesis Testing#8.31#Hog Weight#ex8_31.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.31/ex8_31.R#S##4497
+8# Hypothesis Testing#8.30#Sugar Production#ex8_30.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.30/ex8_30.R#S##4496
+8# Hypothesis Testing#8.3#Professors Salaries#ex8_3.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.3/ex8_3.R#S##4326
+8# Hypothesis Testing#8.29#Car Inspection Times#ex8_29.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.29/ex8_29.R.zip#S##3933
+8# Hypothesis Testing#8.28#Find p value#ex8_28.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.28/ex8_28.R.zip#S##3932
+8# Hypothesis Testing#8.27#Find p value#ex8_27.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.27/ex8_27.R.zip#S##3931
+8# Hypothesis Testing#8.26#Nicotine Content of Cigarettes#ex8_26.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.26/ex8_26.R.zip#S##3929
+8# Hypothesis Testing#8.25#Outpatient Surgery#ex8_25.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.25/ex8_25.R#S##4524
+8# Hypothesis Testing#8.24#Variation of Test Scores#ex8_24.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.24/ex8_24.R.zip#S##3927
+8# Hypothesis Testing#8.23#critical chisq value#ex8_23.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.23/ex8_23.R#S##4329
+8# Hypothesis Testing#8.22#critical chisq value#ex8_22.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.22/ex8_22.R.zip#S##3924
+8# Hypothesis Testing#8.21#critical chisq value#ex8_21.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.21/ex8_21.R.zip#S##3923
+8# Hypothesis Testing#8.20#Attorney Advertisements#ex8_20.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.20/ex8_20.R.zip#S##3922
+8# Hypothesis Testing#8.2.c#Critical Values#ex8_2c.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.2.c/ex8_2c.R.zip#S##3900
+8# Hypothesis Testing#8.2.b#Critical Values#ex8_2b.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.2.b/ex8_2b.R.zip#S##3899
+8# Hypothesis Testing#8.2.a#Critical Values#ex8_2a.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.2.a/ex8_2a.R.zip#S##3898
+8# Hypothesis Testing#8.19#Replacing denominaton 1 Bills with 1 Coins#ex8_19.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.19/ex8_19.R.zip#S##3921
+8# Hypothesis Testing#8.18#Survey on Call Waiting Service#ex8_18.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.18/ex8_18.R#S##4330
+8# Hypothesis Testing#8.17#people who are trying to avoid Trans Fats#ex8_17.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.17/ex8_17.R#S##4332
+8# Hypothesis Testing#8.16#Joggers Oxygen Uptake#ex8_16.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.16/ex8_16.R.zip#S##3916
+8# Hypothesis Testing#8.15#Find p value#ex8_15.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.15/ex8_15.R.zip#S##3915
+8# Hypothesis Testing#8.14#Find p value#ex8_14.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.14/ex8_14.R.zip#S##3914
+8# Hypothesis Testing#8.13#Substitute Teachers Salaries#ex8_13.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.13/ex8_13.R#S##4499
+8# Hypothesis Testing#8.12#Hospital Infections#ex8_12.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.12/ex8_12.R.zip#S##3912
+8# Hypothesis Testing#8.11#Critical t value#ex8_11.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.11/ex8_11.R.zip#S##3911
+8# Hypothesis Testing#8.10#Critical t value#ex8_10.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH8/EX8.10/ex8_10.R.zip#S##3909
+7# Confidence Intervals and Sample Size#7.9#Male Nurses#ex7_9.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.9/ex7_9.R#S##4297
+7# Confidence Intervals and Sample Size#7.8#Air Conditioned Households#ex7_8.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.8/ex7_8.R.zip#S##3890
+7# Confidence Intervals and Sample Size#7.7#Home Fires Started by Candles#ex7_7.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.7/ex7_7.R#S##4292
+7# Confidence Intervals and Sample Size#7.6#Sleeping Time#ex7_6.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.6/ex7_6.R#S##4294
+7# Confidence Intervals and Sample Size#7.5#Critical t value#ex7_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.5/ex7_5.R#S##4371
+7# Confidence Intervals and Sample Size#7.4#Depth of a River#ex7_4.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.4/ex7_4.R#S##4290
+7# Confidence Intervals and Sample Size#7.3#Credit Union Assets#ex7_3.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.3/ex7_3.R#S##4295
+7# Confidence Intervals and Sample Size#7.2#Ages of Automobiles#ex7_2.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.2/ex7_2.R#S##4296
+7# Confidence Intervals and Sample Size#7.15#Cost of Ski Lift Tickets#ex7_15.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.15/ex7_15.R#S##4298
+7# Confidence Intervals and Sample Size#7.14#Nicotine Continent#ex7_14.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.14/ex7_14.R#S##4291
+7# Confidence Intervals and Sample Size#7.13#Chi square#ex7_13.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.13/ex7_13.R.zip#S##3895
+7# Confidence Intervals and Sample Size#7.12#Car Phone Ownership#ex7_12.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.12/ex7_12.R#S##4293
+7# Confidence Intervals and Sample Size#7.11#Home Computers#ex7_11.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.11/ex7_11.R#S##4300
+7# Confidence Intervals and Sample Size#7.10#Religious Books#ex7_10.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.10/ex7_10.R#S##4299
+7# Confidence Intervals and Sample Size#7.1#Days it takes to sell an Aveo#ex7_1.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH7/EX7.1/ex7_1.R#S##4289
+6# The Normal Distribution#6.8#Emergency Call Response Time#ex6_8.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.8/ex6_8.R.zip#S##3875
+6# The Normal Distribution#6.7#Monthly Newspaper Recycling#ex6_7.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.7/ex6_7.R#S##4324
+6# The Normal Distribution#6.6#Holiday Spending#ex6_6.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.6/ex6_6.R.zip#S##3873
+6# The Normal Distribution#6.4.c#Find Probability#ex6_4c.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.4.c/ex6_4c.R.zip#S##3872
+6# The Normal Distribution#6.4.b#Find Probability#ex6_4b.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.4.b/ex6_4b.R.zip#S##3871
+6# The Normal Distribution#6.4.a#Find Probability#ex6_4a.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.4.a/ex6_4a.R.zip#S##3870
+6# The Normal Distribution#6.3#Find area#ex6_3.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.3/ex6_3.R.zip#S##3869
+6# The Normal Distribution#6.2#Find area#ex6_2.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.2/ex6_2.R.zip#S##3868
+6# The Normal Distribution#6.19#Find Probability#ex6_19.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.19/ex6_19.R.zip#S##3883
+6# The Normal Distribution#6.18#Batting Averages#ex6_18.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.18/ex6_18.R.zip#S##3882
+6# The Normal Distribution#6.17#Widowed Bowlers#ex6_17.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.17/ex6_17.R.zip#S##3881
+6# The Normal Distribution#6.16#Reading While Driving#ex6_16.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.16/ex6_16.R.zip#S##3880
+6# The Normal Distribution#6.15#Meat Consumption#ex6_15.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.15/ex6_15.R#S##4323
+6# The Normal Distribution#6.14#Find Probability#ex6_14.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.14/ex6_14.R.zip#S##3878
+6# The Normal Distribution#6.13#Hours That Children Watch Television#ex6_13.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.13/ex6_13.R.zip#S##3877
+6# The Normal Distribution#6.12#Checking for normal distribution#ex6_12.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.12/ex6_12.R#S##4370
+6# The Normal Distribution#6.11#Checking for normal distribution#ex6_11.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.11/ex6_11.R#S##4369
+6# The Normal Distribution#6.10#Systolic Blood Pressure#ex6_10.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.10/ex6_10.R.zip#S##3876
+6# The Normal Distribution#6.1#Find area#ex6_1.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH6/EX6.1/ex6_1.R.zip#S##3867
+5# Discrete Probability Distrubution#5.9#Variance and standard deviation of probability distribution#ex5_9.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.9/ex5_9.R#S##4279
+5# Discrete Probability Distrubution#5.8#Mean of Probability Distribution#ex5_8.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.8/ex5_8.R#S##4287
+5# Discrete Probability Distrubution#5.7#Tossing Coins#ex5_7.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.7/ex5_7.R#S##4361
+5# Discrete Probability Distrubution#5.6#Mean of probability distribution#ex5_6.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.6/ex5_6.R#S##4286
+5# Discrete Probability Distrubution#5.5#Mean of Probability distribution#ex5_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.5/ex5_5.R#S##4283
+5# Discrete Probability Distrubution#5.32#Defective compressor Tanks#ex5_32.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.32/ex5_32.zip#S##4270
+5# Discrete Probability Distrubution#5.31#House Insurance#ex5_31.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.31/ex5_31.zip#S##4269
+5# Discrete Probability Distrubution#5.30#Assistant Manager Applicants#ex5_30.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.30/ex5_30.zip#S##4271
+5# Discrete Probability Distrubution#5.29#Left Handed People#ex5_29.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.29/ex5_29.R#S##4478
+5# Discrete Probability Distrubution#5.28.c#Find Probability#ex5_28c.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.28.c/ex5_28c.R#S##4482
+5# Discrete Probability Distrubution#5.28.b#Find Probability#ex5_28b.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.28.b/ex5_28b.R#S##4481
+5# Discrete Probability Distrubution#5.28.a#Find Probability#ex5_28a.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.28.a/ex5_28a.R#S##4480
+5# Discrete Probability Distrubution#5.27#Typographical Errors#ex5_27.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.27/ex5_27.R#S##4479
+5# Discrete Probability Distrubution#5.26#Selecting Colored Balls#ex5_26.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.26/ex5_26.R#S##4288
+5# Discrete Probability Distrubution#5.25#CD Purchases#ex5_25.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.25/ex5_25.R#S##4284
+5# Discrete Probability Distrubution#5.24#Leisure Activities#ex5_24.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.24/ex5_24.R#S##4281
+5# Discrete Probability Distrubution#5.23#Likelihood of Twins#ex5_23.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.23/ex5_23.R.zip#S##3858
+5# Discrete Probability Distrubution#5.22#Rolling a Die#ex5_22.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.22/ex5_22.R.zip#S##3857
+5# Discrete Probability Distrubution#5.21#Tossing Coins#ex5_21.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.21/ex5_21.R.zip#S##3856
+5# Discrete Probability Distrubution#5.20#Find Probability#ex5_20.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.20/ex5_20.R#S##4365
+5# Discrete Probability Distrubution#5.2#Probability Distribution#ex5_2.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.2/ex5_2.R#S##4276
+5# Discrete Probability Distrubution#5.19.c#Find Probability#ex5_19c.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.19.c/ex5_19c.R#S##4364
+5# Discrete Probability Distrubution#5.19.b#Find Probability#ex5_19b.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.19.b/ex5_19b.R#S##4363
+5# Discrete Probability Distrubution#5.19.a#Find Probability#ex5_19a.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.19.a/ex5_19a.R#S##4362
+5# Discrete Probability Distrubution#5.17#Survey on Employment#ex5_17.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.17/ex5_17.R#S##4483
+5# Discrete Probability Distrubution#5.16#Survey on Doctor Visits#ex5_16.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.16/ex5_16.R#S##4484
+5# Discrete Probability Distrubution#5.15#Tossing Coins#ex5_15.R.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.15/ex5_15.R.zip#S##3853
+5# Discrete Probability Distrubution#5.14#Bond Investment#ex5_14.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.14/ex5_14.R#S##4282
+5# Discrete Probability Distrubution#5.13#Discrete Probability Distribution#ex5_13.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.13/ex5_13.R#S##4278
+5# Discrete Probability Distrubution#5.12#Expectation#ex5_12.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.12/ex5_12.R#S##4280
+5# Discrete Probability Distrubution#5.11#Variance and standard deviation of probability distribution#ex5_11.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.11/ex5_11.R#S##4285
+5# Discrete Probability Distrubution#5.10#Discrete Probability Distribution#ex5_10.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.10/ex5_10.R#S##4277
+5# Discrete Probability Distrubution#5.1#Probability distribution#ex5_1.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH5/EX5.1/ex5_1.zip#S##1398
+4#Probability and counting rules#4.9#Probability#ex4_9.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.9/ex4_9.zip#S##1375
+4#Probability and counting rules#4.8#Probability 4#ex4_8.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.8/ex4_8.zip#S##1374
+4#Probability and counting rules#4.7#Probability 3#ex4_7.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.7/ex4_7.zip#S##1373
+4#Probability and counting rules#4.6#probability 2#ex4_6.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.6/ex4_6.zip#S##1372
+4#Probability and counting rules#4.52#Probability using combinations#ex4_52.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.52/ex4_52.R#S##4360
+4#Probability and counting rules#4.51.d#Probability using combinations#ex4_51d.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.51.d/ex4_51d.R#S##4359
+4#Probability and counting rules#4.51.c#Probability using combinations#ex4_51c.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.51.c/ex4_51c.R#S##4358
+4#Probability and counting rules#4.51.b#Probability using combinations#ex4_51b.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.51.b/ex4_51b.R#S##4357
+4#Probability and counting rules#4.51.a#Probability using combinations#ex4_51a.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.51.a/ex4_51a.R#S##4356
+4#Probability and counting rules#4.50#Probability using combinations#ex4_50.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.50/ex4_50.R#S##4355
+4#Probability and counting rules#4.5#Probability 1#ex4_5.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.5/ex4_5.zip#S##1371
+4#Probability and counting rules#4.49#Permutation and Combination#ex4_49.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.49/ex4_49.R#S##4354
+4#Probability and counting rules#4.48#Permutation and Combination#ex4_48.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.48/ex4_48.R#S##4353
+4#Probability and counting rules#4.47#Combinations#ex4_47.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.47/ex4_47.R#S##4352
+4#Probability and counting rules#4.45#Permutation and Combination#ex4_45.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.45/ex4_45.R#S##4351
+4#Probability and counting rules#4.44#Permutation and Combination#ex4_44.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.44/ex4_44.R#S##4350
+4#Probability and counting rules#4.43#Permutation#ex4_43.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.43/ex4_43.R#S##4349
+4#Probability and counting rules#4.42#Permutation#ex4_42.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.42/ex4_42.R#S##4348
+4#Probability and counting rules#4.30#Drawing Cards#ex4_30.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.30/ex4_30.R#S##4347
+4#Probability and counting rules#4.29#Homeowners and Automobile Insurance#ex4_29.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.29/ex4_29.R#S##4346
+4#Probability and counting rules#4.28#University Crime#ex4_28.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.28/ex4_28.R#S##4345
+4#Probability and counting rules#4.27#Probability#ex4_27.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.27/ex4_27.R#S##4319
+4#Probability and counting rules#4.26#Probability#ex4_26.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.26/ex4_26.zip#S##1396
+4#Probability and counting rules#4.25#Probability#ex4_25.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.25/ex4_25.zip#S##1395
+4#Probability and counting rules#4.24#Probability#ex4_24.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.24/ex4_24.zip#S##1389
+4#Probability and counting rules#4.23#Multiplication rule Probability#ex4_23.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.23/ex4_23.zip#S##1387
+4#Probability and counting rules#4.22#Probability#ex4_22.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.22/ex4_22.R#S##4322
+4#Probability and counting rules#4.21#Probability#ex4_21.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.21/ex4_21.R#S##4320
+4#Probability and counting rules#4.20#Probability#ex4_20.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.20/ex4_20.zip#S##1383
+4#Probability and counting rules#4.19#Probability#ex4_19.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.19/ex4_19.zip#S##1382
+4#Probability and counting rules#4.18#Probability#ex4_18.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.18/ex4_18.zip#S##1381
+4#Probability and counting rules#4.17#Find Probability#ex4_17.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.17/ex4_17.R#S##4495
+4#Probability and counting rules#4.14#Probability#ex4_14.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.14/ex4_14.zip#S##1379
+4#Probability and counting rules#4.13#Probability#ex4_13.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.13/ex4_13.zip#S##1378
+4#Probability and counting rules#4.12#Probability#ex4_12.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.12/ex4_12.zip#S##1377
+4#Probability and counting rules#4.11#Complement#ex4_11.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH4/EX4.11/ex4_11.zip#S##1376
+3#Data Description#3.9#Mode of discrete data 1#ex3_9.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.9/ex3_9.zip#S##1329
+3#Data Description#3.8#Median 5#ex3_8.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.8/ex3_8.zip#S##1328
+3#Data Description#3.7#Median 4#ex3_7.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.7/ex3_7.zip#S##1326
+3#Data Description#3.6#Median 3#ex3_6.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.6/ex3_6.zip#S##1325
+3#Data Description#3.5#Median 2#ex3_5.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.5/ex3_5.zip#S##1323
+3#Data Description#3.4#Median of discrete data 1#ex3_4.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.4/ex3_4.zip#S##1322
+3#Data Description#3.39#Boxplot 2#ex3_39.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.39/ex3_39.zip#S##1370
+3#Data Description#3.38#Boxplot#ex3_38.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.38/ex3_38.zip#S##1369
+3#Data Description#3.37#Outliners#ex3_37.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.37/ex3_37.zip#S##4262
+3#Data Description#3.36#Quartiles 1#ex3_36.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.36/ex3_36.zip#S##4260
+3#Data Description#3.35#Value given percentile#ex3_35.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.35/ex3_35.zip#S##4261
+3#Data Description#3.34#Value given percentile#ex3_34.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.34/ex3_34.zip#S##4263
+3#Data Description#3.33#Percentile rank 2#ex3_33.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.33/ex3_33.zip#S##4264
+3#Data Description#3.32#Percentile rank#ex3_32.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.32/ex3_32.zip#S##1363
+3#Data Description#3.31#Percentile graph#ex3_31.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.31/ex3_31.zip#S##4266
+3#Data Description#3.30#standard score 2#ex3_30.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.30/ex3_30.zip#S##1361
+3#Data Description#3.3#Mean of frequency distribution table#ex3_3.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.3/ex3_3.zip#S##1320
+3#Data Description#3.29#Standard scores#ex3_29.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.29/ex3_29.zip#S##1360
+3#Data Description#3.28#Chebyshev Theorem#ex3_28.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.28/ex3_28.zip#S##1359
+3#Data Description#3.27#Chebyshev Theorem#ex3_27.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.27/ex3_27.zip#S##1358
+3#Data Description#3.26#Coefficient of Variation#ex3_26.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.26/ex3_26.zip#S##1357
+3#Data Description#3.25#Coefficient of variation#ex3_25.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.25/ex3_25.zip#S##1353
+3#Data Description#3.24#Variance and standard deviation 3#ex3_24.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.24/ex3_24.zip#S##1351
+3#Data Description#3.23#Sample variance and standard deviation#ex3_23.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.23/ex3_23.zip#S##4268
+3#Data Description#3.22#Variance and Standard Deviation 2#ex3_22.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.22/ex3_22.zip#S##4265
+3#Data Description#3.21#Variance and Standard deviation#ex3_21.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.21/ex3_21.zip#S##4267
+3#Data Description#3.20#Range 2#ex3_20.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.20/ex3_20.zip#S##1346
+3#Data Description#3.2#Mean of discrete data 2#ex3_2.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.2/ex3_2.zip#S##1318
+3#Data Description#3.19#Range 1#ex3_19.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.19/ex3_19.zip#S##1344
+3#Data Description#3.18#Mean of each group#ex3_18.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.18/ex3_18.zip#S##1343
+3#Data Description#3.17#Weighted Mean#ex3_17.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.17/ex3_17.zip#S##4259
+3#Data Description#3.16#Midrange 2#ex3_16.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.16/ex3_16.zip#S##1339
+3#Data Description#3.15#Midrange#ex3_15.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.15/ex3_15.zip#S##1338
+3#Data Description#3.14#Measures of Central Tendency#ex3_14.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.14/ex3_14.zip#S##1337
+3#Data Description#3.13#Mode#ex3_13.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.13/ex3_13.zip#S##1332
+3#Data Description#3.12#Modal Class#ex3_12.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.12/ex3_12.zip#S##1336
+3#Data Description#3.11#Mode 3#ex3_11.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.11/ex3_11.zip#S##1333
+3#Data Description#3.10#Mode 2#ex3_10.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.10/ex3_10.zip#S##1330
+3#Data Description#3.1#Mean 1#ex3_1.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH3/EX3.1/ex3_1.zip#S##1317
+2#Frequency Distribution and graphs#2.9#pareto chart#ex2_9.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.9/ex2_9.R#S##7018
+2#Frequency Distribution and graphs#2.8#bar graphs#ex2_8.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.8/ex2_8.R#S##7017
+2#Frequency Distribution and graphs#2.7#Histogram frequency polygon and ogives#ex2_7.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.7/ex2_7.R#S##4508
+2#Frequency Distribution and graphs#2.6#ogive#ex2_6.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.6/ex2_6.R#S##7016
+2#Frequency Distribution and graphs#2.5#frequency polygon#ex2_5.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.5/ex2_5.R#S##7015
+2#Frequency Distribution and graphs#2.4#histogram Record high temperatures#ex2_4.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.4/ex2_4.R#S##7014
+2#Frequency Distribution and graphs#2.3#MPG for SUV#ex2_3.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.3/ex2_3.R#S##7013
+2#Frequency Distribution and graphs#2.2#Frequency table#ex2_2.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.2/ex2_2.R#S##4477
+2#Frequency Distribution and graphs#2.15#Back to back stem and leaf plots#ex2_15.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.15/ex2_15.zip#S##1316
+2#Frequency Distribution and graphs#2.14#Stem and leaf plot2#ex2_14.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.14/ex2_14.zip#S##1313
+2#Frequency Distribution and graphs#2.13#stem and leaf plot#ex2_13.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.13/ex2_13.zip#S##1309
+2#Frequency Distribution and graphs#2.12#pie graph 2#ex2_12.zip#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.12/ex2_12.zip#S##1305
+2#Frequency Distribution and graphs#2.11#pie graph#ex2_11.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.11/ex2_11.R#S##7020
+2#Frequency Distribution and graphs#2.10#time series graph#ex2_10.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.10/ex2_10.R#S##7019
+2#Frequency Distribution and graphs#2.1#Frequency table#ex2_1.R#Elementary_Statistics:_A_Step_By_Step_Approach_by_Allan_G._Bluman/CH2/EX2.1/ex2_1.R#S##4476

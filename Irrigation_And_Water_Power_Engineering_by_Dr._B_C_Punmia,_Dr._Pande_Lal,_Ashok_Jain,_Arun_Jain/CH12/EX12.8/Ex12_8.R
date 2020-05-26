@@ -1,0 +1,30 @@
+# page no: 635
+
+b = 50;
+d = 8;
+D = 8;
+H = 5;
+tu = 1;
+td = 2;
+alpha = b/d;
+lambda = (1+(1+alpha^2)^0.5)/2;
+fie = acos((lambda-2)/lambda)/pi;
+fid = acos((lambda-1)/lambda)/pi;
+Ct = (fie-fid)*td/d;
+C = 19*(D/b)^0.5*((d+D)/b);
+fie = fie*100-C-Ct*100;
+P = H*fie/100;
+P = round(P*100)/100;
+print(P);
+fie = acos((lambda-2)/lambda)/pi;
+fid = acos((lambda-1)/lambda)/pi;
+fic1 = 1-fie;
+fid1 = 1-fid;
+Ct = (fic1-fid1)*td/d;
+C = -19*(D/b)^0.5*((d+D)/b);
+fic1 = fic1*100-C-Ct*100;
+P = H*fic1/100;
+P = round(P*100)/100;
+print(P);
+G = H/(d*pi*(lambda)^0.5);
+print(G);

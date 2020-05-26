@@ -1,0 +1,11 @@
+#PAGE=74
+x<-c(3,5,2,6,5,9,5,2,8,6)
+mean(x)
+median(x)
+z<-table(x)
+names(z)[which(z==max(z))]
+y<-c(51.6,48.7,50.3,49.5,48.9)
+mean(y)
+median(y)
+z<-table(y)
+names(z)[which(z==max(z))]

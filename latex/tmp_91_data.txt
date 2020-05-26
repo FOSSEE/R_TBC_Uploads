@@ -1,0 +1,114 @@
+8#Limit Theorems #5.b#Pairs#Ex8_5b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX5.b/Ex8_5b.R#S##1263
+8#Limit Theorems #5.a#Factory production#Ex8_5a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX5.a/Ex8_5a.R#S##1261
+8#Limit Theorems #3.e#Time for grading exams#Ex8_3e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.e/Ex8_3e.R#S##1260
+8#Limit Theorems #3.d#Approximation of uniform random variables#Ex8_3d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.d/Ex8_3d.R#S##1259
+8#Limit Theorems #3.c#Sum of dice rolls#Ex8_3c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.c/Ex8_3c.R#S##1258
+8#Limit Theorems #3.b#Probability of a professor teaching two sections#Ex8_3b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.b/Ex8_3b.R#S##1257
+8#Limit Theorems #3.a#Astronomical distances#Ex8_3a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.a/Ex8_3a.R#S##1256
+8#Limit Theorems #2.b#Chebyshev inequality#Ex8_2b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX2.b/Ex8_2b.R#S##2609
+7# Properties of Expectation#5.e.c#Game of carps "c"#Ex7_5ec.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.c/Ex7_5ec.R#S##1198
+7# Properties of Expectation#5.e.b#Game of carps "b"#Ex7_5eb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.b/Ex7_5eb.R#S##1197
+7# Properties of Expectation#5.e.a#Game of carps "a"#Ex7_5ea.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.a/Ex7_5ea.R#S##1196
+7# Properties of Expectation#2.r#Chipmunks and groves#Ex7_2r.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX2.r/Ex7_2r.R#S##1195
+6# Jointly Distributed Random Variables#6.b#Probability of sample median#Ex6_6b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX6.b/Ex6_6b.R#S##1314
+6# Jointly Distributed Random Variables#4.a#Conditional probability on joint PMF#Ex6_4a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX4.a/Ex6_4a.R#S##1311
+6# Jointly Distributed Random Variables#3.d.b#Price of security "b"#Ex6_3db.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX3.d.b/Ex6_3db.R#S##1310
+6# Jointly Distributed Random Variables#3.d.a#Price of security "a"#Ex6_3da.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX3.d.a/Ex6_3da.R#S##1307
+6# Jointly Distributed Random Variables#3.c.b#Basketball wins "b"#Ex6_3cb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX3.c.b/Ex6_3cb.R#S##1306
+6# Jointly Distributed Random Variables#3.c.a#Basketball wins "a"#Ex6_3ca.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX3.c.a/Ex6_3ca.R#S##1302
+6# Jointly Distributed Random Variables#2.c#Waiting time#Ex6_2c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX2.c/Ex6_2c.R#S##2608
+6# Jointly Distributed Random Variables#1.c.b#Joint density function "b"#Ex6_1cb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.c.b/Ex6_1cb.R#S##1300
+6# Jointly Distributed Random Variables#1.c.a#Joint density function "a"#Ex6_1ca.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.c.a/Ex6_1ca.R#S##1298
+6# Jointly Distributed Random Variables#1.b#Joint PMF of number of boys and girls in a family#Ex6_1b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.b/Ex6_1b.R#S##1352
+6# Jointly Distributed Random Variables#1.a#Joint PMF of drawing balls from urn#Ex6_1a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.a/Ex6_1a.R#S##1295
+5# Continuous Random Variables#5.e#Signals laplace distribution#Ex5_5e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX5.e/Ex5_5e.R#S##2607
+5# Continuous Random Variables#5.b#Exponential random variable#Ex5_5b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX5.b/Ex5_5b.R#S##2613
+5# Continuous Random Variables#4.i#Outlawing cigaretts#Ex5_4i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.i/Ex5_4i.R#S##1186
+5# Continuous Random Variables#4.h#Effectiveness of diet#Ex5_4h.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.h/Ex5_4h.R#S##1185
+5# Continuous Random Variables#4.g#Probability of attendance in a college#Ex5_4g.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.g/Ex5_4g.R#S##1184
+5# Continuous Random Variables#4.f#Normal approximation#Ex5_4f.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.f/Ex5_4f.R#S##2601
+5# Continuous Random Variables#4.e#Signals#Ex5_4e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.e/Ex5_4e.R#S##2606
+5# Continuous Random Variables#4.d#Paternity suit#Ex5_4d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.d/Ex5_4d.R#S##1182
+5# Continuous Random Variables#4.c#Grading on the curve#Ex5_4c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.c/Ex5_4c.R#S##2605
+5# Continuous Random Variables#4.b#Normal random variable#Ex5_4b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.b/Ex5_4b.R#S##2612
+5# Continuous Random Variables#3.c#Waiting time for bus#Ex5_3c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX3.c/Ex5_3c.R#S##2611
+5# Continuous Random Variables#3.b#Uniform distribution#Ex5_3b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX3.b/Ex5_3b.R#S##2610
+5# Continuous Random Variables#2.e#Variance of a continuous random variable#Ex5_2e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX2.e/Ex5_2e.R#S##1173
+5# Continuous Random Variables#2.a#Expectation of continuous random variable#Ex5_2a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX2.a/Ex5_2a.R#S##1172
+5# Continuous Random Variables#1.c#Lifetime of radio tube#Ex5_1c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.c/Ex5_1c.R#S##2599
+5# Continuous Random Variables#1.b.b#Computer functioning "b"#Ex5_1bb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.b.b/Ex5_1bb.R#S##1170
+5# Continuous Random Variables#1.b.a#Computer functioning "a"#Ex5_1ba.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.b.a/Ex5_1ba.R#S##1169
+5# Continuous Random Variables#1.a.b#Probability of a continuous random variable#Ex5_1ab.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.a.b/Ex5_1ab.R#S##1168
+5# Continuous Random Variables#1.a.a#Finding the constant in "fx"#Ex5_1aa.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.a.a/Ex5_1aa.R#S##2600
+4# Random Variables#8.i#Electrical components#Ex4_8i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX8.i/Ex4_8i.R#S##1121
+4# Random Variables#8.g#Throws of die required#Ex4_8g.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX8.g/Ex4_8g.R#S##1120
+4# Random Variables#7.f#Generating poisson distribution#Ex4_7f.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.f/Ex4_7f.R#S##2594
+4# Random Variables#7.e.a#Earthquake occourence#Ex4_7ea.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.e.a/Ex4_7ea.R#S##2598
+4# Random Variables#7.c#Radioactive Particles#Ex4_7c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.c/Ex4_7c.R#S##2590
+4# Random Variables#7.b#Defective item#Ex4_7b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.b/Ex4_7b.R#S##2596
+4# Random Variables#7.a#Typos in a page#Ex4_7a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.a/Ex4_7a.R#S##2592
+4# Random Variables#6.i#Binomial distribution generation#Ex4_6i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.i/Ex4_6i.R#S##2595
+4# Random Variables#6.h#Computing binomial distribution function#Ex4_6h.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.h/Ex4_6h.R#S##2597
+4# Random Variables#6.d#Genetic traits#Ex4_6d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.d/Ex4_6d.R#S##2593
+4# Random Variables#6.c#Wheel of fortune#Ex4_6c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.c/Ex4_6c.R#S##2591
+4# Random Variables#6.b#Package replacement#Ex4_6b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.b/Ex4_6b.R#S##2584
+4# Random Variables#6.a#Binomial random variable coin experiment#Ex4_6a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.a/Ex4_6a.R#S##2586
+4# Random Variables#5.a#Variance of a die roll#Ex4_5a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX5.a/Ex4_5a.R#S##2588
+4# Random Variables#4.a#Expectation of a random variable squared#Ex4_4a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX4.a/Ex4_4a.R#S##2589
+4# Random Variables#3.d#Expectation of number of students#Ex4_3d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX3.d/Ex4_3d.R#S##2585
+4# Random Variables#3.a#Expectation of a die roll#Ex4_3a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX3.a/Ex4_3a.R#S##2587
+4# Random Variables#10.a#Properties of random variables#Ex4_10a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX10.a/Ex4_10a.R#S##2602
+4# Random Variables#1.d#Winnings from urn experiment#Ex4_1d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX1.d/Ex4_1d.R#S##818
+4# Random Variables#1.b#Urn with replacement#Ex4_1b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX1.b/Ex4_1b.R#S##819
+3#Conditional Probability and Independence #5.a#Conditional probability of accident prone policy holder#Ex3_5a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX5.a/Ex3_5a.R#S##1101
+3#Conditional Probability and Independence #4.h#Independent die trials#Ex3_4h.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX4.h/Ex3_4h.R#S##1100
+3#Conditional Probability and Independence #3.o#Crime probability#Ex3_3o.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.o/Ex3_3o.R#S##2604
+3#Conditional Probability and Independence #3.n.b#Type of flashlight#Ex3_3nb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.n.b/Ex3_3nb.R#S##1099
+3#Conditional Probability and Independence #3.n.a#Flashlight gives more than 100 hours of use#Ex3_3na.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.n.a/Ex3_3na.R#S##1098
+3#Conditional Probability and Independence #3.l#Coloured cards#Ex3_3l.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.l/Ex3_3l.R#S##1097
+3#Conditional Probability and Independence #3.i#Urn and coins#Ex3_3i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.i/Ex3_3i.R#S##1096
+3#Conditional Probability and Independence #3.f#Criminal investigation#Ex3_3f.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.f/Ex3_3f.R#S##1095
+3#Conditional Probability and Independence #3.e#Surgery dilemma#Ex3_3e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.e/Ex3_3e.R#S##1094
+3#Conditional Probability and Independence #3.d#Laboratory blood test#Ex3_3d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.d/Ex3_3d.R#S##1093
+3#Conditional Probability and Independence #3.a.2#Policy holder is accident prone#Ex3_3a2.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.a.2/Ex3_3a2.R#S##1092
+3#Conditional Probability and Independence #3.a.1#Accident within a year of purchasing policy#Ex3_3a1.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX3.a.1/Ex3_3a1.R#S##1091
+3#Conditional Probability and Independence #2.h#Each pile contains 1 ace#Ex3_2h.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.h/Ex3_2h.R#S##1089
+3#Conditional Probability and Independence #2.f.a#Drawing red balls from urn#Ex3_2fa.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.f.a/Ex3_2fa.R#S##2582
+3#Conditional Probability and Independence #2.e#Course selection#Ex3_2e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.e/Ex3_2e.R#S##1088
+3#Conditional Probability and Independence #2.c#Bridge#Ex3_2c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.c/Ex3_2c.R#S##1087
+3#Conditional Probability and Independence #2.b.b#At least one flip heads#Ex3_2bb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.b.b/Ex3_2bb.R#S##2583
+3#Conditional Probability and Independence #2.b.a#First coin flip heads#Ex3_2ba.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.b.a/Ex3_2ba.R#S##1085
+3#Conditional Probability and Independence #2.a#Student exams#Ex3_2a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH3/EX2.a/Ex3_2a.R#S##1084
+2# Axioms of Probability#7.a#Horse race#Ex2_7a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX7.a/Ex2_7a.R#S##1083
+2# Axioms of Probability#5.n#Married couples#Ex2_5n.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.n/Ex2_5n.R#S##1082
+2# Axioms of Probability#5.l#Club sports#Ex2_5l.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.l/Ex2_5l.R#S##1081
+2# Axioms of Probability#5.k#Football team#Ex2_5k.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.k/Ex2_5k.R#S##1203
+2# Axioms of Probability#5.i#Birthday problem#Ex2_5i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.i/Ex2_5i.R#S##1080
+2# Axioms of Probability#5.h.b#Bridge each player gets 1 spade#Ex2_5hb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.h.b/Ex2_5hb.R#S##1079
+2# Axioms of Probability#5.h.a#Bridge player gets all spades#Ex2_5ha.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.h.a/Ex2_5ha.R#S##1078
+2# Axioms of Probability#5.g#Probability of full house#Ex2_5g.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.g/Ex2_5g.R#S##1077
+2# Axioms of Probability#5.f#Probability of a straight#Ex2_5f.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.f/Ex2_5f.R#S##1076
+2# Axioms of Probability#5.c#Committee selection#Ex2_5c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.c/Ex2_5c.R#S##1073
+2# Axioms of Probability#5.b#Drawing balls from a bowl#Ex2_5b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.b/Ex2_5b.R#S##1075
+2# Axioms of Probability#5.a#Sum of dice rolls#Ex2_5a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX5.a/Ex2_5a.R#S##1074
+2# Axioms of Probability#4.a#Books and vacations#Ex2_4a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX4.a/Ex2_4a.R#S##1070
+2# Axioms of Probability#3.b#Even number on a dice roll#Ex2_3b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH2/EX3.b/Ex2_3b.R#S##1069
+1# Combinatorial Analysis#6.b#Investments#Ex1_6b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX6.b/Ex1_6b.R#S##954
+1# Combinatorial Analysis#6.a#Distinct non-negative integral solutions#Ex1_6a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX6.a/Ex1_6a.R#S##953
+1# Combinatorial Analysis#5.d#Tournaments#Ex1_5d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX5.d/Ex1_5d.R#S##2603
+1# Combinatorial Analysis#5.c#Basketball divisions#Ex1_5c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX5.c/Ex1_5c.R#S##952
+1# Combinatorial Analysis#5.b#Division into team A and team B#Ex1_5b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX5.b/Ex1_5b.R#S##951
+1# Combinatorial Analysis#5.a#Possible divisions#Ex1_5a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX5.a/Ex1_5a.R#S##950
+1# Combinatorial Analysis#4.b#Committee selection with genders and feuds#Ex1_4b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX4.b/Ex1_4b.R#S##949
+1# Combinatorial Analysis#4.a#Possible committees#Ex1_4a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX4.a/Ex1_4a.R#S##948
+1# Combinatorial Analysis#3.f#Flag signals#Ex1_3f.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.f/Ex1_3f.R#S##947
+1# Combinatorial Analysis#3.e#Chess tournament outcomes#Ex1_3e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.e/Ex1_3e.R#S##946
+1# Combinatorial Analysis#3.d#Pepper permuatations#Ex1_3d.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.d/Ex1_3d.R#S##944
+1# Combinatorial Analysis#3.c#Book arrangements#Ex1_3c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.c/Ex1_3c.R#S##942
+1# Combinatorial Analysis#3.b.b#Gender rankings#Ex1_3bb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.b.b/Ex1_3bb.R#S##941
+1# Combinatorial Analysis#3.b.a#Universal rankings#Ex1_3ba.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.b.a/Ex1_3ba.R#S##939
+1# Combinatorial Analysis#3.a#Batting orders#Ex1_3a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX3.a/Ex1_3a.R#S##937
+1# Combinatorial Analysis#2.e#Licence plates without repititions#Ex1_2e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX2.e/Ex1_2e.R#S##935
+1# Combinatorial Analysis#2.c#Licence plates#Ex1_2c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX2.c/Ex1_2c.R#S##933
+1# Combinatorial Analysis#2.b#Committee selection#Ex1_2b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX2.b/Ex1_2b.R#S##931
+1# Combinatorial Analysis#2.a#Mother and child of the year#Ex1_2a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH1/EX2.a/Ex1_2a.R#S##930

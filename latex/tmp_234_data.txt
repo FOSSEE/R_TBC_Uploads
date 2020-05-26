@@ -1,0 +1,54 @@
+5# Similarity#3.6#Eigenvalues and Eigenvectors#Ex5_3_6.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX3.6/Ex5_3_6.R#S##6150
+5# Similarity#3.19#Eigenvalues and Eigenvectors#Ex5_3_19.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX3.19/Ex5_3_19.R#S##6151
+5# Similarity#2.4#finding null spaces#Ex5_2_4.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX2.4/Ex5_2_4.R#S##6976
+5# Similarity#2.2.2#Checking if matrix is diagonalizable#Ex5_2_2_2.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX2.2.2/Ex5_2_2_2.R#S##6149
+5# Similarity#2.2# Complex Vector Spaces#Ex5_2_2.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX2.2/Ex5_2_2.R#S##6147
+5# Similarity#2.18#nilpotence index#Ex5_2_18.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX2.18/Ex5_2_18.R#S##6974
+5# Similarity#2.17#Nilpotence index#Ex5_2_17.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX2.17/Ex5_2_17.R#S##6978
+5# Similarity#2.10#Nilpotent matrix#Ex5_2_10.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX2.10/Ex5_2_10.R#S##6975
+5# Similarity#1.3#Similar Matrix#Ex5_1_3.R#Linear_Algebra_by_Jim_Hefferon/CH5/EX1.3/Ex5_1_3.R#S##6148
+4# Determinants#3.4# Determinants#Ex4_3_4.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX3.4/Ex4_3_4.R#S##6142
+4# Determinants#3.1# Determinants#Ex4_3_1.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX3.1/Ex4_3_1.R#S##6141
+4# Determinants#2.6# Determinants#Ex4_2_6.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX2.6/Ex4_2_6.R#S##6140
+4# Determinants#2.5#Determinants#Ex4_2_5.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX2.5/Ex4_2_5.R#S##6139
+4# Determinants#1.7# Laplace Formula to find determinant#Ex4_1_7.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX1.7/Ex4_1_7.R#S##6145
+4# Determinants#1.6# Laplace Formula to find determinant#Ex4_1_6.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX1.6/Ex4_1_6.R#S##6144
+4# Determinants#1.4# Laplace Formula to find determinant#Ex4_1_4.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX1.4/Ex4_1_4.R#S##6143
+4# Determinants#1.10# Laplace Formula to find inverse#Ex4_1_10.R#Linear_Algebra_by_Jim_Hefferon/CH4/EX1.10/Ex4_1_10.R#S##6146
+3# Maps Between Spaces#4.4.9#Inverses#Ex3_4_4_9.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.4.9/Ex3_4_4_9.R#S##6138
+3# Maps Between Spaces#4.3.15#Mechanics of Matrix Multiplication#Ex3_4_3_15.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.3.15/Ex3_4_3_15.R#S##6137
+3# Maps Between Spaces#4.2.6#Matrix Operations#Ex3_4_2_6.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.2.6/Ex3_4_2_6.R#S##6130
+3# Maps Between Spaces#4.2.5#Matrix Operations#Ex3_4_2_5.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.2.5/Ex3_4_2_5.R#S##6129
+3# Maps Between Spaces#4.2.4#Matrix Operations#Ex3_4_2_4.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.2.4/Ex3_4_2_4.R#S##6128
+3# Maps Between Spaces#4.1.2#Matrix Operations#Ex3_4_1_2.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.1.2/Ex3_4_1_2.R#S##6127
+3# Maps Between Spaces#4.1.1#Matrix Operations#Ex3_4_1_1.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX4.1.1/Ex3_4_1_1.R#S##6126
+3# Maps Between Spaces#3.1.11#Computing linear maps#Ex3_3_1_11.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX3.1.11/Ex3_3_1_11.R#S##6122
+3# Maps Between Spaces#2.5#Computing linear maps#Ex3_2_5.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX2.5/Ex3_2_5.R#S##6123
+3# Maps Between Spaces#2.11#Computing linear maps#Ex3_2_11.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX2.11/Ex3_2_11.R#S##6125
+3# Maps Between Spaces#2.10#Computing linear maps#Ex3_2_10.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX2.10/Ex3_2_10.R#S##6124
+3# Maps Between Spaces#1.9#automorphism#Ex3_1_9.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX1.9/Ex3_1_9.R#S##6120
+3# Maps Between Spaces#1.11#value of h on the basis vectors#Ex3_1_11.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX1.11/Ex3_1_11.R#S##6121
+3# Maps Between Spaces#1.1#correspondence between vectors#Ex3_1_1.R#Linear_Algebra_by_Jim_Hefferon/CH3/EX1.1/Ex3_1_1.R#S##6119
+2# Vector Spaces#3.9#Finding a basis for the given span#Ex2_3_9.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX3.9/Ex2_3_9.R#S##6117
+2# Vector Spaces#3.7#Basis for the column space of the given matrix#Ex2_3_7.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX3.7/Ex2_3_7.R#S##6114
+2# Vector Spaces#3.5#Basis for the column space of the given matrix#Ex2_3_5.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX3.5/Ex2_3_5.R#S##6116
+2# Vector Spaces#3.2#Linear Independence#Ex2_3_2.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX3.2/Ex2_3_2.R#S##7012
+2# Vector Spaces#3.10#finding basis from reduced echelon form#Ex2_3_10.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX3.10/Ex2_3_10.R#S##6118
+2# Vector Spaces#1.9#Linear Independence#Ex2_1_9.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX1.9/Ex2_1_9.R#S##6112
+2# Vector Spaces#1.6#Linear Independence#Ex2_1_6.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX1.6/Ex2_1_6.R#S##6111
+2# Vector Spaces#1.16#finding the coordinates of that vector with respect to the basis#Ex2_1_16.R#Linear_Algebra_by_Jim_Hefferon/CH2/EX1.16/Ex2_1_16.R#S##6113
+1# Linear Systems#3.5#gauss method to reduce system of linear equations#Ex1_3_5.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX3.5/Ex1_3_5.R#S##6110
+1# Linear Systems#3.3#system of homogeneous equations#Ex1_3_3.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX3.3/Ex1_3_3.R#S##6109
+1# Linear Systems#2.7#solution of system of linear equations#Ex1_2_7.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX2.7/Ex1_2_7.R#S##5948
+1# Linear Systems#2.5#finding the type of solution set of a system of linear equation#Ex1_2_5.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX2.5/Ex1_2_5.R#S##5958
+1# Linear Systems#2.3#solution of system of linear equations#Ex1_2_3.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX2.3/Ex1_2_3.R#S##5957
+1# Linear Systems#2.12#vector addition#Ex1_2_12.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX2.12/Ex1_2_12.R#S##5959
+1# Linear Systems#2.1#solution of system of linear equations#Ex1_2_1.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX2.1/Ex1_2_1.R#S##5956
+1# Linear Systems#1.9#gauss method to reduce system of linear equations#Ex1_9.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.9/Ex1_9.R#S##5947
+1# Linear Systems#1.8#solution of system of linear equations#Ex1_8.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.8/Ex1_8.R#S##5950
+1# Linear Systems#1.7#solution of system of linear equations#Ex1_7.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.7/Ex1_7.R#S##5949
+1# Linear Systems#1.4#Solving Linear Systems#Ex1_4.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.4/Ex1_4.R#S##5946
+1# Linear Systems#1.3#Solving Linear Systems#Ex1_3.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.3/Ex1_3.R#S##5945
+1# Linear Systems#1.13#solution of system of linear equations#Ex1_13.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.13/Ex1_13.R#S##5955
+1# Linear Systems#1.12#gaussian elimination technique#Ex1_12.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.12/Ex1_12.R#S##5951
+1# Linear Systems#1.11#gauss method to reduce system of linear equations#Ex1_11.R#Linear_Algebra_by_Jim_Hefferon/CH1/EX1.11/Ex1_11.R#S##5952

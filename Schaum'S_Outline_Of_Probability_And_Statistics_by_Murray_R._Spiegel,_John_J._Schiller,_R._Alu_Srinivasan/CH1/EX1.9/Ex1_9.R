@@ -1,0 +1,12 @@
+#page4
+U<-c("HH","HT","TH","TT")
+A<-c("HT", "TH", "HH")
+B<-c("HT","TT")
+AUB<-union(A,B)
+cat("AUB=",AUB,"\n")
+AnB<-intersect(A,B)
+cat("AnB",AnB,"\n")
+AC<-setdiff(U,A)
+cat("A'=",AC,"\n")
+AdiffB<-setdiff(A,B)
+cat("A-B=",AdiffB,"\n\n")

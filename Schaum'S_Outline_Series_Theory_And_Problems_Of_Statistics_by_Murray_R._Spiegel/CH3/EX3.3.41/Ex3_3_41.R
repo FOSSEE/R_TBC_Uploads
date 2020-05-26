@@ -1,0 +1,9 @@
+#PAGE=78
+a=45
+b=90
+d=90
+c=d/a
+f=d/b
+e=2*d
+avg=e/(c+f)
+cat(avg,'km/h')

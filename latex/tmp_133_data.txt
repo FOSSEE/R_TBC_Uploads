@@ -1,0 +1,148 @@
+14# Strategies When Population Distributions Are Not Normal#14.3a#Worked out examples 1 and 2#Ex14_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH14/EX14.3a/Ex14_3a.R#S##5081
+14# Strategies When Population Distributions Are Not Normal#14.2c#How are you doing#Ex14_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH14/EX14.2c/Ex14_2c.R#S##5091
+14# Strategies When Population Distributions Are Not Normal#14.2b#Using parametric tests with rank transformed data#Ex14_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH14/EX14.2b/Ex14_2b.R#S##5089
+14# Strategies When Population Distributions Are Not Normal#14.2a#An example of a rank order test#Ex14_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH14/EX14.2a/Ex14_2a.R#S##5079
+14# Strategies When Population Distributions Are Not Normal#14.1a#An example of a data transformation#Ex14_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH14/EX14.1a/Ex14_1a.R#S##5078
+13# Chi Square Tests#13.4c#Worked out examples 3 and 4#Ex13_4c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.4c/Ex13_4c.R#S##5077
+13# Chi Square Tests#13.4b#Worked out examples 2#Ex13_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.4b/Ex13_4b.R#S##5076
+13# Chi Square Tests#13.4a#Worked out examples 1#Ex13_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.4a/Ex13_4a.R#S##5075
+13# Chi Square Tests#13.3b#How are you doing#Ex13_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.3b/Ex13_3b.R#S##5074
+13# Chi Square Tests#13.3a#Effect Size for Chi Square Tests for Independence#Ex13_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.3a/Ex13_3a.R#S##5073
+13# Chi Square Tests#13.2c#How are you doing#Ex13_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.2c/Ex13_2c.R#S##5072
+13# Chi Square Tests#13.2b#Another example#Ex13_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.2b/Ex13_2b.R#S##5071
+13# Chi Square Tests#13.2a#The chi square test for independence#Ex13_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.2a/Ex13_2a.R#S##5070
+13# Chi Square Tests#13.1d#How are you doing#Ex13_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.1d/Ex13_1d.R#S##5069
+13# Chi Square Tests#13.1c#Another example#Ex13_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.1c/Ex13_1c.R#S##5067
+13# Chi Square Tests#13.1b#The chi square statistic and the chi square test for goodness of fit#Ex13_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.1b/Ex13_1b.R#S##5066
+13# Chi Square Tests#13.1a#An example#Ex13_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH13/EX13.1a/Ex13_1a.R#S##5065
+12# Prediction#12.7e#Worked out examples 6 #Ex12_7e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.7e/Ex12_7e.R#S##5064
+12# Prediction#12.7d#Worked out examples 5#Ex12_7d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.7d/Ex12_7d.R#S##5063
+12# Prediction#12.7c#Worked out examples 4#Ex12_7c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.7c/Ex12_7c.R#S##5062
+12# Prediction#12.7b#Worked out examples 2#Ex12_7b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.7b/Ex12_7b.R#S##5060
+12# Prediction#12.7a#Worked out examples 1#Ex12_7a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.7a/Ex12_7a.R#S##5061
+12# Prediction#12.6b#How are you doing#Ex12_6b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.6b/Ex12_6b.R#S##5058
+12# Prediction#12.6a#Proportionate reduction in error#Ex12_6a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.6a/Ex12_6a.R#S##5057
+12# Prediction#12.5b#How are you doing#Ex12_5b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.5b/Ex12_5b.R#S##5056
+12# Prediction#12.5a#Multiple regression#Ex12_5a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.5a/Ex12_5a.R#S##5055
+12# Prediction#12.4b#How are you doing#Ex12_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.4b/Ex12_4b.R#S##5054
+12# Prediction#12.4a#The standardized regression coefficient#Ex12_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.4a/Ex12_4a.R#S##5053
+12# Prediction#12.3d#How are you doing#Ex12_3d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.3d/Ex12_3d.R#S##5052
+12# Prediction#12.3c#Finding a and b for the least squares linear prediction rule#Ex12_3c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.3c/Ex12_3c.R#S##5051
+12# Prediction#12.3b#The least squared error principle#Ex12_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.3b/Ex12_3b.R#S##5050
+12# Prediction#12.3a#Finding the best linear prediction rule#Ex12_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.3a/Ex12_3a.R#S##5049
+12# Prediction#12.2a#Another example of drawing the regression line#Ex12_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.2a/Ex12_2a.R#S##5048
+12# Prediction#12.1b#How are you doing#Ex12_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.1b/Ex12_1b.R#S##5047
+12# Prediction#12.1a#The linear prediction rule an example#Ex12_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH12/EX12.1a/Ex12_1a.R#S##5046
+11# Correlation#11.4c#Worked out examples 3#Ex11_4c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.4c/Ex11_4c.R#S##5045
+11# Correlation#11.4b#Worked out examples 2#Ex11_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.4b/Ex11_4b.R#S##5044
+11# Correlation#11.4a#Worked out examples 1#Ex11_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.4a/Ex11_4a.R#S##5043
+11# Correlation#11.3c#How are you doing#Ex11_3c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.3c/Ex11_3c.R#S##5042
+11# Correlation#11.3b#Significance of a correlation coefficient an example#Ex11_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.3b/Ex11_3b.R#S##5041
+11# Correlation#11.3a#Significance of a correlation coefficient#Ex11_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.3a/Ex11_3a.R#S##5040
+11# Correlation#11.2c#How are you doing#Ex11_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.2c/Ex11_2c.R#S##5039
+11# Correlation#11.2b#Figuring the correlation coefficient a second example#Ex11_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.2b/Ex11_2b.R#S##5038
+11# Correlation#11.2a#Figuring the correlation coefficient an example#Ex11_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.2a/Ex11_2a.R#S##5036
+11# Correlation#11.1b#How are you doing#Ex11_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.1b/Ex11_1b.R#S##5035
+11# Correlation#11.1a# Graphing Correlations The Scatter Diagram An example#Ex11_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH11/EX11.1a/Ex11_1a.R#S##5034
+10# Factorial Analysis of Variance#10.3a#worked out examples 1#Ex10_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH10/EX10.3a/Ex10_3a.R#S##5032
+10# Factorial Analysis of Variance#10.2b#How are you doing#Ex10_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH10/EX10.2b/Ex10_2b.R#S##5030
+10# Factorial Analysis of Variance#10.2a#Advanced Topic Effect Size in the Factorial Analysis of Variance#Ex10_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH10/EX10.2a/Ex10_2a.R#S##5029
+10# Factorial Analysis of Variance#10.1b#How are you doing#Ex10_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH10/EX10.1b/Ex10_1b.R#S##5028
+10# Factorial Analysis of Variance#10.1a#Table for a Two way Analysis of Variance#Ex10_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH10/EX10.1a/Ex10_1a.R#S##5088
+9# Introduction to the Analysis of Variance#9.6f#Worked out examples 6#Ex9_6f.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.6f/Ex9_6f.R#S##5026
+9# Introduction to the Analysis of Variance#9.6e#Worked out examples 5#Ex9_6e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.6e/Ex9_6e.R#S##5025
+9# Introduction to the Analysis of Variance#9.6d#Worked out examples 4#Ex9_6d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.6d/Ex9_6d.R#S##5024
+9# Introduction to the Analysis of Variance#9.6c#Worked out examples 3#Ex9_6c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.6c/Ex9_6c.R#S##5023
+9# Introduction to the Analysis of Variance#9.6b#Worked out examples 2#Ex9_6b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.6b/Ex9_6b.R#S##5022
+9# Introduction to the Analysis of Variance#9.6a#Worked out examples 1#Ex9_6a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.6a/Ex9_6a.R#S##5021
+9# Introduction to the Analysis of Variance#9.5a#Advanced Topic The Structural Model in the Analysis of Variance an example#Ex9_5a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.5a/Ex9_5a.R#S##5019
+9# Introduction to the Analysis of Variance#9.4b#How are you doing#Ex9_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.4b/Ex9_4b.R#S##5018
+9# Introduction to the Analysis of Variance#9.4a#Effect size for the analysis of variance#Ex9_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.4a/Ex9_4a.R#S##5017
+9# Introduction to the Analysis of Variance#9.3a#Scheffe Test#Ex9_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.3a/Ex9_3a.R#S##5016
+9# Introduction to the Analysis of Variance#9.2c#How are you doing#Ex9_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.2c/Ex9_2c.R#S##5013
+9# Introduction to the Analysis of Variance#9.2b#Planned contrast a second example#Ex9_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.2b/Ex9_2b.R#S##5015
+9# Introduction to the Analysis of Variance#9.2a#Planned contrast an example#Ex9_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.2a/Ex9_2a.R#S##5014
+9# Introduction to the Analysis of Variance#9.1d#How are you doing#Ex9_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.1d/Ex9_1d.R#S##5010
+9# Introduction to the Analysis of Variance#9.1c#Another example#Ex9_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.1c/Ex9_1c.R#S##5009
+9# Introduction to the Analysis of Variance#9.1b#How are you doing#Ex9_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.1b/Ex9_1b.R#S##5020
+9# Introduction to the Analysis of Variance#9.1a#Carrying out an Analysis of Variance #Ex9_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH9/EX9.1a/Ex9_1a.R#S##5007
+8# The t Test for Independent Means#8.5c#Worked out examples 3#Ex8_5c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.5c/Ex8_5c.R#S##4849
+8# The t Test for Independent Means#8.5b#Worked out examples 2#Ex8_5b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.5b/Ex8_5b.R#S##5087
+8# The t Test for Independent Means#8.5a#Worked out examples 1#Ex8_5a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.5a/Ex8_5a.R#S##5086
+8# The t Test for Independent Means#8.4a#Harmonic mean#Ex8_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.4a/Ex8_4a.R#S##5085
+8# The t Test for Independent Means#8.3a#Effect size for the t test for independent means#Ex8_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.3a/Ex8_3a.R#S##5084
+8# The t Test for Independent Means#8.2c#How are you doing#Ex8_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.2c/Ex8_2c.R#S##5083
+8# The t Test for Independent Means#8.2b#A second example of a T test for independent means#Ex8_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.2b/Ex8_2b.R#S##4842
+8# The t Test for Independent Means#8.2a#Example of a T test for independent means#Ex8_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.2a/Ex8_2a.R#S##4841
+8# The t Test for Independent Means#8.1e#How are you doing#Ex8_1e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.1e/Ex8_1e.R#S##4838
+8# The t Test for Independent Means#8.1d#The t score for the difference between the two actual means#Ex8_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.1d/Ex8_1d.R#S##4837
+8# The t Test for Independent Means#8.1c#The variance and standard deviation of the distribution of differences between means#Ex8_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.1c/Ex8_1c.R#S##4836
+8# The t Test for Independent Means#8.1b#Figuring the variance of each of the two distributions of means#Ex8_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.1b/Ex8_1b.R#S##4835
+8# The t Test for Independent Means#8.1a#Estimating the population variance#Ex8_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH8/EX8.1a/Ex8_1a.R#S##4834
+7# Introduction to t Tests#7.4b#Worked out examples 2#Ex7_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.4b/Ex7_4b.R#S##4833
+7# Introduction to t Tests#7.4a#Worked out examples 1#Ex7_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.4a/Ex7_4a.R#S##4832
+7# Introduction to t Tests#7.3b#How are you doing#Ex7_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.3b/Ex7_3b.R#S##4831
+7# Introduction to t Tests#7.3a#Effect size for the t test for dependent means#Ex7_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.3a/Ex7_3a.R#S##4830
+7# Introduction to t Tests#7.2c#How are you doing#Ex7_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.2c/Ex7_2c.R#S##4829
+7# Introduction to t Tests#7.2b#A second example of a t test for dependent means#Ex7_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.2b/Ex7_2b.R#S##4828
+7# Introduction to t Tests#7.2a#Example of a t test for dependent means#Ex7_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.2a/Ex7_2a.R#S##4827
+7# Introduction to t Tests#7.1e#How are you doing#Ex7_1e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.1e/Ex7_1e.R#S##5082
+7# Introduction to t Tests#7.1d#Another example of a t test for a single sample#Ex7_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.1d/Ex7_1d.R#S##4825
+7# Introduction to t Tests#7.1c#The Sample means score on the comparison distribution the t score#Ex7_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.1c/Ex7_1c.R#S##4823
+7# Introduction to t Tests#7.1b#The Standard Deviation of the Distribution of Means#Ex7_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.1b/Ex7_1b.R#S##4822
+7# Introduction to t Tests#7.1a#Basic Principle of the t Test  Estimating the Population Variance from the Sample Scores#Ex7_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH7/EX7.1a/Ex7_1a.R#S##4821
+6# Making Sense of Statistical Significance#6.4c#Worked out examples 3#Ex6_4c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.4c/Ex6_4c.R#S##4816
+6# Making Sense of Statistical Significance#6.4b#Worked out examples 2#Ex6_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.4b/Ex6_4b.R#S##4815
+6# Making Sense of Statistical Significance#6.4a#Worked out examples 1#Ex6_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.4a/Ex6_4a.R#S##4814
+6# Making Sense of Statistical Significance#6.3b#How are you doing#Ex6_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.3b/Ex6_3b.R#S##4813
+6# Making Sense of Statistical Significance#6.3a#Advanced topic  Figuring Statistical Power#Ex6_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.3a/Ex6_3a.R#S##4812
+6# Making Sense of Statistical Significance#6.2b#How are you doing#Ex6_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.2b/Ex6_2b.R#S##4811
+6# Making Sense of Statistical Significance#6.2a#Determining power from predicted effect size#Ex6_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.2a/Ex6_2a.R#S##4810
+6# Making Sense of Statistical Significance#6.1b#How are you doing#Ex6_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.1b/Ex6_1b.R#S##4809
+6# Making Sense of Statistical Significance#6.1a#Figuring effect size#Ex6_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH6/EX6.1a/Ex6_1a.R#S##4808
+5# Hypothesis Tests with Means of Samples#5.4c#Worked out examples 3#Ex5_4c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.4c/Ex5_4c.R#S##4807
+5# Hypothesis Tests with Means of Samples#5.4b#Worked out examples 2#Ex5_4b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.4b/Ex5_4b.R#S##4806
+5# Hypothesis Tests with Means of Samples#5.4a#Worked out examples 1#Ex5_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.4a/Ex5_4a.R#S##4805
+5# Hypothesis Tests with Means of Samples#5.3b#How are you doing#Ex5_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.3b/Ex5_3b.R#S##4803
+5# Hypothesis Tests with Means of Samples#5.3a#Confidence interval#Ex5_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.3a/Ex5_3a.R#S##4802
+5# Hypothesis Tests with Means of Samples#5.2d#How are you doing#Ex5_2d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.2d/Ex5_2d.R#S##4800
+5# Hypothesis Tests with Means of Samples#5.2c#Example 2 for Hypothesis testing with a distribution of means The Z Test#Ex5_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.2c/Ex5_2c.R#S##4799
+5# Hypothesis Tests with Means of Samples#5.2b#Example 1 for Hypothesis testing with a distribution of means The Z Test#Ex5_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.2b/Ex5_2b.R#S##4798
+5# Hypothesis Tests with Means of Samples#5.2a#Hypothesis testing with a distribution of means The Z Test#Ex5_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.2a/Ex5_2a.R#S##4797
+5# Hypothesis Tests with Means of Samples#5.1c#How are you doing#Ex5_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.1c/Ex5_1c.R#S##4796
+5# Hypothesis Tests with Means of Samples#5.1b#Example of Determining the Characteristics of a Distribution of Means#Ex5_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.1b/Ex5_1b.R#S##4795
+5# Hypothesis Tests with Means of Samples#5.1a#Determining the Characteristics of a Distribution of Means#Ex5_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH5/EX5.1a/Ex5_1a.R#S##4794
+4#Introduction to Hypothesis Testing#4.3a#Worked Out Examples#Ex4_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH4/EX4.3a/Ex4_3a.R#S##4793
+4#Introduction to Hypothesis Testing#4.2b#How are you doing#Ex4_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH4/EX4.2b/Ex4_2b.R#S##4792
+4#Introduction to Hypothesis Testing#4.2a#Example of Hypothesis Testing with a Two Tailed Test#Ex4_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH4/EX4.2a/Ex4_2a.R#S##4791
+4#Introduction to Hypothesis Testing#4.1c#How are you doing#Ex4_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH4/EX4.1c/Ex4_1c.R#S##4790
+4#Introduction to Hypothesis Testing#4.1b#The Second Example#Ex4_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH4/EX4.1b/Ex4_1b.R#S##4789
+4#Introduction to Hypothesis Testing#4.1a#The Hypothesis Testing Process#Ex4_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH4/EX4.1a/Ex4_1a.R#S##4788
+3# Some Key Ingredients for Inferential Statistics#3.3c#Worked Out Examples 3#Ex3_3c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.3c/Ex3_3c.R#S##4638
+3# Some Key Ingredients for Inferential Statistics#3.3b#Worked Out Examples 2#Ex3_3b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.3b/Ex3_3b.R#S##4637
+3# Some Key Ingredients for Inferential Statistics#3.3a#Worked Out Examples 1#Ex3_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.3a/Ex3_3a.R#S##4636
+3# Some Key Ingredients for Inferential Statistics#3.2b#Examples for finding Z Scores and Raw Scores from Percentage using Normal Curve Table#Ex3_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.2b/Ex3_2b.R#S##4635
+3# Some Key Ingredients for Inferential Statistics#3.2a#Examples for finding Percentage from Z Scores and Raw Scores using Normal Curve Table#Ex3_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.2a/Ex3_2a.R#S##4634
+3# Some Key Ingredients for Inferential Statistics#3.1e#How are you doing#Ex3_1e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.1e/Ex3_1e.R#S##4633
+3# Some Key Ingredients for Inferential Statistics#3.1d#How are you doing#Ex3_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.1d/Ex3_1d.R#S##4632
+3# Some Key Ingredients for Inferential Statistics#3.1c#Additional Example 2 to change Raw Score to Z Score and Vice Versa#Ex3_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.1c/Ex3_1c.R#S##4631
+3# Some Key Ingredients for Inferential Statistics#3.1b#Additional Example 1 to change Raw Score to Z Score and Vice Versa#Ex3_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.1b/Ex3_1b.R#S##4630
+3# Some Key Ingredients for Inferential Statistics#3.1a#Formula to change Raw Score to Z Score and Vice Versa#Ex3_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH3/EX3.1a/Ex3_1a.R#S##4629
+2# Central Tendency and Variability#2.3a#Worked Out Examples#Ex2_3a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.3a/Ex2_3a.R#S##4628
+2# Central Tendency and Variability#2.2c#How are you doing#Ex2_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.2c/Ex2_2c.R#S##4627
+2# Central Tendency and Variability#2.2b#Variance and Standard Deviation Example 2#Ex2_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.2b/Ex2_2b.R#S##4626
+2# Central Tendency and Variability#2.2a#Variance and Standard Deviation Example 1#Ex2_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.2a/Ex2_2a.R#S##4625
+2# Central Tendency and Variability#2.1d#How are you doing#Ex2_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.1d/Ex2_1d.R#S##4624
+2# Central Tendency and Variability#2.1c#Mean Example 3#Ex2_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.1c/Ex2_1c.R#S##4623
+2# Central Tendency and Variability#2.1b#Mean Example 2#Ex2_1b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.1b/Ex2_1b.R#S##4622
+2# Central Tendency and Variability#2.1a#Mean Example 1#Ex2_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH2/EX2.1a/Ex2_1a.R#S##4621
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.4a#Worked Out Examples#Ex1_4a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.4a/Ex1_4a.R#S##4620
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.2e#How are you doing#Ex1_2e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.2e/Ex1_2e.R#S##4618
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.2d#Histogram for Nominal Variables#Ex1_2d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.2d/Ex1_2d.R#S##4617
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.2c#Histogram for Grouped Frequency Table Example 2 #Ex1_2c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.2c/Ex1_2c.R#S##4817
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.2b#Histogram for Grouped Frequency Table#Ex1_2b.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.2b/Ex1_2b.R#S##4820
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.2a#Histogram for Frequency Table#Ex1_2a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.2a/Ex1_2a.R#S##4614
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.1e#Grouped Frequency Tables Another Example#Ex1_1e.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.1e/Ex1_1e.R#S##4612
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.1d#Grouped Frequency Tables#Ex1_1d.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.1d/Ex1_1d.R#S##4611
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.1c#Frequency Tables  Another Example#Ex1_1c.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.1c/Ex1_1c.R#S##5090
+1# Displaying the Order in a Group of Numbers Using Tables and Graphs#1.1a#Frequency Tables an Example#Ex1_1a.R#Statistics_For_Psychology_by_Arthur_Aron,_Elliot_J._Coups,_And_Elaine_N._Aron/CH1/EX1.1a/Ex1_1a.R#S##4608

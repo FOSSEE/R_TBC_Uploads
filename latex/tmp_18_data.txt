@@ -1,0 +1,231 @@
+16# Quality control methods#16.9#Computational version #Ex16_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.9/Ex16_9.R#S##4590
+16# Quality control methods#16.8#CUSUM procedures#Ex16_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.8/Ex16_8.R#S##4591
+16# Quality control methods#16.7#c chart for number of defectives#Ex16_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.7/Ex16_7.R#S##4592
+16# Quality control methods#16.6#The p chart#Ex16_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.6/Ex16_6.R#S##4589
+16# Quality control methods#16.5#R chart#Ex16_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.5/Ex16_5.R#S##4593
+16# Quality control methods#16.4#The S chart#Ex16_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.4/Ex16_4.R#S##4588
+16# Quality control methods#16.3#X bar charts based on estimated parameters#Ex16_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.3/Ex16_3.R#S##3023
+16# Quality control methods#16.2#X bar charts based on estimated parameters#Ex16_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.2/Ex16_2.R#S##3022
+16# Quality control methods#16.12#Designing a single sample plan#Ex16_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.12/Ex16_12.R#S##4596
+16# Quality control methods#16.11#Acceptance sampling#Ex16_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.11/Ex16_11.R#S##3031
+16# Quality control methods#16.10#Designing a CUSUM procedure#Ex16_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.10/Ex16_10.R#S##3030
+16# Quality control methods#16.1#X bar chart based on known parameter values#Ex16_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH16/EX16.1/Ex16_1.R#S##4595
+15# Distribution free procedures#15.9#The Kruskal Wallis test#Ex15_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.9/Ex15_9.R#S##4401
+15# Distribution free procedures#15.8#The Wilcoxon rank sum interval#Ex15_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.8/Ex15_8.R#S##4399
+15# Distribution free procedures#15.6#The Wilcoxon signed rank interval#Ex15_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.6/Ex15_6.R#S##3021
+15# Distribution free procedures#15.5#A normal approximation for W#Ex15_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.5/Ex15_5.R#S##3020
+15# Distribution free procedures#15.4#The Wilcoxon rank sum test#Ex15_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.4/Ex15_4.R#S##3019
+15# Distribution free procedures#15.3#Large sample approximation#Ex15_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.3/Ex15_3.R#S##4605
+15# Distribution free procedures#15.2#Paired observations#Ex15_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.2/Ex15_2.R#S##3017
+15# Distribution free procedures#15.10#Friedman test for a randomized block experiment#Ex15_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.10/Ex15_10.R#S##4402
+15# Distribution free procedures#15.1#The Wilcoxon signed rank test#Ex15_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH15/EX15.1/Ex15_1.R#S##3016
+14# Goodness of fit tests and categorical data analysis#14.9#Goodness of fit for discrete distributions#Ex14_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.9/Ex14_9.R#S##3013
+14# Goodness of fit tests and categorical data analysis#14.6#Chi square when parameters are estimated#Ex14_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.6/Ex14_6.R#S##3012
+14# Goodness of fit tests and categorical data analysis#14.5#Chi square when parameters are estimated#Ex14_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.5/Ex14_5.R#S##3011
+14# Goodness of fit tests and categorical data analysis#14.4#Chi square when underlying distribution is continuous#Ex14_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.4/Ex14_4.R#S##3010
+14# Goodness of fit tests and categorical data analysis#14.3#Chi square when underlying distribution is continuous#Ex14_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.3/Ex14_3.R#S##3009
+14# Goodness of fit tests and categorical data analysis#14.2#P values for chi squared tests#Ex14_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.2/Ex14_2.R#S##3008
+14# Goodness of fit tests and categorical data analysis#14.14#Testing for independence#Ex14_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.14/Ex14_14.R#S##3015
+14# Goodness of fit tests and categorical data analysis#14.13#Testing for homogeneity#Ex14_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.13/Ex14_13.R#S##3014
+14# Goodness of fit tests and categorical data analysis#14.12#A special test for normality#Ex14_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.12/Ex14_12.R#S##4594
+14# Goodness of fit tests and categorical data analysis#14.10#Goodness of fit for continuous distributions#Ex14_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.10/Ex14_10.R#S##4387
+14# Goodness of fit tests and categorical data analysis#14.1#Goodness of fit tests when category probabilities are completely specified#Ex14_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH14/EX14.1/Ex14_1.R#S##3007
+13# Nonlinear and multiple regression#13.9#Statistical intervals and test procedures#Ex13_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.9/Ex13_9.R#S##4586
+13# Nonlinear and multiple regression#13.8#Estimating parameters#Ex13_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.8/Ex13_8.R#S##4584
+13# Nonlinear and multiple regression#13.7#Polynomial regression#Ex13_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.7/Ex13_7.R#S##4585
+13# Nonlinear and multiple regression#13.4#Regression with transformed variables#Ex13_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.4/Ex13_4.R#S##4375
+13# Nonlinear and multiple regression#13.2#Diagnostic plots#Ex13_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.2/Ex13_2.R#S##4373
+13# Nonlinear and multiple regression#13.18#Transformations#Ex13_18.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.18/Ex13_18.R#S##4581
+13# Nonlinear and multiple regression#13.16#Inferences in multiple regression#Ex13_16.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.16/Ex13_16.R#S##4383
+13# Nonlinear and multiple regression#13.15#Inferences in multiple regression#Ex13_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.15/Ex13_15.R#S##4582
+13# Nonlinear and multiple regression#13.14#Model utility test#Ex13_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.14/Ex13_14.R#S##4583
+13# Nonlinear and multiple regression#13.13#Estimating parameters#Ex13_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.13/Ex13_13.R#S##4603
+13# Nonlinear and multiple regression#13.12#Estimating parameters#Ex13_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.12/Ex13_12.R#S##4604
+13# Nonlinear and multiple regression#13.10#Centering x values#Ex13_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH13/EX13.10/Ex13_10.R#S##4376
+12# Simple linear regression and correlation#12.9#Coefficient of determination#Ex12_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.9/Ex12_9.R#S##4571
+12# Simple linear regression and correlation#12.8#Estimating model parameters#Ex12_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.8/Ex12_8.R#S##4575
+12# Simple linear regression and correlation#12.7#Estimating model parameters#Ex12_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.7/Ex12_7.R#S##4573
+12# Simple linear regression and correlation#12.6#Estimating model parameters#Ex12_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.6/Ex12_6.R#S##4576
+12# Simple linear regression and correlation#12.5#Estimating model parameters#Ex12_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.5/Ex12_5.R#S##2992
+12# Simple linear regression and correlation#12.4#Estimating model parameters#Ex12_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.4/Ex12_4.R#S##4579
+12# Simple linear regression and correlation#12.3#A linear probabilistic model#Ex12_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.3/Ex12_3.R#S##2990
+12# Simple linear regression and correlation#12.2#The simple linear regression model#Ex12_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.2/Ex12_2.R#S##2989
+12# Simple linear regression and correlation#12.19#Other inferences concerning rho#Ex12_19.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.19/Ex12_19.R#S##3006
+12# Simple linear regression and correlation#12.18#Other inferences concerning rho#Ex12_18.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.18/Ex12_18.R#S##4578
+12# Simple linear regression and correlation#12.17#Inferences about the population correlation coefficient#Ex12_17.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.17/Ex12_17.R#S##3004
+12# Simple linear regression and correlation#12.16#Inferences about the population correlation coefficient#Ex12_16.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.16/Ex12_16.R#S##4577
+12# Simple linear regression and correlation#12.15#Correlation#Ex12_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.15/Ex12_15.R#S##4570
+12# Simple linear regression and correlation#12.14#Prediction interval for a future value of Y#Ex12_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.14/Ex12_14.R#S##3000
+12# Simple linear regression and correlation#12.13#Inferences concerning mean#Ex12_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.13/Ex12_13.R#S##4574
+12# Simple linear regression and correlation#12.12#Hypothesis testing procedures#Ex12_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.12/Ex12_12.R#S##4580
+12# Simple linear regression and correlation#12.11#Confidence interval for beta1#Ex12_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.11/Ex12_11.R#S##4572
+12# Simple linear regression and correlation#12.1#The simple linear regression model#Ex12_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH12/EX12.1/Ex12_1.R#S##2988
+11# Multifactor analysis of variance#11.9#Models with mixed and random effects#Ex11_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.9/Ex11_9.R#S##4433
+11# Multifactor analysis of variance#11.7#Two factor ANOVA with Kij greater than 1#Ex11_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.7/Ex11_7.R#S##4440
+11# Multifactor analysis of variance#11.6#Randomized block experiments#Ex11_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.6/Ex11_6.R#S##4439
+11# Multifactor analysis of variance#11.5#Randomized block experiments#Ex11_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.5/Ex11_5.R#S##4432
+11# Multifactor analysis of variance#11.3#Fixed effects model#Ex11_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.3/Ex11_3.R#S##4431
+11# Multifactor analysis of variance#11.13#Factorial experiments with p factors at two levels#Ex11_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.13/Ex11_13.R#S##4437
+11# Multifactor analysis of variance#11.12# Factorial experiments with p factors at two levels#Ex11_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.12/Ex11_12.R#S##4436
+11# Multifactor analysis of variance#11.11#Latin square designs#Ex11_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.11/Ex11_11.R#S##4435
+11# Multifactor analysis of variance#11.10#Three factor ANOVA#Ex11_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.10/Ex11_10.R#S##4434
+11# Multifactor analysis of variance#11.1#Two factor ANOVA#Ex11_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH11/EX11.1/Ex11_1.R#S##3033
+10# The analysis of variance#10.9#Unequal sample sizes#Ex10_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.9/Ex10_9.R#S##4562
+10# The analysis of variance#10.6#Multiple comparisons in ANOVA#Ex10_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.6/Ex10_6.R#S##4597
+10# The analysis of variance#10.4#Sums of squares#Ex10_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.4/Ex10_4.R#S##4558
+10# The analysis of variance#10.3#F distribution and the F test#Ex10_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.3/Ex10_3.R#S##4559
+10# The analysis of variance#10.2#F distribution and the F test#Ex10_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.2/Ex10_2.R#S##4563
+10# The analysis of variance#10.11#A random effects model#Ex10_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.11/Ex10_11.R#S##4561
+10# The analysis of variance#10.10#Unequal sample sizes#Ex10_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.10/Ex10_10.R#S##4560
+10# The analysis of variance#10.1#Single factor ANOVA#Ex10_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH10/EX10.1/Ex10_1.R#S##2981
+9# Inferences based on two samples#9.9#Paired t test#Ex9_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.9/Ex9_9.R#S##4567
+9# Inferences based on two samples#9.7#Two sample t test and confidence interval#Ex9_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.7/Ex9_7.R#S##4569
+9# Inferences based on two samples#9.6#Two sample t test and confidence interval#Ex9_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.6/Ex9_6.R#S##2552
+9# Inferences based on two samples#9.5#Confidence intervals for difference of means#Ex9_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.5/Ex9_5.R#S##2551
+9# Inferences based on two samples#9.4#Large sample tests#Ex9_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.4/Ex9_4.R#S##2550
+9# Inferences based on two samples#9.3#Beta and the choice of sample size#Ex9_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.3/Ex9_3.R#S##2549
+9# Inferences based on two samples#9.2#Using a comparison to identify causality#Ex9_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.2/Ex9_2.R#S##2548
+9# Inferences based on two samples#9.14#F test for equality of variances#Ex9_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.14/Ex9_14.R#S##2560
+9# Inferences based on two samples#9.13#A large sample confidence interval#Ex9_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.13/Ex9_13.R#S##2559
+9# Inferences based on two samples#9.12#Type II error probabilities and sample sizes#Ex9_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.12/Ex9_12.R#S##2558
+9# Inferences based on two samples#9.11#Inferences concerning difference between population proportions#Ex9_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.11/Ex9_11.R#S##2557
+9# Inferences based on two samples#9.10#Paired t confidence interval#Ex9_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.10/Ex9_10.R#S##4568
+9# Inferences based on two samples#9.1#Test procedures for normal population with known variances#Ex9_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH9/EX9.1/Ex9_1.R#S##2547
+8# Test of hypotheses based on a single sample#8.9#Tests about a population mean#Ex8_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.9/Ex8_9.R#S##4557
+8# Test of hypotheses based on a single sample#8.8#Tests about a population mean#Ex8_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.8/Ex8_8.R#S##2962
+8# Test of hypotheses based on a single sample#8.7#Tests about a population mean#Ex8_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.7/Ex8_7.R#S##2961
+8# Test of hypotheses based on a single sample#8.6#Tests about a population mean#Ex8_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.6/Ex8_6.R#S##2960
+8# Test of hypotheses based on a single sample#8.5#Hypotheses and test procedures#Ex8_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.5/Ex8_5.R#S##2959
+8# Test of hypotheses based on a single sample#8.4#Hypotheses and test procedures#Ex8_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.4/Ex8_4.R#S##2958
+8# Test of hypotheses based on a single sample#8.3#Hypotheses and test procedures#Ex8_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.3/Ex8_3.R#S##2956
+8# Test of hypotheses based on a single sample#8.2#Hypotheses and test procedures#Ex8_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.2/Ex8_2.R#S##2955
+8# Test of hypotheses based on a single sample#8.19#Interpreting P values#Ex8_19.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.19/Ex8_19.R#S##2972
+8# Test of hypotheses based on a single sample#8.18#P values for t tests#Ex8_18.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.18/Ex8_18.R#S##2971
+8# Test of hypotheses based on a single sample#8.17#P values for z tests#Ex8_17.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.17/Ex8_17.R#S##2970
+8# Test of hypotheses based on a single sample#8.15#P values#Ex8_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.15/Ex8_15.R#S##2968
+8# Test of hypotheses based on a single sample#8.14#P values#Ex8_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.14/Ex8_14.R#S##2967
+8# Test of hypotheses based on a single sample#8.13#Tests concerning a population proportion#Ex8_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.13/Ex8_13.R#S##2966
+8# Test of hypotheses based on a single sample#8.12#Tests concerning a population proportion#Ex8_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.12/Ex8_12.R#S##2965
+8# Test of hypotheses based on a single sample#8.11#Tests concerning a population proportion#Ex8_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.11/Ex8_11.R#S##2964
+8# Test of hypotheses based on a single sample#8.1#Hypotheses and test procedures#Ex8_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH8/EX8.1/Ex8_1.R#S##2954
+7# Statistical intervals based on a single sample#7.8#CI for population proportion#Ex7_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.8/Ex7_8.R#S##2536
+7# Statistical intervals based on a single sample#7.7#Large sample CI for mean#Ex7_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.7/Ex7_7.R#S##2535
+7# Statistical intervals based on a single sample#7.6#Large sample CI for mean#Ex7_6.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.6/Ex7_6.R#S##2534
+7# Statistical intervals based on a single sample#7.4#Confidence level and precision and sample size#Ex7_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.4/Ex7_4.R#S##2533
+7# Statistical intervals based on a single sample#7.3#Other levels of confidence#Ex7_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.3/Ex7_3.R#S##2532
+7# Statistical intervals based on a single sample#7.2#Basic properties of confidence intervals#Ex7_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.2/Ex7_2.R#S##2531
+7# Statistical intervals based on a single sample#7.15#CI for variance and sd of normal population#Ex7_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.15/Ex7_15.R#S##2542
+7# Statistical intervals based on a single sample#7.14#Tolerance intervals#Ex7_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.14/Ex7_14.R#S##2541
+7# Statistical intervals based on a single sample#7.13#Prediction interval#Ex7_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.13/Ex7_13.R#S##2540
+7# Statistical intervals based on a single sample#7.12#A prediction interval for a single future value#Ex7_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.12/Ex7_12.R#S##2539
+7# Statistical intervals based on a single sample#7.11#One sample t confidence interval#Ex7_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.11/Ex7_11.R#S##4566
+7# Statistical intervals based on a single sample#7.10#Confidence bounds#Ex7_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH7/EX7.10/Ex7_10.R#S##2537
+6#Point estimation#6.9#Standard error of an estimator#Ex6_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.9/Ex6_9.R#S##2525
+6#Point estimation#6.3#Some general concepts of point estimation#Ex6_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.3/Ex6_3.R#S##4554
+6#Point estimation#6.21#The invariance principle#Ex6_21.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.21/Ex6_21.R#S##2530
+6#Point estimation#6.2#Some general concepts of point estimation#Ex6_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.2/Ex6_2.R#S##4553
+6#Point estimation#6.14#Method of moments#Ex6_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.14/Ex6_14.R#S##4552
+6#Point estimation#6.13#Method of moments#Ex6_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.13/Ex6_13.R#S##4555
+6#Point estimation#6.11#Standard error of an estimator#Ex6_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.11/Ex6_11.R#S##4556
+6#Point estimation#6.10#Standard error of an estimator#Ex6_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.10/Ex6_10.R#S##2526
+6#Point estimation#6.1#Some general concepts of point estimation#Ex6_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH6/EX6.1/Ex6_1.R#S##2522
+5# Joint probability distributions and random samples#5.9#Multinomial distribution#Ex5_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.9/Ex5_9.R#S##4565
+5# Joint probability distributions and random samples#5.8#Independent random variables#Ex5_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.8/Ex5_8.R#S##1042
+5# Joint probability distributions and random samples#5.5#Marginal probability density function#Ex5_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.5/Ex5_5.R#S##3998
+5# Joint probability distributions and random samples#5.4#Marginal probability density function#Ex5_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.4/Ex5_4.R#S##3997
+5# Joint probability distributions and random samples#5.31#Normal random variables#Ex5_31.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.31/Ex5_31.R#S##1053
+5# Joint probability distributions and random samples#5.30#Difference between two random variables#Ex5_30.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.30/Ex5_30.R#S##1052
+5# Joint probability distributions and random samples#5.3#Joint probability density function#Ex5_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.3/Ex5_3.R#S##3996
+5# Joint probability distributions and random samples#5.29#Linear combination#Ex5_29.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.29/Ex5_29.R#S##1051
+5# Joint probability distributions and random samples#5.27#Central limit theorem#Ex5_27.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.27/Ex5_27.R#S##1050
+5# Joint probability distributions and random samples#5.26#Central limit theorem#Ex5_26.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.26/Ex5_26.R#S##1049
+5# Joint probability distributions and random samples#5.25#Normal population distribution#Ex5_25.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.25/Ex5_25.R#S##1048
+5# Joint probability distributions and random samples#5.24#Standard error of the mean#Ex5_24.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.24/Ex5_24.R#S##1047
+5# Joint probability distributions and random samples#5.2#Marginal probability mass function#Ex5_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.2/Ex5_2.R#S##3995
+5# Joint probability distributions and random samples#5.19#Statistics and their distributions#Ex5_19.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.19/Ex5_19.R#S##1046
+5# Joint probability distributions and random samples#5.18#Correlation#Ex5_18.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.18/Ex5_18.R#S##4564
+5# Joint probability distributions and random samples#5.15#Covariance#Ex5_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.15/Ex5_15.R#S##4000
+5# Joint probability distributions and random samples#5.14#Expected values#Ex5_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.14/Ex5_14.R#S##3999
+5# Joint probability distributions and random samples#5.12#Conditional distributions#Ex5_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.12/Ex5_12.R#S##1044
+5# Joint probability distributions and random samples#5.1#Joint probability mass function#Ex5_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH5/EX5.1/Ex5_1.R#S##3994
+4# Continuous random variables and probability distributions#4.7#Computing probabilities#Ex4_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.7/Ex4_7.R#S##848
+4# Continuous random variables and probability distributions#4.5#Uniform distribution#Ex4_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.5/Ex4_5.R#S##847
+4# Continuous random variables and probability distributions#4.4#Probability density function#Ex4_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.4/Ex4_4.R#S##846
+4# Continuous random variables and probability distributions#4.31#Beyond normality#Ex4_31.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.31/Ex4_31.R#S##872
+4# Continuous random variables and probability distributions#4.30#Probability plots#Ex4_30.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.30/Ex4_30.R#S##871
+4# Continuous random variables and probability distributions#4.29#Probability plots#Ex4_29.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.29/Ex4_29.R#S##870
+4# Continuous random variables and probability distributions#4.28#Beta distribution#Ex4_28.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.28/Ex4_28.R#S##869
+4# Continuous random variables and probability distributions#4.27#Lognormal distribution#Ex4_27.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.27/Ex4_27.R#S##4550
+4# Continuous random variables and probability distributions#4.26#Weibull distribution#Ex4_26.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.26/Ex4_26.R#S##867
+4# Continuous random variables and probability distributions#4.25#Weibull distribution#Ex4_25.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.25/Ex4_25.R#S##4551
+4# Continuous random variables and probability distributions#4.24#Gamma distribution#Ex4_24.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.24/Ex4_24.R#S##865
+4# Continuous random variables and probability distributions#4.23#Gamma distribution#Ex4_23.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.23/Ex4_23.R#S##864
+4# Continuous random variables and probability distributions#4.22#Exponential distribution#Ex4_22.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.22/Ex4_22.R#S##863
+4# Continuous random variables and probability distributions#4.21#Exponential distribution#Ex4_21.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.21/Ex4_21.R#S##862
+4# Continuous random variables and probability distributions#4.20#Approximating binomial distribution#Ex4_20.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.20/Ex4_20.R#S##861
+4# Continuous random variables and probability distributions#4.18#Percentiles of arbitrary normal distribution#Ex4_18.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.18/Ex4_18.R#S##860
+4# Continuous random variables and probability distributions#4.17#Nonstandard normal distributions#Ex4_17.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.17/Ex4_17.R#S##859
+4# Continuous random variables and probability distributions#4.16#Nonstandard normal distributions#Ex4_16.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.16/Ex4_16.R#S##858
+4# Continuous random variables and probability distributions#4.15#z critical values#Ex4_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.15/Ex4_15.R#S##857
+4# Continuous random variables and probability distributions#4.14#Percentiles of standard normal distribution#Ex4_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.14/Ex4_14.R#S##856
+4# Continuous random variables and probability distributions#4.13.d#Standard normal distribution#Ex4_13_d.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.13.d/Ex4_13_d.R#S##855
+4# Continuous random variables and probability distributions#4.13.c#Standard normal distribution#Ex4_13_c.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.13.c/Ex4_13_c.R#S##854
+4# Continuous random variables and probability distributions#4.13.b#Standard normal distribution#Ex4_13_b.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.13.b/Ex4_13_b.R#S##853
+4# Continuous random variables and probability distributions#4.13.a#Standard normal distribution#Ex4_13_a.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.13.a/Ex4_13_a.R#S##852
+4# Continuous random variables and probability distributions#4.12#Variance and standard deviation#Ex4_12.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.12/Ex4_12.R#S##851
+4# Continuous random variables and probability distributions#4.11#Expected value of a function#Ex4_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.11/Ex4_11.R#S##850
+4# Continuous random variables and probability distributions#4.10#Expected values#Ex4_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH4/EX4.10/Ex4_10.R#S##849
+3#Discrete random variables and probability distributions#3.9#Probability distributions for discrete random variables#Ex3_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.9/Ex3_9.R#S##823
+3#Discrete random variables and probability distributions#3.8#Probability distributions for discrete random variables#Ex3_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.8/Ex3_8.R#S##822
+3#Discrete random variables and probability distributions#3.7#Probability distributions for discrete random variables#Ex3_7.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.7/Ex3_7.R#S##821
+3#Discrete random variables and probability distributions#3.42#Poisson process#Ex3_42.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.42/Ex3_42.R#S##845
+3#Discrete random variables and probability distributions#3.41#Mean and variance in Poisson distribution#Ex3_41.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.41/Ex3_41.R#S##844
+3#Discrete random variables and probability distributions#3.40#Poisson distribution as a limit#Ex3_40.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.40/Ex3_40.R#S##4549
+3#Discrete random variables and probability distributions#3.39#Poisson probability distribution#Ex3_39.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.39/Ex3_39.R#S##4545
+3#Discrete random variables and probability distributions#3.38#Negative binomial distribution#Ex3_38.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.38/Ex3_38.R#S##4542
+3#Discrete random variables and probability distributions#3.37#Mean and variance of hypergeometric distribution#Ex3_37.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.37/Ex3_37.R#S##840
+3#Discrete random variables and probability distributions#3.36#Hypergeometric distribution#Ex3_36.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.36/Ex3_36.R#S##839
+3#Discrete random variables and probability distributions#3.35#Hypergeometric distribution#Ex3_35.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.35/Ex3_35.R#S##4543
+3#Discrete random variables and probability distributions#3.34#Mean and variance of X#Ex3_34.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.34/Ex3_34.R#S##837
+3#Discrete random variables and probability distributions#3.33#Using binomial tables#Ex3_33.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.33/Ex3_33.R#S##4547
+3#Discrete random variables and probability distributions#3.32.4#Using binomial tables#Ex3_32_4.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.32.4/Ex3_32_4.R#S##4548
+3#Discrete random variables and probability distributions#3.32.3#Using binomial tables#Ex3_32_3.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.32.3/Ex3_32_3.R#S##4546
+3#Discrete random variables and probability distributions#3.32.2#Using binomial tables#Ex3_32_2.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.32.2/Ex3_32_2.R#S##4544
+3#Discrete random variables and probability distributions#3.32.1#Cumulative distribution function#Ex3_32_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.32.1/Ex3_32_1.R#S##488
+3#Discrete random variables and probability distributions#3.31#Binomial random variable and distribution#Ex3_31.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.31/Ex3_31.R#S##4538
+3#Discrete random variables and probability distributions#3.30#Binomial experiment#Ex3_30.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.30/Ex3_30.R#S##834
+3#Discrete random variables and probability distributions#3.29#Binomial experiment#Ex3_29.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.29/Ex3_29.R#S##833
+3#Discrete random variables and probability distributions#3.26#Rules of variance#Ex3_26.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.26/Ex3_26.R#S##4535
+3#Discrete random variables and probability distributions#3.25#The variance of X#Ex3_25.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.25/Ex3_25.R#S##4539
+3#Discrete random variables and probability distributions#3.24#The variance of X#Ex3_24.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.24/Ex3_24.R#S##4534
+3#Discrete random variables and probability distributions#3.23#Expected value of a function#Ex3_23.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.23/Ex3_23.R#S##4536
+3#Discrete random variables and probability distributions#3.17#Expected value of X#Ex3_17.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.17/Ex3_17.R#S##4541
+3#Discrete random variables and probability distributions#3.16#Expected value of X#Ex3_16.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.16/Ex3_16.R#S##4540
+3#Discrete random variables and probability distributions#3.15#Cumulative distribution function of discrete random variable#Ex3_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.15/Ex3_15.R#S##826
+3#Discrete random variables and probability distributions#3.13#Cumulative distribution function#Ex3_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.13/Ex3_13.R#S##4537
+3#Discrete random variables and probability distributions#3.10#Probability distributions for discrete random variables#Ex3_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH3/EX3.10/Ex3_10.R#S##824
+2# Probability#2.8#Relations from set theory#Ex2_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.8/Ex2_8.R#S##4418
+2# Probability#2.36#Independence of more than two events#Ex2_36.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.36/Ex2_36.R#S##4430
+2# Probability#2.30#Bayes Theorem#Ex2_30.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.30/Ex2_30.R#S##4429
+2# Probability#2.26#Conditional probability#Ex2_26.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.26/Ex2_26.R#S##4598
+2# Probability#2.25#Conditional probability#Ex2_25.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.25/Ex2_25.R#S##4427
+2# Probability#2.23#Permutations and combinations#Ex2_23.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.23/Ex2_23.R#S##4425
+2# Probability#2.22#Permutations and combinations#Ex2_22.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.22/Ex2_22.R#S##4426
+2# Probability#2.21#Permutations and combinations#Ex2_21.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.21/Ex2_21.R#S##4423
+2# Probability#2.19#Product rule#Ex2_19.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.19/Ex2_19.R#S##4422
+2# Probability#2.14#Properties of probability #Ex2_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.14/Ex2_14.R#S##4421
+2# Probability#2.13#Properties of probability #Ex2_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.13/Ex2_13.R#S##4420
+2# Probability#2.11#Properties of probability #Ex2_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH2/EX2.11/Ex2_11.R#S##4419
+1#Overview and descriptive statistics#1.9#Histograms#Ex1_9.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.9/Ex1_9.R#S##4407
+1#Overview and descriptive statistics#1.8#Dotplots#Ex1_8.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.8/Ex1_8.R#S##4406
+1#Overview and descriptive statistics#1.5#Collecting data#Ex1_5.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.5/Ex1_5.R#S##4405
+1#Overview and descriptive statistics#1.20#Box plots that show outliers#Ex1_20.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.20/Ex1_20.R#S##4417
+1#Overview and descriptive statistics#1.19#Boxplots#Ex1_19.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.19/Ex1_19.R#S##4416
+1#Overview and descriptive statistics#1.18#Measures of variability #Ex1_18.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.18/Ex1_18.R#S##4601
+1#Overview and descriptive statistics#1.17#Measures of variability for sample data#Ex1_17.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.17/Ex1_17.R#S##4599
+1#Overview and descriptive statistics#1.15#Median#Ex1_15.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.15/Ex1_15.R#S##4413
+1#Overview and descriptive statistics#1.14#Mean #Ex1_14.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.14/Ex1_14.R#S##4412
+1#Overview and descriptive statistics#1.13#Qualitative data#Ex1_13.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.13/Ex1_13.R#S##4411
+1#Overview and descriptive statistics#1.11#Histograms#Ex1_11.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.11/Ex1_11.R#S##4600
+1#Overview and descriptive statistics#1.10#Histograms#Ex1_10.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.10/Ex1_10.R#S##4607
+1#Overview and descriptive statistics#1.1#Branches of statistics#Ex1_1.R#Probability_And_Statistics_For_Engineering_And_The_Sciences_by_Jay_L_Devore/CH1/EX1.1/Ex1_1.R#S##4404

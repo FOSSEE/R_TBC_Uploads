@@ -1,0 +1,366 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./TEX_final.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size12.clo))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/theorem.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/thp.sty))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstmisc.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/listings.cfg))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/alltt.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang2.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/listings/lstlang3.sty)
+No file TEX_final.aux.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+[1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX
+ warning (ext4): destination with the same identifier (name{page.1}) has been a
+lready used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.73 \newpage
+              [1] [2] [3] [4]
+Chapter 2.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.1/2.2.1.R
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd) [5]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd) [6])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.2/2.2.2.R
+[7] [8])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.1/2.4.1.R
+Overfull \hbox (67.19382pt too wide) in paragraph at lines 6--8
+[][][] 
+[9])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.2/2.4.2.R
+[10])
+Overfull \hbox (3.95541pt too wide) in paragraph at lines 120--121
+[]\OT1/cmr/m/n/12 LP so-lu-tion for Multi pe-riod Pro-duc-tion In-ven-tory Mode
+l 
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.3/2.4.3.R
+[11])
+Overfull \hbox (8.26787pt too wide) in paragraph at lines 127--128
+[]\OT1/cmr/m/n/12 LP so-lu-tion for Multi pe-riod Pro-duc-tion smooth-ing Model
+ 
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.4/2.4.4.R
+[12]
+Overfull \hbox (22.73343pt too wide) in paragraph at lines 5--7
+[][][] 
+[13])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.5/2.4.5.R
+[14])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.6/2.4.6.R
+[15])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.7/2.4.7.R
+[16] [17]) [18]
+Chapter 3.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.2.1/3.2.1.R
+[19] [20])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.3.1/3.3.1.R
+[21])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.1/3.4.1.R)
+[22]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.2/3.4.2.R
+[23])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.1/3.5.1.R)
+[24]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.2/3.5.2.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.3/3.5.3.R
+[25])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.4/3.5.4.R
+[26])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.1/3.6.1.R
+[27])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.2/3.6.2.R)
+[28]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.3/3.6.3.R)
+[29]
+Chapter 4.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.1/4.2.1.R
+[30])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.2/4.2.2.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.3/4.2.3.R
+[31])
+Overfull \hbox (7.94695pt too wide) in paragraph at lines 257--258
+[]\OT1/cmr/m/n/12 Economic in-ter-pre-ta-tion of Dual vari-ables of Reddy Mikks
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.1/4.3.1.R
+[32])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.2/4.3.2.R
+[33])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.4.1/4.4.1.R
+[34] [35] [36])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.1/4.5.1.R
+[37])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.2/4.5.2.R
+Overfull \hbox (274.67563pt too wide) in paragraph at lines 7--9
+[][][] 
+) (../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.3/4.5.3.R
+[38] [39])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.4/4.5.4.R)
+[40]
+Chapter 5.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.1/5.1.1.R
+[41])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.2/5.1.2.R
+[42])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.1/5.2.1.R
+[43])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.2/5.2.2.R
+[44])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.1/5.3.1.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.2/5.3.2.R
+[45]) [46]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.3/5.3.3.R
+[47])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.5/5.3.5.R
+Overfull \hbox (259.8555pt too wide) in paragraph at lines 4--6
+[][][] 
+) [48]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.1/5.4.1.R
+[49])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.2/5.4.2.R
+[50]) [51]
+Chapter 6.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.2.1/6.2.1.R
+[52])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.1/6.3.1.R
+[53] [54])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.2/6.3.2.R
+[55])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.3/6.3.3.R
+Overfull \hbox (393.23666pt too wide) in paragraph at lines 6--7
+[][][] 
+[56])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.4/6.3.4.R
+[57] [58])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.5/6.3.5.R
+[59])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.6/6.3.6.R
+[60])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.2/6.4.2.R
+[61])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.3/6.4.3.R
+[62] [63])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.1/6.5.1.R)
+[64]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.2/6.5.2.R
+Overfull \hbox (385.8266pt too wide) in paragraph at lines 5--7
+[][][] 
+[65])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.3/6.5.3.R
+[66])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.4/6.5.4.R
+Overfull \hbox (385.8266pt too wide) in paragraph at lines 5--7
+[][][] 
+[67] [68])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.5/6.5.5.R
+[69]) [70]
+Chapter 7.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.2/7.1.2.R
+[71])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.3/7.1.3.R)
+[72]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.2.1/7.2.1.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.3.1/7.3.1.R
+[73])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.4.1/7.4.1.R)
+[74]
+Chapter 8.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.1/8.1.1.R
+[75])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.2/8.1.2.R
+[76])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.3/8.1.3.R
+[77])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.4/8.1.4.R
+[78] [79])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.1/8.2.1.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.2/8.2.2.R
+[80]) [81]
+Chapter 9.
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.1/9.2.1.R
+[82])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.2/9.2.2.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.3/9.2.3.R
+[83] [84])
+Overfull \hbox (5.57056pt too wide) in paragraph at lines 582--583
+[]\OT1/cmr/m/n/12 Minimization of sin-gle varib-ale func-tion us-ing tabu searc
+h
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.1/9.3.1.R
+[85]) [86]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.3/9.3.3.R)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.4/9.3.4.R
+[87] [88]) [89]
+Chapter 10.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.1/10.3.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.2/10.3.2.R
+[90])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.4.1/10.4.1.R
+[91]) [92]
+Chapter 11.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH11/EX11.1.1/11.1.1.R
+[93]) [94]
+Chapter 12.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.2.1/12.2.1.R
+
+Overfull \hbox (252.44543pt too wide) in paragraph at lines 5--6
+[][][] 
+
+Overfull \hbox (313.95615pt too wide) in paragraph at lines 6--7
+[][][][][][] 
+
+Overfull \hbox (306.54608pt too wide) in paragraph at lines 7--8
+[][][][][][] 
+
+Overfull \hbox (321.36621pt too wide) in paragraph at lines 8--9
+[][][][][][] 
+
+Overfull \hbox (91.6542pt too wide) in paragraph at lines 9--10
+[][][][][][] 
+[95])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.1/12.3.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.2/12.3.2.R
+[96])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.4.1/12.4.1.R
+[97] [98]) [99]
+Chapter 13.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.1/13.1.1.R
+[100])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.2/13.1.2.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.3/13.1.3.R
+[101])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.1/13.2.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.2/13.2.2.R
+[102])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.3.1/13.3.1.R
+[103])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.1/13.4.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.3/13.4.3.R
+[104]) [105]
+Chapter 14.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.1.1/14.1.1.R
+) [106]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.2.1/14.2.1.R
+) [107]
+Chapter 15.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.2.1/15.2.1.R
+) [108]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.1/15.3.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.2/15.3.2.R
+) [109]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.1/15.4.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.2/15.4.2.R
+[110])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.5.1/15.5.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.6.1/15.6.1.R
+
+Overfull \hbox (378.41653pt too wide) in paragraph at lines 5--6
+[][][] 
+) [111]
+Chapter 16.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.1/16.4.1.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.2/16.4.2.R
+[112]) [113]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.1/16.6.1.R
+[114])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.2/16.6.2.R
+[115])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.4/16.6.4.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.5/16.6.5.R
+[116])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.6/16.6.6.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.7/16.6.7.R
+[117])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.8/16.6.8.R
+[118])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.7.1/16.7.1.R
+) [119]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.1/16.9.1.R
+[120])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.2/16.9.2.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.3/16.9.3.R
+[121]) [122]
+Chapter 17.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.1.1/17.1.1.R
+[123])
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.3.3/17.3.3.R
+)
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.4.1/17.4.1.R
+[124]) [125]
+Chapter 18.
+
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.1/18.1.1.R
+) [126]
+(../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.3/18.1.3.R
+) [127] (./TEX_final.aux)
+
+Package rerunfilecheck Warning: File `TEX_final.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on TEX_final.pdf (128 pages, 424845 bytes).
+Transcript written on TEX_final.log.
+'TEX_final.pdf' -> 'book_Operations_Research:_An_Introduction_by_Hamdy_A_Taha.pdf'

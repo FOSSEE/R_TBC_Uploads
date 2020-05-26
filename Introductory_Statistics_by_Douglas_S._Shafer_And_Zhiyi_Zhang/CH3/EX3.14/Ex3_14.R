@@ -1,0 +1,11 @@
+#Page 135
+library("sets")
+library("gtools")
+set<-as.set(c(1,2,3,4,5,6))
+e<-c(2,4,6)
+E<-as.set(E)
+k<-set_complement(E,set)
+s1<-print(permutations(n=3,r=3,v=c(1,3,5),repeats.allowed=F))
+s2<-print(permutations(n=3,r=2,v=c(1,3,5),repeats.allowed=F))
+s3<-print(permutations(n=3,r=1,v=c(1,3,5),repeats.allowed=F))
+print("The events mutually exclusive to A are Complement of E and odd numbers ")

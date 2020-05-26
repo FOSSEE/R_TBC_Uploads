@@ -1,0 +1,27 @@
+#page no. 8.4
+rm(list=ls(all=T))
+p1<-0.15
+p2<-0.34
+p3<-0.50
+p4<-0.62
+p5<-0.80
+z1<-round(qnorm(p1,lower.tail=F),digits=2)
+z2<-round(qnorm(p2,lower.tail=F),digits=2)
+z3<-round(qnorm(p3,lower.tail=F),digits=2)
+z4<-round(qnorm(p4,lower.tail=F),digits=2)
+z5<-round(qnorm(p5,lower.tail=F),digits=2)
+z1
+z2
+z3
+z4
+z5
+sigma_dist_from_mean<-c(z1,z2,z3,z4,z5)
+sigma_dist_from_arbt_zero<-sigma_dist_from_mean+3
+df<-rbind(c("A","B","C","D","E"),sigma_dist_from_mean,sigma_dist_from_arbt_zero)
+df
+d_A_B<-z1-z2
+d_A_B
+d_D_E<-z4-z5
+d_D_E
+ratio<-round(d_A_B/d_D_E,digits=1)
+ratio

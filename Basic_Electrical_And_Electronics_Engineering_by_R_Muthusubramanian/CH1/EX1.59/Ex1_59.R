@@ -1,0 +1,17 @@
+# Page No :  69
+RAB = 9;
+RBC = 1;
+RCA = 1.5;
+RAD = 6;
+RBD = 4;
+RCD = 3;
+RABn = 18;
+RBCn = 9.;
+RCAn = 13.5;
+RAB1 = ((RAB*RABn)/(RAB+RABn));
+RBC1 = ((RBC*RBCn)/(RBC+RBCn));
+RAC1 = ((RCA*RCAn)/(RCA+RCAn));
+RBA = ((RBC1+RAC1)*(RAB1))/(RBC1+RAC1+RAB1);
+RCB = ((RAC1+RAB1)*(RBC1))/(RAC1+RAB1+RBC1);
+RCA = ((RAB1+RBC1)*(RAC1))/(RAB1+RBC1+RAC1);
+cat(RBA,RCB,RCA);

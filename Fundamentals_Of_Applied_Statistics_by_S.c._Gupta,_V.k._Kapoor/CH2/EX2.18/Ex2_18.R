@@ -1,0 +1,29 @@
+#Page no. 2.48
+rm(list=ls(all=T))
+year<-c(seq(2001.1,2001.4,0.1),seq(2002.1,2002.4,0.1),seq(2003.1,2003.4,0.1),seq(2004.1,2004.4,0.1))
+y<-c(75,60,54,59,86,65,63,80,90,72,66,85,100,78,72,93)
+mt_4y<-filter(y,rep(1,4))
+mt_2y<-filter(mt_4y,rep(1,2),sides=1)
+ma_4y<-mt_2y/8
+ratio<-(y/ma_4y)*100
+diff_y_MA<-y-ma_4y
+comp_MA<-data.frame(year,y,mt_4y,mt_2y,ma_4y,ratio,diff_y_MA)
+comp_MA
+df<-matrix(ratio,ncol=4,byrow=T,dimnames=list(c(2001:2004),c("Q1","Q2","Q3","Q4")))
+total<-colSums(df,na.rm=T)
+avg_si<-colMeans(df,na.rm=T)
+k<-signif(sum(avg_si),2)/sum(avg_si);k
+adj_ses_ind<-avg_si*k
+comp_SI_mult<-rbind(df,total,avg_si,adj_ses_ind)
+comp_SI_mult
+sum(avg_si)
+sum(adj_ses_ind)
+dff<-matrix(diff_y_MA,ncol=4,byrow=T,dimnames=list(c(2001:2004),c("Q1","Q2","Q3","Q4")))
+Total<-colSums(dff,na.rm = T)
+Avg_SI<-colMeans(dff,na.rm=T)
+K<-sum(Avg_SI)/4;K
+Adj_SI<-Avg_SI-K
+comp_SI_add<-round(rbind(dff,Total,Avg_SI,Adj_SI),3)
+comp_SI_add
+sum(Avg_SI)
+round(sum(Adj_SI))

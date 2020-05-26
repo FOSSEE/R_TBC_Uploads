@@ -1,0 +1,26 @@
+#Page no.9.55
+rm(list=ls(all=T))
+k=5
+pop_male<-c(442532,419042,393543,308269,257852,230629,204188,182270,162509,128784,102971,80717,58899,37797,45099)
+death_male<-c(18623,1809,984,1233,1289,1776,1633,1588,1967,2138,1905,2478,3099,2428,5981)
+pop_female<-c(434980,416736,384616,314056,269340,236187,203477,176534,145037,122946,96589,78311,58142,39099,48866)
+death_female<-c(17308,1709,1638,1329,1481,1677,1465,1289,1233,1352,1182,1605,1980,2468,7175)
+birth_male<-c(3578,7293,6775,4233,2999,593,129)
+birth_female<-c(3343,6690,6361,4187,2685,725,128)
+sur_rate<-c(0.914,0.899,0.844,0.868,0.852,0.834,0.819)
+CDR<-(sum(death_male+death_female)/sum(pop_male+pop_female))*1000
+CDR_males<-(sum(death_male)/sum(pop_male))*1000
+CDR_females<-(sum(death_female)/sum(pop_female))*1000
+CBR<-(sum(sum(birth_female),sum(birth_male))/sum(sum(pop_male),sum(pop_female)))*1000
+GFR<-(sum(sum(birth_female),sum(birth_male))/sum(pop_female[4:10]))*1000
+TFR<-k*sum((birth_male+birth_female)/pop_female[4:10])*1000
+GRR<-k*sum(birth_female/pop_female[4:10])*1000
+NRR<-k*sum((birth_female/pop_female[4:10])*sur_rate)*1000
+CDR
+CDR_males
+CDR_females
+CBR
+GFR
+TFR
+GRR
+NRR

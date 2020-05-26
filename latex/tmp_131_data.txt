@@ -1,0 +1,149 @@
+7# Symmetric Matrices#7.9#9#Ex7.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.9/Ex7.9.R#S##4994
+7# Symmetric Matrices#7.8#8#Ex7.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.8/Ex7.8.R#S##4993
+7# Symmetric Matrices#7.7#7#Ex7.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.7/Ex7.7.R#S##4992
+7# Symmetric Matrices#7.6#6#Ex7.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.6/Ex7.6.R#S##4991
+7# Symmetric Matrices#7.5#5#Ex7.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.5/Ex7.5.R#S##4990
+7# Symmetric Matrices#7.4#4#Ex7.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.4/Ex7.4.R#S##4989
+7# Symmetric Matrices#7.3#3#Ex7.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.3/Ex7.3.R#S##4988
+7# Symmetric Matrices#7.2#2#Ex7.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.2/Ex7.2.R#S##4987
+7# Symmetric Matrices#7.14#14#Ex7.14.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.14/Ex7.14.R#S##4999
+7# Symmetric Matrices#7.13#13#Ex7.13.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.13/Ex7.13.R#S##4998
+7# Symmetric Matrices#7.12#12#Ex7.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.12/Ex7.12.R#S##4997
+7# Symmetric Matrices#7.11#11#Ex7.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.11/Ex7.11.R#S##4996
+7# Symmetric Matrices#7.10#10#Ex7.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.10/Ex7.10.R#S##4995
+7# Symmetric Matrices#7.1#1#Ex7.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH7/EX7.1/Ex7.1.R#S##4986
+6# Orthogonality And Least Squares#6.9#9#Ex6.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.9/Ex6.9.R#S##4970
+6# Orthogonality And Least Squares#6.8#8#Ex6.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.8/Ex6.8.R#S##4969
+6# Orthogonality And Least Squares#6.7#7#Ex6.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.7/Ex6.7.R#S##4968
+6# Orthogonality And Least Squares#6.6#6#Ex6.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.6/Ex6.6.R#S##4967
+6# Orthogonality And Least Squares#6.5#5#Ex6.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.5/Ex6.5.R#S##4966
+6# Orthogonality And Least Squares#6.4#4#Ex6.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.4/Ex6.4.R#S##4965
+6# Orthogonality And Least Squares#6.3#3#Ex6.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.3/Ex6.3.R#S##4964
+6# Orthogonality And Least Squares#6.23#23#Ex6.23.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.23/Ex6.23.R#S##4985
+6# Orthogonality And Least Squares#6.22#22#Ex6.22.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.22/Ex6.22.R#S##4984
+6# Orthogonality And Least Squares#6.21#21#Ex6.21.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.21/Ex6.21.R#S##4983
+6# Orthogonality And Least Squares#6.20#20#Ex6.20.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.20/Ex6.20.R#S##4982
+6# Orthogonality And Least Squares#6.2#2#Ex6.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.2/Ex6.2.R#S##4963
+6# Orthogonality And Least Squares#6.19#19#Ex6.19.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.19/Ex6.19.R#S##4981
+6# Orthogonality And Least Squares#6.18#18#Ex6.18.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.18/Ex6.18.R#S##4980
+6# Orthogonality And Least Squares#6.17#17#Ex6.17.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.17/Ex6.17.R#S##4979
+6# Orthogonality And Least Squares#6.16#16#Ex6.16.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.16/Ex6.16.R#S##4978
+6# Orthogonality And Least Squares#6.15#15#Ex6.15.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.15/Ex6.15.R#S##4977
+6# Orthogonality And Least Squares#6.14#14#Ex6.14.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.14/Ex6.14.R#S##4976
+6# Orthogonality And Least Squares#6.13#13#Ex6.13.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.13/Ex6.13.R#S##4975
+6# Orthogonality And Least Squares#6.12#12#Ex6.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.12/Ex6.12.R#S##4974
+6# Orthogonality And Least Squares#6.11#11#Ex6.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.11/Ex6.11.R#S##4973
+6# Orthogonality And Least Squares#6.10#10#Ex6.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.10/Ex6.10.R#S##4972
+6# Orthogonality And Least Squares#6.1#1#Ex6.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH6/EX6.1/Ex6.1.R#S##4962
+5# Eigenvalues And Eigenvectors#5.9#9#Ex5.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.9/Ex5.9.R#S##4946
+5# Eigenvalues And Eigenvectors#5.8#8#Ex5.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.8/Ex5.8.R#S##4945
+5# Eigenvalues And Eigenvectors#5.7#7#Ex5.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.7/Ex5.7.R#S##4944
+5# Eigenvalues And Eigenvectors#5.6#6#Ex5.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.6/Ex5.6.R#S##4943
+5# Eigenvalues And Eigenvectors#5.5#5#Ex5.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.5/Ex5.5.R#S##4942
+5# Eigenvalues And Eigenvectors#5.4#4#Ex5.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.4/Ex5.4.R#S##4941
+5# Eigenvalues And Eigenvectors#5.3#3#Ex5.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.3/Ex5.3.R#S##4940
+5# Eigenvalues And Eigenvectors#5.24#24#Ex5.24.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.24/Ex5.24.R#S##4961
+5# Eigenvalues And Eigenvectors#5.23#23#Ex5.23.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.23/Ex5.23.R#S##4960
+5# Eigenvalues And Eigenvectors#5.22#22#Ex5.22.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.22/Ex5.22.R#S##4959
+5# Eigenvalues And Eigenvectors#5.21#21#Ex5.21.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.21/Ex5.21.R#S##4958
+5# Eigenvalues And Eigenvectors#5.20#20#Ex5.20.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.20/Ex5.20.R#S##4957
+5# Eigenvalues And Eigenvectors#5.2#2#Ex5.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.2/Ex5.2.R#S##4939
+5# Eigenvalues And Eigenvectors#5.19#19#Ex5.19.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.19/Ex5.19.R#S##4956
+5# Eigenvalues And Eigenvectors#5.18#18#Ex5.18.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.18/Ex5.18.R#S##4955
+5# Eigenvalues And Eigenvectors#5.17#17#Ex5.17.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.17/Ex5.17.R#S##4954
+5# Eigenvalues And Eigenvectors#5.16#16#Ex5.16.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.16/Ex5.16.R#S##4953
+5# Eigenvalues And Eigenvectors#5.15#15#Ex5.15.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.15/Ex5.15.R#S##4952
+5# Eigenvalues And Eigenvectors#5.14#14#Ex5.14.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.14/Ex5.14.R#S##4951
+5# Eigenvalues And Eigenvectors#5.13#13#Ex5.13.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.13/Ex5.13.R#S##4950
+5# Eigenvalues And Eigenvectors#5.12#12#Ex5.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.12/Ex5.12.R#S##4949
+5# Eigenvalues And Eigenvectors#5.11#11#Ex5.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.11/Ex5.11.R#S##4948
+5# Eigenvalues And Eigenvectors#5.10#10#Ex5.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.10/Ex5.10.R#S##4947
+5# Eigenvalues And Eigenvectors#5.1#1#Ex5.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH5/EX5.1/Ex5.1.R#S##4938
+4# Vector Spaces#4.9#9#Ex4.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.9/Ex4.9.R#S##4925
+4# Vector Spaces#4.8#8#Ex4.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.8/Ex4.8.R#S##4924
+4# Vector Spaces#4.7#7#Ex4.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.7/Ex4.7.R#S##4923
+4# Vector Spaces#4.6#6#Ex4.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.6/Ex4.6.R#S##4922
+4# Vector Spaces#4.5#5#Ex4.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.5/Ex4.5.R#S##4921
+4# Vector Spaces#4.4#4#Ex4.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.4/Ex4.4.R#S##4920
+4# Vector Spaces#4.3#3#Ex4.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.3/Ex4.3.R#S##4919
+4# Vector Spaces#4.21#21#Ex4.21.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.21/Ex4.21.R#S##4937
+4# Vector Spaces#4.20#20#Ex4.20.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.20/Ex4.20.R#S##4936
+4# Vector Spaces#4.2#2#Ex4.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.2/Ex4.2.R#S##4918
+4# Vector Spaces#4.19#19#Ex4.19.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.19/Ex4.19.R#S##4935
+4# Vector Spaces#4.18#18#Ex4.18.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.18/Ex4.18.R#S##4934
+4# Vector Spaces#4.17#17#Ex4.17.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.17/Ex4.17.R#S##4933
+4# Vector Spaces#4.16#16#Ex4.16.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.16/Ex4.16.R#S##4932
+4# Vector Spaces#4.15#15#Ex4.15.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.15/Ex4.15.R#S##4931
+4# Vector Spaces#4.14#14#Ex4.14.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.14/Ex4.14.R#S##4930
+4# Vector Spaces#4.13#13#Ex4.13.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.13/Ex4.13.R#S##4929
+4# Vector Spaces#4.12#12#Ex4.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.12/Ex4.12.R#S##4928
+4# Vector Spaces#4.11#11#Ex4.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.11/Ex4.11.R#S##4927
+4# Vector Spaces#4.10#10#Ex4.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.10/Ex4.10.R#S##4926
+4# Vector Spaces#4.1#1#Ex4.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH4/EX4.1/Ex4.1.R#S##4917
+3# Determinants#3.9#9#Ex3.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.9/Ex3.9.R#S##4913
+3# Determinants#3.8#8#Ex3.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.8/Ex3.8.R#S##4912
+3# Determinants#3.7#7#Ex3.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.7/Ex3.7.R#S##4911
+3# Determinants#3.6#6#Ex3.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.6/Ex3.6.R#S##4910
+3# Determinants#3.5#5#Ex3.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.5/Ex3.5.R#S##4909
+3# Determinants#3.4#4#Ex3.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.4/Ex3.4.R#S##4908
+3# Determinants#3.3#3#Ex3.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.3/Ex3.3.R#S##4907
+3# Determinants#3.2#2#Ex3.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.2/Ex3.2.R#S##4906
+3# Determinants#3.12#12#Ex3.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.12/Ex3.12.R#S##4916
+3# Determinants#3.11#11#Ex3.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.11/Ex3.11.R#S##4915
+3# Determinants#3.10#10#Ex3.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.10/Ex3.10.R#S##4914
+3# Determinants#3.1#1#Ex3.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH3/EX3.1/Ex3.1.R#S##4905
+2# Matrix Algebra#2.9#9#Ex2.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.9/Ex2.9.R#S##4890
+2# Matrix Algebra#2.8#8#Ex2.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.8/Ex2.8.R#S##4889
+2# Matrix Algebra#2.7#7#Ex2.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.7/Ex2.7.R#S##4888
+2# Matrix Algebra#2.6#6#Ex2.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.6/Ex2.6.R#S##4887
+2# Matrix Algebra#2.5#5#Ex2.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.5/Ex2.5.R#S##4886
+2# Matrix Algebra#2.4#4#Ex2.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.4/Ex2.4.R#S##4885
+2# Matrix Algebra#2.3#3#Ex2.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.3/Ex2.3.R#S##4884
+2# Matrix Algebra#2.23#23#Ex2.23.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.23/Ex2.23.R#S##4904
+2# Matrix Algebra#2.22#22#Ex2.22.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.22/Ex2.22.R#S##4903
+2# Matrix Algebra#2.21#21#Ex2.21.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.21/Ex2.21.R#S##4902
+2# Matrix Algebra#2.20#20#Ex2.20.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.20/Ex2.20.R#S##4901
+2# Matrix Algebra#2.2#2#Ex2.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.2/Ex2.2.R#S##4883
+2# Matrix Algebra#2.19#19#Ex2.19.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.19/Ex2.19.R#S##4900
+2# Matrix Algebra#2.18#18#Ex2.18.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.18/Ex2.18.R#S##4899
+2# Matrix Algebra#2.17#17#Ex2.17.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.17/Ex2.17.R#S##4898
+2# Matrix Algebra#2.16#16#Ex2.16.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.16/Ex2.16.R#S##4897
+2# Matrix Algebra#2.15#15#Ex2.15.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.15/Ex2.15.R#S##4896
+2# Matrix Algebra#2.14#14#Ex2.14.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.14/Ex2.14.R#S##4895
+2# Matrix Algebra#2.13#13#Ex2.13.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.13/Ex2.13.R#S##4894
+2# Matrix Algebra#2.12#12#Ex2.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.12/Ex2.12.R#S##4893
+2# Matrix Algebra#2.11#11#Ex2.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.11/Ex2.11.R#S##4892
+2# Matrix Algebra#2.10#10#Ex2.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.10/Ex2.10.R#S##4891
+2# Matrix Algebra#2.1#1#Ex2.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH2/EX2.1/Ex2.1.R#S##4882
+1# Linear Equations in Linear Algebra#1.9#9#Ex1.9.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.9/Ex1.9.R#S##4858
+1# Linear Equations in Linear Algebra#1.8#8#Ex1.8.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.8/Ex1.8.R#S##4857
+1# Linear Equations in Linear Algebra#1.7#7#Ex1.7.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.7/Ex1.7.R#S##4856
+1# Linear Equations in Linear Algebra#1.6#6#Ex1.6.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.6/Ex1.6.R#S##4855
+1# Linear Equations in Linear Algebra#1.5#5#Ex1.5.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.5/Ex1.5.R#S##4854
+1# Linear Equations in Linear Algebra#1.4#4#Ex1.4.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.4/Ex1.4.R#S##4853
+1# Linear Equations in Linear Algebra#1.32#32#Ex1.32.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.32/Ex1.32.R#S##4881
+1# Linear Equations in Linear Algebra#1.31#31#Ex1.31.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.31/Ex1.31.R#S##4880
+1# Linear Equations in Linear Algebra#1.30#30#Ex1.30.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.30/Ex1.30.R#S##4879
+1# Linear Equations in Linear Algebra#1.3#3#Ex1.3.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.3/Ex1.3.R#S##4852
+1# Linear Equations in Linear Algebra#1.29#29#Ex1.29.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.29/Ex1.29.R#S##4878
+1# Linear Equations in Linear Algebra#1.28#28#Ex1.28.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.28/Ex1.28.R#S##4877
+1# Linear Equations in Linear Algebra#1.27#27#Ex1.27.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.27/Ex1.27.R#S##4876
+1# Linear Equations in Linear Algebra#1.26#26#Ex1.26.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.26/Ex1.26.R#S##4875
+1# Linear Equations in Linear Algebra#1.25#25#Ex1.25.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.25/Ex1.25.R#S##4874
+1# Linear Equations in Linear Algebra#1.24#24#Ex1.24.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.24/Ex1.24.R#S##4873
+1# Linear Equations in Linear Algebra#1.23#23#Ex1.23.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.23/Ex1.23.R#S##4872
+1# Linear Equations in Linear Algebra#1.22#22#Ex1.22.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.22/Ex1.22.R#S##4871
+1# Linear Equations in Linear Algebra#1.21#21#Ex1.21.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.21/Ex1.21.R#S##4870
+1# Linear Equations in Linear Algebra#1.20#20#Ex1.20.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.20/Ex1.20.R#S##4869
+1# Linear Equations in Linear Algebra#1.2#2#Ex1.2.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.2/Ex1.2.R#S##4851
+1# Linear Equations in Linear Algebra#1.19#19#Ex1.19.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.19/Ex1.19.R#S##4868
+1# Linear Equations in Linear Algebra#1.18#18#Ex1.18.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.18/Ex1.18.R#S##4867
+1# Linear Equations in Linear Algebra#1.17#17#Ex1.17.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.17/Ex1.17.R#S##4866
+1# Linear Equations in Linear Algebra#1.16#16#Ex1.16.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.16/Ex1.16.R#S##4865
+1# Linear Equations in Linear Algebra#1.15#15#Ex1.15.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.15/Ex1.15.R#S##4864
+1# Linear Equations in Linear Algebra#1.14#14#Ex1.14.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.14/Ex1.14.R#S##4863
+1# Linear Equations in Linear Algebra#1.13#13#Ex1.13.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.13/Ex1.13.R#S##4862
+1# Linear Equations in Linear Algebra#1.12#12#Ex1.12.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.12/Ex1.12.R#S##4861
+1# Linear Equations in Linear Algebra#1.11#11#Ex1.11.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.11/Ex1.11.R#S##4860
+1# Linear Equations in Linear Algebra#1.10#10#Ex1.10.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.10/Ex1.10.R#S##4859
+1# Linear Equations in Linear Algebra#1.1#1#Ex1.1.R#Linear_Algebra_And_Its_Applications_by_David_C._Lay/CH1/EX1.1/Ex1.1.R#S##4850

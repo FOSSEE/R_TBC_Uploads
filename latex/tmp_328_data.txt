@@ -1,0 +1,76 @@
+15# Miscellaneous Solved Numerical Problems#15.5#Calculate the mass of oil#Ex15_5.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.5/Ex15_5.R#S##8666
+15# Miscellaneous Solved Numerical Problems#15.40#Calculate the value of exciting current#Ex15_40.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.40/Ex15_40.R#S##8696
+15# Miscellaneous Solved Numerical Problems#15.4#Calculate the torque#Ex15_4.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.4/Ex15_4.R#S##8665
+15# Miscellaneous Solved Numerical Problems#15.39#Calculate the resistance#Ex15_39.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.39/Ex15_39.R#S##8695
+15# Miscellaneous Solved Numerical Problems#15.38#Find the resistance #Ex15_38.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.38/Ex15_38.R#S##8694
+15# Miscellaneous Solved Numerical Problems#15.37#How many electrons pass through#Ex15_37.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.37/Ex15_37.R#S##8693
+15# Miscellaneous Solved Numerical Problems#15.36#Find the cost of using the motor#Ex15_36.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.36/Ex15_36.R#S##8692
+15# Miscellaneous Solved Numerical Problems#15.35#Estimate the efficiency#Ex15_35.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.35/Ex15_35.R#S##8691
+15# Miscellaneous Solved Numerical Problems#15.34#Determine the power required#Ex15_34.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.34/Ex15_34.R#S##8690
+15# Miscellaneous Solved Numerical Problems#15.33#Determine the frequency of supply#Ex15_33.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.33/Ex15_33.R#S##8689
+15# Miscellaneous Solved Numerical Problems#15.32#How long will it take#Ex15_32.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.32/Ex15_32.R#S##8688
+15# Miscellaneous Solved Numerical Problems#15.31#Calculate the resistance#Ex15_31.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.31/Ex15_31.R#S##8687
+15# Miscellaneous Solved Numerical Problems#15.30#Calculate the dielectric constant#Ex15_30.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.30/Ex15_30.R#S##8686
+15# Miscellaneous Solved Numerical Problems#15.3#Calculate the current drawn#Ex15_3.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.3/Ex15_3.R#S##8664
+15# Miscellaneous Solved Numerical Problems#15.29#Find the heat produced#Ex15_29.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.29/Ex15_29.R#S##8685
+15# Miscellaneous Solved Numerical Problems#15.28#Calculate its charge and capacity#Ex15_28.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.28/Ex15_28.R#S##8684
+15# Miscellaneous Solved Numerical Problems#15.27#Calculate the magnetising current#Ex15_27.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.27/Ex15_27.R#S##8683
+15# Miscellaneous Solved Numerical Problems#15.26#What is the flux through it#Ex15_26.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.26/Ex15_26.R#S##8682
+15# Miscellaneous Solved Numerical Problems#15.25#Calculate the ampere turns#Ex15_25.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.25/Ex15_25.R#S##8681
+15# Miscellaneous Solved Numerical Problems#15.24#Calculate the flux passing#Ex15_24.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.24/Ex15_24.R#S##8680
+15# Miscellaneous Solved Numerical Problems#15.23#Find the inductance#Ex15_23.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.23/Ex15_23.R#S##8679
+15# Miscellaneous Solved Numerical Problems#15.22#Find the loss of energy#Ex15_22.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.22/Ex15_22.R#S##8678
+15# Miscellaneous Solved Numerical Problems#15.21#Determine the herstesis power#Ex15_21.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.21/Ex15_21.R#S##8677
+15# Miscellaneous Solved Numerical Problems#15.20#Find the current#Ex15_20.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.20/Ex15_20.R#S##10799
+15# Miscellaneous Solved Numerical Problems#15.2#Find the resistance#Ex15_2.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.2/Ex15_2.R#S##8663
+15# Miscellaneous Solved Numerical Problems#15.19#Obtain the potential Difference#Ex15_19.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.19/Ex15_19.R#S##8675
+15# Miscellaneous Solved Numerical Problems#15.17#What is the resistance #Ex15_17.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.17/Ex15_17.R#S##8674
+15# Miscellaneous Solved Numerical Problems#15.16#what will be the resistance#Ex15_16.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.16/Ex15_16.R#S##10798
+15# Miscellaneous Solved Numerical Problems#15.15#what will be the resistance#Ex15_15.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.15/Ex15_15.R#S##8672
+15# Miscellaneous Solved Numerical Problems#15.14#What is the resistance of new wire#Ex15_14.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.14/Ex15_14.R#S##8671
+15# Miscellaneous Solved Numerical Problems#15.13#Calculate the value#Ex15_13.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.13/Ex15_13.R#S##8670
+15# Miscellaneous Solved Numerical Problems#15.12#Determine the resistivity#Ex15_12.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.12/Ex15_12.R#S##8669
+15# Miscellaneous Solved Numerical Problems#15.11#Determine the conductivity#Ex15_11.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.11/Ex15_11.R#S##8668
+15# Miscellaneous Solved Numerical Problems#15.10#Determine the resistance#Ex15_10.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.10/Ex15_10.R#S##8667
+15# Miscellaneous Solved Numerical Problems#15.1#Calculate the Consumer voltage#Ex15_1.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH15/EX15.1/Ex15_1.R#S##8662
+6# Magnetic Materials#6.8#Separate the loss#Ex6_8.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.8/Ex6_8.R#S##8661
+6# Magnetic Materials#6.7#Find the loss of energy#Ex6_7.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.7/Ex6_7.R#S##8660
+6# Magnetic Materials#6.6#Determine the core loss#Ex6_6.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.6/Ex6_6.R#S##8659
+6# Magnetic Materials#6.5#Determine the core loss#Ex6_5.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.5/Ex6_5.R#S##8658
+6# Magnetic Materials#6.4#Calculate the energy lost#Ex6_4.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.4/Ex6_4.R#S##8657
+6# Magnetic Materials#6.3#Determine the flux Density#Ex6_3.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.3/Ex6_3.R#S##8656
+6# Magnetic Materials#6.2#Find the relative permeability#Ex6_2.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.2/Ex6_2.R#S##8655
+6# Magnetic Materials#6.1#Determine the current required#Ex6_1.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH6/EX6.1/Ex6_1.R#S##8654
+5# Dielectric Materials#5.5#Calculate the capacitance#Ex5_5.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH5/EX5.5/Ex5_5.R#S##8653
+5# Dielectric Materials#5.4#Calculate the dielectric constant#Ex5_4.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH5/EX5.4/Ex5_4.R#S##8652
+5# Dielectric Materials#5.3#Find the energy stored#Ex5_3.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH5/EX5.3/Ex5_3.R#S##8651
+5# Dielectric Materials#5.2#Calculate the charge on each plate#Ex5_2.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH5/EX5.2/Ex5_2.R#S##8650
+5# Dielectric Materials#5.1#Calculate its charge and capacity#Ex5_1.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH5/EX5.1/Ex5_1.R#S##8649
+4# Insulating Materials#4.7#Find the charge on each#Ex4_7.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.7/Ex4_7.R#S##8648
+4# Insulating Materials#4.6#Determine the force#Ex4_6.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.6/Ex4_6.R#S##8647
+4# Insulating Materials#4.5#Find K2#Ex4_5.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.5/Ex4_5.R#S##8646
+4# Insulating Materials#4.4#Calculate the dielectric constant#Ex4_4.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.4/Ex4_4.R#S##8645
+4# Insulating Materials#4.3#Find the heat produced#Ex4_3.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.3/Ex4_3.R#S##8644
+4# Insulating Materials#4.2#Calculate the capacitance#Ex4_2.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.2/Ex4_2.R#S##10797
+4# Insulating Materials#4.1#Find the capacity of each condenser#Ex4_1.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH4/EX4.1/Ex4_1.R#S##8642
+2# Conducting Materials#2.9#Find the resistivity#Ex2_9.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.9/Ex2_9.R#S##8629
+2# Conducting Materials#2.8#Calculate the resistance#Ex2_8.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.8/Ex2_8.R#S##8628
+2# Conducting Materials#2.7#Calculate the resistance#Ex2_7.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.7/Ex2_7.R#S##8627
+2# Conducting Materials#2.6#Find the temprature#Ex2_6.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.6/Ex2_6.R#S##8626
+2# Conducting Materials#2.5#Find the resistance#Ex2_5.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.5/Ex2_5.R#S##8625
+2# Conducting Materials#2.4#Calculate length of a heater element#Ex2_4.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.4/Ex2_4.R#S##8624
+2# Conducting Materials#2.3#What will be the temprature#Ex2_3.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.3/Ex2_3.R#S##8623
+2# Conducting Materials#2.21#What is the time taken#Ex2_21.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.21/Ex2_21.R#S##8641
+2# Conducting Materials#2.20#Determine the heat efficiency#Ex2_20.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.20/Ex2_20.R#S##8640
+2# Conducting Materials#2.2#Calculate the resistance#Ex2_2.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.2/Ex2_2.R#S##8622
+2# Conducting Materials#2.19#Find the resistance#Ex2_19.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.19/Ex2_19.R#S##8639
+2# Conducting Materials#2.18#Compare the diameter#Ex2_18.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.18/Ex2_18.R#S##8638
+2# Conducting Materials#2.17#Estimate the fusing#Ex2_17.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.17/Ex2_17.R#S##8637
+2# Conducting Materials#2.16#Estimate its resistance#Ex2_16.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.16/Ex2_16.R#S##8636
+2# Conducting Materials#2.15#Calculate the resistance#Ex2_15.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.15/Ex2_15.R#S##8635
+2# Conducting Materials#2.14#Find the mean temprature#Ex2_14.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.14/Ex2_14.R#S##8634
+2# Conducting Materials#2.13#Find its temprature#Ex2_13.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.13/Ex2_13.R#S##8633
+2# Conducting Materials#2.12#Find its percentage conductivity#Ex2_12.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.12/Ex2_12.R#S##8632
+2# Conducting Materials#2.11#Determine the Temprature#Ex2_11.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.11/Ex2_11.R#S##8631
+2# Conducting Materials#2.10#Determine the Temprature#Ex2_10.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.10/Ex2_10.R#S##8630
+2# Conducting Materials#2.1#Calculate the resistance#Ex2_1.R#A_Textbook_Of_Electrical_Engineering_Materials_by_P._L._Kapoor/CH2/EX2.1/Ex2_1.R#S##8621

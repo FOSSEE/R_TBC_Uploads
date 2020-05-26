@@ -1,0 +1,36 @@
+# Page Number : 166
+
+v = 1;
+vol = 1;
+na = 2;
+nb = 3;
+nc = 4;
+mma = 2;
+mmb = 3;
+mmc = 4;
+ma = na*mma;
+mb = nb*mmb;
+mc = nc*mmc;
+NabyA = 2+2;
+NbbyA = -1+3;
+NcbyA = 0+4;
+NtbyA = NabyA+NbbyA+NcbyA;
+nabyA = 4+4;
+nbbyA = -3+9;
+ncbyA = 0+16;
+ntbyA = nabyA+nbbyA+ncbyA;
+CA = na/vol;
+CB = nb/vol;
+CC = nc/vol;
+CT = CA+CB+CC;
+pa = ma/vol;
+pb = mb/vol;
+pc = mc/vol;
+pt = pa+pb+pc;
+Ua = NabyA/CA;
+Ub = NbbyA/CB;
+Uc = NcbyA/CC;
+Uz = (pa*Ua+pb*Ub+pc*Uc)/(pa+pb+pc);
+print(Uz);
+Uzstar = (NtbyA/CT);
+print(Uzstar);

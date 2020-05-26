@@ -1,0 +1,113 @@
+17# Multiple Regression#17.1#Christmas Week Ski Lift Sales #Ex17_1.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH17/EX17.1/Ex17_1.zip#S##963
+16# Simple Linear Regression And Correlation#16.7.b#Predicting the Price and Estimating the Mean Price of Used Toyota Camrys#Ex16_7b.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.7.b/Ex16_7b.zip#S##971
+16# Simple Linear Regression And Correlation#16.7.a#Predicting the Price and Estimating the Mean Price of Used Toyota Camrys#Ex16_7a.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.7.a/Ex16_7a.zip#S##970
+16# Simple Linear Regression And Correlation#16.6#Are Odometer Reading and Price of Used Toyota Camrys Linearly Related Testing the Coefficient of Correlation#Ex16_6.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.6/Ex16_6.zip#S##1538
+16# Simple Linear Regression And Correlation#16.5#Measuring the Strength of the Linear Relationship between Odometer Reading and Price of Used Toyota Camrys #Ex16_5.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.5/Ex16_5.zip#S##968
+16# Simple Linear Regression And Correlation#16.4#Are Odometer Reading and Price of Used Toyota Camrys Related#Ex16_4.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.4/Ex16_4.zip#S##1537
+16# Simple Linear Regression And Correlation#16.3#Odometer Reading and Prices of Used Toyota Camrys Part 2 #Ex16_3.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.3/Ex16_3.zip#S##966
+16# Simple Linear Regression And Correlation#16.2#Odometer Reading and Prices of Used Toyota Camrys Part 1 #Ex16_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.2/Ex16_2.zip#S##965
+16# Simple Linear Regression And Correlation#16.1#Annual Bonus and Years of Experience #Ex16_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH16/EX16.1/Ex16_1.R#S##964
+15# Chi Squared Tests#15.2#Relationship between Undergraduate Degree and MBA Major#Ex15_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH15/EX15.2/Ex15_2.zip#S##1547
+15# Chi Squared Tests#15.1#Testing Market Shares#Ex15_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH15/EX15.1/Ex15_1.R#S##1548
+14# Analysis of Variance#14.5#Causes of Variation#Ex14_5.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH14/EX14.5/Ex14_5.zip#S##1539
+14# Analysis of Variance#14.4#Comparing the Lifetime Number of Jobs by Educational Level #Ex14_4.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH14/EX14.4/Ex14_4.zip#S##976
+14# Analysis of Variance#14.3#Comparing Cholesterol Lowering Drugs#Ex14_3.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH14/EX14.3/Ex14_3.zip#S##975
+14# Analysis of Variance#14.2b#Comparing the Costs of Repairing Car Bumpers#Ex14_2b.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH14/EX14.2b/Ex14_2b.zip#S##1549
+14# Analysis of Variance#14.2.a#Comparing the Costs of Repairing Car Bumpers#Ex14_2a.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH14/EX14.2.a/Ex14_2a.zip#S##973
+14# Analysis of Variance#14.1#Proportion of Total Assets Invested in Stocks#Ex14_1.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH14/EX14.1/Ex14_1.zip#S##972
+13#Inference About Comparing Two Populations#13.9#Test Marketing of Package Designs Part 1#Ex13_9.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.9/Ex13_9.zip#S##1553
+13#Inference About Comparing Two Populations#13.8#Estimating the Ratio of the Variances in Example 13 7#Ex13_8.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.8/Ex13_8.zip#S##985
+13#Inference About Comparing Two Populations#13.7#Testing the Quality of Two Bottle Filling Machines #Ex13_7.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.7/Ex13_7.zip#S##984
+13#Inference About Comparing Two Populations#13.6#Comparing Salary Offers for Finance and Marketing MBA Majors Part 3 #Ex13_6.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.6/Ex13_6.zip#S##983
+13#Inference About Comparing Two Populations#13.5#Comparing Salary Offers for Finance and Marketing MBA Majors Part 2#Ex13_5.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.5/Ex13_5.zip#S##1544
+13#Inference About Comparing Two Populations#13.4#Comparing Salary Offers for Finance and Marketing MBA Majors Part 1#Ex13_4.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.4/Ex13_4.zip#S##1543
+13#Inference About Comparing Two Populations#13.3#Dietary Effects of High Fiber Breakfast Cereals#Ex13_3.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.3/Ex13_3.zip#S##1542
+13#Inference About Comparing Two Populations#13.2#Effect of New CEO in Family Run Businesses#Ex13_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.2/Ex13_2.zip#S##1541
+13#Inference About Comparing Two Populations#13.11#Test Marketing of Package Designs Part 3#Ex13_11.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.11/Ex13_11.zip#S##988
+13#Inference About Comparing Two Populations#13.10#Test Marketing of Package Designs Part 2#Ex13_10.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.10/Ex13_10.zip#S##987
+13#Inference About Comparing Two Populations#13.1#Direct and Broker Purchased Mutual Funds#Ex13_1.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH13/EX13.1/Ex13_1.zip#S##1540
+12# Inference About A Population#12.6#Segmenting the Breakfast Cereal Market #Ex12_6.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH12/EX12.6/Ex12_6.zip#S##960
+12# Inference About A Population#12.5#Election Day Exit Poll#Ex12_5.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH12/EX12.5/Ex12_5.zip#S##959
+12# Inference About A Population#12.4#Consistency of a Container Filling Machine Part 2#Ex12_4.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH12/EX12.4/Ex12_4.R#S##958
+12# Inference About A Population#12.3#Consistency of a Container Filling Machine Part 1#Ex12_3.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH12/EX12.3/Ex12_3.R#S##1536
+12# Inference About A Population#12.2#Tax Collected from Audited Returns#Ex12_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH12/EX12.2/Ex12_2.zip#S##1518
+12# Inference About A Population#12.1#Newspaper Recycling Plant#Ex12_1.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH12/EX12.1/Ex12_1.zip#S##1535
+11# Introduction to Hypothesis Testing#11.2#Comparison of AT and T and Its Competitor #Ex11_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH11/EX11.2/Ex11_2.zip#S##945
+11# Introduction to Hypothesis Testing#11.1#Department Stores New Billing System #Ex11_1.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH11/EX11.1/Ex11_1.zip#S##943
+10# Introduction to Estimation#10.1#Doll Computer Company#Ex10_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH10/EX10.1/Ex10_1.R#S##940
+9# Sampling Distributions#9.3#Starting Salaries of MBAs#Ex9_3.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH9/EX9.3/Ex9_3.R#S##938
+9# Sampling Distributions#9.2#Political Survey #Ex9_2.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH9/EX9.2/Ex9_2.R#S##936
+9# Sampling Distributions#9.1.b#Contents of a 32 Ounce Bottle#Ex9_1b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH9/EX9.1.b/Ex9_1b.R#S##934
+9# Sampling Distributions#9.1.a#Contents of a 32 Ounce Bottle#Ex9_1a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH9/EX9.1.a/Ex9_1a.R#S##932
+8# Continuous Probability Distributions#8.8.c#Supermarket Checkout Counter #Ex8_8c.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.8.c/Ex8_8c.R#S##929
+8# Continuous Probability Distributions#8.8.b#Supermarket Checkout Counter #Ex8_8b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.8.b/Ex8_8b.R#S##928
+8# Continuous Probability Distributions#8.8.a#Supermarket Checkout Counter #Ex8_8a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.8.a/Ex8_8a.R#S##927
+8# Continuous Probability Distributions#8.7.c#Lifetimes of Alkaline Batteries #Ex8_7c.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.7.c/Ex8_7c.R#S##926
+8# Continuous Probability Distributions#8.7.b#Lifetimes of Alkaline Batteries #Ex8_7b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.7.b/Ex8_7b.R#S##925
+8# Continuous Probability Distributions#8.7.a#Lifetimes of Alkaline Batteries #Ex8_7a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.7.a/Ex8_7a.R#S##924
+8# Continuous Probability Distributions#8.6#Determining the Reorder Point #Ex8_6.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.6/Ex8_6.R#S##923
+8# Continuous Probability Distributions#8.5#Finding Z 05 #Ex8_5.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.5/Ex8_5.R#S##922
+8# Continuous Probability Distributions#8.4#Finding Z 05 #Ex8_4.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.4/Ex8_4.R#S##921
+8# Continuous Probability Distributions#8.3.b#Probability of a Negative Return on Investment #Ex8_3b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.3.b/Ex8_3b.R#S##920
+8# Continuous Probability Distributions#8.3.a#Probability of a Negative Return on Investment#Ex8_3a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.3.a/Ex8_3a.R#S##919
+8# Continuous Probability Distributions#8.2#Normally Distributed Gasoline Sales#Ex8_2.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.2/Ex8_2.R#S##918
+8# Continuous Probability Distributions#8.1.c#Uniformly Distributed Gasoline Sales #Ex8_1c.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.1.c/Ex8_1c.R#S##917
+8# Continuous Probability Distributions#8.1.b#Uniformly Distributed Gasoline Sales #Ex8_1b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.1.b/Ex8_1b.R#S##916
+8# Continuous Probability Distributions#8.1.a#Uniformly Distributed Gasoline Sales #Ex8_1a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH8/EX8.1.a/Ex8_1a.R#S##915
+7# Random Variables and Discrete Probability Distributions#7.9.b#Pat Statsdud and the Statistics Quiz#Ex7_9b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.9.b/Ex7_9b.R#S##909
+7# Random Variables and Discrete Probability Distributions#7.9.a#Pat Statsdud and the Statistics Quiz#Ex7_9a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.9.a/Ex7_9a.R#S##908
+7# Random Variables and Discrete Probability Distributions#7.8b#Describing the Population of the Returns on a Portfolio#Ex7_8b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.8b/Ex7_8b.R#S##1530
+7# Random Variables and Discrete Probability Distributions#7.8.a#Describing the Population of the Returns on a Portfolio #Ex7_8a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.8.a/Ex7_8a.R#S##906
+7# Random Variables and Discrete Probability Distributions#7.7#Describing the Population of the Total Number of House Sales #Ex7_7.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.7/Ex7_7.R#S##905
+7# Random Variables and Discrete Probability Distributions#7.6#Describing the Bivariate Distribution#Ex7_6.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.6/Ex7_6.R#S##904
+7# Random Variables and Discrete Probability Distributions#7.5#Bivariate Distribution of the Number of House Sales#Ex7_5.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.5/Ex7_5.R#S##903
+7# Random Variables and Discrete Probability Distributions#7.4#Describing the Population of Monthly Profits#Ex7_4.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.4/Ex7_4.R#S##902
+7# Random Variables and Discrete Probability Distributions#7.3#Describing the Population of the Number of Persons per Household#Ex7_3.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.3/Ex7_3.R#S##901
+7# Random Variables and Discrete Probability Distributions#7.2#Probability Distribution of the Number of Sales#Ex7_2.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.2/Ex7_2.R#S##1529
+7# Random Variables and Discrete Probability Distributions#7.13.b#Probability of the Number of Typographical Errors in 400 Pages#Ex7_13b.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.13.b/Ex7_13b.R#S##914
+7# Random Variables and Discrete Probability Distributions#7.13.a#Probability of the Number of Typographical Errors in 400 Pages #Ex7_13a.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.13.a/Ex7_13a.R#S##913
+7# Random Variables and Discrete Probability Distributions#7.12#Probability of the Number of Typographical Errors in Textbooks #Ex7_12.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.12/Ex7_12.R#S##912
+7# Random Variables and Discrete Probability Distributions#7.11#Pat Statsdud Has Been Cloned#Ex7_11.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.11/Ex7_11.R#S##1550
+7# Random Variables and Discrete Probability Distributions#7.10#Will Pat Fail the Quiz#Ex7_10.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.10/Ex7_10.R#S##910
+7# Random Variables and Discrete Probability Distributions#7.1#Probability Distribution of Persons per Household#Ex7_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH7/EX7.1/Ex7_1.R#S##900
+6# Probability#6.9#Should an MBA Applicant Take a Preparatory Course#Ex6_9.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.9/Ex6_9.R#S##1419
+6# Probability#6.8#Probability of Passing the Bar Exam #Ex6_8.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.8/Ex6_8.R#S##1420
+6# Probability#6.7#Applying the Addition Rule #Ex6_7.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.7/Ex6_7.R#S##1421
+6# Probability#6.6#Selecting Two Students with Replacement#Ex6_6.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.6/Ex6_6.R#S##1534
+6# Probability#6.5#Selecting Two Students without Replacement#Ex6_5.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.5/Ex6_5.R#S##1533
+6# Probability#6.4#Determinants of Success among Mutual Fund Managers Part 4#Ex6_4.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.4/Ex6_4.R#S##1532
+6# Probability#6.3#Determinants of Success among Mutual Fund Managers Part 3#Ex6_3.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.3/Ex6_3.R#S##1531
+6# Probability#6.2#Determinants of Success among Mutual Fund Managers Part 2#Ex6_2.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.2/Ex6_2.R#S##1425
+6# Probability#6.10#Probability of Prostate Cancer#Ex6_10.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.10/Ex6_10.R#S##1428
+6# Probability#6.1#Determinants of Success among Mutual Fund Managers Part 1#Ex6_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH6/EX6.1/Ex6_1.R#S##1424
+5# Data Collection and Sampling#5.1#Random Sample of Income Tax Returns #Ex5_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH5/EX5.1/Ex5_1.R#S##899
+4# Numerical Descriptive Techniques#4.9#Using the Empirical Rule to Interpret Standard Deviation #Ex4_9.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.9/Ex4_9.R#S##1429
+4# Numerical Descriptive Techniques#4.8#Comparing the Consistency of Two Types of Golf Clubs#Ex4_8.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.8/Ex4_8.zip#S##889
+4# Numerical Descriptive Techniques#4.7#Summer Jobs#Ex4_7.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.7/Ex4_7.R#S##888
+4# Numerical Descriptive Techniques#4.6#Mode of Long Distance Bill #Ex4_6.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.6/Ex4_6.zip#S##887
+4# Numerical Descriptive Techniques#4.5#Mode Time Spent on Internet #Ex4_5.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.5/Ex4_5.R#S##886
+4# Numerical Descriptive Techniques#4.4#Median Long Distance Telephone Bill#Ex4_4.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.4/Ex4_4.zip#S##885
+4# Numerical Descriptive Techniques#4.3#Median Time Spent on Internet #Ex4_3.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.3/Ex4_3.R#S##884
+4# Numerical Descriptive Techniques#4.2#Mean Long Distance Telephone Bill #Ex4_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.2/Ex4_2.zip#S##883
+4# Numerical Descriptive Techniques#4.19#Market Model for Research in Motion #Ex4_19.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.19/Ex4_19.zip#S##898
+4# Numerical Descriptive Techniques#4.18#Measuring the Strength of the Linear Relationship #Ex4_18.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.18/Ex4_18.zip#S##897
+4# Numerical Descriptive Techniques#4.17#Estimating Fixed and Variable Costs#Ex4_17.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.17/Ex4_17.zip#S##896
+4# Numerical Descriptive Techniques#4.16#Calculating the Coefficient of Correlation #Ex4_16.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.16/Ex4_16.R#S##895
+4# Numerical Descriptive Techniques#4.15#Comparing Service Times of Fast Food Restaurants Drive Throughs #Ex4_15.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.15/Ex4_15.zip#S##894
+4# Numerical Descriptive Techniques#4.14#Box Plot of Long Distance Telephone Bills #Ex4_14.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.14/Ex4_14.zip#S##893
+4# Numerical Descriptive Techniques#4.13#Interquartile Range of Long Distance Telephone Bills #Ex4_13.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.13/Ex4_13.zip#S##892
+4# Numerical Descriptive Techniques#4.12#Quartiles of Long Distance Telephone Bills#Ex4_12.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.12/Ex4_12.zip#S##891
+4# Numerical Descriptive Techniques#4.11#Percentiles of Time Spent on Internet#Ex4_11.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.11/Ex4_11.R#S##1528
+4# Numerical Descriptive Techniques#4.10#Using Chebysheffs Theorem to Interpret Standard Deviation #Ex4_10.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.10/Ex4_10.R#S##1430
+4# Numerical Descriptive Techniques#4.1#Mean Time Spent on the Internet#Ex4_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH4/EX4.1/Ex4_1.R#S##882
+3# Graphical Descriptive Techniques II#3.7#Analyzing the Relationship between Price and Size of Houses #Ex3_7.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.7/Ex3_7.zip#S##881
+3# Graphical Descriptive Techniques II#3.6#Price of Gasoline in 1982 to 1984 Constant Dollars#Ex3_6.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.6/Ex3_6.zip#S##1527
+3# Graphical Descriptive Techniques II#3.5#Price of Gasoline#Ex3_5.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.5/Ex3_5.zip#S##1526
+3# Graphical Descriptive Techniques II#3.4#Mathematical Statistics Marks#Ex3_4.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.4/Ex3_4.zip#S##1525
+3# Graphical Descriptive Techniques II#3.3#Business Statistics Marks#Ex3_3.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.3/Ex3_3.zip#S##1524
+3# Graphical Descriptive Techniques II#3.2#Comparing Returns on Two Investments#Ex3_2.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.2/Ex3_2.zip#S##1523
+3# Graphical Descriptive Techniques II#3.1#Analysis of Long Distance Telephone Bills #Ex3_1.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH3/EX3.1/Ex3_1.zip#S##875
+2# Graphical Descriptive Techniques I#2.4#Newspaper Readership Survey #Ex2_4.zip#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH2/EX2.4/Ex2_4.zip#S##873
+2# Graphical Descriptive Techniques I#2.3#Per Capita Beer Consumption 10 Selected Countries#Ex2_3.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH2/EX2.3/Ex2_3.R#S##1552
+2# Graphical Descriptive Techniques I#2.2#Energy Consumption in the United States in 2007#Ex2_2.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH2/EX2.2/Ex2_2.R#S##1554
+2# Graphical Descriptive Techniques I#2.1#Work Status in the GSS 2008 Survey#Ex2_1.R#Statistics_For_Management_And_Economics_by_Gerald_Keller/CH2/EX2.1/Ex2_1.R#S##1520

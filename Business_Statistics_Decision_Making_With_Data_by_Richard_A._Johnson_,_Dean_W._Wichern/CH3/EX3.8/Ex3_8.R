@@ -1,0 +1,10 @@
+#Pg.no.125
+x=c(1.25,1.75,2.25,2,2.5,2.25,2.70,2.50)
+y=c(125,105,65,85,75,80,50,55)
+n=length(x)
+xbar=mean(x)
+ybar=mean(y)
+sxx=var(x)*(n-1)
+syy=var(y)*(n-1)
+sxy=cov(x,y)*(n-1)
+list(xbar,ybar,sxx,syy,sxy)/

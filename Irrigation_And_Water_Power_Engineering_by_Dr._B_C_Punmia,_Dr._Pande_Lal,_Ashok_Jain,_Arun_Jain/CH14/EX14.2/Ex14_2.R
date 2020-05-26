@@ -1,0 +1,15 @@
+# page no: 663
+
+library(pracma)
+Q = 14;
+m = 1;
+r = 5.7;
+D = (Q/(0.55*6.2))^(1/2.64);
+B = D*r;
+R = (B*D+D^2/2)/(B+D*5^0.5);
+Vo = 0.55*m*D^0.64;
+y = rev(c(-1.98e-5,1.55e-3,-0.954,67.5));
+S = roots(y)[1]^2;
+print(B);
+print(D);
+print(S);

@@ -1,0 +1,11 @@
+#pg.no.409
+mu=2
+s=.73
+n=84
+alpha=0.05
+z_tab=qnorm(1-alpha)
+z_cal=round((2.18-mu)/(s/sqrt(n)),2)
+pval=1-pnorm(z_cal)
+z_tab
+z_cal
+pval

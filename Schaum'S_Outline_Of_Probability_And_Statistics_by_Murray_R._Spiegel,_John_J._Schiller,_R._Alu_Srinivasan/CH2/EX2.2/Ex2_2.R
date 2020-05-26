@@ -1,0 +1,12 @@
+#page35
+PoHH<-1/4
+PoHT<-1/4
+PoTH<-1/4
+PoTT<-1/4
+Po0<-PoTT
+Po1<-PoHT+PoTH
+Po2<-PoHH
+X<-c(0,1,2)
+foX<-c(Po0,Po1,Po2)
+Table<-rbind(X,foX)
+print(Table)

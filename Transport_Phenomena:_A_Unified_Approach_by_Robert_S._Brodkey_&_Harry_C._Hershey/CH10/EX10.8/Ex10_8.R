@@ -1,0 +1,30 @@
+# Page Number : 439
+
+mu = 6.72*10^-4;
+p = 62.4;
+S = 0.03322;
+d = 0.206;
+e = 1.5*10^-4;
+ebyd = e/d;
+Nre = 10^5;
+f = 0.0053;
+U = (Nre*mu)/(p*d);
+Q = U*S;
+gc = 32.174;
+deltapbyL = f*(4/d)*(p*(U^2))*(1/(2*gc))*(6.93*10^-3);
+Lfittings = 2342.1*d;
+kc = 0.50;
+ke = 1;
+Lloss = (kc+ke)*(1/(4*f))*d;
+Lpipe = 137;
+L = Lpipe+Lfittings+Lloss;
+deltap = deltapbyL*L;
+patm = 14.696;
+p1 = patm+deltap;
+print(p1);
+L = 137;
+kfittings = 52.39;
+sigmaF = ((4*f*(L/d))+kc+ke+kfittings)*((U^2)/(2*gc));
+deltap = (p*sigmaF)/(144);
+p1 = patm+deltap;
+print(p1);

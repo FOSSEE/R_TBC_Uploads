@@ -1,0 +1,33 @@
+# page no: 509
+
+H_aa = 81.5 ;
+D_aa = 1.658 ;
+f = 60 ;
+I = 20 ;
+kV = 69 ;
+MVA = 25 ;
+C_0 = 29.842*10^-9/(log(H_aa/D_aa)) ;
+b_0 = 2*pi*f*C_0 ;
+B_0 = b_0*I ;
+X_C0 = (1/B_0) ;
+TC_0 = B_0/(2*pi*f) ;
+X_1 = 0.05 ;
+X_0 = X_1 ;
+X_2 = X_1 ;
+Z_B = kV^2/MVA ;
+X_01 = X_0*Z_B ;
+V_F = 69*10^3/sqrt(3) ;
+I_a0PC = V_F/(17310.8915*1i) ;
+I_PC = 3*abs(I_a0PC) ;
+X_PC = (17310.8915 - X_01)/3 ;
+L_PC = X_PC/(2*pi*f) ;
+S_PC = (I_PC^2)*X_PC ;
+S_PC1 = S_PC*10^-3 ;
+V_PC = I_PC * X_PC ;
+print(X_C0) ;
+print(TC_0) ;
+print(abs(I_PC)) ;
+print(X_PC) ;
+print(L_PC) ;
+print(S_PC1) ;
+print(V_PC) ;

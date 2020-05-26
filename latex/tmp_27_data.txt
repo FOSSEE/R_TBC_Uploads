@@ -1,0 +1,130 @@
+21# Decision Analysis#21.1a#Problem Formulation#Ex21_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH21/EX21.1a/Ex21_1a.R#S##3846
+20# Statistical Process Control#20.1a#Sample Mean Chart Process Mean and SD Unknown#Ex20_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH20/EX20.1a/Ex20_1a.R#S##3845
+19# Non Parametric Tests#19.5a#Kruskal Wallis Test#Ex19_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH19/EX19.5a/Ex19_5a.R#S##3844
+19# Non Parametric Tests#19.4b#Mann Whitney Wilcoxon Test Eg2#Ex19_4b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH19/EX19.4b/Ex19_4b.R#S##3830
+19# Non Parametric Tests#19.4a#Mann Whitney Wilcoxon Test#Ex19_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH19/EX19.4a/Ex19_4a.R#S##3823
+19# Non Parametric Tests#19.3a#Wilcoxon Signed  Rank Test#Ex19_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH19/EX19.3a/Ex19_3a.R#S##3818
+19# Non Parametric Tests#19.2a#Sign Test#Ex19_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH19/EX19.2a/Ex19_2a.R#S##3817
+19# Non Parametric Tests#19.1a#Rank Correlation#Ex19_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH19/EX19.1a/Ex19_1a.R#S##3276
+18# Time Series Analysis and Forecasting#18.6b#Deseasonalizing the Time Series#Ex18_6b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.6b/Ex18_6b.R#S##3275
+18# Time Series Analysis and Forecasting#18.6a#Time Series Decomposition#Ex18_6a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.6a/Ex18_6a.R#S##3274
+18# Time Series Analysis and Forecasting#18.5b#Seasonality andTrend#Ex18_5b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.5b/Ex18_5b.R#S##3273
+18# Time Series Analysis and Forecasting#18.5a#Seasonality Without Trend#Ex18_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.5a/Ex18_5a.R#S##3272
+18# Time Series Analysis and Forecasting#18.4c#Nonlinear Trend Regression#Ex18_4c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.4c/Ex18_4c.R#S##3270
+18# Time Series Analysis and Forecasting#18.4b#Trend Projection Part2#Ex18_4b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.4b/Ex18_4b.R#S##3436
+18# Time Series Analysis and Forecasting#18.4a#Trend Projection#Ex18_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.4a/Ex18_4a.R#S##3268
+18# Time Series Analysis and Forecasting#18.3b#Exponential Smoothing#Ex18_3b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.3b/Ex18_3b.R#S##3267
+18# Time Series Analysis and Forecasting#18.3a#Moving Averages#Ex18_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.3a/Ex18_3a.R#S##3266
+18# Time Series Analysis and Forecasting#18.2a#Forecast Accuracy#Ex18_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.2a/Ex18_2a.R#S##3263
+18# Time Series Analysis and Forecasting#18.1f#Time Series Patterns Eg6#Ex18_1f.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.1f/Ex18_1f.R#S##3260
+18# Time Series Analysis and Forecasting#18.1e#Time Series Patterns Eg5#Ex18_1e.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.1e/Ex18_1e.R#S##3259
+18# Time Series Analysis and Forecasting#18.1d#Time Series Patterns Eg4#Ex18_1d.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.1d/Ex18_1d.R#S##3257
+18# Time Series Analysis and Forecasting#18.1c#Time Series Patterns Eg3#Ex18_1c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.1c/Ex18_1c.R#S##3256
+18# Time Series Analysis and Forecasting#18.1b#Time Series Patterns Eg2#Ex18_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.1b/Ex18_1b.R#S##3255
+18# Time Series Analysis and Forecasting#18.1a#Time Series Patterns#Ex18_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH18/EX18.1a/Ex18_1a.R#S##3254
+17# Index Numbers#17.4a#Deflating a Series by Price Indexes#Ex17_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH17/EX17.4a/Ex17_4a.R#S##3250
+17# Index Numbers#17.3a#Computing an Aggregate Price Index from Price Relatives#Ex17_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH17/EX17.3a/Ex17_3a.R#S##3248
+17# Index Numbers#17.2a#Aggregate Price Indexes#Ex17_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH17/EX17.2a/Ex17_2a.R#S##3247
+17# Index Numbers#17.1a#Price Relatives#Ex17_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH17/EX17.1a/Ex17_1a.R#S##3245
+16# Regression Analysis Model Building#16.3a#Multiple Regression Approach to Experimental Design#Ex16_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH16/EX16.3a/Ex16_3a.R#S##3434
+16# Regression Analysis Model Building#16.2a# Analysis of a Large Problem#Ex16_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH16/EX16.2a/Ex16_2a.R#S##3433
+16# Regression Analysis Model Building#16.1c#Transformations Involving the Dependent Variables#Ex16_1c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH16/EX16.1c/Ex16_1c.R#S##3432
+16# Regression Analysis Model Building#16.1b#Interaction#Ex16_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH16/EX16.1b/Ex16_1b.R#S##3241
+16# Regression Analysis Model Building#16.1a#General Linear Model#Ex16_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH16/EX16.1a/Ex16_1a.R#S##3431
+15# Multiple Regression#15.7a#Logistic Regression#Ex15_7a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.7a/Ex15_7a.R#S##3229
+15# Multiple Regression#15.6b#Influential Observations#Ex15_6b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.6b/Ex15_6b.R#S##3430
+15# Multiple Regression#15.6a#Residual Analysis#Ex15_6a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.6a/Ex15_6a.R#S##3160
+15# Multiple Regression#15.5a#Categorical Independent Variables#Ex15_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.5a/Ex15_5a.R#S##3429
+15# Multiple Regression#15.4a#Testing of significance#Ex15_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.4a/Ex15_4a.R#S##3081
+15# Multiple Regression#15.3a#Multiple Coefficient of Determination#Ex15_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.3a/Ex15_3a.R#S##3080
+15# Multiple Regression#15.2a#Two Independent Variables#Ex15_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.2a/Ex15_2a.R#S##3078
+15# Multiple Regression#15.1a#Least Squares Method#Ex15_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH15/EX15.1a/Ex15_1a.R#S##3077
+14# Simple Linear Regression#14.6b#Detecting Influential Observations#Ex14_6b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.6b/Ex14_6b.R#S##3076
+14# Simple Linear Regression#14.6a#Detecting Outliers#Ex14_6a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.6a/Ex14_6a.R#S##3075
+14# Simple Linear Regression#14.5b#Standardized Residuals#Ex14_5b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.5b/Ex14_5b.R#S##3074
+14# Simple Linear Regression#14.5a#Residual Analysis Validating Model Assumptions#Ex14_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.5a/Ex14_5a.R#S##3073
+14# Simple Linear Regression#14.4a#Using the Estimated Regression Equation for Estimation and Prediction#Ex14_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.4a/Ex14_4a.R#S##3413
+14# Simple Linear Regression#14.3a#Test of Significance#Ex14_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.3a/Ex14_3a.R#S##3384
+14# Simple Linear Regression#14.2a#Coefficient of Determination#Ex14_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.2a/Ex14_2a.R#S##3382
+14# Simple Linear Regression#14.1a#Least Squares Method#Ex14_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH14/EX14.1a/Ex14_1a.R#S##3067
+13# Experimental Design and Analysis of Variance#13.5a#Factorial Design#Ex13_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH13/EX13.5a/Ex13_5a.R#S##3065
+13# Experimental Design and Analysis of Variance#13.4a#Randomized Block Design#Ex13_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH13/EX13.4a/Ex13_4a.R#S##3381
+13# Experimental Design and Analysis of Variance#13.3a#Multiple Comparison Procedures Fishers LSD#Ex13_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH13/EX13.3a/Ex13_3a.R#S##3051
+13# Experimental Design and Analysis of Variance#13.2a#Analysis of Variance and the Completely Randomized Design#Ex13_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH13/EX13.2a/Ex13_2a.R#S##3050
+13# Experimental Design and Analysis of Variance#13.1a#Analysis of Variance and the Completely Randomized Design#Ex13_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH13/EX13.1a/Ex13_1a.R#S##2936
+12#Tests of Goodness of Fit and Independence#12.3b#Goodness of Fit Test Normal Distribution#Ex12_3b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH12/EX12.3b/Ex12_3b.R#S##2929
+12#Tests of Goodness of Fit and Independence#12.3a#Goodness of Fit Test Poisson Distribution#Ex12_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH12/EX12.3a/Ex12_3a.R#S##2930
+12#Tests of Goodness of Fit and Independence#12.2a#Tests of Independence#Ex12_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH12/EX12.2a/Ex12_2a.R#S##3380
+12#Tests of Goodness of Fit and Independence#12.1a#Goodness of Fit Test A Multinomial Population#Ex12_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH12/EX12.1a/Ex12_1a.R#S##2925
+11# Inferences About Population Variances#11.2a#Inferences About Two Population Variances#Ex11_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH11/EX11.2a/Ex11_2a.R#S##2924
+11# Inferences About Population Variances#11.1b#Hypothesis Testing#Ex11_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH11/EX11.1b/Ex11_1b.R#S##2923
+11# Inferences About Population Variances#11.1a# Inferences About Population Variance#Ex11_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH11/EX11.1a/Ex11_1a.R#S##2922
+10# Inference About Means and Proportions With Two Populations#10.4b#Hypothesis Tests About Difference between two Proportions#Ex10_4b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.4b/Ex10_4b.R#S##2920
+10# Inference About Means and Proportions With Two Populations#10.4a#Inference About the Difference Between Two Population Proportions#Ex10_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.4a/Ex10_4a.R#S##2918
+10# Inference About Means and Proportions With Two Populations#10.3a#Inference About the Difference Between Two Population Means Matched samples#Ex10_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.3a/Ex10_3a.R#S##3374
+10# Inference About Means and Proportions With Two Populations#10.2b#Hypothesis Tests About Difference between two Means#Ex10_2b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.2b/Ex10_2b.R#S##3990
+10# Inference About Means and Proportions With Two Populations#10.2a#Inference about the Difference between the two Population Means Sigma 1 and Sigma 2 Unknown#Ex10_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.2a/Ex10_2a.R#S##2915
+10# Inference About Means and Proportions With Two Populations#10.1b#Hypothesis Tests About Difference between two Means#Ex10_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.1b/Ex10_1b.R#S##2913
+10# Inference About Means and Proportions With Two Populations#10.1a# Inference about the Difference between the two Population Means Sigma 1 and Sigma 2 known#Ex10_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH10/EX10.1a/Ex10_1a.R#S##2912
+9# Hypothesis Testing#9.5a#Determining the Sample Size#Ex9_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.5a/Ex9_5a.R#S##2911
+9# Hypothesis Testing#9.4a#Calculating the Probability of Type Second Errors#Ex9_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.4a/Ex9_4a.R#S##2910
+9# Hypothesis Testing#9.3a#Population Proportion#Ex9_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.3a/Ex9_3a.R#S##2909
+9# Hypothesis Testing#9.2b#Population Mean Sigma Unknown Two Tailed Test#Ex9_2b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.2b/Ex9_2b.R#S##2908
+9# Hypothesis Testing#9.2a#Population Mean Sigma Unknown One Tailed Test#Ex9_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.2a/Ex9_2a.R#S##2907
+9# Hypothesis Testing#9.1c#Relationship between Interval Estimation and Hypothesis Testing#Ex9_1c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.1c/Ex9_1c.R#S##2906
+9# Hypothesis Testing#9.1b#Population Mean Sigma Known Two Tailed Test#Ex9_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.1b/Ex9_1b.R#S##2905
+9# Hypothesis Testing#9.1a#Population Mean Sigma Known One Tailed Test#Ex9_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH9/EX9.1a/Ex9_1a.R#S##2904
+8# Interval Estimation#8.4b#Determining the Sample Size#Ex8_4b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH8/EX8.4b/Ex8_4b.R#S##2903
+8# Interval Estimation#8.4a#Population Proportion#Ex8_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH8/EX8.4a/Ex8_4a.R#S##2902
+8# Interval Estimation#8.3a#Determining the Sample Size#Ex8_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH8/EX8.3a/Ex8_3a.R#S##2901
+8# Interval Estimation#8.2b#Population Mean Sigma Unknown Eg2#Ex8_2b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH8/EX8.2b/Ex8_2b.R#S##3364
+8# Interval Estimation#8.2a#Population Mean Sigma Unknown#Ex8_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH8/EX8.2a/Ex8_2a.R#S##3363
+8# Interval Estimation#8.1a#Population Mean Sigma Known#Ex8_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH8/EX8.1a/Ex8_1a.R#S##2888
+7# Sampling and Sampling Distribution#7.4c#Practical value of the Sampling Distribution of Sample Proportion Eg2#Ex7_4c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.4c/Ex7_4c.R#S##2887
+7# Sampling and Sampling Distribution#7.4b#Practical value of the Sampling Distribution of Sample Proportion#Ex7_4b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.4b/Ex7_4b.R#S##2886
+7# Sampling and Sampling Distribution#7.4a#Sampling Distribution of Sample Proportion#Ex7_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.4a/Ex7_4a.R#S##2885
+7# Sampling and Sampling Distribution#7.3b#Relationship between Sample Size and Sampling Distribution of xbar#Ex7_3b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.3b/Ex7_3b.R#S##3333
+7# Sampling and Sampling Distribution#7.3a#Sampling Distribution of Sample Mean #Ex7_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.3a/Ex7_3a.R#S##2856
+7# Sampling and Sampling Distribution#7.2a#Sampling Distribution#Ex7_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.2a/Ex7_2a.R#S##2852
+7# Sampling and Sampling Distribution#7.1a#Point Estimator#Ex7_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH7/EX7.1a/Ex7_1a.R#S##2851
+6# Continuous Probability Distribution#6.4a#Exponential Probability Distribution#Ex6_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH6/EX6.4a/Ex6_4a.R#S##3326
+6# Continuous Probability Distribution#6.3a#Normal Approximation of Binomial Probabilities#Ex6_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH6/EX6.3a/Ex6_3a.R#S##3321
+6# Continuous Probability Distribution#6.2a#Normal Probability Distribution#Ex6_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH6/EX6.2a/Ex6_2a.R#S##3320
+6# Continuous Probability Distribution#6.1a#Uniform Probability Distribution#Ex6_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH6/EX6.1a/Ex6_1a.R#S##3319
+5# Discrete Probability Distribution#5.5a#Expected Value and Variance#Ex5_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH5/EX5.5a/Ex5_5a.R#S##3318
+5# Discrete Probability Distribution#5.4a#Hypergeometric Probability Distribution#Ex5_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH5/EX5.4a/Ex5_4a.R#S##2763
+5# Discrete Probability Distribution#5.3a#Poisson Probability Distribution#Ex5_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH5/EX5.3a/Ex5_3a.R#S##3317
+5# Discrete Probability Distribution#5.2b#Binomial Probability Distribution Eg2#Ex5_2b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH5/EX5.2b/Ex5_2b.R#S##3989
+5# Discrete Probability Distribution#5.2a#Binomial Probability Distribution#Ex5_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH5/EX5.2a/Ex5_2a.R#S##2756
+5# Discrete Probability Distribution#5.1a# Discrete Probability Distribution Graph Expected value Variance and Standard Deviation#Ex5_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH5/EX5.1a/Ex5_1a.R#S##2755
+4# Introduction to Probability#4.5a#Bayes Theorem Tabular Approach#Ex4_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.5a/Ex4_5a.R#S##2751
+4# Introduction to Probability#4.4b#Multiplication Law#Ex4_4b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.4b/Ex4_4b.R#S##2750
+4# Introduction to Probability#4.4a#Conditional Probability#Ex4_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.4a/Ex4_4a.R#S##3309
+4# Introduction to Probability#4.3c#Addition Law#Ex4_3c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.3c/Ex4_3c.R#S##2747
+4# Introduction to Probability#4.3b#Intersection and Union of Events#Ex4_3b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.3b/Ex4_3b.R#S##2746
+4# Introduction to Probability#4.3a#Probability Computation using Complement#Ex4_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.3a/Ex4_3a.R#S##2745
+4# Introduction to Probability#4.2a#Probability of an Event#Ex4_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.2a/Ex4_2a.R#S##2743
+4# Introduction to Probability#4.1d#Probabilities Assigning Example#Ex4_1d.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.1d/Ex4_1d.R#S##2741
+4# Introduction to Probability#4.1c#Assigning Probabilities#Ex4_1c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.1c/Ex4_1c.R#S##2740
+4# Introduction to Probability#4.1b#Permutations#Ex4_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.1b/Ex4_1b.R#S##2739
+4# Introduction to Probability#4.1a#Combinations#Ex4_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH4/EX4.1a/Ex4_1a.R#S##2738
+3# Descriptive Statistics Numerical Measures#3.6b#Grouped Data Mean and Sample Variance#Ex3_6b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.6b/Ex3_6b.R#S##2737
+3# Descriptive Statistics Numerical Measures#3.6a#Weighted Mean#Ex3_6a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.6a/Ex3_6a.R#S##2735
+3# Descriptive Statistics Numerical Measures#3.5b#Sample Correlation Coefficient#Ex3_5b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.5b/Ex3_5b.R#S##2734
+3# Descriptive Statistics Numerical Measures#3.5a#Covariance and Correlation Coefficient#Ex3_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.5a/Ex3_5a.R#S##2657
+3# Descriptive Statistics Numerical Measures#3.4a#Boxplot#Ex3_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.4a/Ex3_4a.R#S##2656
+3# Descriptive Statistics Numerical Measures#3.3a#Z Score#Ex3_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.3a/Ex3_3a.R#S##3302
+3# Descriptive Statistics Numerical Measures#3.2c#Measures of Variability Standard Deviation#Ex3_2c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.2c/Ex3_2c.R#S##2654
+3# Descriptive Statistics Numerical Measures#3.2b#Measures of Variability Variance #Ex3_2b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.2b/Ex3_2b.R#S##2652
+3# Descriptive Statistics Numerical Measures#3.2a#Measures of Variability Range and IQR#Ex3_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.2a/Ex3_2a.R#S##2651
+3# Descriptive Statistics Numerical Measures#3.1e#Measures of Location Percentiles and Quartiles#Ex3_1e.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.1e/Ex3_1e.R#S##2650
+3# Descriptive Statistics Numerical Measures#3.1d#Measures of Location Median Part 2#Ex3_1d.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.1d/Ex3_1d.R#S##2649
+3# Descriptive Statistics Numerical Measures#3.1c#Measures of Location Median Part 1#Ex3_1c.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.1c/Ex3_1c.R#S##2648
+3# Descriptive Statistics Numerical Measures#3.1b#Measures of Location Mean Part 2#Ex3_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.1b/Ex3_1b.R#S##2647
+3# Descriptive Statistics Numerical Measures#3.1a#Measures of Location Mean Part 1#Ex3_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH3/EX3.1a/Ex3_1a.R#S##2644
+2# Descriptive Statistics Tabular and Graphical Presentations#2.5a#Exploratory Data Analysis The Stem  and  Leaf Display#Ex2_5a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH2/EX2.5a/Ex2_5a.R#S##3301
+2# Descriptive Statistics Tabular and Graphical Presentations#2.4a#Cumulative Distributions#Ex2_4a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH2/EX2.4a/Ex2_4a.R#S##3300
+2# Descriptive Statistics Tabular and Graphical Presentations#2.3a#Scatter Plot and Tradeline#Ex2_3a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH2/EX2.3a/Ex2_3a.R#S##2643
+2# Descriptive Statistics Tabular and Graphical Presentations#2.2a#Summarizing Quantitative Data#Ex2_2a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH2/EX2.2a/Ex2_2a.R#S##2642
+2# Descriptive Statistics Tabular and Graphical Presentations#2.1b#Summarizing Categorical Data Part 2#Ex2_1b.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH2/EX2.1b/Ex2_1b.R#S##2641
+2# Descriptive Statistics Tabular and Graphical Presentations#2.1a#Summarizing Categorical Data Part 1#Ex2_1a.R#Statistics_For_Business_And_Economics_by_Anderson,_Sweeney,_And_Williams/CH2/EX2.1a/Ex2_1a.R#S##2640

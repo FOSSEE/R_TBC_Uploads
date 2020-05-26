@@ -1,0 +1,68 @@
+12#Nuclear Transformations#12.9#Mean free path in Cadmium#Ex12_9.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.9/Ex12_9.R#S##7638
+12#Nuclear Transformations#12.8#Cross Section of Cadmium#Ex12_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.8/Ex12_8.R#S##7637
+12#Nuclear Transformations#12.7#Alpha Decay in polonium isotope#Ex12_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.7/Ex12_7.R#S##7636
+12#Nuclear Transformations#12.6#Radioactive equilibrium for half life of U238#Ex12_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.6/Ex12_6.R#S##7635
+12#Nuclear Transformations#12.5#Death date of tree by Radiometric Dating#Ex12_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.5/Ex12_5.R#S##7634
+12#Nuclear Transformations#12.4#Activity of Radon one week later#Ex12_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.4/Ex12_4.R#S##7633
+12#Nuclear Transformations#12.3#Activity of Radon#Ex12_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.3/Ex12_3.R#S##7632
+12#Nuclear Transformations#12.2#Radioactive decay of Radon#Ex12_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.2/Ex12_2.R#S##7631
+12#Nuclear Transformations#12.11#Kinetic energies and Q value of Nuclear Reactions#Ex12_11.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.11/Ex12_11.R#S##7640
+12#Nuclear Transformations#12.10#Cross Section of Gold#Ex12_10.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.10/Ex12_10.R#S##7639
+11#Nuclear Structure#11.7#Most stable isobar of given atomic number#Ex11_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.7/Ex11_7.R#S##7630
+11#Nuclear Structure#11.6#Binding energy of Zinc isotope#Ex11_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.6/Ex11_6.R#S##7629
+11#Nuclear Structure#11.5#Binding energy of Calcium isotope#Ex11_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.5/Ex11_5.R#S##7628
+11#Nuclear Structure#11.4#Binding energy of Neon isotope#Ex11_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.4/Ex11_4.R#S##7627
+11#Nuclear Structure#11.3#Magnetic energy and Larmor frequency of proton#Ex11_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.3/Ex11_3.R#S##7626
+11#Nuclear Structure#11.2#Repulsive electric force on proton#Ex11_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.2/Ex11_2.R#S##7625
+11#Nuclear Structure#11.1#Density of C12 Nucleus#Ex11_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.1/Ex11_1.R#S##7624
+10#The Solid State#10.3#Mean free path of free electrons in Copper#Ex10_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.3/Ex10_3.R#S##7623
+10#The Solid State#10.2#Drift velocity of free electrons in Copper#Ex10_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.2/Ex10_2.R#S##7622
+10#The Solid State#10.1#Cohesive energy in NaCl#Ex10_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.1/Ex10_1.R#S##7621
+9#Statistical Mechanics#9.8#Fermi energy in Copper#Ex9_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.8/Ex9_8.R#S##7620
+9#Statistical Mechanics#9.7#Surface temperature of the Sun#Ex9_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.7/Ex9_7.R#S##7619
+9#Statistical Mechanics#9.6#Wiens displacement law#Ex9_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.6/Ex9_6.R#S##7618
+9#Statistical Mechanics#9.5#Planck Radiation Law#Ex9_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.5/Ex9_5.R#S##7617
+9#Statistical Mechanics#9.4#Root mean square speed of oxygen molecule#Ex9_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.4/Ex9_4.R#S##7616
+9#Statistical Mechanics#9.1#Maxwell Boltzmann distribution function#Ex9_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.1/Ex9_1.R#S##7615
+8#Molecules#8.3#Force constant and vibrational levels in CO#Ex8_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.3/Ex8_3.R#S##7612
+8#Molecules#8.2#Bond length of CO molecule#Ex8_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.2/Ex8_2.R#S##7611
+8#Molecules#8.1#Energy and angular velocity of the CO#Ex8_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.1/Ex8_1.R#S##7610
+7#Many Electron Atoms#7.8#K alpha  X rays#Ex7_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.8/Ex7_8.R#S##7609
+7#Many Electron Atoms#7.3#Magnetic energy for an electron#Ex7_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.3/Ex7_3.R#S##7607
+7#Many Electron Atoms#7.2#Effective charge on electron of lithium atom#Ex7_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.2/Ex7_2.R#S##7606
+7#Many Electron Atoms#7.1#Equatorial velocity of an electron#Ex7_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.1/Ex7_1.R#S##7605
+6#Quantum Theory of the Hydrogen Atom#6.4#Normal Zeeman Effect#Ex6_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH6/EX6.4/Ex6_4.R#S##7604
+6#Quantum Theory of the Hydrogen Atom#6.3#Probability of Finding Electron#Ex6_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH6/EX6.3/Ex6_3.R#S##7641
+5#Quantum Mechanics#5.6#Tunnel effect transmission probability#Ex5_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH5/EX5.6/Ex5_6.R#S##11490
+5#Quantum Mechanics#5.4#Wave function of Particle in a Box#Ex5_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH5/EX5.4/Ex5_4.R#S##7600
+4#Atomic Structure#4.8#Rutherford Scattering Formula#Ex4_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.8/Ex4_8.R#S##7599
+4#Atomic Structure#4.7#Reduced Mass of Moun#Ex4_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.7/Ex4_7.R#S##7597
+4#Atomic Structure#4.5#Frequency of revolution#Ex4_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.5/Ex4_5.R#S##7596
+4#Atomic Structure#4.4#Balmer series of Hydrogen Spectrum#Ex4_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.4/Ex4_4.R#S##7595
+4#Atomic Structure#4.3#Energy level of Rydberg atoms#Ex4_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.3/Ex4_3.R#S##7593
+4#Atomic Structure#4.2#Energy level of Electron Hydrogen collision#Ex4_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.2/Ex4_2.R#S##7592
+4#Atomic Structure#4.1#Electron orbits of Hydrogen atom#Ex4_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.1/Ex4_1.R#S##7591
+3#Wave Properties of Particles#3.9#Uncertainty in Time and Energy#Ex3_9.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.9/Ex3_9.R#S##7588
+3#Wave Properties of Particles#3.8#Energy of Hydrogen electron by Uncertainty Principle#Ex3_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.8/Ex3_8.R#S##7587
+3#Wave Properties of Particles#3.7#Energy of Nuclear electron by Uncertainty Principle#Ex3_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.7/Ex3_7.R#S##7586
+3#Wave Properties of Particles#3.6#Uncertainty in protons position#Ex3_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.6/Ex3_6.R#S##7585
+3#Wave Properties of Particles#3.5#Permitted Energies of a Marble in a Box#Ex3_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.5/Ex3_5.R#S##7584
+3#Wave Properties of Particles#3.4#Permitted Energies of a Particle in a Box#Ex3_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.4/Ex3_4.R#S##11489
+3#Wave Properties of Particles#3.3#De Broglie phase and group velocities#Ex3_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.3/Ex3_3.R#S##7582
+3#Wave Properties of Particles#3.2#Kinetic Energy using De Broglie wavelengths#Ex3_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.2/Ex3_2.R#S##7581
+3#Wave Properties of Particles#3.1#De Broglie wavelengths#Ex3_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.1/Ex3_1.R#S##7579
+2#Particle Properties of Waves#2.8#Energy of falling photon#Ex2_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.8/Ex2_8.R#S##7578
+2#Particle Properties of Waves#2.7#Photon Absorption and Radiation intensity#Ex2_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.7/Ex2_7.R#S##7577
+2#Particle Properties of Waves#2.6#Pair Production#Ex2_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.6/Ex2_6.R#S##7576
+2#Particle Properties of Waves#2.4#Compton Effect#Ex2_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.4/Ex2_4.R#S##7574
+2#Particle Properties of Waves#2.3#X ray production#Ex2_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.3/Ex2_3.R#S##7573
+2#Particle Properties of Waves#2.2#Photoelectric effect#Ex2_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.2/Ex2_2.R#S##7572
+2#Particle Properties of Waves#2.1#Energy of tuning fork and atomic oscillator#Ex2_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.1/Ex2_1.R#S##7571
+1#Relativity#1.8#Energy and momentum of Electron and Photon#Ex1_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.8/Ex1_8.R#S##7569
+1#Relativity#1.7#Mass and Energy of Sun#Ex1_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.7/Ex1_7.R#S##7568
+1#Relativity#1.6#Mass and Energy of Stationary body#Ex1_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.6/Ex1_6.R#S##7567
+1#Relativity#1.4#Twin Paradox#Ex1_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.4/Ex1_4.R#S##7566
+1#Relativity#1.3#Doppler effect Hubbles law#Ex1_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.3/Ex1_3.R#S##7565
+1#Relativity#1.2#Longitudinal doppler effect in light#Ex1_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.2/Ex1_2.R#S##7564
+1#Relativity#1.11#Relativistic velocity transformation#Ex1_11.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.11/Ex1_11.R#S##7570
+1#Relativity#1.1#Time dilation#Ex1_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.1/Ex1_1.R#S##7563

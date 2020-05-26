@@ -1,0 +1,82 @@
+31# Finite Element Method#31.2#Element Equation for Heated Rod#Ex31_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH31/EX31.2/Ex31_2.R#S##280
+31# Finite Element Method#31.1#Analytical Solution for Heated Rod#Ex31_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH31/EX31.1/Ex31_1.R#S##279
+27#Boundary Value and Eigenvalue problems#27.9#Eigenvalues and ODEs#Ex27_9.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.9/Ex27_9.R#S##277
+27#Boundary Value and Eigenvalue problems#27.8#Power Method Lowest Eigenvalue#Ex27_8.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.8/Ex27_8.R#S##276
+27#Boundary Value and Eigenvalue problems#27.7#Power Method Highest Eigenvalue#Ex27_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.7/Ex27_7.R#S##275
+27#Boundary Value and Eigenvalue problems#27.6#Polynomial Method#Ex27_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.6/Ex27_6.R#S##274
+27#Boundary Value and Eigenvalue problems#27.5#Axially Loaded column#Ex27_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.5/Ex27_5.R#S##273
+27#Boundary Value and Eigenvalue problems#27.4#Mass Spring System#Ex27_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.4/Ex27_4.R#S##272
+27#Boundary Value and Eigenvalue problems#27.3#Finite Difference Approximation#Ex27_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.3/Ex27_3.R#S##271
+27#Boundary Value and Eigenvalue problems#27.11#Solving ODEs#Ex27_11.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH27/EX27.11/Ex27_11.R#S##278
+26# Stiffness and multistep methods#26.1#Explicit and Implicit Euler#Ex26_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH26/EX26.1/Ex26_1.R#S##270
+25# Runga Kutta methods#25.4#Solving ODEs#Ex25_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH25/EX25.4/Ex25_4.R#S##267
+25# Runga Kutta methods#25.14#Adaptive Fourth order RK scheme#Ex25_14.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH25/EX25.14/Ex25_14.R#S##269
+25# Runga Kutta methods#25.11#Solving systems of ODEs#Ex25_11.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH25/EX25.11/Ex25_11.R#S##268
+23#Numerical differentiation#23.5#Integrate a function#Ex23_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH23/EX23.5/Ex23_5.R#S##266
+23#Numerical differentiation#23.4#Integration and Differentiation#Ex23_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH23/EX23.4/Ex23_4.R#S##265
+21# Newton Cotes Integration Formulas#21.9#Average Temperature Determination#Ex21_9.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.9/Ex21_9.R#S##264
+21# Newton Cotes Integration Formulas#21.8#Simpsons Uneven data#Ex21_8.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.8/Ex21_8.R#S##263
+21# Newton Cotes Integration Formulas#21.7#Unequal Trapezoidal segments#Ex21_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.7/Ex21_7.R#S##262
+21# Newton Cotes Integration Formulas#21.6#Simpsons 3 by 8 rule#Ex21_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.6/Ex21_6.R#S##261
+21# Newton Cotes Integration Formulas#21.5#Multiple Simpsons 1 by 3 rule#Ex21_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.5/Ex21_5.R#S##260
+21# Newton Cotes Integration Formulas#21.4#Single Simpsons 1 by 3 rule#Ex21_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.4/Ex21_4.R#S##259
+21# Newton Cotes Integration Formulas#21.3#Evaluating Integrals#Ex21_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.3/Ex21_3.R#S##258
+21# Newton Cotes Integration Formulas#21.2#Multiple trapezoidal rule#Ex21_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.2/Ex21_2.R#S##257
+21# Newton Cotes Integration Formulas#21.1#Single trapezoidal rule#Ex21_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH21/EX21.1/Ex21_1.R#S##256
+19# Fourier Approximation#19.6#Polynomial Regression#Ex19_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH19/EX19.6/Ex19_6.R#S##255
+19# Fourier Approximation#19.5#Curve Fitting#Ex19_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH19/EX19.5/Ex19_5.R#S##254
+19# Fourier Approximation#19.4#Data Analysis#Ex19_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH19/EX19.4/Ex19_4.R#S##253
+19# Fourier Approximation#19.2#Continuous Fourier Series Approximation#Ex19_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH19/EX19.2/Ex19_2.R#S##252
+19# Fourier Approximation#19.1#Least Square Fit#Ex19_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH19/EX19.1/Ex19_1.R#S##251
+18#Interpolation#18.5#Error Estimates for Order of Interpolation#Ex18_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH18/EX18.5/Ex18_5.R#S##250
+17#Least squares regression#17.3.b#linear regression using computer#Ex17_3_b.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH17/EX17.3.b/Ex17_3_b.R#S##249
+17#Least squares regression#17.3.a#linear regression using computer#Ex17_3_a.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH17/EX17.3.a/Ex17_3_a.R#S##248
+15# Constrained Optimization#15.7#Locate Single Optimum#Ex15_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.7/Ex15_7.R#S##247
+15# Constrained Optimization#15.6#Multidimensional Optimization#Ex15_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.6/Ex15_6.R#S##246
+15# Constrained Optimization#15.5#One dimensional Optimization#Ex15_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.5/Ex15_5.R#S##245
+15# Constrained Optimization#15.4#Nonlinear constrained optimization#Ex15_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.4/Ex15_4.R#S##244
+15# Constrained Optimization#15.3#Linear Programming Problem#Ex15_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.3/Ex15_3.R#S##243
+15# Constrained Optimization#15.2#Graphical Solution#Ex15_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.2/Ex15_2.R#S##242
+15# Constrained Optimization#15.1#Setting up LP problem#Ex15_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH15/EX15.1/Ex15_1.R#S##241
+14# Multidimensional Unconstrained Optimization#14.4#Optimal Steepest Descent#Ex14_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH14/EX14.4/Ex14_4.R#S##240
+14# Multidimensional Unconstrained Optimization#14.3#1 D function along Gradient#Ex14_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH14/EX14.3/Ex14_3.R#S##239
+14# Multidimensional Unconstrained Optimization#14.2#Path of Steepest Descent#Ex14_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH14/EX14.2/Ex14_2.R#S##238
+14# Multidimensional Unconstrained Optimization#14.1#Random Search Method#Ex14_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH14/EX14.1/Ex14_1.R#S##237
+9#Gauss Elimination#9.8#Scaling#Ex9_8.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.8/Ex9_8.R#S##235
+9#Gauss Elimination#9.7#Effect of Scale on Determinant#Ex9_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.7/Ex9_7.R#S##234
+9#Gauss Elimination#9.6#ill conditioned systems#Ex9_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.6/Ex9_6.R#S##233
+9#Gauss Elimination#9.5#Naive Gauss Elimination#Ex9_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.5/Ex9_5.R#S##232
+9#Gauss Elimination#9.4#Elimination of Unknowns#Ex9_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.4/Ex9_4.R#S##231
+9#Gauss Elimination#9.3#Cramers Rule#Ex9_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.3/Ex9_3.R#S##230
+9#Gauss Elimination#9.2#Determinants#Ex9_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.2/Ex9_2.R#S##229
+9#Gauss Elimination#9.11#Solution of Linear Algebraic Equations#Ex9_11.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH9/EX9.11/Ex9_11.R#S##236
+7# Roots of Polynomials#7.8#Root Location#Ex7_8.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.8/Ex7_8.R#S##228
+7# Roots of Polynomials#7.7#Roots of Polynomials#Ex7_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.7/Ex7_7.R#S##227
+7# Roots of Polynomials#7.6#Root Location#Ex7_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.6/Ex7_6.R#S##226
+7# Roots of Polynomials#7.5#Solving nonlinear system#Ex7_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.5/Ex7_5.R#S##225
+7# Roots of Polynomials#7.4#Locate single root#Ex7_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.4/Ex7_4.R#S##224
+7# Roots of Polynomials#7.3#Bairstows Method#Ex7_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.3/Ex7_3.R#S##223
+7# Roots of Polynomials#7.2#Mullers Method#Ex7_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.2/Ex7_2.R#S##222
+7# Roots of Polynomials#7.1#Polynomial Deflation#Ex7_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH7/EX7.1/Ex7_1.R#S##221
+6#Open Methods#6.11#Newton Raphson for a nonlinear Problem#Ex6_11.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH6/EX6.11/Ex6_11.R#S##220
+5# Bracketing Methods#5.6#Bracketing and False Position Methods#Ex5_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH5/EX5.6/Ex5_6.R#S##219
+5# Bracketing Methods#5.5#False Position#Ex5_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH5/EX5.5/Ex5_5.R#S##218
+5# Bracketing Methods#5.4#Error Estimates for Bisection#Ex5_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH5/EX5.4/Ex5_4.R#S##217
+5# Bracketing Methods#5.3#Bisection#Ex5_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH5/EX5.3/Ex5_3.R#S##216
+5# Bracketing Methods#5.2#Computer Graphics to Locate Roots#Ex5_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH5/EX5.2/Ex5_2.R#S##215
+5# Bracketing Methods#5.1#Graphical Approach#Ex5_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH5/EX5.1/Ex5_1.R#S##214
+4# Truncation Errors and the Taylor Series#4.7#Condition Number#Ex4_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH4/EX4.7/Ex4_7.R#S##213
+4# Truncation Errors and the Taylor Series#4.6#Error propagation in multivariable function#Ex4_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH4/EX4.6/Ex4_6.R#S##212
+4# Truncation Errors and the Taylor Series#4.5#Error propagation in function of single variable#Ex4_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH4/EX4.5/Ex4_5.R#S##211
+4# Truncation Errors and the Taylor Series#4.4#Finite divided difference approximation of derivatives#Ex4_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH4/EX4.4/Ex4_4.R#S##210
+4# Truncation Errors and the Taylor Series#4.2#Taylor Series Expansion#Ex4_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH4/EX4.2/Ex4_2.R#S##209
+4# Truncation Errors and the Taylor Series#4.1#Polynomial Taylor Series#Ex4_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH4/EX4.1/Ex4_1.R#S##208
+3# Approximations and Round off Errors#3.8#Infinite Series Evaluation#Ex3_8.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.8/Ex3_8.R#S##207
+3# Approximations and Round off Errors#3.7#Subtractive Cancellation#Ex3_7.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.7/Ex3_7.R#S##206
+3# Approximations and Round off Errors#3.6#Interdependent Computations#Ex3_6.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.6/Ex3_6.R#S##205
+3# Approximations and Round off Errors#3.5#Machine Epsilon#Ex3_5.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.5/Ex3_5.R#S##204
+3# Approximations and Round off Errors#3.4#Floating Point Numbers#Ex3_4.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.4/Ex3_4.R#S##203
+3# Approximations and Round off Errors#3.3#Range of Integers#Ex3_3.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.3/Ex3_3.R#S##202
+3# Approximations and Round off Errors#3.2#Iterative error estimation#Ex3_2.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.2/Ex3_2.R#S##201
+3# Approximations and Round off Errors#3.1#Calculations of Errors#Ex3_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH3/EX3.1/Ex3_1.R#S##200
+1# Mathematical Modelling and Engineering Problem Solving#1.1#Analytical Solution to Falling Parachutist Problem#Ex1_1.R#Numerical_Methods_For_Engineers_by_S._C._Chapra_And_R._P._Canale/CH1/EX1.1/Ex1_1.R#S##199

@@ -1,0 +1,117 @@
+10# Complex numbers and Matrices#10.2.1#Orthogonal Complex vectors#EX10.2_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH10/EX10.2.1/EX10.2_1.r#S##3265
+10# Complex numbers and Matrices#10.1.1#r for complex numbers#Ex10.1_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH10/EX10.1.1/Ex10.1_1.r#S##3200
+9# Numerical Linear Algebra#9.3.1#Powers of some matrices can be calculated easily with max eigen value#Ex9.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH9/EX9.3.1/Ex9.3_1.r#S##3264
+9# Numerical Linear Algebra#9.2.3#Condition number of Positive definite Matrix#Ex9.2_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH9/EX9.2.3/Ex9.2_3.r#S##1953
+9# Numerical Linear Algebra#9.2.2#Norm of a diagonal matrix#Ex9.2_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH9/EX9.2.2/Ex9.2_2.r#S##1952
+8# Applications#8.6.2#Singular Value Decomposition#Ex8.6_6.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.6.2/Ex8.6_6.r#S##1951
+8# Applications#8.5.2#length of function sinx and sinx and cosx are orthogonal in function space#Ex8.5_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.5.2/Ex8.5_2.r#S##3262
+8# Applications#8.3.5#Linear Algebra in economy#Ex8.3_5.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.3.5/Ex8.3_5.r#S##1950
+8# Applications#8.3.4# Linear Algebra in economy#Ex8.3_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.3.4/Ex8.3_4.r#S##3199
+8# Applications#8.3.3#Markov matrix application#Ex8.3_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.3.3/Ex8.3_3.r#S##1948
+8# Applications#8.3.1#Positive Markov matrix application#Ex8.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.3.1/Ex8.3_1.r#S##1947
+8# Applications#8.2.1#Find the currents#Ex8.2_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.2.1/Ex8.2_1.r#S##1946
+8# Applications#8.1.2#Movements  tensions elongations of spring#Ex8.1_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.1.2/Ex8.1_2.r#S##1945
+8# Applications#8.1.1#Movements  tensions elongations of spring#Ex8.1_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH8/EX8.1.1/Ex8.1_1.r#S##1943
+7# Linear Transformations#7.3.a#leftinverse rightinverse Pseduoinverse of given matrices#Ex7_7.3A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH7/EX7.3.a/Ex7_7.3A.r#S##3261
+7# Linear Transformations#7.3.4#Pseduo Inverse of a matrix#Ex7.3_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH7/EX7.3.4/Ex7.3_4.r#S##1942
+7# Linear Transformations#7.3.3#Polar  Decomposition#Ex7.3_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH7/EX7.3.3/Ex7.3_3.r#S##1941
+7# Linear Transformations#7.3.2#Similar Projection Matrices#Ex7.3_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH7/EX7.3.2/Ex7.3_2.r#S##3198
+7# Linear Transformations#7.3.1#Diagonilization of matrix#Ex7.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH7/EX7.3.1/Ex7.3_1.r#S##1939
+6# Eigen Values and Eigen Vectors#6.7.4#Singular Value Decomposition#Ex6.7_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.7.4/Ex6.7_4.r#S##1938
+6# Eigen Values and Eigen Vectors#6.7.3#Singular Value Decomposition#Ex6.7_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.7.3/Ex6.7_3.r#S##1937
+6# Eigen Values and Eigen Vectors#6.6.a#Pascals Matrix and its inverse are similar#Ex6_6.6A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.6.a/Ex6_6.6A.r#S##1936
+6# Eigen Values and Eigen Vectors#6.6.3#Jordans Theorem and jordan Matrix#Ex6.6_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.6.3/Ex6.6_3.r#S##1935
+6# Eigen Values and Eigen Vectors#6.6.2#SImilar matrices with repeated eigen values#Ex6.6_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.6.2/Ex6.6_2.r#S##1934
+6# Eigen Values and Eigen Vectors#6.6.1#Similar matrices are matrices with same eigen values#Ex6.6_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.6.1/Ex6.6_1.r#S##1933
+6# Eigen Values and Eigen Vectors#6.5.1#Tests for positive definiteness#Ex6.5_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.5.1/Ex6.5_1.r#S##3196
+6# Eigen Values and Eigen Vectors#6.4.b#Eigen values and eigen vectors#Ex6_6.4B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.4.b/Ex6_6.4B.r#S##3041
+6# Eigen Values and Eigen Vectors#6.4.4#pivots and eigen values have same signs for symmetric matrices#Ex6.4_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.4.4/Ex6.4_4.r#S##3193
+6# Eigen Values and Eigen Vectors#6.4.1#Eigen values and eigen vectors#Ex6.4_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.4.1/Ex6.4_1.r#S##3156
+6# Eigen Values and Eigen Vectors#6.3.b#Eigen values and eigen vectors#Ex6_6.3B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.3.b/Ex6_6.3B.r#S##3037
+6# Eigen Values and Eigen Vectors#6.3.6#Solve Differential equation#Ex6.3_6.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.3.6/Ex6.3_6.r#S##1927
+6# Eigen Values and Eigen Vectors#6.3.2#Solve Differential equation#Ex6.3_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.3.2/Ex6.3_2.r#S##3042
+6# Eigen Values and Eigen Vectors#6.3.1#Solve Differential equation#Ex6.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.3.1/Ex6.3_1.r#S##3161
+6# Eigen Values and Eigen Vectors#6.2.b#Inverse Eigen values Determinant and eigen vector matrix#Ex6_6.2B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.2.b/Ex6_6.2B.r#S##3157
+6# Eigen Values and Eigen Vectors#6.2.2#The diagonal matrix of any matrix contains the eigen values in its main diagonal#Ex6.2_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.2.2/Ex6.2_2.r#S##3155
+6# Eigen Values and Eigen Vectors#6.2.1#Diagonilizing a Matrix and Power of matrix computed from power of its diagonal matrix#Ex6.2_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.2.1/Ex6.2_1.r#S##1922
+6# Eigen Values and Eigen Vectors#6.1.b#Eigen values and eigen vectors#Ex6_6.1B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.1.b/Ex6_6.1B.r#S##3194
+6# Eigen Values and Eigen Vectors#6.1.a#Eigen values and eigen vectors#Ex6_6.1A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.1.a/Ex6_6.1A.r#S##3197
+6# Eigen Values and Eigen Vectors#6.1.4#Eigen values and eigen vectors of Singular matrix#Ex6.1_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.1.4/Ex6.1_4.r#S##3035
+6# Eigen Values and Eigen Vectors#6.1.3#Eigen values and eigen vectors of Reflection matrix#Ex6.1_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.1.3/Ex6.1_3.r#S##1918
+6# Eigen Values and Eigen Vectors#6.1.2#Eigen values and eigen vectors of Projection matrix#Ex6.1_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.1.2/Ex6.1_2.r#S##3195
+6# Eigen Values and Eigen Vectors#6.1.1#Eigen values and eigen vectors#Ex6.1_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH6/EX6.1.1/Ex6.1_1.r#S##3039
+5# Determinants#5.3.b#Solve by Crammers rule and inverse of matrix#Ex5_5.3B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.b/Ex5_5.3B.r#S##1915
+5# Determinants#5.3.a#Null space of matrix is the transpose of cofactor matrix#Ex5_5.3A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.a/Ex5_5.3A.r#S##1914
+5# Determinants#5.3.9#Right hand rule#Ex5.3_9.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.9/Ex5.3_9.r#S##1913
+5# Determinants#5.3.8#Cross product of vectors #Ex5.3_8.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.8/Ex5.3_8.r#S##1912
+5# Determinants#5.3.7#Cross product of vectors #Ex5.3_7.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.7/Ex5.3_7.r#S##1911
+5# Determinants#5.3.3#The inverse of triangular matrix is triangular matrix#Ex5.3_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.3/Ex5.3_3.r#S##1910
+5# Determinants#5.3.1#Crammers rule for solving system of equations#Ex5.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.3.1/Ex5.3_1.r#S##1909
+5# Determinants#5.2.7#Determinants of matrices#Ex5.2_7.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.2.7/Ex5.2_7.r#S##1908
+5# Determinants#5.2.5#Determinants of matrices#Ex5.2_5.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.2.5/Ex5.2_5.r#S##1907
+5# Determinants#5.2.1#Determinant of matrix by Product of pivots#Ex5.2_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH5/EX5.2.1/Ex5.2_1.r#S##1906
+4# Orthogonality#4.4.5#Gram Schmidt method to convert matrix to its orthogonal form #Ex4.4_5.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.4.5/Ex4.4_5.r#S##1905
+4# Orthogonality#4.4.4#Projections of vector onto the line plane if the basis are given as orthonormal vectors#Ex4.4_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.4.4/Ex4.4_4.r#S##1904
+4# Orthogonality#4.3.b#Fit a Parabola#Ex4_4.3B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.3.b/Ex4_4.3B.r#S##2980
+4# Orthogonality#4.3.a#Fit a straight line#Ex4_4.3A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.3.a/Ex4_4.3A.r#S##1902
+4# Orthogonality#4.3.3#Fit a Parabola#Ex4.3_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.3.3/Ex4.3_3.r#S##1901
+4# Orthogonality#4.3.2#Fit a straight line#Ex4.3_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.3.2/Ex4.3_2.r#S##1900
+4# Orthogonality#4.3.1#Fit a straight line#Ex4.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.3.1/Ex4.3_1.r#S##1899
+4# Orthogonality#4.2.b#Best possible solution#Ex4_4.2B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.2.b/Ex4_4.2B.r#S##1898
+4# Orthogonality#4.2.a#Projection onto the line and the plane#Ex4_4.2A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.2.a/Ex4_4.2A.r#S##1897
+4# Orthogonality#4.2.3#Best possible solution projection vector and Projection Matrix#Ex4.2_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.2.3/Ex4.2_3.r#S##1896
+4# Orthogonality#4.2.2#Projection Matrix of the line#Ex4.2_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.2.2/Ex4.2_2.r#S##1895
+4# Orthogonality#4.2.1#Projection of  vector onto  line#Ex4.2_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.2.1/Ex4.2_1.r#S##1894
+4# Orthogonality#4.1.b#Null space Basis of a plane subspace#Ex4_4.1B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.1.b/Ex4_4.1B.r#S##3258
+4# Orthogonality#4.1.a#Dimensions of the subspaces in the given space#Ex4_4.1A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.1.a/Ex4_4.1A.r#S##1753
+4# Orthogonality#4.1.3#Rows of matrix are perpendicualr to the vectors in nullspace#Ex4.1_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH4/EX4.1.3/Ex4.1_3.r#S##1752
+3# Vector Spaces and Subspaces#3.6.a#Four Fundamental Spaces of given matrix#Ex3_3.6A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.6.a/Ex3_3.6A.r#S##3253
+3# Vector Spaces and Subspaces#3.6.2#Dimensions and rank of matrix#Ex3.6_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.6.2/Ex3.6_2.r#S##1751
+3# Vector Spaces and Subspaces#3.6.1#Dimensions and rank of matrix#Ex3.6_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.6.1/Ex3.6_1.r#S##1750
+3# Vector Spaces and Subspaces#3.5.1#Columns of given matrix are linearly dependent#Ex3.5_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.5.1/Ex3.5_1.r#S##1749
+3# Vector Spaces and Subspaces#3.4.c#Complete solution of the given system#Ex3_3.4C.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.4.c/Ex3_3.4C.r#S##1748
+3# Vector Spaces and Subspaces#3.4.a#Complete solution of the given system#Ex3_3.4A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.4.a/Ex3_3.4A.r#S##1747
+3# Vector Spaces and Subspaces#3.4.2#particular solution and special solution#Ex3.4_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.4.2/Ex3.4_2.r#S##1746
+3# Vector Spaces and Subspaces#3.3.c#Special solutions and row reduced echelon forms#Ex3_3.3C.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.3.c/Ex3_3.3C.r#S##1745
+3# Vector Spaces and Subspaces#3.3.a#Row reduced echelon form rank and special solutions of given matrix#Ex3_3.3A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.3.a/Ex3_3.3A.r#S##1744
+3# Vector Spaces and Subspaces#3.2.b#Special solution pivot columns free columns and reduced row echelon form of the given matrix#Ex3_3.2b.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.2.b/Ex3_3.2b.r#S##1743
+3# Vector Spaces and Subspaces#3.2.a#Find the Matrix having the given special solutions#Ex3_3.2A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.2.a/Ex3_3.2A.r#S##3282
+3# Vector Spaces and Subspaces#3.2.4#Nullspace of given upper traingular Matrix#Ex3.2_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.2.4/Ex3.2_4.r#S##1742
+3# Vector Spaces and Subspaces#3.2.3#Nullspaces of given three matrices#Ex3.2_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.2.3/Ex3.2_3.r#S##1741
+3# Vector Spaces and Subspaces#3.2.2#Nullspace of given Singular Matrix#Ex3.2_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH3/EX3.2.2/Ex3.2_2.r#S##1740
+2# Solving Linear Equations#2.7.b#Symmetric Factorisation#Ex2_2.7B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.7.b/Ex2_2.7B.r#S##2214
+2# Solving Linear Equations#2.7.a#Multiplication by Permutation matrices#Ex2_2.7A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.7.a/Ex2_2.7A.r#S##2213
+2# Solving Linear Equations#2.7.4#Product of matrix and its trnspose gives symmetric matrix#Ex2.7_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.7.4/Ex2.7_4.r#S##2212
+2# Solving Linear Equations#2.7.1#Inverses and Transposes#Ex2.7_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.7.1/Ex2.7_1.r#S##2211
+2# Solving Linear Equations#2.6.b#Forward Elimination#Ex2_2.6B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.6.b/Ex2_2.6B.r#S##2210
+2# Solving Linear Equations#2.6.a#LU Factorisation#Ex2_2.6A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.6.a/Ex2_2.6A.r#S##2209
+2# Solving Linear Equations#2.6.3#Forward Elimination#Ex2.6_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.6.3/Ex2.6_3.r#S##2208
+2# Solving Linear Equations#2.6.2#LU Factorisation#Ex2.6_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.6.2/Ex2.6_2.r#S##2207
+2# Solving Linear Equations#2.6.1#LU Factorisation#Ex2.6_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.6.1/Ex2.6_1.r#S##2206
+2# Solving Linear Equations#2.5.c#Inverse of the Pascal matrix by gauss jordan elimination method#Ex2_2.5C.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.c/Ex2_2.5C.r#S##2205
+2# Solving Linear Equations#2.5.b#Inverse of the given matrices#Ex2_2.5B.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.b/Ex2_2.5B.r#S##2204
+2# Solving Linear Equations#2.5.a#Inverse of difference matrix is Sum matrix#Ex2_2.5A.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.a/Ex2_2.5A.r#S##2203
+2# Solving Linear Equations#2.5.5#Inverse of Lower traingular matrix is also a lower traingular matrix#Ex2.5_5.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.5/Ex2.5_5.r#S##2202
+2# Solving Linear Equations#2.5.4#Inverse of matrix by guass jordan elimination matrix#Ex2.5_4.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.4/Ex2.5_4.r#S##2201
+2# Solving Linear Equations#2.5.3#Inverse of product of matrices#Ex2.5_3.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.3/Ex2.5_3.r#S##2200
+2# Solving Linear Equations#2.5.2#Inverse of an Elimination Matrix#Ex2.5_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.5.2/Ex2.5_2.r#S##2199
+2# Solving Linear Equations#2.4.c#3step paths for the given directed graph#Ex2_2.4C.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.4.c/Ex2_2.4C.R#S##1041
+2# Solving Linear Equations#2.4.b#Commutative property does not hold for matrix multiplication#Ex2_2.4B.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.4.b/Ex2_2.4B.R#S##1040
+2# Solving Linear Equations#2.4.a#Square of Pascal Matrix is HyperCube Matrix#Ex2_2.4A.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.4.a/Ex2_2.4A.R#S##1039
+2# Solving Linear Equations#2.4.2#Column times Row#Ex2.4_2.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.4.2/Ex2.4_2.R#S##1035
+2# Solving Linear Equations#2.4.1#Multiplication of Square matrices #Ex2.4_1.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.4.1/Ex2.4_1.R#S##1034
+2# Solving Linear Equations#2.3.c#Multiplying Matrices in two different ways#Ex2_2.3C.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.3.c/Ex2_2.3C.R#S##1038
+2# Solving Linear Equations#2.3.b#Multiplication with Elimination and Permutation matricies#Ex2_2.3b.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.3.b/Ex2_2.3b.r#S##1037
+2# Solving Linear Equations#2.3.2#Purpose of Elimination matrices#Ex2.3_2.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.3.2/Ex2.3_2.r#S##1033
+2# Solving Linear Equations#2.3.1#Matrix multiplication as dotproduct of row and column#Ex2.3_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.3.1/Ex2.3_1.r#S##1032
+2# Solving Linear Equations#2.2.a#Pivots and Multipliers in converting matrix to upper traingular system#Ex2_2.2a.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.2.a/Ex2_2.2a.r#S##2979
+2# Solving Linear Equations#2.1.a#Solving the equations by Column picture#Ex2_2.1a.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.1.a/Ex2_2.1a.r#S##683
+2# Solving Linear Equations#2.1.1#Multiplication of vector as dotproducts of rows and cols#Ex2.1_1.r#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH2/EX2.1.1/Ex2.1_1.r#S##766
+1#Introduction to Vectors#1.3.a#Inverse of the matrix#Ex1_1.3A.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.3.a/Ex1_1.3A.R#S##499
+1#Introduction to Vectors#1.2.c#Solution of Linear System#Ex1_1.2C.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.2.c/Ex1_1.2C.R#S##498
+1#Introduction to Vectors#1.2.b#Unit Vector and checking orthogonaity#Ex1_1.2B.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.2.b/Ex1_1.2B.R#S##497
+1#Introduction to Vectors#1.2.a#Schwartz and Traingular Inequality#Ex1_1.2A.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.2.a/Ex1_1.2A.R#S##496
+1#Introduction to Vectors#1.2.5#Angle betwen two vectors#Ex1.2_5.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.2.5/Ex1.2_5.R#S##495
+1#Introduction to Vectors#1.2.2#Dot Product of Vectors #Ex1.2_2.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.2.2/Ex1.2_2.R#S##494
+1#Introduction to Vectors#1.2.1#Dot Product of Vectors#Ex1.2_1.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.2.1/Ex1.2_1.R#S##493
+1#Introduction to Vectors#1.1#Sum of two vectors#Ex1_1.R#Introduction_To_Linear_Algebra_by_Gilbert_Strang/CH1/EX1.1/Ex1_1.R#S##492

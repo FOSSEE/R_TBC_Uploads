@@ -1,0 +1,99 @@
+17# Nonparametric Statistics#17.6#SPEARMANS RANK CORRELATION #Ex17_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH17/EX17.6/Ex17_6.R#S##6942
+17# Nonparametric Statistics#17.5#FRIEDMAN TEST#Ex17_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH17/EX17.5/Ex17_5.R#S##6932
+17# Nonparametric Statistics#17.4# KRUSKAL WALLIS TEST #Ex17_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH17/EX17.4/Ex17_4.R#S##6931
+17# Nonparametric Statistics#17.3#WILCOXON MATCHED PAIRS SIGNED RANK TEST#Ex17_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH17/EX17.3/Ex17_3.R#S##6912
+17# Nonparametric Statistics#17.2#LARGE SAMPLE FORMULAS MANN WHITNEY U TEST#Ex17_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH17/EX17.2/Ex17_2.R#S##6911
+17# Nonparametric Statistics#17.1# Mann Whitney U test#Ex17_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH17/EX17.1/Ex17_1.R#S##6910
+16# Analysis of Categorical Data #16.4#CHI SQUARE TEST OF INDEPENDENCE#Ex16_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH16/EX16.4/Ex16_4.R#S##6941
+16# Analysis of Categorical Data #16.3# CHI SQUARE GOODNESS OF FIT TEST example 2#Ex16_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH16/EX16.3/Ex16_3.R#S##6900
+16# Analysis of Categorical Data #16.2#Test data is whether in Poisson distributed #Ex16_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH16/EX16.2/Ex16_2.R#S##6913
+16# Analysis of Categorical Data #16.1#CHI SQUARE GOODNESS OF FIT TEST#Ex16_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH16/EX16.1/Ex16_1.R#S##6901
+15# Time Series Forecasting and Index Numbers#15.5#LASPEYRES PRICE INDEX and PAASCHE PRICE INDEX#Ex15_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH15/EX15.5/Ex15_5.R#S##6938
+15# Time Series Forecasting and Index Numbers#15.4#Regression Trend Analysis Using Quadratic Models#Ex15_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH15/EX15.4/Ex15_4.R#S##6909
+15# Time Series Forecasting and Index Numbers#15.3#EXPONENTIAL SMOOTHING#Ex15_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH15/EX15.3/Ex15_3.R#S##6940
+15# Time Series Forecasting and Index Numbers#15.2#Weighted Moving Average#Ex15_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH15/EX15.2/Ex15_2.R#S##6939
+15# Time Series Forecasting and Index Numbers#15.1.b#Moving average#15_1_b.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH15/EX15.1.b/15_1_b.R#S##6876
+15# Time Series Forecasting and Index Numbers#15.1.a#Moving average#15_1_a.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH15/EX15.1.a/15_1_a.R#S##6947
+14# Building Multiple Regression Models#14.1#Model Transformation#Ex14_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH14/EX14.1/Ex14_1.R#S##6916
+13# Multiple Regression Analysis#13.2# Multiple Regression Analysis Model#Ex13_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH13/EX13.2/Ex13_2.R#S##6914
+13# Multiple Regression Analysis#13.1#Multiple Regression Model#Ex13_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH13/EX13.1/Ex13_1.R#S##6915
+12#Simple Regression Analysis and Correlation#12.7#Regression Analysis Example#Ex12_7.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.7/Ex12_7.R#S##6928
+12#Simple Regression Analysis and Correlation#12.6#CONFIDENCE INTERVAL TO ESTIMATE THE SINGAL VALUE FOR A GIVEN VALUE OF x #Ex12_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.6/Ex12_6.R#S##6927
+12#Simple Regression Analysis and Correlation#12.5#t test for slope#Ex12_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.5/Ex12_5.R#S##6922
+12#Simple Regression Analysis and Correlation#12.4#Coeficient of Determination#12_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.4/12_4.R#S##6875
+12#Simple Regression Analysis and Correlation#12.3#Standard Error of Estimation#12_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.3/12_3.R#S##6874
+12#Simple Regression Analysis and Correlation#12.2#Residual Analysis#12_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.2/12_2.R#S##6873
+12#Simple Regression Analysis and Correlation#12.1#Slope of Regression line#Ex12_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH12/EX12.1/Ex12_1.R#S##6921
+11# Analysis of Variance and Design of Experiments#11.4#Two Way ANOVA#Ex11_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH11/EX11.4/Ex11_4.R#S##6926
+11# Analysis of Variance and Design of Experiments#11.3#Randomized Block Design#Ex11_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH11/EX11.3/Ex11_3.R#S##6925
+11# Analysis of Variance and Design of Experiments#11.2#TUKEYs HSD Test#Ex11_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH11/EX11.2/Ex11_2.R#S##6924
+11# Analysis of Variance and Design of Experiments#11.1#One Way ANOVA#Ex11_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH11/EX11.1/Ex11_1.R#S##6923
+10# Statistical Inferences About Two Populations#10.7#F test for two Population Variance#Ex10_7.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.7/Ex10_7.R#S##6896
+10# Statistical Inferences About Two Populations#10.6#Z formula to test the difference in Population Proportion#10_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.6/10_6.R#S##6872
+10# Statistical Inferences About Two Populations#10.5#t formula to test the Difference in Two Dependent Population#10_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.5/10_5.R#S##6871
+10# Statistical Inferences About Two Populations#10.4#CONFIDENCE INTERVAL TO ESTIMATE difference in means ASSUMING THE POPULATION VARIANCES ARE UNKNOWN AND EQUAL#Ex10_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.4/Ex10_4.R#S##6895
+10# Statistical Inferences About Two Populations#10.3# t formula to test the difference in means assuming the standard deviations are equal#Ex10_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.3/Ex10_3.R#S##6897
+10# Statistical Inferences About Two Populations#10.2#Confidence Interval to estimate difference in two population means#10_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.2/10_2.R#S##6870
+10# Statistical Inferences About Two Populations#10.1#Z formula for the difference in Two Sample Means#Ex10_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH10/EX10.1/Ex10_1.R#S##6898
+9# Statistical Inference Hypothesis Testing for Single Populations#9.6#Z value for Type II error#Ex9_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH9/EX9.6/Ex9_6.R#S##6908
+9# Statistical Inference Hypothesis Testing for Single Populations#9.5#Z value for Type II error#9-5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH9/EX9.5/9-5.R#S##6869
+9# Statistical Inference Hypothesis Testing for Single Populations#9.4#Test Hypothesis about a population variance#Ex9_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH9/EX9.4/Ex9_4.R#S##6892
+9# Statistical Inference Hypothesis Testing for Single Populations#9.3#z test of a population proportion#Ex9_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH9/EX9.3/Ex9_3.R#S##6937
+9# Statistical Inference Hypothesis Testing for Single Populations#9.2#t test for population mean#Ex9_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH9/EX9.2/Ex9_2.R#S##6894
+9# Statistical Inference Hypothesis Testing for Single Populations#9.1# Test Hypothesis about population mean#Ex9_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH9/EX9.1/Ex9_1.R#S##6893
+8#Statistical Inference Estimation for Single Populations#8.8#Sample size when estimating population proportion#8_8.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.8/8_8.R#S##6868
+8#Statistical Inference Estimation for Single Populations#8.7#Sample Size when Estimating Population mean#8_7.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.7/8_7.R#S##6867
+8#Statistical Inference Estimation for Single Populations#8.6#Confidence to estimate the Population Variance#Ex8_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.6/Ex8_6.R#S##6899
+8#Statistical Inference Estimation for Single Populations#8.5#Confidence Interval to estimate Population Proportion#Ex8_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.5/Ex8_5.R#S##6907
+8#Statistical Inference Estimation for Single Populations#8.4#Confidence Interval to estimate Population Proportion#8_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.4/8_4.R#S##6866
+8#Statistical Inference Estimation for Single Populations#8.3#Confidence Interval to Estimate population mean Population standard deviation unknown and population normally distributed#Ex8_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.3/Ex8_3.R#S##6891
+8#Statistical Inference Estimation for Single Populations#8.2#Confidence interval to Estimate Population mean using Finite Correction#8_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.2/8_2.R#S##6865
+8#Statistical Inference Estimation for Single Populations#8.1#Confidence interval to Estimate Population mean#Ex8_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH8/EX8.1/Ex8_1.R#S##6890
+7# Sampling and Sampling Distributions#7.3#Z formula for Sample Proportion #Ex7_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH7/EX7.3/Ex7_3.R#S##6919
+7# Sampling and Sampling Distributions#7.2#Z formula for Sample mean of a finite population#Ex7_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH7/EX7.2/Ex7_2.R#S##6918
+7# Sampling and Sampling Distributions#7.1#Z formula for sample means #Ex7_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH7/EX7.1/Ex7_1.R#S##6917
+6# Continuous Distributions#6.9#Binomial distribution problem by using the normal distribution#6_9.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.9/6_9.R#S##6863
+6# Continuous Distributions#6.8#Normal distribution using z value#Ex6_8.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.8/Ex6_8.R#S##6889
+6# Continuous Distributions#6.7#MEAN OF A UNIFORM DISTRIBUTION#Ex6_7.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.7/Ex6_7.R#S##6906
+6# Continuous Distributions#6.6#PROBABILITY OF A UNIFORM DISTRIBUTION#Ex6_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.6/Ex6_6.R#S##6936
+6# Continuous Distributions#6.5#Probability of Normal Curve DISTRIBUTION#Ex6_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.5/Ex6_5.R#S##6934
+6# Continuous Distributions#6.4#PROBABILITY OF A UNIFORM DISTRIBUTION#Ex6_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.4/Ex6_4.R#S##6905
+6# Continuous Distributions#6.3#Normal Curve distribution#Ex6_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.3/Ex6_3.R#S##6935
+6# Continuous Distributions#6.2#MEAN AND STANDARD DEVIATION OF A UNIFORM DISTRIBUTION#Ex6_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.2/Ex6_2.R#S##6904
+6# Continuous Distributions#6.11#Exponential Distribution#6_11.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.11/6_11.R#S##6859
+6# Continuous Distributions#6.10# Binomial distribution by using the normal distribution#Ex6_10.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.10/Ex6_10.R#S##6946
+6# Continuous Distributions#6.1#Uniform Distribution#6_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH6/EX6.1/6_1.R#S##6858
+5# Discrete Distributions#5.9#Using poissions table#Ex5_9.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.9/Ex5_9.R#S##6886
+5# Discrete Distributions#5.8#Poisson distribution Example#Ex5_8.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.8/Ex5_8.R#S##6903
+5# Discrete Distributions#5.7#Poissions formula#5_7.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.7/5_7.R#S##6862
+5# Discrete Distributions#5.6#Mean and standard deviation in Binomial distribution #Ex5_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.6/Ex5_6.R#S##6933
+5# Discrete Distributions#5.5#Using Binomial Table#Ex5_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.5/Ex5_5.R#S##6885
+5# Discrete Distributions#5.3#Binomial Distribution ex 2#Ex5_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.3/Ex5_3.R#S##6888
+5# Discrete Distributions#5.2#Binomial Distribution#5_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.2/5_2.R#S##6861
+5# Discrete Distributions#5.11#Hypergeometrics distribution#Ex5_11.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.11/Ex5_11.R#S##6887
+5# Discrete Distributions#5.10#Probability Example#Ex5_10.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.10/Ex5_10.R#S##6945
+5# Discrete Distributions#5.1#Variance and standard deviation of a Discrete Distribution#5_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH5/EX5.1/5_1.R#S##6860
+4# Probability#4.9#Conditional Probability#4_9.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.9/4_9.R#S##6855
+4# Probability#4.8#Special Law of Multiplication#4_8.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.8/4_8.R#S##6854
+4# Probability#4.6#General Law of Multiplication#Ex4_6.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.6/Ex4_6.R#S##6902
+4# Probability#4.5#Multiplication Law#4_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.5/4_5.R#S##6853
+4# Probability#4.3#Special Law of Addition#4_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.3/4_3.R#S##6852
+4# Probability#4.12#Bayes Rule#4_12.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.12/4_12.R#S##6857
+4# Probability#4.11#Independent Event#4_11.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.11/4_11.R#S##6856
+4# Probability#4.1#Addition Law#4_1.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH4/EX4.1/4_1.R#S##6851
+3# Descriptive Statistics#3.7#Mean  Median  Mode  Variance  and  Standard deviation #Ex3_7.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.7/Ex3_7.R#S##6930
+3# Descriptive Statistics#3.6.b#Variance and Standard deviation#Ex3_6b.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.6.b/Ex3_6b.R#S##6882
+3# Descriptive Statistics#3.6.a#Mean Absolute Deviation#3_6_a.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.6.a/3_6_a.R#S##6944
+3# Descriptive Statistics#3.5#Chebyshevs Theorem#3_5.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.5/3_5.R#S##6850
+3# Descriptive Statistics#3.3#Quartiles#Ex3_3.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.3/Ex3_3.R#S##6884
+3# Descriptive Statistics#3.2#Determine the 30th percentile of the following eight numbers#Ex3_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.2/Ex3_2.R#S##6929
+3# Descriptive Statistics#3.1.c#Mean#Ex3_1c.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.1.c/Ex3_1c.R#S##6881
+3# Descriptive Statistics#3.1.b#Median#Ex3_1b.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.1.b/Ex3_1b.R#S##6883
+3# Descriptive Statistics#3.1.a#Mode#3_1_a.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH3/EX3.1.a/3_1_a.R#S##6943
+2# Charts and Graphs#2.4#Scatter Plot#2_4.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.4/2_4.R#S##6849
+2# Charts and Graphs#2.3.b#Bar Graph#2_3_b.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.3.b/2_3_b.R#S##6848
+2# Charts and Graphs#2.3.a#Bar Graph#2_3_a.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.3.a/2_3_a.R#S##6879
+2# Charts and Graphs#2.2#Steam and leaf plot#2_2.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.2/2_2.R#S##6847
+2# Charts and Graphs#2.1.c#Cumulative Frequency#Ex2_1c.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.1.c/Ex2_1c.R#S##6878
+2# Charts and Graphs#2.1.b#Relative Frequency#Ex2_1b.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.1.b/Ex2_1b.R#S##6877
+2# Charts and Graphs#2.1.a#Class Midpoints#Ex2_1a.R#Business_Statistics_For_Contemporary_Decision_Making_by_Ken_Black/CH2/EX2.1.a/Ex2_1a.R#S##6880

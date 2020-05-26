@@ -1,0 +1,5 @@
+#BOOK PAGE NO : 59
+
+x<-8
+y<-2
+cat("BITWISE EXCLUSIVE OR OPERATION OF NUMBERS(8,2): ",bitwXor(x,y))

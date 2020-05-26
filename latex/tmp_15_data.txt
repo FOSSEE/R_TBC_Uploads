@@ -1,0 +1,86 @@
+12# Outlier detection#12.9#Multivariate outlier detection using mahalanobis distance#Ex12_9.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.9/Ex12_9.R#S##3218
+12# Outlier detection#12.8#Univariate outliers detection using maxumum likelihood#Ex12_8.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.8/Ex12_8.R#S##3217
+12# Outlier detection#12.7#Detecting outliers using clustering#Ex12_7.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.7/Ex12_7.R#S##3216
+12# Outlier detection#12.25#angle based outliers#Ex12_25.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.25/Ex12_25.R#S##3763
+12# Outlier detection#12.24#Outliers in subspace#Ex12_24.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.24/Ex12_24.R#S##3227
+12# Outlier detection#12.20#Outlier detection by semi supervised learning#Ex12_20.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.20/Ex12_20.R#S##3226
+12# Outlier detection#12.18#detecting outliers in small clusters#Ex12_18.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.18/Ex12_18.R#S##3225
+12# Outlier detection#12.16#clustering based outliers detection using distance to the closest cluster#Ex12_16.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.16/Ex12_16.R#S##3224
+12# Outlier detection#12.15#Detecting outliers as objects that do not belong to any clusters#Ex12_15.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.15/Ex12_15.R#S##3223
+12# Outlier detection#12.14#local proximity based outliers#Ex12_14.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.14/Ex12_14.R#S##3222
+12# Outlier detection#12.13#Outlier detection using a histogram#Ex12_13.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.13/Ex12_13.R#S##3221
+12# Outlier detection#12.12#Multivariate outlier detection using multiple clusters#Ex12_12.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.12/Ex12_12.R#S##3220
+12# Outlier detection#12.10#Multivariate outlier detection using the chi2 statistic#Ex12_10.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.10/Ex12_10.R#S##3219
+12# Outlier detection#12.1#Outliers#Ex12_1.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH12/EX12.1/Ex12_1.R#S##3215
+11# Advanced cluster analysis#11.7#Fuzzy clustering using the EM algorithm#Ex11_7.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.7/Ex11_7.R#S##3765
+11# Advanced cluster analysis#11.5#Probabilistic clusters#Ex11_5.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.5/Ex11_5.R#S##3208
+11# Advanced cluster analysis#11.3#Fuzzy set#Ex11_3.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.3/Ex11_3.zip#S##3792
+11# Advanced cluster analysis#11.23#Hard and soft constraints#Ex11_23.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.23/Ex11_23.R#S##3214
+11# Advanced cluster analysis#11.21#cuts and clusters#Ex11_21.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.21/Ex11_21.R#S##3768
+11# Advanced cluster analysis#11.19#Measurements based on geodesic distance#Ex11_19.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.19/Ex11_19.R#S##3212
+11# Advanced cluster analysis#11.16#Bipartite graph#Ex11_16.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.16/Ex11_16.R#S##3767
+11# Advanced cluster analysis#11.14#clustering in a derived space#Ex11_14.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH11/EX11.14/Ex11_14.R#S##3766
+10#Cluster analysis basic concepts and mehtods#10.8#core distance and reachability distance#Ex10_8.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH10/EX10.8/Ex10_8.R#S##3206
+10#Cluster analysis basic concepts and mehtods#10.7#Density reachability and density connectivity#Ex10_7.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH10/EX10.7/Ex10_7.R#S##3205
+10#Cluster analysis basic concepts and mehtods#10.4#Single versus complete linkages#Ex10_4.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH10/EX10.4/Ex10_4.R#S##3204
+10#Cluster analysis basic concepts and mehtods#10.3#Agglomerative versus divisive hierachical clustering#Ex10_3.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH10/EX10.3/Ex10_3.R#S##3203
+10#Cluster analysis basic concepts and mehtods#10.2#Drawback of k means#Ex10_2.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH10/EX10.2/Ex10_2.R#S##3202
+10#Cluster analysis basic concepts and mehtods#10.1#Clustering by K means partitioning#Ex10_1.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH10/EX10.1/Ex10_1.R#S##3201
+9# Classification Advanced methods#9.3#Error correcting codes#Ex9_3.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH9/EX9.3/Ex9_3.R#S##3153
+9# Classification Advanced methods#9.1#Backpropagation  algorithm#Ex9_1.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH9/EX9.1/Ex9_1.R#S##3769
+8# Classification basic concepts#8.9#Sensitivity and Specificity#Ex8_9.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.9/Ex8_9.R#S##3147
+8# Classification basic concepts#8.8#Rules based on accuracy#Ex8_8.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.8/Ex8_8.zip#S##3777
+8# Classification basic concepts#8.7#Extracting Classification Rules from a decision tree#Ex8_7.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.7/Ex8_7.zip#S##3776
+8# Classification basic concepts#8.6#Rule Accuracy and Coverage#Ex8_6.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.6/Ex8_6.zip#S##3775
+8# Classification basic concepts#8.4#predicting a class label using naive bayesian classification#Ex8_4.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.4/Ex8_4.zip#S##3773
+8# Classification basic concepts#8.3#Computation of Gini Index#Ex8_3.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.3/Ex8_3.zip#S##3772
+8# Classification basic concepts#8.2#Computation of Gain Ratio#Ex8_2.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.2/Ex8_2.zip#S##3771
+8# Classification basic concepts#8.11#ROC Curve#Ex8_11.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.11/Ex8_11.R#S##3149
+8# Classification basic concepts#8.10#Precision and recall#Ex8_10.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.10/Ex8_10.R#S##3148
+8# Classification basic concepts#8.1#Decision tree using Information gain#Ex8_1.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH8/EX8.1/Ex8_1.zip#S##3847
+7# Advanced Pattern mining#7.6#Negatively related patterns#EX7_6.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.6/EX7_6.R#S##3135
+7# Advanced Pattern mining#7.3#Rare patterns and negative patterns#EX7_3.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.3/EX7_3.R#S##3129
+7# Advanced Pattern mining#7.2#redundancy among multilevel association rules#EX7_2.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.2/EX7_2.R#S##3778
+7# Advanced Pattern mining#7.15#Semantic annotations of a frequent patterns#EX7_15.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.15/EX7_15.R#S##3133
+7# Advanced Pattern mining#7.13#pattern distance#EX7_13.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.13/EX7_13.R#S##3132
+7# Advanced Pattern mining#7.12#closed and maximal itemsets#EX7_12.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.12/EX7_12.R#S##3131
+7# Advanced Pattern mining#7.1#Mining multilevel association rules#EX7_1.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH7/EX7.1/EX7_1.R#S##3127
+6# Mining frequent patterns associations and correlations basic concepts and methods#6.9#Correlation analysis using chi2#EX6_9.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH6/EX6.9/EX6_9.R#S##3126
+6# Mining frequent patterns associations and correlations basic concepts and methods#6.8#Correlation analysis using lift#Ex6_8.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH6/EX6.8/Ex6_8.zip#S##3782
+6# Mining frequent patterns associations and correlations basic concepts and methods#6.4#Generating association rules#Ex6_4.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH6/EX6.4/Ex6_4.zip#S##3781
+6# Mining frequent patterns associations and correlations basic concepts and methods#6.3#Apriori#Ex6_3.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH6/EX6.3/Ex6_3.zip#S##3780
+6# Mining frequent patterns associations and correlations basic concepts and methods#6.2#closed and maximal frequent itemsets#Ex6_2.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH6/EX6.2/Ex6_2.zip#S##3779
+5# Data Cube Technology#5.9#Construct the inverted index#EX5_9.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH5/EX5.9/EX5_9.R#S##3114
+5# Data Cube Technology#5.16#A top k query#Ex5_16.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH5/EX5.16/Ex5_16.zip#S##3785
+5# Data Cube Technology#5.15#Intracuboid expansion#Ex5_15.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH5/EX5.15/Ex5_15.zip#S##3784
+5# Data Cube Technology#5.14#Intracuboid query expansion#Ex5_14.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH5/EX5.14/Ex5_14.zip#S##3783
+5# Data Cube Technology#5.11#Computing cubes with average measure#EX5_11.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH5/EX5.11/EX5_11.R#S##3116
+5# Data Cube Technology#5.10#Compute shell fragment#EX5_10.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH5/EX5.10/EX5_10.R#S##3115
+4# Data warehousing and online analytical processing#4.9#OLAP query processing#Ex4_9.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.9/Ex4_9.R#S##3110
+4# Data warehousing and online analytical processing#4.8#Join Index#Ex4_8.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.8/Ex4_8.R#S##3108
+4# Data warehousing and online analytical processing#4.6#A data cube is a lattice of cuboids#Ex4_6.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.6/Ex4_6.R#S##3107
+4# Data warehousing and online analytical processing#4.4#OLAP operations#Ex4_4.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.4/Ex4_4.R#S##3106
+4# Data warehousing and online analytical processing#4.3#Fact Constellation#Ex4_3.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.3/Ex4_3.R#S##3105
+4# Data warehousing and online analytical processing#4.13#Presentation of generalization results#Ex4_13.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.13/Ex4_13.zip#S##3788
+4# Data warehousing and online analytical processing#4.11#Query for characterization#Ex4_11.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.11/Ex4_11.zip#S##3790
+4# Data warehousing and online analytical processing#4.10#A ROLAP data store#Ex4_10.zip#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH4/EX4.10/Ex4_10.zip#S##3786
+3# Data Preprocessing#3.6#Decimal Scalling#Ex3_6.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH3/EX3.6/Ex3_6.R#S##3104
+3# Data Preprocessing#3.5#Z score normalization#Ex3_5.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH3/EX3.5/Ex3_5.R#S##3103
+3# Data Preprocessing#3.4#Min Max normalization#Ex3_4.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH3/EX3.4/Ex3_4.R#S##3102
+3# Data Preprocessing#3.3#Histograms#Ex3_3.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH3/EX3.3/Ex3_3.R#S##3101
+3# Data Preprocessing#3.2#Covariance analysis of numeric attribute#Ex3_2.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH3/EX3.2/Ex3_2.R#S##3100
+3# Data Preprocessing#3.1#Correln analysis of nominal attributes using chi2#Ex3_1.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH3/EX3.1/Ex3_1.R#S##3099
+2# Getting to know your Data#2.9#Midrange#Ex2_9.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.9/Ex2_9.R#S##3088
+2# Getting to know your Data#2.8#Mode#Ex2_8.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.8/Ex2_8.R#S##3087
+2# Getting to know your Data#2.7#Median#Ex2_7.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.7/Ex2_7.R#S##3086
+2# Getting to know your Data#2.6.1#Mean#Ex2_6.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.6.1/Ex2_6.R#S##3085
+2# Getting to know your Data#2.23#cosine similarity between two term frequency vectors#Ex2_23.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.23/Ex2_23.R#S##3098
+2# Getting to know your Data#2.21#Dissimilarity between ordinal attributes#Ex2_21.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.21/Ex2_21.R#S##3097
+2# Getting to know your Data#2.20#Supremum distance#Ex2_20.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.20/Ex2_20.R#S##3096
+2# Getting to know your Data#2.19#Euclidean distance and manhattan distance#Ex2_19.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.19/Ex2_19.R#S##3095
+2# Getting to know your Data#2.18#Dissimilarity between binary attributes#Ex2_18.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.18/Ex2_18.R#S##3094
+2# Getting to know your Data#2.15#Histogram#Ex2_15.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.15/Ex2_15.R#S##3789
+2# Getting to know your Data#2.13#Quantile Plot#Ex2_13.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.13/Ex2_13.R#S##3092
+2# Getting to know your Data#2.12#Variance and standard deviation#Ex2_12.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.12/Ex2_12.R#S##3091
+2# Getting to know your Data#2.11#Boxplot#Ex2_11.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.11/Ex2_11.R#S##3090
+2# Getting to know your Data#2.10#Interquartile Range#Ex2_10.R#Data_Mining:_Concepts_And_Techniques_by_Jiawei_Han,_Micheline_Kamber,_And_Jian_Pei/CH2/EX2.10/Ex2_10.R#S##3089

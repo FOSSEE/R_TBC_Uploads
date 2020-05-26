@@ -1,0 +1,15 @@
+# page no.369
+
+v1 <- c(2, 1, -1)
+v2 <- c(0, 1, 1)
+v3 <- c(1, -1, 1)
+v1v2 <- sum(v1*v2)
+v2v3 <- sum(v2*v3)
+v1v3 <- sum(v1*v3)
+print("v1*v2 is")
+print(v1v2)
+print("v2*v3 is")
+print(v2v3)
+print("v1*v3 is")
+print(v1v3)
+print("Hence v1, v2 and v3 are orthogonal sets of vectors")

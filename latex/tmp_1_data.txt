@@ -1,0 +1,195 @@
+14# Life Testing#14.4.a#Lifetime of items produced by two plants#Ex14_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH14/EX14.4.a/Ex14_4a.R#S##198
+14# Life Testing#14.3.e#Bayes estimator#Ex14_3e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH14/EX14.3.e/Ex14_3e.R#S##197
+14# Life Testing#14.3.d#Lifetime of semiconductors#Ex14_3d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH14/EX14.3.d/Ex14_3d.R#S##196
+14# Life Testing#14.3.c#One at a time sequential test#Ex14_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH14/EX14.3.c/Ex14_3c.R#S##195
+14# Life Testing#14.3.b#Lifetime of Battery#Ex14_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH14/EX14.3.b/Ex14_3b.R#S##194
+14# Life Testing#14.3.a#Lifetime of a transistor#Ex14_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH14/EX14.3.a/Ex14_3a.R#S##193
+13#Quality Control#13.6.d#Finding control limit#Ex13_6d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.6.d/Ex13_6d.R#S##192
+13#Quality Control#13.6.c#Exponentially weighted moving average control#Ex13_6c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.6.c/Ex13_6c.R#S##190
+13#Quality Control#13.6.b#Service Time#Ex13_6b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.6.b/Ex13_6b.R#S##189
+13#Quality Control#13.5.a#Control during production of cars#Ex13_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.5.a/Ex13_5a.R#S##188
+13#Quality Control#13.4.a#Defectives Screws#Ex13_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.4.a/Ex13_4a.R#S##187
+13#Quality Control#13.3.a#determining control limits#Ex13_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.3.a/Ex13_3a.R#S##186
+13#Quality Control#13.2.b#unknown mean and variance#Ex13_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.2.b/Ex13_2b.R#S##185
+13#Quality Control#13.2.a#Steel shaft diameter#Ex13_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH13/EX13.2.a/Ex13_2a.R#S##184
+12#Non parametric Hypothesis Tests#12.5.c#Determining p value#Ex12_5c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.5.c/Ex12_5c.R#S##183
+12#Non parametric Hypothesis Tests#12.5.a#Testing randomness#Ex12_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.5.a/Ex12_5a.R#S##182
+12#Non parametric Hypothesis Tests#12.4.e#Determining p value#Ex12_4e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.4.e/Ex12_4e.R#S##181
+12#Non parametric Hypothesis Tests#12.4.d#Comparing production methods#Ex12_4d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.4.d/Ex12_4d.R#S##180
+12#Non parametric Hypothesis Tests#12.4.c#Finding p value#Ex12_4c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.4.c/Ex12_4c.R#S##179
+12#Non parametric Hypothesis Tests#12.4.b#Determining P#Ex12_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.4.b/Ex12_4b.R#S##178
+12#Non parametric Hypothesis Tests#12.4.a#Treatments against corrosion#Ex12_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.4.a/Ex12_4a.R#S##177
+12#Non parametric Hypothesis Tests#12.3.c#Determining Population Distribution#Ex12_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.3.c/Ex12_3c.R#S##176
+12#Non parametric Hypothesis Tests#12.3.b#Signed Rank Test#Ex12_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.3.b/Ex12_3b.R#S##175
+12#Non parametric Hypothesis Tests#12.2.b#testing the median#Ex12_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.2.b/Ex12_2b.R#S##174
+12#Non parametric Hypothesis Tests#12.2.a#testing the median#Ex12_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH12/EX12.2.a/Ex12_2a.R#S##173
+11# Goodness of Fit Tests and Categorical Data Analysis#11.6.a#Testing distribution of a population#Ex11_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.6.a/Ex11_6a.R#S##172
+11# Goodness of Fit Tests and Categorical Data Analysis#11.5.b#Females reporting abuse#Ex11_5b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.5.b/Ex11_5b.R#S##171
+11# Goodness of Fit Tests and Categorical Data Analysis#11.5.a#Lung cancer and smoking#Ex11_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.5.a/Ex11_5a.R#S##170
+11# Goodness of Fit Tests and Categorical Data Analysis#11.4.b#Machine Breakdown and shift#Ex11_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.4.b/Ex11_4b.R#S##169
+11# Goodness of Fit Tests and Categorical Data Analysis#11.4.a#Political affliation and Gender#Ex11_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.4.a/Ex11_4a.R#S##168
+11# Goodness of Fit Tests and Categorical Data Analysis#11.3.a#Weekly accidents#Ex11_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.3.a/Ex11_3a.R#S##167
+11# Goodness of Fit Tests and Categorical Data Analysis#11.2.d#Six outcomes#Ex11_2d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.2.d/Ex11_2d.R#S##166
+11# Goodness of Fit Tests and Categorical Data Analysis#11.2.b#Quality of bulbs#Ex11_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.2.b/Ex11_2b.R#S##165
+11# Goodness of Fit Tests and Categorical Data Analysis#11.2.a#Relation between death date and birth date#Ex11_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH11/EX11.2.a/Ex11_2a.R#S##164
+10# Analysis of Variance#10.5.a#Species collected#Ex10_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH10/EX10.5.a/Ex10_5a.R#S##163
+10# Analysis of Variance#10.4.b#Estimating Parameters#Ex10_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH10/EX10.4.b/Ex10_4b.R#S##162
+10# Analysis of Variance#10.3.c#Difference in GPA#Ex10_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH10/EX10.3.c/Ex10_3c.R#S##161
+10# Analysis of Variance#10.3.b#Dependence of mileage on gas used#Ex10_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH10/EX10.3.b/Ex10_3b.R#S##160
+10# Analysis of Variance#10.3.a#Dependence of mileage on gas used#Ex10_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH10/EX10.3.a/Ex10_3a.R#S##159
+9# Regression#9.9.a#Polynomial Fitting#Ex9_9a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.9.a/Ex9_9a.R#S##153
+9# Regression#9.8.b#Distance vs Travel Time#Ex9_8b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.8.b/Ex9_8b.R#S##152
+9# Regression#9.7.a#Percentage of chemical used#Ex9_7a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.7.a/Ex9_7a.R#S##151
+9# Regression#9.5.a#Height of son and father#Ex9_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.5.a/Ex9_5a.R#S##150
+9# Regression#9.4.f#Confidence interval for height#Ex9_4f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.4.f/Ex9_4f.R#S##149
+9# Regression#9.4.e#Confidence interval for height#Ex9_4e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.4.e/Ex9_4e.R#S##148
+9# Regression#9.4.d#Motor vehicle deaths#Ex9_4d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.4.d/Ex9_4d.R#S##147
+9# Regression#9.4.c#Regression to the mean#Ex9_4c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.4.c/Ex9_4c.R#S##146
+9# Regression#9.4.b#Confidence interval estimate#Ex9_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.4.b/Ex9_4b.R#S##145
+9# Regression#9.4.a#Effect of speed on mileage#Ex9_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.4.a/Ex9_4a.R#S##144
+9# Regression#9.3.a#Moisture against Density#Ex9_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.3.a/Ex9_3a.R#S##143
+9# Regression#9.2.a#Relative humidity and moisture content#Ex9_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.2.a/Ex9_2a.R#S##142
+9# Regression#9.11.a#Animal sick falling#Ex9_11a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.11.a/Ex9_11a.R#S##158
+9# Regression#9.10.d#Estimating hardness#Ex9_10d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.10.d/Ex9_10d.R#S##157
+9# Regression#9.10.c#Diameter of a tree#Ex9_10c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.10.c/Ex9_10c.R#S##156
+9# Regression#9.10.b#Estimate of variance#Ex9_10b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.10.b/Ex9_10b.R#S##155
+9# Regression#9.10.a#Multiple Linear Regression#Ex9_10a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.10.a/Ex9_10a.R#S##154
+9# Regression#9.1.a#Scatter Diagram#Ex9_1a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH9/EX9.1.a/Ex9_1a.R#S##141
+8#Hypothesis Testing#8.7.c#Better proof reader#Ex8_7c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.7.c/Ex8_7c.R#S##140
+8#Hypothesis Testing#8.7.b#Safety Conditions in a plant#Ex8_7b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.7.b/Ex8_7b.R#S##139
+8#Hypothesis Testing#8.7.a#Mean number of defective chips#Ex8_7a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.7.a/Ex8_7a.R#S##138
+8#Hypothesis Testing#8.6.c#Change in manufacturing pattern#Ex8_6c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.6.c/Ex8_6c.R#S##137
+8#Hypothesis Testing#8.6.b#Finding p value#Ex8_6b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.6.b/Ex8_6b.R#S##136
+8#Hypothesis Testing#8.6.a#Computer chip manufacturing#Ex8_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.6.a/Ex8_6a.R#S##135
+8#Hypothesis Testing#8.5.b#Catalyst#Ex8_5b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.5.b/Ex8_5b.R#S##134
+8#Hypothesis Testing#8.5.a#effectiveness of machine#Ex8_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.5.a/Ex8_5a.R#S##133
+8#Hypothesis Testing#8.4.d#effectiveness of safety program#Ex8_4d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.4.d/Ex8_4d.R#S##132
+8#Hypothesis Testing#8.4.c#Unknown population variance#Ex8_4c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.4.c/Ex8_4c.R#S##131
+8#Hypothesis Testing#8.4.b#Medicine for cold#Ex8_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.4.b/Ex8_4b.R#S##130
+8#Hypothesis Testing#8.4.a#Tire lives#Ex8_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.4.a/Ex8_4a.R#S##129
+8#Hypothesis Testing#8.3.j#Service Time#Ex8_3j.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.j/Ex8_3j.R#S##128
+8#Hypothesis Testing#8.3.i#Life of a tire#Ex8_3i.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.i/Ex8_3i.R#S##127
+8#Hypothesis Testing#8.3.h#Water usage#Ex8_3h.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.h/Ex8_3h.R#S##126
+8#Hypothesis Testing#8.3.g#Blood cholesterol level#Ex8_3g.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.g/Ex8_3g.R#S##125
+8#Hypothesis Testing#8.3.f#Nicotine content in a cigarette#Ex8_3f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.f/Ex8_3f.R#S##124
+8#Hypothesis Testing#8.3.e#Number of signals to be sent#Ex8_3e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.e/Ex8_3e.R#S##123
+8#Hypothesis Testing#8.3.d#Number of signals to be sent#Ex8_3d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.d/Ex8_3d.R#S##122
+8#Hypothesis Testing#8.3.c#Error in a signal#Ex8_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.c/Ex8_3c.R#S##121
+8#Hypothesis Testing#8.3.b#Error in a signal#Ex8_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.b/Ex8_3b.R#S##120
+8#Hypothesis Testing#8.3.a#Noise in a Signal#Ex8_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH8/EX8.3.a/Ex8_3a.R#S##119
+7# Parameter Estimation#7.8.d#estimator of the signal value#Ex7_8d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.8.d/Ex7_8d.R#S##118
+7# Parameter Estimation#7.8.b#Bayes estimator of a normal population#Ex7_8b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.8.b/Ex7_8b.R#S##117
+7# Parameter Estimation#7.8.a#Bayes estimator#Ex7_8a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.8.a/Ex7_8a.R#S##116
+7# Parameter Estimation#7.7.c#Point estimator of a uniform distribution#Ex7_7c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.7.c/Ex7_7c.R#S##115
+7# Parameter Estimation#7.7.b#Point estimator#Ex7_7b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.7.b/Ex7_7b.R#S##114
+7# Parameter Estimation#7.7.a#Point estimator#Ex7_7a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.7.a/Ex7_7a.R#S##113
+7# Parameter Estimation#7.6.a#Life of a product#Ex7_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.6.a/Ex7_6a.R#S##112
+7# Parameter Estimation#7.5.c#Acceptable chips#Ex7_5c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.5.c/Ex7_5c.R#S##111
+7# Parameter Estimation#7.5.b#Survey#Ex7_5b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.5.b/Ex7_5b.R#S##110
+7# Parameter Estimation#7.5.a#Transistors#Ex7_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.5.a/Ex7_5a.R#S##109
+7# Parameter Estimation#7.4.b#Battery production#Ex7_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.4.b/Ex7_4b.R#S##108
+7# Parameter Estimation#7.4.a#Cable insulation#Ex7_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.4.a/Ex7_4a.R#S##107
+7# Parameter Estimation#7.3.h#Thickness of washers#Ex7_3h.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.h/Ex7_3h.R#S##106
+7# Parameter Estimation#7.3.g#Evaluating integrals#Ex7_3g.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.g/Ex7_3g.R#S##105
+7# Parameter Estimation#7.3.f#Average resting pulse#Ex7_3f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.f/Ex7_3f.R#S##104
+7# Parameter Estimation#7.3.e#Error in a signal#Ex7_3e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.e/Ex7_3e.R#S##103
+7# Parameter Estimation#7.3.d#Weight of a salmon#Ex7_3d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.d/Ex7_3d.R#S##102
+7# Parameter Estimation#7.3.c#Confidence interval#Ex7_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.c/Ex7_3c.R#S##101
+7# Parameter Estimation#7.3.b#Confidence interval#Ex7_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.b/Ex7_3b.R#S##100
+7# Parameter Estimation#7.3.a#Error in a signal#Ex7_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.3.a/Ex7_3a.R#S##99
+7# Parameter Estimation#7.2.g#Estimating Mean of a Uniform Distribution#Ex7_2g.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.g/Ex7_2g.R#S##98
+7# Parameter Estimation#7.2.f#Kolmogorovs law of fragmentation#Ex7_2f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.f/Ex7_2f.R#S##97
+7# Parameter Estimation#7.2.e#Maximum likelihood estimator in a normal population#Ex7_2e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.e/Ex7_2e.R#S##96
+7# Parameter Estimation#7.2.d#Number of traffic accidents#Ex7_2d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.d/Ex7_2d.R#S##95
+7# Parameter Estimation#7.2.c#Maximum likelihood estimator of a poisson parameter#Ex7_2c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.c/Ex7_2c.R#S##94
+7# Parameter Estimation#7.2.b#Errors in a manuscript#Ex7_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.b/Ex7_2b.R#S##93
+7# Parameter Estimation#7.2.a#Maximum likelihood estimator of a bernoulli parameter#Ex7_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH7/EX7.2.a/Ex7_2a.R#S##92
+6#Distribution of Sampling Statistics#6.6.b#Pork consumption#Ex6_6b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.6.b/Ex6_6b.R#S##91
+6#Distribution of Sampling Statistics#6.6.a#Candidate winning an election#Ex6_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.6.a/Ex6_6a.R#S##90
+6#Distribution of Sampling Statistics#6.5.a#Processing time#Ex6_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.5.a/Ex6_5a.R#S##89
+6#Distribution of Sampling Statistics#6.3.e#Distance of a start#Ex6_3e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.3.e/Ex6_3e.R#S##88
+6#Distribution of Sampling Statistics#6.3.d#Weights of workers#Ex6_3d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.3.d/Ex6_3d.R#S##87
+6#Distribution of Sampling Statistics#6.3.c#Class strength#Ex6_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.3.c/Ex6_3c.R#S##86
+6#Distribution of Sampling Statistics#6.3.a#Claims handled by an insurance company#Ex6_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH6/EX6.3.a/Ex6_3a.R#S##85
+5# Special Random Variables#5.8.f#F Distribution#Ex5_8f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.8.f/Ex5_8f.R#S##84
+5# Special Random Variables#5.8.e#T distribution#Ex5_8e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.8.e/Ex5_8e.R#S##83
+5# Special Random Variables#5.8.d#Locating a Target in 2D space#Ex5_8d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.8.d/Ex5_8d.R#S##82
+5# Special Random Variables#5.8.c#Locating a Target#Ex5_8c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.8.c/Ex5_8c.R#S##81
+5# Special Random Variables#5.8.b#Chi square random variable#Ex5_8b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.8.b/Ex5_8b.R#S##80
+5# Special Random Variables#5.8.a#Chi square random variable#Ex5_8a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.8.a/Ex5_8a.R#S##79
+5# Special Random Variables#5.6.c#Series System#Ex5_6c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.6.c/Ex5_6c.R#S##78
+5# Special Random Variables#5.6.b#Working Machines#Ex5_6b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.6.b/Ex5_6b.R#S##77
+5# Special Random Variables#5.6.a#Wearing of Battery#Ex5_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.6.a/Ex5_6a.R#S##76
+5# Special Random Variables#5.5.d#Yearly precipitation#Ex5_5d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.5.d/Ex5_5d.R#S##75
+5# Special Random Variables#5.5.c#Power dissipation#Ex5_5c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.5.c/Ex5_5c.R#S##74
+5# Special Random Variables#5.5.b#Noise in Binary Message#Ex5_5b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.5.b/Ex5_5b.R#S##73
+5# Special Random Variables#5.5.a#Normal Random Variable#Ex5_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.5.a/Ex5_5a.R#S##72
+5# Special Random Variables#5.4.c#Current in a diode#Ex5_4c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.4.c/Ex5_4c.R#S##71
+5# Special Random Variables#5.4.b#Bus Timings#Ex5_4b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.4.b/Ex5_4b.R#S##70
+5# Special Random Variables#5.4.a#Probabilities of a uniform random variable#Ex5_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.4.a/Ex5_4a.R#S##69
+5# Special Random Variables#5.3.c#Conditional Probability#Ex5_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.3.c/Ex5_3c.R#S##68
+5# Special Random Variables#5.3.b#Determining Population Size#Ex5_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.3.b/Ex5_3b.R#S##67
+5# Special Random Variables#5.3.a#Functional system#Ex5_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.3.a/Ex5_3a.R#S##66
+5# Special Random Variables#5.2.f#Defective stereos#Ex5_2f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.2.f/Ex5_2f.R#S##65
+5# Special Random Variables#5.2.d#Claims handled by an insurance company#Ex5_2d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.2.d/Ex5_2d.R#S##64
+5# Special Random Variables#5.2.c#Number of Alpha particles#Ex5_2c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.2.c/Ex5_2c.R#S##63
+5# Special Random Variables#5.2.b#Defective Items#Ex5_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.2.b/Ex5_2b.R#S##61
+5# Special Random Variables#5.2.a#Probability of accident#Ex5_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.2.a/Ex5_2a.R#S##60
+5# Special Random Variables#5.1.f#Binomial Distribution#Ex5_1f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.1.f/Ex5_1f.R#S##62
+5# Special Random Variables#5.1.e#Binomial Random Variable#Ex5_1e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.1.e/Ex5_1e.R#S##59
+5# Special Random Variables#5.1.b#Colour of Eyes#Ex5_1b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.1.b/Ex5_1b.R#S##58
+5# Special Random Variables#5.1.a#Returning of disks#Ex5_1a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH5/EX5.1.a/Ex5_1a.R#S##57
+4# Random Variables And Expectation#4.9.a#Inequalities#Ex4_9a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.9.a/Ex4_9a.R#S##55
+4# Random Variables And Expectation#4.7.b#Variance of 10 tosses of a coin#Ex4_7b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.7.b/Ex4_7b.R#S##54
+4# Random Variables And Expectation#4.7.a#Variance of 10 rolls of a fair die#Ex4_7a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.7.a/Ex4_7a.R#S##53
+4# Random Variables And Expectation#4.6.a#Variance of a fair die#Ex4_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.6.a/Ex4_6a.R#S##52
+4# Random Variables And Expectation#4.5.g#Different types of coupons#Ex4_5g.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.5.g/Ex4_5g.R#S##51
+4# Random Variables And Expectation#4.5.e#Expected profit#Ex4_5e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.5.e/Ex4_5e.R#S##50
+4# Random Variables And Expectation#4.5.d#Expectation#Ex4_5d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.5.d/Ex4_5d.R#S##49
+4# Random Variables And Expectation#4.5.c#Expectation#Ex4_5c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.5.c/Ex4_5c.R#S##48
+4# Random Variables And Expectation#4.5.b#Expected cost of breakdown#Ex4_5b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.5.b/Ex4_5b.R#S##47
+4# Random Variables And Expectation#4.5.a#Expectation#Ex4_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.5.a/Ex4_5a.R#S##46
+4# Random Variables And Expectation#4.4.d#Expectation of the message time#Ex4_4d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.4.d/Ex4_4d.R#S##45
+4# Random Variables And Expectation#4.4.a#Expectation of a fair die#Ex4_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.4.a/Ex4_4a.R#S##44
+4# Random Variables And Expectation#4.3.g#Conditional Probability Mass Function#Ex4_3g.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.g/Ex4_3g.R#S##43
+4# Random Variables And Expectation#4.3.f#Conditional Probability Mass Function#Ex4_3f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.f/Ex4_3f.R#S##42
+4# Random Variables And Expectation#4.3.e#Density of Independent Random Variables#Ex4_3e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.e/Ex4_3e.R#S##41
+4# Random Variables And Expectation#4.3.d#Density of Independent Random Variables#Ex4_3d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.d/Ex4_3d.R#S##56
+4# Random Variables And Expectation#4.3.c#Joint Density Function#Ex4_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.c/Ex4_3c.R#S##40
+4# Random Variables And Expectation#4.3.b#Joint distribution of boys and girls#Ex4_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.b/Ex4_3b.R#S##39
+4# Random Variables And Expectation#4.3.a#Joint distribution of batteries#Ex4_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.3.a/Ex4_3a.R#S##38
+4# Random Variables And Expectation#4.2.b#pdf#Ex4_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.2.b/Ex4_2b.R#S##37
+4# Random Variables And Expectation#4.2.a#sum of pmf#Ex4_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.2.a/Ex4_2a.R#S##36
+4# Random Variables And Expectation#4.1.c#X exceeds 1#Ex4_1c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.1.c/Ex4_1c.R#S##35
+4# Random Variables And Expectation#4.1.a#sum of two fair dice#Ex4_1a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH4/EX4.1.a/Ex4_1a.R#S##34
+3# Elements Of Probability#3.8.a#Independent Events#Ex3_8a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.8.a/Ex3_8a.R#S##32
+3# Elements Of Probability#3.7.f#Missing Plane#Ex3_7f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.7.f/Ex3_7f.R#S##31
+3# Elements Of Probability#3.7.e#Criminal Investigation#Ex3_7e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.7.e/Ex3_7e.R#S##30
+3# Elements Of Probability#3.7.d#blood test#Ex3_7d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.7.d/Ex3_7d.R#S##29
+3# Elements Of Probability#3.7.c#Multiple Choice Test#Ex3_7c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.7.c/Ex3_7c.R#S##33
+3# Elements Of Probability#3.7.b#Accident within a year#Ex3_7b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.7.b/Ex3_7b.R#S##28
+3# Elements Of Probability#3.7.a#Accident Probability#Ex3_7a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.7.a/Ex3_7a.R#S##27
+3# Elements Of Probability#3.6.c#Branch Manager#Ex3_6c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.6.c/Ex3_6c.R#S##26
+3# Elements Of Probability#3.6.b#Both Boys#Ex3_6b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.6.b/Ex3_6b.R#S##25
+3# Elements Of Probability#3.6.a#Acceptable Transistor#Ex3_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.6.a/Ex3_6a.R#S##24
+3# Elements Of Probability#3.5.f#Pairing Probability#Ex3_5f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.5.f/Ex3_5f.R#S##23
+3# Elements Of Probability#3.5.d#Committee Probability#Ex3_5d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.5.d/Ex3_5d.R#S##22
+3# Elements Of Probability#3.5.c#Basic Principle of Counting#Ex3_5c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.5.c/Ex3_5c.R#S##21
+3# Elements Of Probability#3.5.b#Basic Principle of Counting#Ex3_5b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.5.b/Ex3_5b.R#S##20
+3# Elements Of Probability#3.5.a#Basic Principle of Counting#Ex3_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.5.a/Ex3_5a.R#S##19
+3# Elements Of Probability#3.4.a#Union#Ex3_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH3/EX3.4.a/Ex3_4a.R#S##18
+2# Descriptive Statistics#2.6.b#Sample Correlation Coefficient#Ex2_6b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.6.b/Ex2_6b.R#S##17
+2# Descriptive Statistics#2.6.a#Sample Correlation Coefficient#Ex2_6a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.6.a/Ex2_6a.R#S##16
+2# Descriptive Statistics#2.5.a#Empirical Rule#Ex2_5a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.5.a/Ex2_5a.R#S##15
+2# Descriptive Statistics#2.4.a#Chebyshev Inequality#Ex2_4a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.4.a/Ex2_4a.R#S##14
+2# Descriptive Statistics#2.3.i#Quartiles#Ex2_3i.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.i/Ex2_3i.R#S##13
+2# Descriptive Statistics#2.3.h#Percentile#Ex2_3h.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.h/Ex2_3h.R#S##12
+2# Descriptive Statistics#2.3.g#sample variance of accidents#Ex2_3g.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.g/Ex2_3g.R#S##11
+2# Descriptive Statistics#2.3.f#sample variance#Ex2_3f.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.f/Ex2_3f.R#S##10
+2# Descriptive Statistics#2.3.e#Mean Median and Mode#Ex2_3e.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.e/Ex2_3e.R#S##9
+2# Descriptive Statistics#2.3.d#Mean and Median#Ex2_3d.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.d/Ex2_3d.R#S##8
+2# Descriptive Statistics#2.3.c#Sample Median#Ex2_3c.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.c/Ex2_3c.R#S##7
+2# Descriptive Statistics#2.3.b#Sample mean of age#Ex2_3b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.b/Ex2_3b.R#S##6
+2# Descriptive Statistics#2.3.a#Sample mean#Ex2_3a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.3.a/Ex2_3a.R#S##5
+2# Descriptive Statistics#2.2.b#Pie Chart#Ex2_2b.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.2.b/Ex2_2b.R#S##4
+2# Descriptive Statistics#2.2.a#Relative Frequency#Ex2_2a.R#Introduction_To_Probability_And_Statistics_For_Engineers_And_Scientists_by_Sheldon_M._Ross/CH2/EX2.2.a/Ex2_2a.R#S##3

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://r.fossee.in/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>https://r.fossee.in/certificates/verify</loc></url>
+<url><loc>https://r.fossee.in/lab-migration/completed-labs</loc></url>
+<url><loc>https://r.fossee.in/lab-migration/labs-progress</loc></url>
+<url><loc>https://r.fossee.in/lab-migration/proposal</loc></url>
+<url><loc>https://r.fossee.in/lab-migration-project</loc><lastmod>2019-08-21T10:29Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/downloads</loc><lastmod>2019-01-30T12:01Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/contact</loc><lastmod>2018-02-26T06:22Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/node/12</loc><lastmod>2015-11-17T03:36Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/contact-us</loc><lastmod>2016-02-22T09:58Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/textbook-companion/tbc-honorarium</loc><lastmod>2018-04-02T10:15Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/textbook-companion/books-in-progress</loc><lastmod>2016-12-29T11:43Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/access-denied</loc><lastmod>2015-12-22T06:47Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/page-not-found</loc><lastmod>2015-12-22T06:48Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/forum</loc><lastmod>2016-02-18T08:54Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/lab-migration/lab-migration-guidelines</loc><lastmod>2019-05-20T07:00Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/resources</loc><lastmod>2019-01-21T06:59Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/features</loc><lastmod>2017-05-04T05:32Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/internship-forms</loc><lastmod>2019-01-21T07:23Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/lab-migration-honorarium</loc><lastmod>2019-05-20T07:03Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/lab-migration/forms-to-be-submitted</loc><lastmod>2019-12-04T10:43Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://r.fossee.in/textbook-companion/textbook-companion-internship</loc><lastmod>2019-02-26T10:01Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/textbook-companion-project</loc><lastmod>2017-05-04T05:32Z</lastmod><changefreq>never</changefreq></url>
+<url><loc>https://r.fossee.in/textbook-companion/guidelines-coding</loc><lastmod>2019-12-17T05:24Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://r.fossee.in/textbook-companion/completed-books-1</loc><lastmod>2019-12-16T12:13Z</lastmod><changefreq>monthly</changefreq></url>
+<url><loc>https://r.fossee.in/home</loc><lastmod>2019-02-26T10:35Z</lastmod><changefreq>yearly</changefreq><priority>1.0</priority></url>
+<url><loc>https://r.fossee.in/tbc_solr_search</loc></url>
+<url><loc>https://r.fossee.in/textbook-companion/certificate</loc></url>
+<url><loc>https://r.fossee.in/textbook-companion/certificate/generate-pdf</loc></url>
+<url><loc>https://r.fossee.in/textbook-companion/download-codes</loc></url>
+<url><loc>https://r.fossee.in/textbook-companion/proposal</loc></url>
+<url><loc>https://r.fossee.in/textbook-companion/textbook-run</loc></url>
+<url><loc>https://r.fossee.in/textbook-companion/textbook-search</loc></url>
+<url><loc>https://r.fossee.in/textbook_run</loc></url>
+<url><loc>https://r.fossee.in/user/login</loc></url>
+<url><loc>https://r.fossee.in/fellowship2018</loc><lastmod>2018-04-05T05:19Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/forum</loc><lastmod>2019-02-26T10:50Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/fellowship2019</loc><lastmod>2019-05-20T07:49Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/lab-migration-project/procedure</loc><lastmod>2019-05-20T11:21Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/2019/screening-task-fsf-report-2019</loc><lastmod>2019-09-04T06:49Z</lastmod><changefreq>yearly</changefreq></url>
+<url><loc>https://r.fossee.in/Search</loc><lastmod>2019-11-05T06:19Z</lastmod><changefreq>yearly</changefreq></url>
+</urlset>

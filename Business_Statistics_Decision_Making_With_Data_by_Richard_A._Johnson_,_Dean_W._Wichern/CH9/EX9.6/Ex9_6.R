@@ -1,0 +1,14 @@
+#Pg.no.454
+n1=8
+n2=8
+xbar=2.050
+ybar=3.175
+s1=1.277
+s2=1.326
+alphs=0.1
+df=n1+n2-2
+spool=1.278
+t_cal=(xbar-ybar)/(spool*(sqrt((1/n1)+(1/n2))))
+pval=pt(t_cal,df)
+t_tab
+pval

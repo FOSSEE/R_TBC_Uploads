@@ -1,0 +1,110 @@
+5# Graphical Explorations of Vectors#3.110#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_110.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.110/Ex5_3_110.zip#S##5340
+5# Graphical Explorations of Vectors#3.109#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_109.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.109/Ex5_3_109.zip#S##5339
+5# Graphical Explorations of Vectors#3.108#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_108.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.108/Ex5_3_108.zip#S##5338
+5# Graphical Explorations of Vectors#3.107#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_107.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.107/Ex5_3_107.zip#S##5337
+5# Graphical Explorations of Vectors#3.106#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_106.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.106/Ex5_3_106.zip#S##5336
+5# Graphical Explorations of Vectors#3.105#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_105.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.105/Ex5_3_105.zip#S##5335
+5# Graphical Explorations of Vectors#3.104#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_104.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.104/Ex5_3_104.zip#S##5334
+5# Graphical Explorations of Vectors#3.103#Visualizing Vectors Vectors in Three Dimensions#Ex5_3_103.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX3.103/Ex5_3_103.zip#S##5333
+5# Graphical Explorations of Vectors#2.99#Properties of Linear Transformations#Ex5_2_99.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX2.99/Ex5_2_99.zip#S##5329
+5# Graphical Explorations of Vectors#2.98#Properties of Linear Transformations#Ex5_2_98.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX2.98/Ex5_2_98.zip#S##5328
+5# Graphical Explorations of Vectors#2.102#Properties of Linear Transformations#Ex5_2_102.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX2.102/Ex5_2_102.zip#S##5332
+5# Graphical Explorations of Vectors#2.101#Properties of Linear Transformations#Ex5_2_101.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX2.101/Ex5_2_101.zip#S##5331
+5# Graphical Explorations of Vectors#2.100#Properties of Linear Transformations#Ex5_2_100.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX2.100/Ex5_2_100.zip#S##5330
+5# Graphical Explorations of Vectors#1.97#Transformations of the Cartesian Plane#Ex5_1_97.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX1.97/Ex5_1_97.zip#S##5327
+5# Graphical Explorations of Vectors#1.96#Transformations of the Cartesian Plane#Ex5_1_96.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX1.96/Ex5_1_96.zip#S##5326
+5# Graphical Explorations of Vectors#1.95#Transformations of the Cartesian Plane#Ex5_1_95.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX1.95/Ex5_1_95.zip#S##5325
+5# Graphical Explorations of Vectors#1.94#Transformations of the Cartesian Plane#Ex5_1_94.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX1.94/Ex5_1_94.zip#S##5324
+5# Graphical Explorations of Vectors#1.93#Transformations of the Cartesian Plane#Ex5_1_93.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH5/EX1.93/Ex5_1_93.zip#S##5323
+4# Eigenvalues and Eigenvectors#2.92#Properties of Eigenvalues and Eigenvectors#Ex4_2_92.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX2.92/Ex4_2_92.zip#S##5322
+4# Eigenvalues and Eigenvectors#2.91#Properties of Eigenvalues and Eigenvectors#Ex4_2_91.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX2.91/Ex4_2_91.zip#S##5321
+4# Eigenvalues and Eigenvectors#2.90#Properties of Eigenvalues and Eigenvectors#Ex4_2_90.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX2.90/Ex4_2_90.zip#S##5320
+4# Eigenvalues and Eigenvectors#1.89#Eigenvalues and Eigenvectors#Ex4_1_89.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX1.89/Ex4_1_89.zip#S##5319
+4# Eigenvalues and Eigenvectors#1.88#Eigenvalues and Eigenvectors#Ex4_1_88.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX1.88/Ex4_1_88.zip#S##5318
+4# Eigenvalues and Eigenvectors#1.87#Eigenvalues and Eigenvectors#Ex4_1_87.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX1.87/Ex4_1_87.zip#S##5317
+4# Eigenvalues and Eigenvectors#1.86#Eigenvalues and Eigenvectors#Ex4_1_86.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX1.86/Ex4_1_86.zip#S##5316
+4# Eigenvalues and Eigenvectors#1.85#Eigenvalues and Eigenvectors#Ex4_1_85.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX1.85/Ex4_1_85.zip#S##5315
+4# Eigenvalues and Eigenvectors#1.84#Eigenvalues and Eigenvectors#Ex4_1_84.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH4/EX1.84/Ex4_1_84.zip#S##5314
+3#Operations on Matrices #5.83#Cramer Rule#Ex3_5_83.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX5.83/Ex3_5_83.zip#S##5313
+3#Operations on Matrices #5.82#Cramer Rule#Ex3_5_82.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX5.82/Ex3_5_82.zip#S##5312
+3#Operations on Matrices #4.81#Properties of the Determinant#Ex3_4_81.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.81/Ex3_4_81.zip#S##5311
+3#Operations on Matrices #4.80#Properties of the Determinant#Ex3_4_80.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.80/Ex3_4_80.zip#S##5310
+3#Operations on Matrices #4.79#Properties of the Determinant#Ex3_4_79.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.79/Ex3_4_79.zip#S##5309
+3#Operations on Matrices #4.78#Properties of the Determinant#Ex3_4_78.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.78/Ex3_4_78.zip#S##5308
+3#Operations on Matrices #4.77#Properties of the Determinant#Ex3_4_77.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.77/Ex3_4_77.zip#S##5307
+3#Operations on Matrices #4.76#Properties of the Determinant#Ex3_4_76.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.76/Ex3_4_76.zip#S##5306
+3#Operations on Matrices #4.75#Properties of the Determinant#Ex3_4_75.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.75/Ex3_4_75.zip#S##5305
+3#Operations on Matrices #4.74#Properties of the Determinant#Ex3_4_74.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX4.74/Ex3_4_74.zip#S##5304
+3#Operations on Matrices #3.73#The Determinant#Ex3_3_73.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX3.73/Ex3_3_73.zip#S##5303
+3#Operations on Matrices #3.72#The Determinant#Ex3_3_72.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX3.72/Ex3_3_72.zip#S##5302
+3#Operations on Matrices #3.71#The Determinant#Ex3_3_71.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX3.71/Ex3_3_71.zip#S##5301
+3#Operations on Matrices #3.70#The Determinant#Ex3_3_70.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX3.70/Ex3_3_70.zip#S##5300
+3#Operations on Matrices #3.69#The Determinant#Ex3_3_69.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX3.69/Ex3_3_69.zip#S##5299
+3#Operations on Matrices #3.68#The Determinant#Ex3_3_68.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX3.68/Ex3_3_68.zip#S##5298
+3#Operations on Matrices #2.67#The Matrix Trace#Ex3_2_67.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX2.67/Ex3_2_67.zip#S##5297
+3#Operations on Matrices #1.66#The Matrix Transpose#Ex3_1_66.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.66/Ex3_1_66.zip#S##5296
+3#Operations on Matrices #1.65#The Matrix Transpose#Ex3_1_65.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.65/Ex3_1_65.zip#S##5295
+3#Operations on Matrices #1.64#The Matrix Transpose#Ex3_1_64.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.64/Ex3_1_64.zip#S##5294
+3#Operations on Matrices #1.63#The Matrix Transpose#Ex3_1_63.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.63/Ex3_1_63.zip#S##5293
+3#Operations on Matrices #1.62#The Matrix Transpose#Ex3_1_62.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.62/Ex3_1_62.zip#S##5292
+3#Operations on Matrices #1.61#The Matrix Transpose#Ex3_1_61.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.61/Ex3_1_61.zip#S##5290
+3#Operations on Matrices #1.60#The Matrix Transpose#Ex3_1_60.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH3/EX1.60/Ex3_1_60.zip#S##5289
+2# Matrix Arithmetic#7.59#Properties of the Matrix Inverse#Ex2_7_59.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX7.59/Ex2_7_59.zip#S##5288
+2# Matrix Arithmetic#7.58#Properties of the Matrix Inverse#Ex2_7_58.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX7.58/Ex2_7_58.zip#S##5287
+2# Matrix Arithmetic#6.57#The Matrix Inverse#Ex2_6_57.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX6.57/Ex2_6_57.zip#S##5286
+2# Matrix Arithmetic#6.56#The Matrix Inverse#Ex2_6_56.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX6.56/Ex2_6_56.zip#S##5285
+2# Matrix Arithmetic#6.55#The Matrix Inverse#Ex2_6_55.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX6.55/Ex2_6_55.zip#S##5283
+2# Matrix Arithmetic#6.54#The Matrix Inverse#Ex2_6_54.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX6.54/Ex2_6_54.zip#S##5282
+2# Matrix Arithmetic#6.53#The Matrix Inverse#Ex2_6_53.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX6.53/Ex2_6_53.zip#S##5281
+2# Matrix Arithmetic#5.52#Solving Matrix Equations #Ex2_5_52.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX5.52/Ex2_5_52.zip#S##5280
+2# Matrix Arithmetic#5.51#Solving Matrix Equations #Ex2_5_51.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX5.51/Ex2_5_51.zip#S##5279
+2# Matrix Arithmetic#4.50#Vector Solutions to Linear Systems#Ex2_4_50.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.50/Ex2_4_50.zip#S##5278
+2# Matrix Arithmetic#4.49#Vector Solutions to Linear Systems#Ex2_4_49.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.49/Ex2_4_49.zip#S##5277
+2# Matrix Arithmetic#4.48#Vector Solutions to Linear Systems#Ex2_4_48.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.48/Ex2_4_48.zip#S##5276
+2# Matrix Arithmetic#4.47#Vector Solutions to Linear Systems#Ex2_4_47.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.47/Ex2_4_47.zip#S##5275
+2# Matrix Arithmetic#4.46#Vector Solutions to Linear Systems#Ex2_4_46.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.46/Ex2_4_46.zip#S##5274
+2# Matrix Arithmetic#4.45#Vector Solutions to Linear Systems#Ex2_4_45.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.45/Ex2_4_45.zip#S##5273
+2# Matrix Arithmetic#4.44#Vector Solutions to Linear Systems#Ex2_4_44.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.44/Ex2_4_44.zip#S##5272
+2# Matrix Arithmetic#4.43#Vector Solutions to Linear Systems#Ex2_4_43.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX4.43/Ex2_4_43.zip#S##5271
+2# Matrix Arithmetic#3.42#Visualizing Matrix Arithmetic in 2D#Ex2_3_42.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.42/Ex2_3_42.zip#S##5270
+2# Matrix Arithmetic#3.41#Visualizing Matrix Arithmetic in 2D#Ex2_3_41.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.41/Ex2_3_41.zip#S##5269
+2# Matrix Arithmetic#3.40#Visualizing Matrix Arithmetic in 2D#Ex2_3_40.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.40/Ex2_3_40.zip#S##5268
+2# Matrix Arithmetic#3.39#Visualizing Matrix Arithmetic in 2D#Ex2_3_39.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.39/Ex2_3_39.zip#S##5267
+2# Matrix Arithmetic#3.38#Visualizing Matrix Arithmetic in 2D#Ex2_3_38.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.38/Ex2_3_38.zip#S##5266
+2# Matrix Arithmetic#3.37#Visualizing Matrix Arithmetic in 2D#Ex2_3_37.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.37/Ex2_3_37.zip#S##5265
+2# Matrix Arithmetic#3.36#Visualizing Matrix Arithmetic in 2D#Ex2_3_36.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.36/Ex2_3_36.zip#S##5264
+2# Matrix Arithmetic#3.35#Visualizing Matrix Arithmetic in 2D#Ex2_3_35.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.35/Ex2_3_35.zip#S##5263
+2# Matrix Arithmetic#3.34#Visualizing Matrix Arithmetic in 2D#Ex2_3_34.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.34/Ex2_3_34.zip#S##5262
+2# Matrix Arithmetic#3.33#Visualizing Matrix Arithmetic in 2D#Ex2_3_33.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.33/Ex2_3_33.zip#S##5261
+2# Matrix Arithmetic#3.32#Visualizing Matrix Arithmetic in 2D#Ex2_3_32.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.32/Ex2_3_32.zip#S##5260
+2# Matrix Arithmetic#3.31#Visualizing Matrix Arithmetic in 2D#Ex2_3_31.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX3.31/Ex2_3_31.zip#S##5259
+2# Matrix Arithmetic#2.30#Matrix Multiplication#Ex2_2_30.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.30/Ex2_2_30.zip#S##5258
+2# Matrix Arithmetic#2.29#Matrix Multiplication#Ex2_2_29.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.29/Ex2_2_29.zip#S##5257
+2# Matrix Arithmetic#2.28#Matrix Multiplication#Ex2_2_28.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.28/Ex2_2_28.zip#S##5256
+2# Matrix Arithmetic#2.27#Matrix Multiplication#Ex2_2_27.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.27/Ex2_2_27.zip#S##5255
+2# Matrix Arithmetic#2.26#Matrix Multiplication#Ex2_2_26.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.26/Ex2_2_26.zip#S##5254
+2# Matrix Arithmetic#2.25#Matrix Multiplication#Ex2_2_25.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.25/Ex2_2_25.zip#S##5253
+2# Matrix Arithmetic#2.24#Matrix Multiplication#Ex2_2_24.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX2.24/Ex2_2_24.zip#S##5252
+2# Matrix Arithmetic#1.23#Matrix Addition and Scalar Multiplication#Ex2_1_23.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX1.23/Ex2_1_23.zip#S##5251
+2# Matrix Arithmetic#1.22#Matrix Addition and Scalar Multiplication#Ex2_1_22.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH2/EX1.22/Ex2_1_22.zip#S##5250
+1#Systems of Linear Equations#5.21#Applications of Linear Systems#Ex1_5_21.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX5.21/Ex1_5_21.zip#S##5249
+1#Systems of Linear Equations#5.20#Applications of Linear Systems#Ex1_5_20.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX5.20/Ex1_5_20.zip#S##5248
+1#Systems of Linear Equations#5.19#Applications of Linear Systems#Ex1_5_19.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX5.19/Ex1_5_19.zip#S##5247
+1#Systems of Linear Equations#5.18#Applications of Linear Systems#Ex1_5_18.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX5.18/Ex1_5_18.zip#S##5246
+1#Systems of Linear Equations#5.17#Applications of Linear Systems#Ex1_5_17.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX5.17/Ex1_5_17.zip#S##5245
+1#Systems of Linear Equations#5.16#Applications of Linear Systems#Ex1_5_16.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX5.16/Ex1_5_16.zip#S##5244
+1#Systems of Linear Equations#4.9#Existence and Uniqueness of Solutions#Ex1_4_9.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.9/Ex1_4_9.zip#S##5237
+1#Systems of Linear Equations#4.8#Existence and Uniqueness of Solutions#Ex1_4_8.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.8/Ex1_4_8.zip#S##5236
+1#Systems of Linear Equations#4.15#Existence and Uniqueness of Solutions#Ex1_4_15.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.15/Ex1_4_15.zip#S##5243
+1#Systems of Linear Equations#4.14#Existence and Uniqueness of Solutions#Ex1_4_14.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.14/Ex1_4_14.zip#S##5242
+1#Systems of Linear Equations#4.13#Existence and Uniqueness of Solutions#Ex1_4_13.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.13/Ex1_4_13.zip#S##5241
+1#Systems of Linear Equations#4.12#Existence and Uniqueness of Solutions#Ex1_4_12.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.12/Ex1_4_12.zip#S##5240
+1#Systems of Linear Equations#4.11#Existence and Uniqueness of Solutions#Ex1_4_11.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.11/Ex1_4_11.zip#S##5239
+1#Systems of Linear Equations#4.10#Existence and Uniqueness of Solutions#Ex1_4_10.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX4.10/Ex1_4_10.zip#S##5238
+1#Systems of Linear Equations#3.7#reduced row echelon form#Ex1_3_7.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX3.7/Ex1_3_7.zip#S##5235
+1#Systems of Linear Equations#3.6#Gaussian elimination#Ex1_3_6.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX3.6/Ex1_3_6.zip#S##5234
+1#Systems of Linear Equations#3.5#Gaussian elimination#Ex1_3_5.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX3.5/Ex1_3_5.zip#S##5233
+1#Systems of Linear Equations#3.4#reduced row echelon form#Ex1_3_4.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX3.4/Ex1_3_4.zip#S##5232
+1#Systems of Linear Equations#3.3#reduced row echelon form#Ex1_3_3.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX3.3/Ex1_3_3.zip#S##5231
+1#Systems of Linear Equations#2.2#solution of linear equations#Ex1_2_2.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX2.2/Ex1_2_2.zip#S##5230
+1#Systems of Linear Equations#1.1#marble problem#Ex1_1_1.zip#Fundamentals_Of_Matrix_Algebra,_Third_Edition_by_Gregory_Hartman/CH1/EX1.1/Ex1_1_1.zip#S##5229

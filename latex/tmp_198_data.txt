@@ -1,0 +1,110 @@
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.9#transition probability matrix #Ex8_9.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.9/Ex8_9.R#S##6432
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.4#Markov chain and transition probability matrix#Ex8_4.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.4/Ex8_4.R#S##6431
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.3#probability in markov chain#Ex8_3.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.3/Ex8_3.R#S##6430
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.2#general discipline queuing model#Ex8_2.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.2/Ex8_2.R#S##6441
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.18#probability in steady state markov chain#Ex8_18.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.18/Ex8_18.R#S##6439
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.17#transition probability matrix and markov chain#Ex8_17.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.17/Ex8_17.R#S##6438
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.16#expected cost of maintenance for different states of machine#Ex8_16.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.16/Ex8_16.R#S##6437
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.15#probability of having 2 books after 3 weeks and on long run#Ex8_15.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.15/Ex8_15.R#S##6436
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.14#steady state condition in transition probability#Ex8_14.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.14/Ex8_14.R#S##6435
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.12#joint probability in transition probability matrix#Ex8_12.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.12/Ex8_12.R#S##6434
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.10#transition between 2 Brands customers#Ex8_10.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.10/Ex8_10.R#S##6433
+8# Discrete Parameter Markov Chains and Queuing Model M G 1 infinite General Discipline#8.1#general discipline queuing model#Ex8_1.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH8/EX8.1/Ex8_1.R#S##6440
+7# Queuing Theory#7.9#Model 2 M M 1 N FIFO#Ex7_9.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.9/Ex7_9.R#S##6447
+7# Queuing Theory#7.7#Model 1 M M 1 infinite FIFO#Ex7_7.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.7/Ex7_7.R#S##6446
+7# Queuing Theory#7.6#Model 1 M M 1 infinite FIFO#Ex7_6.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.6/Ex7_6.R#S##6445
+7# Queuing Theory#7.4#Model 1 M M 1 infinite FIFO#Ex7_4.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.4/Ex7_4.R#S##6443
+7# Queuing Theory#7.3#Model 1 M M 1 infinite FIFO#Ex7_3.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.3/Ex7_3.R#S##6444
+7# Queuing Theory#7.2#Model 1 M M 1 infinite FIFO#Ex7_2.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.2/Ex7_2.R#S##6442
+7# Queuing Theory#7.16#Model 3 M M C infinite FIFO#Ex7_16.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.16/Ex7_16.R#S##6451
+7# Queuing Theory#7.15#Model 3 M M C infinite FIFO#Ex7_15.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.15/Ex7_15.R#S##6450
+7# Queuing Theory#7.13#Model 3 M M C infinite FIFO#Ex7_13.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.13/Ex7_13.R#S##6449
+7# Queuing Theory#7.10#Model 2 M M 1 N FIFO#Ex7_10.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.10/Ex7_10.R#S##6448
+7# Queuing Theory#7.1#Model 1 M M 1 infinite FIFO#Ex7_1.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH7/EX7.1/Ex7_1.R#S##6429
+6#Correlation and Regression#6.9#correlation in rank given by 3 judges#Ex6_9.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.9/Ex6_9.R#S##6418
+6#Correlation and Regression#6.8#coefficient of correlation#Ex6_8.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.8/Ex6_8.R#S##6417
+6#Correlation and Regression#6.7#coefficient of correlation#Ex6_7.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.7/Ex6_7.R#S##6416
+6#Correlation and Regression#6.5#correlation between age of fathers and son#Ex6_5.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.5/Ex6_5.R#S##6412
+6#Correlation and Regression#6.4#coefficient of correlation#Ex6_4.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.4/Ex6_4.R#S##6410
+6#Correlation and Regression#6.3#coefficient of correlation#Ex6_3.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.3/Ex6_3.R#S##6408
+6#Correlation and Regression#6.28#error of estimate#Ex6_28.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.28/Ex6_28.R#S##6428
+6#Correlation and Regression#6.27#rank correlation coefficient#Ex6_27.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.27/Ex6_27.R#S##6427
+6#Correlation and Regression#6.22#fit a parabola then find values#Ex6_22.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.22/Ex6_22.R#S##6426
+6#Correlation and Regression#6.2#coefficient of correlation#Ex6_2.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.2/Ex6_2.R#S##6407
+6#Correlation and Regression#6.18#covariance#Ex6_18.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.18/Ex6_18.R#S##6425
+6#Correlation and Regression#6.17#line of regression for estimation of value#Ex6_17.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.17/Ex6_17.R#S##6424
+6#Correlation and Regression#6.16#fitting a line#Ex6_16.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.16/Ex6_16.R#S##6423
+6#Correlation and Regression#6.15#fitting a line#Ex6_15.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.15/Ex6_15.R#S##6422
+6#Correlation and Regression#6.14#fitting parabola on given data#Ex6_14.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.14/Ex6_14.R#S##6421
+6#Correlation and Regression#6.13#fitting second degree parabola#Ex6_13.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.13/Ex6_13.R#S##6420
+6#Correlation and Regression#6.10#rank correlation#Ex6_10.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH6/EX6.10/Ex6_10.R#S##6419
+5# Continuous Probability Distribution#5.9#mean and deviation in normal distribution using qnorm#Ex5_9.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.9/Ex5_9.R#S##6388
+5# Continuous Probability Distribution#5.8#probability of wages more than 90 and probability of wages less than 45#Ex5_8.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.8/Ex5_8.R#S##6386
+5# Continuous Probability Distribution#5.7#normal distribution#Ex5_7.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.7/Ex5_7.R#S##6384
+5# Continuous Probability Distribution#5.6#probability of x less than 0 in uniform distribution#Ex5_6.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.6/Ex5_6.R#S##6381
+5# Continuous Probability Distribution#5.5#uniform distribution#Ex5_5.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.5/Ex5_5.R#S##6379
+5# Continuous Probability Distribution#5.3#uniform distribution#Ex5_3.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.3/Ex5_3.R#S##6375
+5# Continuous Probability Distribution#5.19#fitting normal distribution#Ex5_19.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.19/Ex5_19.R#S##6404
+5# Continuous Probability Distribution#5.17#probability in exponential distribution#Ex5_17.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.17/Ex5_17.R#S##6403
+5# Continuous Probability Distribution#5.14#probability in normal distribution#Ex5_14.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.14/Ex5_14.R#S##6401
+5# Continuous Probability Distribution#5.13#probability of 2 out of 3 students having more than 70 marks with normal distribution of marks#Ex5_13.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.13/Ex5_13.R#S##6399
+5# Continuous Probability Distribution#5.12#mean and deviation in normal distribution using qnorm#Ex5_12.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.12/Ex5_12.R#S##6398
+5# Continuous Probability Distribution#5.11#normal distribution of heights among 300 students#Ex5_11.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.11/Ex5_11.R#S##6396
+5# Continuous Probability Distribution#5.10#frequency of occurrence between a period of normal distribution#Ex5_10.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH5/EX5.10/Ex5_10.R#S##6389
+4# Discrete Probability Distribution#4.8#probability that 7 out of 10 60 years aged men will live till 70 years#Ex4_8.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.8/Ex4_8.R#S##6357
+4# Discrete Probability Distribution#4.7#probability of exactly 2 at least 2 and no defective pen#Ex4_7.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.7/Ex4_7.R#S##6354
+4# Discrete Probability Distribution#4.6#probability of getting 5 or 6 on dice 3 times out of 8 throws#Ex4_6.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.6/Ex4_6.R#S##6353
+4# Discrete Probability Distribution#4.5#probability of at least 1 pen defective#Ex4_5.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.5/Ex4_5.R#S##6352
+4# Discrete Probability Distribution#4.4#samples reporting less than 3 literates in a binomial distribution#Ex4_4.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.4/Ex4_4.R#S##6350
+4# Discrete Probability Distribution#4.28#fitting poisson distribution#Ex4_28.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.28/Ex4_28.R#S##6372
+4# Discrete Probability Distribution#4.27#fitting poisson distribution#Ex4_27.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.27/Ex4_27.R#S##6371
+4# Discrete Probability Distribution#4.22#poisson distribution for 0 1 and 2 defective blades in a pack of 10000#Ex4_22.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.22/Ex4_22.R#S##6369
+4# Discrete Probability Distribution#4.20#probability of 5 success#Ex4_20.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.20/Ex4_20.R#S##6367
+4# Discrete Probability Distribution#4.2#frequency of binomial distribution#Ex4_2.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.2/Ex4_2.R#S##6347
+4# Discrete Probability Distribution#4.19#poisson distribution for 5 defective and 5 or less defective#Ex4_19.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.19/Ex4_19.R#S##6365
+4# Discrete Probability Distribution#4.18#probability of exactly and at most 2 flat tires in 10000 cars with poisson distribution of flat tires#Ex4_18.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.18/Ex4_18.R#S##6363
+4# Discrete Probability Distribution#4.17#probability of 5 defective in poisson distribution #Ex4_17.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.17/Ex4_17.R#S##6362
+4# Discrete Probability Distribution#4.16#poisson distribution#Ex4_16.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.16/Ex4_16.R#S##6361
+4# Discrete Probability Distribution#4.13#probability of true claim#Ex4_13.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.13/Ex4_13.R#S##6359
+4# Discrete Probability Distribution#4.1#binomial distribution#Ex4_1.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH4/EX4.1/Ex4_1.R#S##6346
+3# Expectations Probability Generating Functions and Random Process#3.8#expected points on drawing cards#Ex3_8.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.8/Ex3_8.R#S##6336
+3# Expectations Probability Generating Functions and Random Process#3.7#dbinom binomial distribution for ecpected value of heads#Ex3_7.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.7/Ex3_7.R#S##6334
+3# Expectations Probability Generating Functions and Random Process#3.40#poison distribution#Ex3_40.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.40/Ex3_40.R#S##6345
+3# Expectations Probability Generating Functions and Random Process#3.4#expected value of defectives#Ex3_4.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.4/Ex3_4.R#S##6332
+3# Expectations Probability Generating Functions and Random Process#3.3#expected no of defective with and without replacement#Ex3_3.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.3/Ex3_3.R#S##6331
+3# Expectations Probability Generating Functions and Random Process#3.2#expected value of heads in 3 coin tosses#Ex3_2.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.2/Ex3_2.R#S##6330
+3# Expectations Probability Generating Functions and Random Process#3.18#expected profit#Ex3_18.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.18/Ex3_18.R#S##6343
+3# Expectations Probability Generating Functions and Random Process#3.17#Expected lifetime and variance#Ex3_17.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.17/Ex3_17.R#S##6342
+3# Expectations Probability Generating Functions and Random Process#3.15#expected value#Ex3_15.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.15/Ex3_15.R#S##6339
+3# Expectations Probability Generating Functions and Random Process#3.11#expected money drawn#Ex3_11.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.11/Ex3_11.R#S##6337
+3# Expectations Probability Generating Functions and Random Process#3.1#expected value#Ex3_1.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH3/EX3.1/Ex3_1.R#S##6329
+2#Random Variables#2.26#conditional probability#Ex2_26.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.26/Ex2_26.R#S##6328
+2#Random Variables#2.25#prob of x in a given range when given x greater than 2#Ex2_25.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.25/Ex2_25.R#S##6327
+2#Random Variables#2.20#finding k value by integrate function#Ex2_20.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.20/Ex2_20.R#S##6325
+2#Random Variables#2.19#probability of x less than 3 and between 4 and 5#Ex2_19.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.19/Ex2_19.R#S##6324
+2#Random Variables#2.18#probability density function integrate function#Ex2_18.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.18/Ex2_18.R#S##6323
+2#Random Variables#2.17#probability density function#Ex2_17.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.17/Ex2_17.R#S##6321
+2#Random Variables#2.16#probability of insufficient supply#Ex2_16.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.16/Ex2_16.R#S##6320
+2#Random Variables#2.14#plotting distribution function and density function#Ex2_14.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.14/Ex2_14.R#S##6452
+2#Random Variables#2.13#probability density function#Ex2_13.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.13/Ex2_13.R#S##6322
+2#Random Variables#2.11#probability density function#Ex2_11.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH2/EX2.11/Ex2_11.R#S##6319
+1# Probability#1.8#probability of integer from 1 to 200 divisible by 6 or 8#Ex1_8.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.8/Ex1_8.R#S##6278
+1# Probability#1.7#probabilty of students to fail in maths when fail in physics and probability to fail in either#Ex1_7.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.7/Ex1_7.R#S##6277
+1# Probability#1.6#probability of 11th draw to be second blue ball#Ex1_6.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.6/Ex1_6.R#S##6276
+1# Probability#1.55#probabilty of defective when reported defective#Ex1_55.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.55/Ex1_55.R#S##6318
+1# Probability#1.54#probability of receiving 1 and 0 and getting 1 and 0 when 1 and zero transmitted and error probability#Ex1_54.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.54/Ex1_54.R#S##6317
+1# Probability#1.52#probability that correct answer is given by skill #Ex1_52.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.52/Ex1_52.R#S##6316
+1# Probability#1.5#probability of sum 7 or 8 and probability of sum not 7 and not 11 on rolling 2 dice #Ex1_5.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.5/Ex1_5.R#S##6275
+1# Probability#1.34#probability that only either A or B speak the truth#Ex1_34.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.34/Ex1_34.R#S##6314
+1# Probability#1.31#probabilty of 1 white from bag A and B#Ex1_31.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.31/Ex1_31.R#S##6312
+1# Probability#1.3#probability of selecting a lot of all defective and only one defective#Ex1_3.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.3/Ex1_3.R#S##6274
+1# Probability#1.29#probability that none only A and both A and B hits target #Ex1_29.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.29/Ex1_29.R#S##6310
+1# Probability#1.27#probability of getting sum 5 before 7 or rolling 2 dice#Ex1_27.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.27/Ex1_27.R#S##6301
+1# Probability#1.24#probability that defective is from A#Ex1_24.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.24/Ex1_24.R#S##6291
+1# Probability#1.2#probability of getting no defective and only 1 defective from 2 draws#Ex1_2.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.2/Ex1_2.R#S##6273
+1# Probability#1.15#probability of win of A B C#Ex1_15.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.15/Ex1_15.R#S##6289
+1# Probability#1.13#probability function#Ex1_13.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.13/Ex1_13.R#S##6286
+1# Probability#1.12#probability of getting a spade court or a jack card from a pack of true 52 cards #Ex1_12.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.12/Ex1_12.R#S##6282
+1# Probability#1.11#probabilty to miss a test#Ex1_11.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.11/Ex1_11.R#S##6280
+1# Probability#1.10#probability that no element in right position#Ex1_10.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.10/Ex1_10.R#S##6279
+1# Probability#1.1#probability of selecting ticket 10 in first 2 draws from 50 tickets#Ex1_1.R#Statistics_And_Probability_Theory_by_Dr._K.c._Jain_And_Dr._M.l._Rawat/CH1/EX1.1/Ex1_1.R#S##6272

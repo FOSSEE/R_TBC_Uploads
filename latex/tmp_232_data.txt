@@ -1,0 +1,63 @@
+7# Limit Theorems#7.9#The central Limit Theorem#EX_7_9.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH7/EX7.9/EX_7_9.R#S##7095
+7# Limit Theorems#7.8#The central Limit Theorem#EX_7_8.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH7/EX7.8/EX_7_8.R#S##7094
+7# Limit Theorems#7.4#convergence in probability#EX_7_4.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH7/EX7.4/EX_7_4.R#S##7093
+7# Limit Theorems#7.11#The central Limit Theorem#EX_7_11.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH7/EX7.11/EX_7_11.R#S##7097
+7# Limit Theorems#7.10#The central Limit Theorem#EX_7_10.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH7/EX7.10/EX_7_10.R#S##7096
+7# Limit Theorems#7.1#Some Useful Inequalities #EX_7_1.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH7/EX7.1/EX_7_1.R#S##7092
+6#  Markov Chains #6.4#Steady State Behavior #EX_6_4.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH6/EX6.4/EX_6_4.R#S##7088
+6#  Markov Chains #6.2#Discrete Time Markov Chains #EX_6_2.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH6/EX6.2/EX_6_2.R#S##7078
+6#  Markov Chains #6.14#more general markov chains#EX_6_14.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH6/EX6.14/EX_6_14.R#S##7091
+6#  Markov Chains #6.13#Absorption Probabilities and Expected Time to Absorption #EX_6_13.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH6/EX6.13/EX_6_13.R#S##7090
+6#  Markov Chains #6.11#Absorption Probabilities and Expected Time to Absorption #EX_6_11.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH6/EX6.11/EX_6_11.R#S##7089
+6#  Markov Chains #6.1#the discrete time markov chains#EX_6_1.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH6/EX6.1/EX_6_1.R#S##7077
+5#  Stochastic Processes #5.9#The Poisson Process #EX_5_9.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH5/EX5.9/EX_5_9.R#S##7074
+5#  Stochastic Processes #5.7#The Poisson Process #EX_5_7.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH5/EX5.7/EX_5_7.R#S##7073
+5#  Stochastic Processes #5.6#The Poisson Process #EX_5_6.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH5/EX5.6/EX_5_6.R#S##7072
+5#  Stochastic Processes #5.5#Bernolli process#EX_5_5.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH5/EX5.5/EX_5_5.R#S##7071
+5#  Stochastic Processes #5.17#The Poisson Process #EX_5_17.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH5/EX5.17/EX_5_17.R#S##7076
+5#  Stochastic Processes #5.12#The Poisson Process #EX_5_12.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH5/EX5.12/EX_5_12.R#S##7075
+4# Further Topics on Random Variables and Expectations#4.9#Transforms#EX_4_9.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.9/EX_4_9.R#S##7065
+4# Further Topics on Random Variables and Expectations#4.7#Transforms#EX_4_7.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.7/EX_4_7.R#S##7064
+4# Further Topics on Random Variables and Expectations#4.6#Transforms#EX_4_6.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.6/EX_4_6.R#S##7063
+4# Further Topics on Random Variables and Expectations#4.5#Transforms#EX_4_5.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.5/EX_4_5.R#S##7062
+4# Further Topics on Random Variables and Expectations#4.4#Transforms#EX_4_4.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.4/EX_4_4.R#S##7061
+4# Further Topics on Random Variables and Expectations#4.21#Sum of a Random Number of Independent Random Variable#EX_4_21.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.21/EX_4_21.R#S##7069
+4# Further Topics on Random Variables and Expectations#4.20#conditional expectation as random variable#EX_4_20.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.20/EX_4_20.R#S##7068
+4# Further Topics on Random Variables and Expectations#4.16#conditional expectation as random variable#EX_4_16.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.16/EX_4_16.R#S##7239
+4# Further Topics on Random Variables and Expectations#4.13#Transforms#EX_4_13.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.13/EX_4_13.R#S##7066
+4# Further Topics on Random Variables and Expectations#4.1#Transforms#EX_4_1.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH4/EX4.1/EX_4_1.R#S##7060
+3# General Random Variable #3.9#Normal Random Variable#EX_3_9.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.9/EX_3_9.R#S##7056
+3# General Random Variable #3.8#Normal Random Variable#EX_3_8.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.8/EX_3_8.R#S##7055
+3# General Random Variable #3.7#cumulative distribution Function#EX_3_7.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.7/EX_3_7.R#S##7054
+3# General Random Variable #3.5#Continuous Random Variables And PDFs#EX_3_5.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.5/EX_3_5.R#S##7053
+3# General Random Variable #3.4#Continuous Random Variables And PDFs#EX_3_4.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.4/EX_3_4.R#S##7052
+3# General Random Variable #3.3#Continuous Random Variables And PDFs#EX_3_3.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.3/EX_3_3.R#S##7051
+3# General Random Variable #3.22#Derived Distributions#EX_3_22.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.22/EX_3_22.R#S##7059
+3# General Random Variable #3.2#Continuous Random Variables And PDFs#EX_3_2.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.2/EX_3_2.R#S##7050
+3# General Random Variable #3.12#conditioning on an event#EX_3_12.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.12/EX_3_12.R#S##7058
+3# General Random Variable #3.11#conditioning on an event#EX_3_11.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH3/EX3.11/EX_3_11.R#S##7057
+2# Discrete Random Variable#2.9#Joint PMFs of  Multiple Random Variable#EX_2_9.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.9/EX_2_9.R#S##7044
+2# Discrete Random Variable#2.8#Expectation Mean and Variance #EX_2_8.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.8/EX_2_8.R#S##7043
+2# Discrete Random Variable#2.7#Expectation Mean and Variance #EX_2_7.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.7/EX_2_7.R#S##7042
+2# Discrete Random Variable#2.5#Expectation Mean and Variance #EX_2_5.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.5/EX_2_5.R#S##7041
+2# Discrete Random Variable#2.4#Expectation Mean and Variance #EX_2_4.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.4/EX_2_4.R#S##7040
+2# Discrete Random Variable#2.3#Expectation Mean and Variance #EX_2_3.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.3/EX_2_3.R#S##7039
+2# Discrete Random Variable#2.2#Expectation Mean and Variance #EX_2_2.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.2/EX_2_2.R#S##7038
+2# Discrete Random Variable#2.18#Independence#EX_2_18.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.18/EX_2_18.R#S##7049
+2# Discrete Random Variable#2.16#Independence#EX_2_16.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.16/EX_2_16.R#S##7048
+2# Discrete Random Variable#2.14#Conditioning#EX_2_14.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.14/EX_2_14.R#S##7047
+2# Discrete Random Variable#2.13#conditioning#EX_2_13.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.13/EX_2_13.R#S##7046
+2# Discrete Random Variable#2.11#Conditioning#EX_2_11.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.11/EX_2_11.R#S##7045
+2# Discrete Random Variable#2.1#functions and random variables#EX_2_1.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH2/EX2.1/EX_2_1.R#S##7037
+1#sample space and probability#1.9#Conditional probability#EX1_9.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.9/EX1_9.R#S##7028
+1#sample space and probability#1.8#Conditional probability#EX1_8.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.8/EX1_8.R#S##7027
+1#sample space and probability#1.6#Conditional probability#EX1_6.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.6/EX1_6.R#S##7024
+1#sample space and probability#1.30#Counting#EX1_30.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.30/EX1_30.R#S##7036
+1#sample space and probability#1.3#Probabilistic Models#EX1_3.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.3/EX1_3.R#S##7026
+1#sample space and probability#1.29#Counting#EX1_29.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.29/EX1_29.R#S##7035
+1#sample space and probability#1.28#Counting#EX1_28.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.28/EX1_28.R#S##7034
+1#sample space and probability#1.2#Discrete Models#EX1_2.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.2/EX1_2.R#S##7023
+1#sample space and probability#1.18#Independence#EX1_18.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.18/EX1_18.R#S##7033
+1#sample space and probability#1.12#Total Probabilty Theorem and Bayes Rule#EX1_12.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.12/EX1_12.R#S##7032
+1#sample space and probability#1.11#Total Probabilty Theorem and Bayes Rule#EX1_11.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.11/EX1_11.R#S##7031
+1#sample space and probability#1.10#Conditional probability#EX1_10.R#Introduction_To_Probability_by_Dimitri_P._Bertsekas_And_John_N._Tsitsiklis/CH1/EX1.10/EX1_10.R#S##7029
