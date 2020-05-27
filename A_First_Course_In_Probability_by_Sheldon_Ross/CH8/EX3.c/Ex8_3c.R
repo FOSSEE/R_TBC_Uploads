@@ -12,10 +12,15 @@ for(i in 1:6)
 }
 
 print(E_X)
-print(E_X2)
+
+Var_X = (E_X2 - E_X^2)
+
+print(Var_X)
 
 Var_X = (E_X2 - E_X^2) * no_of_die_rolls
 E_X = E_X *  no_of_die_rolls
 ans = pnorm(40 + 1/2, E_X, sqrt(Var_X)) - pnorm(30 - 1/2, E_X, sqrt(Var_X))
 
 print(ans)
+
+# The answer may vary due to difference in representation.

@@ -21,7 +21,7 @@
 6# Jointly Distributed Random Variables#1.c.a#Joint density function "a"#Ex6_1ca.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.c.a/Ex6_1ca.R#S##1298
 6# Jointly Distributed Random Variables#1.b#Joint PMF of number of boys and girls in a family#Ex6_1b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.b/Ex6_1b.R#S##1352
 6# Jointly Distributed Random Variables#1.a#Joint PMF of drawing balls from urn#Ex6_1a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX1.a/Ex6_1a.R#S##1295
-5# Continuous Random Variables#5.e#Signals laplace distribution#Ex5_5e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX5.e/Ex5_5e.R#S##2607
+5# Continuous Random Variables#5.e#Laplace distribution#Ex5_5e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX5.e/Ex5_5e.R#S##2607
 5# Continuous Random Variables#5.b#Exponential random variable#Ex5_5b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX5.b/Ex5_5b.R#S##2613
 5# Continuous Random Variables#4.i#Outlawing cigaretts#Ex5_4i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.i/Ex5_4i.R#S##1186
 5# Continuous Random Variables#4.h#Effectiveness of diet#Ex5_4h.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX4.h/Ex5_4h.R#S##1185
@@ -34,7 +34,7 @@
 5# Continuous Random Variables#3.c#Waiting time for bus#Ex5_3c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX3.c/Ex5_3c.R#S##2611
 5# Continuous Random Variables#3.b#Uniform distribution#Ex5_3b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX3.b/Ex5_3b.R#S##2610
 5# Continuous Random Variables#2.e#Variance of a continuous random variable#Ex5_2e.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX2.e/Ex5_2e.R#S##1173
-5# Continuous Random Variables#2.a#Expectation of continuous random variable#Ex5_2a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX2.a/Ex5_2a.R#S##1172
+5# Continuous Random Variables#2.a#Expectation of a continuous random variable#Ex5_2a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX2.a/Ex5_2a.R#S##1172
 5# Continuous Random Variables#1.c#Lifetime of radio tube#Ex5_1c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.c/Ex5_1c.R#S##2599
 5# Continuous Random Variables#1.b.b#Computer functioning "b"#Ex5_1bb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.b.b/Ex5_1bb.R#S##1170
 5# Continuous Random Variables#1.b.a#Computer functioning "a"#Ex5_1ba.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH5/EX1.b.a/Ex5_1ba.R#S##1169
@@ -44,7 +44,7 @@
 4# Random Variables#8.g#Throws of die required#Ex4_8g.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX8.g/Ex4_8g.R#S##1120
 4# Random Variables#7.f#Generating poisson distribution#Ex4_7f.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.f/Ex4_7f.R#S##2594
 4# Random Variables#7.e.a#Earthquake occourence#Ex4_7ea.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.e.a/Ex4_7ea.R#S##2598
-4# Random Variables#7.c#Radioactive Particles#Ex4_7c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.c/Ex4_7c.R#S##2590
+4# Random Variables#7.c#Radioactive particles#Ex4_7c.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.c/Ex4_7c.R#S##2590
 4# Random Variables#7.b#Defective item#Ex4_7b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.b/Ex4_7b.R#S##2596
 4# Random Variables#7.a#Typos in a page#Ex4_7a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX7.a/Ex4_7a.R#S##2592
 4# Random Variables#6.i#Binomial distribution generation#Ex4_6i.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH4/EX6.i/Ex4_6i.R#S##2595

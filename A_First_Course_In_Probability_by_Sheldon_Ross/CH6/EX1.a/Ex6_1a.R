@@ -1,6 +1,6 @@
 # Page No. 233
 
-library("MASS")
+library(MASS)
 
 P_XY = function(x, y)
 {
@@ -9,7 +9,7 @@ P_XY = function(x, y)
   white = 4
   lot_size = 3
 
-  ans = choose(blue - x - y, lot_size - x - y) * choose(red, x) * choose(white, y) / choose(blue + white + red, lot_size)
+  ans = choose(blue, lot_size - x - y) * choose(red, x) * choose(white, y) / choose(blue + white + red, lot_size)
 }
 
 lot_size = 3
@@ -22,3 +22,5 @@ for(i in 0:lot_size)
     print(fractions(P_XY(i, j)))
   }
 }
+
+# The answer may vary due to difference in representation.

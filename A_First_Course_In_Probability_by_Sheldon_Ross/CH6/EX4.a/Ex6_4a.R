@@ -1,6 +1,6 @@
 # Page No. 264
 
-library("MASS")
+library(MASS)
 
 p00 = 0.4
 p01 = 0.2

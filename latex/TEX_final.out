@@ -1,18 +1,7 @@
 \BOOKMARK [0][-]{chapter*.3}{}{}% 1
-\BOOKMARK [0][-]{chapter.2}{Modelling with Linear Programming}{}% 2
-\BOOKMARK [0][-]{chapter.3}{The Simplex Method and Sensitivity Analysis}{}% 3
-\BOOKMARK [0][-]{chapter.4}{Duality and Post optimality Analysis}{}% 4
-\BOOKMARK [0][-]{chapter.5}{Transportation Model and its Variant}{}% 5
-\BOOKMARK [0][-]{chapter.6}{Network Model}{}% 6
-\BOOKMARK [0][-]{chapter.7}{Advanced Linear Programming}{}% 7
-\BOOKMARK [0][-]{chapter.8}{ Integer Linear Programming}{}% 8
-\BOOKMARK [0][-]{chapter.9}{ Heuristic Programming}{}% 9
-\BOOKMARK [0][-]{chapter.10}{ Travelling Salesman Problem}{}% 10
-\BOOKMARK [0][-]{chapter.11}{Deterministic Dynamic Programming}{}% 11
-\BOOKMARK [0][-]{chapter.12}{Deterministic Inventory Modelling}{}% 12
-\BOOKMARK [0][-]{chapter.13}{Decision Analysis and Games}{}% 13
-\BOOKMARK [0][-]{chapter.14}{Probabilistic Inventory Models}{}% 14
-\BOOKMARK [0][-]{chapter.15}{Markov Chain}{}% 15
-\BOOKMARK [0][-]{chapter.16}{ Queuing Systems}{}% 16
-\BOOKMARK [0][-]{chapter.17}{ Simulation Modelling}{}% 17
-\BOOKMARK [0][-]{chapter.18}{Classical Optimization theory}{}% 18
+\BOOKMARK [0][-]{chapter.2}{ Financial Theory}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Basics of Numerical Analysis}{}% 3
+\BOOKMARK [0][-]{chapter.4}{ Numerical Integration Deterministic and Monte Carlo Methods}{}% 4
+\BOOKMARK [0][-]{chapter.5}{ Finite Difference Methods for Partial Differential Equations}{}% 5
+\BOOKMARK [0][-]{chapter.6}{ Convex Optimization}{}% 6
+\BOOKMARK [0][-]{chapter.7}{ Option Pricing by Binomial and Trinomial Lattices}{}% 7

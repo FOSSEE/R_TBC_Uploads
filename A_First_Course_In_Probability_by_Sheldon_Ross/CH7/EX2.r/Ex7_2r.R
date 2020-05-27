@@ -9,3 +9,5 @@ E_Xi = Xi * p
 E_X = sum(E_Xi)
 
 print(E_X)
+
+# The answer may vary due to difference in representation.

@@ -1,6 +1,6 @@
 # Page No. 236
 
-library("MASS")
+library(MASS)
 
 myfun <- function(x,y) (2 * exp(-x) * exp(-2 * y))
 llimx <- 0

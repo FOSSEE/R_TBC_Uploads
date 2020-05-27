@@ -1,6 +1,6 @@
 # Page No. 272
 
-library("MASS")
+library(MASS)
 
 integrand = function(x)
 {

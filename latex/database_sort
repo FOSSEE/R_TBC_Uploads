@@ -1,114 +1,76 @@
-2#Modelling with Linear Programming#2.2.1#Graphical Solution to LP Problems#2.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.1/2.2.1.R#S##282
-2#Modelling with Linear Programming#2.2.2#Graphical solution of LP for Diet Problem#2.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.2/2.2.2.R#S##283
-2#Modelling with Linear Programming#2.4.1#LP solution for Bank Loan Problem #2.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.1/2.4.1.R#S##284
-2#Modelling with Linear Programming#2.4.2#LP solution for Single period Production Model#2.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.2/2.4.2.R#S##285
-2#Modelling with Linear Programming#2.4.3#LP solution for Multi period Production Inventory Model#2.4.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.3/2.4.3.R#S##286
-2#Modelling with Linear Programming#2.4.4#LP solution for Multi period Production smoothing Model#2.4.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.4/2.4.4.R#S##287
-2#Modelling with Linear Programming#2.4.5#LP solution for Bus Scheduling Problem#2.4.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.5/2.4.5.R#S##288
-2#Modelling with Linear Programming#2.4.6#LP solution for Urban Renewal Model Problem#2.4.6.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.6/2.4.6.R#S##289
-2#Modelling with Linear Programming#2.4.7#LP solution for Crude Oil Refining and Gasoline Blending Problem#2.4.7.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.7/2.4.7.R#S##290
-3#The Simplex Method and Sensitivity Analysis#3.2.1#Graphical solution of LP with 2 variables#3.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.2.1/3.2.1.R#S##291
-3#The Simplex Method and Sensitivity Analysis#3.3.1#LP solution for Reddy Mikks Problem using lpSolve#3.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.3.1/3.3.1.R#S##292
-3#The Simplex Method and Sensitivity Analysis#3.4.1#LP solution using M Method#3.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.1/3.4.1.R#S##293
-3#The Simplex Method and Sensitivity Analysis#3.4.2#LP solution using Two Phase Method#3.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.2/3.4.2.R#S##294
-3#The Simplex Method and Sensitivity Analysis#3.5.1#Degenerate Optimal Solution#3.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.1/3.5.1.R#S##295
-3#The Simplex Method and Sensitivity Analysis#3.5.2#Infinite Solutions to an LP#3.5.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.2/3.5.2.R#S##296
-3#The Simplex Method and Sensitivity Analysis#3.5.3#Unbounded objective value#3.5.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.3/3.5.3.R#S##297
-3#The Simplex Method and Sensitivity Analysis#3.5.4#Infeasible Solution Space#3.5.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.4/3.5.4.R#S##298
-3#The Simplex Method and Sensitivity Analysis#3.6.1#Changing RHS for Sensitivity analysis#3.6.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.1/3.6.1.R#S##299
-3#The Simplex Method and Sensitivity Analysis#3.6.2#Changing objective coefficient for Sensitivity analysis#3.6.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.2/3.6.2.R#S##300
-3#The Simplex Method and Sensitivity Analysis#3.6.3#Sensitivity Analysis using TOYCO Model#3.6.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.3/3.6.3.R#S##301
-4#Duality and Post optimality Analysis#4.2.1#Solving primal and dual problem using linprog pacakge#4.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.1/4.2.1.R#S##302
-4#Duality and Post optimality Analysis#4.2.2#Associated objective values for arbitrary feasible primal and dual solutions#4.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.2/4.2.2.R#S##303
-4#Duality and Post optimality Analysis#4.2.3#Getting the simplex tableau at any iteration from the original data and inverse of the iteration#4.2.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.3/4.2.3.R#S##304
-4#Duality and Post optimality Analysis#4.3.1#Economic interpretation of Dual variables of Reddy Mikks Problem#4.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.1/4.3.1.R#S##305
-4#Duality and Post optimality Analysis#4.3.2#Economic interpretation of Dual constraints of Reddy Mikks Problem#4.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.2/4.3.2.R#S##306
-4#Duality and Post optimality Analysis#4.4.1#Dual Simplex using glpk library #4.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.4.1/4.4.1.R#S##307
-4#Duality and Post optimality Analysis#4.5.1#Changes in RHS#4.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.1/4.5.1.R#S##308
-4#Duality and Post optimality Analysis#4.5.2#Addition of a new constraint#4.5.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.2/4.5.2.R#S##309
-4#Duality and Post optimality Analysis#4.5.3#Changes in objective coefficient#4.5.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.3/4.5.3.R#S##310
-4#Duality and Post optimality Analysis#4.5.4#Addition of a new activity#4.5.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.4/4.5.4.R#S##311
-5#Transportation Model and its Variant#5.1.1#A general transportation model#5.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.1/5.1.1.R#S##312
-5#Transportation Model and its Variant#5.1.2#Balancing transportation models#5.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.2/5.1.2.R#S##313
-5#Transportation Model and its Variant#5.2.1#Production inventory control#5.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.1/5.2.1.R#S##314
-5#Transportation Model and its Variant#5.2.2#Tool sharpening#5.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.2/5.2.2.R#S##315
-5#Transportation Model and its Variant#5.3.1#Sunray Transport#5.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.1/5.3.1.R#S##316
-5#Transportation Model and its Variant#5.3.2#Northwest corner method#5.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.2/5.3.2.R#S##317
-5#Transportation Model and its Variant#5.3.3#Least cost method#5.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.3/5.3.3.R#S##318
-5#Transportation Model and its Variant#5.3.5#Method of multipliers#5.3.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.5/5.3.5.R#S##319
-5#Transportation Model and its Variant#5.4.1#Hungarian method 1#5.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.1/5.4.1.R#S##320
-5#Transportation Model and its Variant#5.4.2#Hungarian method 2#5.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.2/5.4.2.R#S##321
-6#Network Model#6.2.1#Minimal spanning tree algorithm#6.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.2.1/6.2.1.R#S##322
-6#Network Model#6.3.1#Equipment replacement as shortest route problem#6.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.1/6.3.1.R#S##323
-6#Network Model#6.3.2#Most reliable route#6.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.2/6.3.2.R#S##324
-6#Network Model#6.3.3#Three jub puzzle#6.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.3/6.3.3.R#S##325
-6#Network Model#6.3.4#Djiktras algorithm#6.3.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.4/6.3.4.R#S##326
-6#Network Model#6.3.5#Floyds algorithm#6.3.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.5/6.3.5.R#S##327
-6#Network Model#6.3.6#LP formulation and solution of shortest route problem#6.3.6.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.6/6.3.6.R#S##328
-6#Network Model#6.4.2#Maximal flow algorithm#6.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.2/6.4.2.R#S##329
-6#Network Model#6.4.3#LP formulation and solution of Maximal flow Mode #6.4.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.3/6.4.3.R#S##330
-6#Network Model#6.5.1#Network representation for PERT and CPM#6.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.1/6.5.1.R#S##331
-6#Network Model#6.5.2#Critical path method#6.5.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.2/6.5.2.R#S##332
-6#Network Model#6.5.3#Preliminary schedule#6.5.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.3/6.5.3.R#S##333
-6#Network Model#6.5.4#Determination of floats and red flag rule#6.5.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.4/6.5.4.R#S##334
-6#Network Model#6.5.5#LP formulation and solution of project scheduling problem#6.5.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.5/6.5.5.R#S##335
-7#Advanced Linear Programming#7.1.2#All basic feasible and infeasible solutions of an equation#7.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.2/7.1.2.R#S##336
-7#Advanced Linear Programming#7.1.3#Simmplex tableau in matrix form#7.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.3/7.1.3.R#S##337
-7#Advanced Linear Programming#7.2.1#Revised simplex algoithmr#7.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.2.1/7.2.1.R#S##338
-7#Advanced Linear Programming#7.3.1#Bounded variables algorithm#7.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.3.1/7.3.1.R#S##339
-7#Advanced Linear Programming#7.4.1#Dual simplex algorithm#7.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.4.1/7.4.1.R#S##340
-8# Integer Linear Programming#8.1.1#Project selection#8.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.1/8.1.1.R#S##341
-8# Integer Linear Programming#8.1.2#Installing security phones#8.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.2/8.1.2.R#S##342
-8# Integer Linear Programming#8.1.3#Choosing a telephone company#8.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.3/8.1.3.R#S##343
-8# Integer Linear Programming#8.1.4#Job scheeduling model#8.1.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.4/8.1.4.R#S##344
-8# Integer Linear Programming#8.2.1#Branch and bound algorithm#8.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.1/8.2.1.R#S##345
-8# Integer Linear Programming#8.2.2#Cutting plane algorithm#8.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.2/8.2.2.R#S##346
-9# Heuristic Programming#9.2.1#Discrete variable heuristics#9.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.1/9.2.1.R#S##347
-9# Heuristic Programming#9.2.2#Random walk heuristic#9.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.2/9.2.2.R#S##348
-9# Heuristic Programming#9.2.3#Random walk heuristic for continuous variables#9.2.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.3/9.2.3.R#S##349
-9# Heuristic Programming#9.3.1#Minimization of single varibale function using tabu search algorithm#9.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.1/9.3.1.R#S##350
-9# Heuristic Programming#9.3.3#Minimization of single varibale function using simulated annealing algorithm#9.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.3/9.3.3.R#S##351
-9# Heuristic Programming#9.3.4#Job scheduling using simulated annealing algorithm#9.3.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.4/9.3.4.R#S##352
-10# Travelling Salesman Problem#10.3.1#Travelling Salesman Problem using branch and bound algorithm#10.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.1/10.3.1.R#S##353
-10# Travelling Salesman Problem#10.3.2#Travelling Salesman Problem using cutting plane algorithm#10.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.2/10.3.2.R#S##354
-10# Travelling Salesman Problem#10.4.1#Travelling Salesman Problem using nearest neighbour heuristic#10.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.4.1/10.4.1.R#S##355
-11#Deterministic Dynamic Programming#11.1.1#Shortest route problem using dynamic programming#11.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH11/EX11.1.1/11.1.1.R#S##356
-12#Deterministic Inventory Modelling#12.2.1#Analyzing the nature of demand#12.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.2.1/12.2.1.R#S##357
-12#Deterministic Inventory Modelling#12.3.1#Classic EOQ model problem#12.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.1/12.3.1.R#S##358
-12#Deterministic Inventory Modelling#12.3.2#Optimal order policy#12.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.2/12.3.2.R#S##359
-12#Deterministic Inventory Modelling#12.4.1#Dynamic EOQ models with no setup#12.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.4.1/12.4.1.R#S##360
-13#Decision Analysis and Games#13.1.1#Overall Idea of AHP#13.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.1/13.1.1.R#S##361
-13#Decision Analysis and Games#13.1.2#Weights and consistency for AHP#13.1.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.2/13.1.2.R#S##362
-13#Decision Analysis and Games#13.1.3#Consistency ratio#13.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.3/13.1.3.R#S##363
-13#Decision Analysis and Games#13.2.1#Decision tree#13.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.1/13.2.1.R#S##364
-13#Decision Analysis and Games#13.2.2#Expected value criterion#13.2.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.2/13.2.2.R#S##365
-13#Decision Analysis and Games#13.3.1#Decision under uncertainity#13.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.3.1/13.3.1.R#S##366
-13#Decision Analysis and Games#13.4.1#Two person zero sum game#13.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.1/13.4.1.R#S##367
-13#Decision Analysis and Games#13.4.3#Mixed strategy games#13.4.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.3/13.4.3.R#S##368
-14#Probabilistic Inventory Models#14.1.1#Probabilistic Inventory Models with normal distribution of demand#14.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.1.1/14.1.1.R#S##369
-14#Probabilistic Inventory Models#14.2.1#Newsvendor problem#14.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.2.1/14.2.1.R#S##370
-15#Markov Chain#15.2.1#Absolute probabilities after transitions#15.2.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.2.1/15.2.1.R#S##371
-15#Markov Chain#15.3.1#Absorbing and transient states#15.3.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.1/15.3.1.R#S##372
-15#Markov Chain#15.3.2#Periodic states#15.3.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.2/15.3.2.R#S##373
-15#Markov Chain#15.4.1#Steady state probabilities#15.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.1/15.4.1.R#S##374
-15#Markov Chain#15.4.2#Cost model#15.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.2/15.4.2.R#S##375
-15#Markov Chain#15.5.1#Mean first passage time#15.5.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.5.1/15.5.1.R#S##376
-15#Markov Chain#15.6.1#Analysis of absorbing states#15.6.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.6.1/15.6.1.R#S##377
-16# Queuing Systems#16.4.1#Pure birth model#16.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.1/16.4.1.R#S##378
-16# Queuing Systems#16.4.2#Pure death model#16.4.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.2/16.4.2.R#S##379
-16# Queuing Systems#16.6.1#Measures of performance#16.6.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.1/16.6.1.R#S##380
-16# Queuing Systems#16.6.2#MM1 GDInfInf model#16.6.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.2/16.6.2.R#S##381
-16# Queuing Systems#16.6.4#MM1 GDNInf model#16.6.4.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.4/16.6.4.R#S##382
-16# Queuing Systems#16.6.5#MMc GDInfInf model#16.6.5.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.5/16.6.5.R#S##383
-16# Queuing Systems#16.6.6#MMc GDNInf model#16.6.6.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.6/16.6.6.R#S##384
-16# Queuing Systems#16.6.7#MMInf GDInfNEInf or Slef service models#16.6.7.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.7/16.6.7.R#S##385
-16# Queuing Systems#16.6.8#MMR GDKK or Machine servicing model#16.6.8.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.8/16.6.8.R#S##386
-16# Queuing Systems#16.7.1#MG1 GDInfInf model or  Pollaczek Khintchine formula#16.7.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.7.1/16.7.1.R#S##387
-16# Queuing Systems#16.9.1#Cost models#16.9.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.1/16.9.1.R#S##388
-16# Queuing Systems#16.9.2#Practical problem for MMc GDInfInf model#16.9.2.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.2/16.9.2.R#S##389
-16# Queuing Systems#16.9.3#Aspiration level model#16.9.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.3/16.9.3.R#S##390
-17# Simulation Modelling#17.1.1#Monte carlo sampling#17.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.1.1/17.1.1.R#S##391
-17# Simulation Modelling#17.3.3#Erlang distribution#17.3.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.3.3/17.3.3.R#S##392
-17# Simulation Modelling#17.4.1#Multiplicative congruential method#17.4.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.4.1/17.4.1.R#S##393
-18#Classical Optimization theory#18.1.1#Necessary and sufficient conditions#18.1.1.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.1/18.1.1.R#S##394
-18#Classical Optimization theory#18.1.3#Newton Raphson method#18.1.3.R#Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.3/18.1.3.R#S##395
+2# Financial Theory#2.7#Basic theory of interest rates#Ex2_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R#S##399
+2# Financial Theory#2.8#Basic theory of interest rates#Ex2_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R#S##400
+2# Financial Theory#2.9#Basic pricing of fixed income securities#Ex2_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R#S##401
+2# Financial Theory#2.10#Interest rate sensitivity and bond portfolio immunization#Ex2_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R#S##402
+2# Financial Theory#2.24#Black Scholes model in MATLAB#Ex2_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R#S##403
+3#Basics of Numerical Analysis#3.2#Error propagation conditioning and instability#Ex3_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R#S##404
+3#Basics of Numerical Analysis#3.4#Vector and matrix norms#Ex3_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R#S##405
+3#Basics of Numerical Analysis#3.6#Vector and matrix norms#Ex3_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R#S##406
+3#Basics of Numerical Analysis#3.7#Condition number for a matrix#Ex3_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R#S##407
+3#Basics of Numerical Analysis#3.8#Condition number for a matrix#Ex3_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R#S##408
+3#Basics of Numerical Analysis#3.11#Direct methods for solving systems of linear equations#Ex3_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R#S##409
+3#Basics of Numerical Analysis#3.12#Direct methods for solving systems of linear equations#Ex3_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R#S##410
+3#Basics of Numerical Analysis#3.13#Iterative methods for solving systems of linear equations#Ex3_13.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R#S##411
+3#Basics of Numerical Analysis#3.14#Iterative methods for solving systems of linear equations#Ex3_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R#S##412
+3#Basics of Numerical Analysis#3.15#FUNCTION APPROXIMATION AND INTERPOLATION#Ex3_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R#S##413
+3#Basics of Numerical Analysis#3.16#Elementary polynomial interpolation#Ex3_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R#S##414
+3#Basics of Numerical Analysis#3.17#Elementary polynomial interpolation#Ex3_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R#S##415
+3#Basics of Numerical Analysis#3.18#Interpolation by cubic splines#Ex3_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R#S##416
+3#Basics of Numerical Analysis#3.22#Bisection method#Ex3_22.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R#S##417
+3#Basics of Numerical Analysis#3.23#Newtons method#Ex3_23.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R#S##418
+3#Basics of Numerical Analysis#3.24#Optimization based solution of non linear equations#Ex3_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R#S##419
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.1#Numerical integration in MATLAB#Ex4_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R#S##420
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.2#MONTE CARLO INTEGRATION#Ex4_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R#S##421
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.3#MONTE CARLO INTEGRATION#Ex4_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R#S##422
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.4#Generating pseudorandom numbers#Ex4_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R#S##423
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.5#Generating pseudorandom numbers#Ex4_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R#S##424
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.6#Inverse transform method#Ex4_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R#S##425
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.8#Generating normal variates by the polar approach#Ex4_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R#S##426
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.9#Generating normal variates by the polar approach#Ex4_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R#S##427
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.10#SETTING THE NUMBER OF REPLICATIONS#Ex4_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R#S##428
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.11#Antithetic sampling#Ex4_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R#S##429
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.12#BlsMCAV#Ex4_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R#S##430
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.14#Importance sampling#Ex4_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R#S##431
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.15#Generating Halton low discrepancy sequences#Ex4_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R#S##432
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.16#Generating Halton low discrepancy sequences#Ex4_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R#S##433
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.17#Generating Halton low discrepancy sequences#Ex4_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R#S##434
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.18#Generating Sobol low discrepancy sequences#Ex4_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R#S##435
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.19#Generating Sobol low discrepancy sequences#Ex4_19.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R#S##436
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.20#Generating Sobol low discrepancy sequences#Ex4_20.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R#S##437
+5# Finite Difference Methods for Partial Differential Equations#5.1#Instability in a finite difference scheme#Ex5_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R#S##438
+5# Finite Difference Methods for Partial Differential Equations#5.3#Solving the heat equation by an explicit method#Ex5_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R#S##439
+5# Finite Difference Methods for Partial Differential Equations#5.4#Solving the heat equation by a fully implicit method#Ex5_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R#S##440
+6# Convex Optimization#6.1#Finite vs infinite dimensional problems#Ex6_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R#S##441
+6# Convex Optimization#6.3#Linear vs non linear problems#Ex6_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R#S##442
+6# Convex Optimization#6.5#Penalty function approach#Ex6_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R#S##443
+6# Convex Optimization#6.8#Kuhn Tucker conditions#Ex6_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R#S##444
+6# Convex Optimization#6.12#Geometric and algebraic features of linear programming#Ex6_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R#S##445
+7# Option Pricing by Binomial and Trinomial Lattices#7.1#Calibrating a binomial lattice#Ex7_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R#S##446
+7# Option Pricing by Binomial and Trinomial Lattices#7.2#Accuracy of the binomial lattice for decreasing deltaT#Page_409_CompLatticeBLS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R#S##447
+7# Option Pricing by Binomial and Trinomial Lattices#7.3#Price a pay later option by a binomial lattice#Page_411_Luenberger_Investment Science_Ex13_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R#S##448
+7# Option Pricing by Binomial and Trinomial Lattices#7.4#Pricing an European call by a binomial lattice#Page_413_SmartEurLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R#S##449
+7# Option Pricing by Binomial and Trinomial Lattices#7.5#Pricing an American put by a binomial lattice#Page_416_AmPutLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R#S##450
+7# Option Pricing by Binomial and Trinomial Lattices#7.6#Pricing an American spread option by a bidimensional binomial lattice#Page_420_AmSpreadLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R#S##451
+7# Option Pricing by Binomial and Trinomial Lattices#7.7#Pricing an European call by a trinomial lattice#Page_424_EuCallTrinomial.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R#S##452
+8#Option Pricing by Monte Carlo Methods #8.1#Generate asset price paths by Monte Carlo simulation#Page_433_AssetPaths.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R#S##453
+8#Option Pricing by Monte Carlo Methods #8.2#Vectorized code to generate asset price paths#Page_434_AssetPathsV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R#S##454
+8#Option Pricing by Monte Carlo Methods #8.3#Evaluating the cost of a stop loss hedging strategy#Page_436_StopLoss.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R#S##455
+8#Option Pricing by Monte Carlo Methods #8.4#Vectorized code for the stop loss hedging strategy#Page_437_StopLossV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R#S##456
+8#Option Pricing by Monte Carlo Methods #8.5#Evaluating the performance of delta hedging#Page_438_DeltaHedging.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R#S##457
+8#Option Pricing by Monte Carlo Methods #8.6#Implementing and checking path generation for the standard Wiener process by a Brownian bridge#Page_442_WienerBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R#S##458
+8#Option Pricing by Monte Carlo Methods #8.7#Code to price an exchange option analytically#Page_444_Exchange.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R#S##459
+8#Option Pricing by Monte Carlo Methods #8.8#Code to price an exchange option by Monte Carlo simulation#Page_445_ExchangeMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R#S##460
+8#Option Pricing by Monte Carlo Methods #8.9#Crude Monte Carlo simulation for a discrete barrier option#Page_446_DOPutMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R#S##461
+8#Option Pricing by Monte Carlo Methods #8.10#Conditional Monte Carlo simulation for a discrete barrier option#Page_449_D0PutMCCond.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R#S##462
+8#Option Pricing by Monte Carlo Methods #8.11#Using conditional Monte Carlo and importance sampling for a discrete barrier option#Page_453_DOPutMCCondIS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R#S##463
+8#Option Pricing by Monte Carlo Methods #8.12#Monte Carlo simulation for an Asian option#Page_455_AsianMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R#S##464
+8#Option Pricing by Monte Carlo Methods #8.13#Monte Carlo simulation with control variates for an Asian option#Page_456_AsianMCCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R#S##465
+8#Option Pricing by Monte Carlo Methods #8.14#Using the geometric average Asian option as a control variate#Page_459_AsianMCGeoCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R#S##466
+8#Option Pricing by Monte Carlo Methods #8.15#Pricing an Asian option by Halton sequences#Page_460_AsianHalton.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R#S##467
+8#Option Pricing by Monte Carlo Methods #8.16#Simulating geometric Brownian motion by Halton sequences and the Brownian bridge#Page_464_GBMHaltonBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R#S##468
+8#Option Pricing by Monte Carlo Methods #8.17#Improving the estimate of the option Delta by Common Random Numbers#Page_470_BlsDeltaMCNaive.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R#S##469
+8#Option Pricing by Monte Carlo Methods #8.18#Estimating the option Delta by a pathwise estimator#Page_472_BlsDeltaMCPath.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R#S##470
+9# Option Pricing by Finite Difference Methods#9.3#price a European vanilla put by a straightforward explicit scheme#Page_479_EuPutExpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R#S##471
+9# Option Pricing by Finite Difference Methods#9.4#price a vanilla European option by a fully implicit method#Page_484_EuPutImpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R#S##472
+9# Option Pricing by Finite Difference Methods#9.5#price a down and out put option by the Crank Nicolson method#Page_487_DOPutCK.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R#S##473
+10# Dynamic Programming#10.4#Simple asset allocation problem under uncertainty Monte Carlo sampling#Ex10_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R#S##475

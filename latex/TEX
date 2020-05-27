@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Operations Research: An Introduction\\by Hamdy A Taha\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Georgey John\\M.Tech.\\Others\\NIT, Calicut\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Operations Research: An Introduction
-\item [Author:] Hamdy A Taha
-\item [Publisher:] Pearson
-\item [Edition:] 9
-\item [Year:] 2014
-\item [ISBN:] 9780132555937
+\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
+\item [Author:] Paolo Brandimarte
+\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
+\item [Edition:] 2
+\item [Year:] 2006
+\item [ISBN:] 0471745030
 \end{description}
 
 \newpage
@@ -28,835 +28,553 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 
 
 \setcounter{chapter}{1}
-\chapter{Modelling with Linear Programming}
+\chapter{ Financial Theory}
 
 \vspace*{10mm}
-\curlable{Exa~2.2.1}
+\curlable{Exa~2.7}
 \begin{code}
-\tcaption{Graphical Solution to LP Problems}{Graphical Solution to LP Problems}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.1/2.2.1.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.2.2}
+\curlable{Exa~2.8}
 \begin{code}
-\tcaption{Graphical solution of LP for Diet Problem}{Graphical solution of LP for Diet Problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.2.2/2.2.2.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.4.1}
+\curlable{Exa~2.9}
 \begin{code}
-\tcaption{LP solution for Bank Loan Problem }{LP solution for Bank Loan Problem }
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.1/2.4.1.R}
+\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.4.2}
+\curlable{Exa~2.10}
 \begin{code}
-\tcaption{LP solution for Single period Production Model}{LP solution for Single period Production Model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.2/2.4.2.R}
+\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.4.3}
+\curlable{Exa~2.24}
 \begin{code}
-\tcaption{LP solution for Multi period Production Inventory Model}{LP solution for Multi period Production Inventory Model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.3/2.4.3.R}
+\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~2.4.4}
-\begin{code}
-\tcaption{LP solution for Multi period Production smoothing Model}{LP solution for Multi period Production smoothing Model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.4/2.4.4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.4.5}
-\begin{code}
-\tcaption{LP solution for Bus Scheduling Problem}{LP solution for Bus Scheduling Problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.5/2.4.5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.4.6}
-\begin{code}
-\tcaption{LP solution for Urban Renewal Model Problem}{LP solution for Urban Renewal Model Problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.6/2.4.6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.4.7}
-\begin{code}
-\tcaption{LP solution for Crude Oil Refining and Gasoline Blending Problem}{LP solution for Crude Oil Refining and Gasoline Blending Problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH2/EX2.4.7/2.4.7.R}
-\end{code}
-
-\chapter{The Simplex Method and Sensitivity Analysis}
-
-\vspace*{10mm}
-\curlable{Exa~3.2.1}
-\begin{code}
-\tcaption{Graphical solution of LP with 2 variables}{Graphical solution of LP with 2 variables}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.2.1/3.2.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.3.1}
-\begin{code}
-\tcaption{LP solution for Reddy Mikks Problem using lpSolve}{LP solution for Reddy Mikks Problem using lpSolve}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.3.1/3.3.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.4.1}
-\begin{code}
-\tcaption{LP solution using M Method}{LP solution using M Method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.1/3.4.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.4.2}
-\begin{code}
-\tcaption{LP solution using Two Phase Method}{LP solution using Two Phase Method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.4.2/3.4.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.5.1}
-\begin{code}
-\tcaption{Degenerate Optimal Solution}{Degenerate Optimal Solution}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.1/3.5.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.5.2}
-\begin{code}
-\tcaption{Infinite Solutions to an LP}{Infinite Solutions to an LP}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.2/3.5.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.5.3}
-\begin{code}
-\tcaption{Unbounded objective value}{Unbounded objective value}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.3/3.5.3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.5.4}
-\begin{code}
-\tcaption{Infeasible Solution Space}{Infeasible Solution Space}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.5.4/3.5.4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.6.1}
-\begin{code}
-\tcaption{Changing RHS for Sensitivity analysis}{Changing RHS for Sensitivity analysis}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.1/3.6.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.6.2}
-\begin{code}
-\tcaption{Changing objective coefficient for Sensitivity analysis}{Changing objective coefficient for Sensitivity analysis}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.2/3.6.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.6.3}
-\begin{code}
-\tcaption{Sensitivity Analysis using TOYCO Model}{Sensitivity Analysis using TOYCO Model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH3/EX3.6.3/3.6.3.R}
-\end{code}
-
-\chapter{Duality and Post optimality Analysis}
-
-\vspace*{10mm}
-\curlable{Exa~4.2.1}
-\begin{code}
-\tcaption{Solving primal and dual problem using linprog pacakge}{Solving primal and dual problem using linprog pacakge}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.1/4.2.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.2.2}
-\begin{code}
-\tcaption{Associated objective values for arbitrary feasible primal and dual solutions}{Associated objective values for arbitrary feasible primal and dual solutions}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.2/4.2.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.2.3}
-\begin{code}
-\tcaption{Getting the simplex tableau at any iteration from the original data and inverse of the iteration}{Getting the simplex tableau at any iteration from the original data and inverse of the iteration}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.2.3/4.2.3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.3.1}
-\begin{code}
-\tcaption{Economic interpretation of Dual variables of Reddy Mikks Problem}{Economic interpretation of Dual variables of Reddy Mikks Problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.1/4.3.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.3.2}
-\begin{code}
-\tcaption{Economic interpretation of Dual constraints of Reddy Mikks Problem}{Economic interpretation of Dual constraints of Reddy Mikks Problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.3.2/4.3.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.4.1}
-\begin{code}
-\tcaption{Dual Simplex using glpk library }{Dual Simplex using glpk library }
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.4.1/4.4.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.5.1}
-\begin{code}
-\tcaption{Changes in RHS}{Changes in RHS}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.1/4.5.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.5.2}
-\begin{code}
-\tcaption{Addition of a new constraint}{Addition of a new constraint}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.2/4.5.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.5.3}
-\begin{code}
-\tcaption{Changes in objective coefficient}{Changes in objective coefficient}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.3/4.5.3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.5.4}
-\begin{code}
-\tcaption{Addition of a new activity}{Addition of a new activity}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH4/EX4.5.4/4.5.4.R}
-\end{code}
-
-\chapter{Transportation Model and its Variant}
-
-\vspace*{10mm}
-\curlable{Exa~5.1.1}
-\begin{code}
-\tcaption{A general transportation model}{A general transportation model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.1/5.1.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.1.2}
-\begin{code}
-\tcaption{Balancing transportation models}{Balancing transportation models}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.1.2/5.1.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.2.1}
-\begin{code}
-\tcaption{Production inventory control}{Production inventory control}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.1/5.2.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.2.2}
-\begin{code}
-\tcaption{Tool sharpening}{Tool sharpening}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.2.2/5.2.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.3.1}
-\begin{code}
-\tcaption{Sunray Transport}{Sunray Transport}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.1/5.3.1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.3.2}
-\begin{code}
-\tcaption{Northwest corner method}{Northwest corner method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.2/5.3.2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.3.3}
-\begin{code}
-\tcaption{Least cost method}{Least cost method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.3/5.3.3.R}
-\end{code}
+\chapter{Basics of Numerical Analysis}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.5}
+\curlable{Exa~3.2}
 \begin{code}
-\tcaption{Method of multipliers}{Method of multipliers}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.3.5/5.3.5.R}
+\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.4.1}
+\curlable{Exa~3.4}
 \begin{code}
-\tcaption{Hungarian method 1}{Hungarian method 1}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.1/5.4.1.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.4.2}
+\curlable{Exa~3.6}
 \begin{code}
-\tcaption{Hungarian method 2}{Hungarian method 2}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH5/EX5.4.2/5.4.2.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
 \end{code}
 
-\chapter{Network Model}
-
-\vspace*{10mm}
-\curlable{Exa~6.2.1}
-\begin{code}
-\tcaption{Minimal spanning tree algorithm}{Minimal spanning tree algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.2.1/6.2.1.R}
-\end{code}
-
 \vspace*{10mm}
-\curlable{Exa~6.3.1}
+\curlable{Exa~3.7}
 \begin{code}
-\tcaption{Equipment replacement as shortest route problem}{Equipment replacement as shortest route problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.1/6.3.1.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3.2}
+\curlable{Exa~3.8}
 \begin{code}
-\tcaption{Most reliable route}{Most reliable route}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.2/6.3.2.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3.3}
+\curlable{Exa~3.11}
 \begin{code}
-\tcaption{Three jub puzzle}{Three jub puzzle}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.3/6.3.3.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3.4}
+\curlable{Exa~3.12}
 \begin{code}
-\tcaption{Djiktras algorithm}{Djiktras algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.4/6.3.4.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3.5}
+\curlable{Exa~3.13}
 \begin{code}
-\tcaption{Floyds algorithm}{Floyds algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.5/6.3.5.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3.6}
+\curlable{Exa~3.14}
 \begin{code}
-\tcaption{LP formulation and solution of shortest route problem}{LP formulation and solution of shortest route problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.3.6/6.3.6.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.4.2}
+\curlable{Exa~3.15}
 \begin{code}
-\tcaption{Maximal flow algorithm}{Maximal flow algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.2/6.4.2.R}
+\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.4.3}
+\curlable{Exa~3.16}
 \begin{code}
-\tcaption{LP formulation and solution of Maximal flow Mode }{LP formulation and solution of Maximal flow Mode }
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.4.3/6.4.3.R}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.5.1}
+\curlable{Exa~3.17}
 \begin{code}
-\tcaption{Network representation for PERT and CPM}{Network representation for PERT and CPM}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.1/6.5.1.R}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.5.2}
+\curlable{Exa~3.18}
 \begin{code}
-\tcaption{Critical path method}{Critical path method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.2/6.5.2.R}
+\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.5.3}
+\curlable{Exa~3.22}
 \begin{code}
-\tcaption{Preliminary schedule}{Preliminary schedule}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.3/6.5.3.R}
+\tcaption{Bisection method}{Bisection method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.5.4}
+\curlable{Exa~3.23}
 \begin{code}
-\tcaption{Determination of floats and red flag rule}{Determination of floats and red flag rule}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.4/6.5.4.R}
+\tcaption{Newtons method}{Newtons method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.5.5}
+\curlable{Exa~3.24}
 \begin{code}
-\tcaption{LP formulation and solution of project scheduling problem}{LP formulation and solution of project scheduling problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH6/EX6.5.5/6.5.5.R}
+\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
 \end{code}
 
-\chapter{Advanced Linear Programming}
+\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
 
 \vspace*{10mm}
-\curlable{Exa~7.1.2}
+\curlable{Exa~4.1}
 \begin{code}
-\tcaption{All basic feasible and infeasible solutions of an equation}{All basic feasible and infeasible solutions of an equation}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.2/7.1.2.R}
+\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.1.3}
+\curlable{Exa~4.2}
 \begin{code}
-\tcaption{Simmplex tableau in matrix form}{Simmplex tableau in matrix form}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.1.3/7.1.3.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.2.1}
+\curlable{Exa~4.3}
 \begin{code}
-\tcaption{Revised simplex algoithmr}{Revised simplex algoithmr}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.2.1/7.2.1.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.1}
+\curlable{Exa~4.4}
 \begin{code}
-\tcaption{Bounded variables algorithm}{Bounded variables algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.3.1/7.3.1.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.4.1}
+\curlable{Exa~4.5}
 \begin{code}
-\tcaption{Dual simplex algorithm}{Dual simplex algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH7/EX7.4.1/7.4.1.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
 \end{code}
 
-\chapter{ Integer Linear Programming}
-
 \vspace*{10mm}
-\curlable{Exa~8.1.1}
+\curlable{Exa~4.6}
 \begin{code}
-\tcaption{Project selection}{Project selection}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.1/8.1.1.R}
+\tcaption{Inverse transform method}{Inverse transform method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.1.2}
+\curlable{Exa~4.8}
 \begin{code}
-\tcaption{Installing security phones}{Installing security phones}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.2/8.1.2.R}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.1.3}
+\curlable{Exa~4.9}
 \begin{code}
-\tcaption{Choosing a telephone company}{Choosing a telephone company}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.3/8.1.3.R}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.1.4}
+\curlable{Exa~4.10}
 \begin{code}
-\tcaption{Job scheeduling model}{Job scheeduling model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.1.4/8.1.4.R}
+\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.2.1}
+\curlable{Exa~4.11}
 \begin{code}
-\tcaption{Branch and bound algorithm}{Branch and bound algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.1/8.2.1.R}
+\tcaption{Antithetic sampling}{Antithetic sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.2.2}
+\curlable{Exa~4.12}
 \begin{code}
-\tcaption{Cutting plane algorithm}{Cutting plane algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH8/EX8.2.2/8.2.2.R}
+\tcaption{BlsMCAV}{BlsMCAV}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
 \end{code}
-
-\chapter{ Heuristic Programming}
 
 \vspace*{10mm}
-\curlable{Exa~9.2.1}
+\curlable{Exa~4.14}
 \begin{code}
-\tcaption{Discrete variable heuristics}{Discrete variable heuristics}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.1/9.2.1.R}
+\tcaption{Importance sampling}{Importance sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.2.2}
+\curlable{Exa~4.15}
 \begin{code}
-\tcaption{Random walk heuristic}{Random walk heuristic}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.2/9.2.2.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.2.3}
+\curlable{Exa~4.16}
 \begin{code}
-\tcaption{Random walk heuristic for continuous variables}{Random walk heuristic for continuous variables}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.2.3/9.2.3.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.3.1}
+\curlable{Exa~4.17}
 \begin{code}
-\tcaption{Minimization of single varibale function using tabu search algorithm}{Minimization of single varibale function using tabu search algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.1/9.3.1.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.3.3}
+\curlable{Exa~4.18}
 \begin{code}
-\tcaption{Minimization of single varibale function using simulated annealing algorithm}{Minimization of single varibale function using simulated annealing algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.3/9.3.3.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.3.4}
+\curlable{Exa~4.19}
 \begin{code}
-\tcaption{Job scheduling using simulated annealing algorithm}{Job scheduling using simulated annealing algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH9/EX9.3.4/9.3.4.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
 \end{code}
 
-\chapter{ Travelling Salesman Problem}
-
 \vspace*{10mm}
-\curlable{Exa~10.3.1}
+\curlable{Exa~4.20}
 \begin{code}
-\tcaption{Travelling Salesman Problem using branch and bound algorithm}{Travelling Salesman Problem using branch and bound algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.1/10.3.1.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~10.3.2}
-\begin{code}
-\tcaption{Travelling Salesman Problem using cutting plane algorithm}{Travelling Salesman Problem using cutting plane algorithm}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.3.2/10.3.2.R}
-\end{code}
+\chapter{ Finite Difference Methods for Partial Differential Equations}
 
 \vspace*{10mm}
-\curlable{Exa~10.4.1}
+\curlable{Exa~5.1}
 \begin{code}
-\tcaption{Travelling Salesman Problem using nearest neighbour heuristic}{Travelling Salesman Problem using nearest neighbour heuristic}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH10/EX10.4.1/10.4.1.R}
+\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
 \end{code}
-
-\chapter{Deterministic Dynamic Programming}
 
 \vspace*{10mm}
-\curlable{Exa~11.1.1}
+\curlable{Exa~5.3}
 \begin{code}
-\tcaption{Shortest route problem using dynamic programming}{Shortest route problem using dynamic programming}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH11/EX11.1.1/11.1.1.R}
+\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
-\chapter{Deterministic Inventory Modelling}
-
 \vspace*{10mm}
-\curlable{Exa~12.2.1}
+\curlable{Exa~5.4}
 \begin{code}
-\tcaption{Analyzing the nature of demand}{Analyzing the nature of demand}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.2.1/12.2.1.R}
+\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~12.3.1}
-\begin{code}
-\tcaption{Classic EOQ model problem}{Classic EOQ model problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.1/12.3.1.R}
-\end{code}
+\chapter{ Convex Optimization}
 
 \vspace*{10mm}
-\curlable{Exa~12.3.2}
+\curlable{Exa~6.1}
 \begin{code}
-\tcaption{Optimal order policy}{Optimal order policy}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.3.2/12.3.2.R}
+\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~12.4.1}
+\curlable{Exa~6.3}
 \begin{code}
-\tcaption{Dynamic EOQ models with no setup}{Dynamic EOQ models with no setup}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH12/EX12.4.1/12.4.1.R}
+\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
 \end{code}
-
-\chapter{Decision Analysis and Games}
 
 \vspace*{10mm}
-\curlable{Exa~13.1.1}
+\curlable{Exa~6.5}
 \begin{code}
-\tcaption{Overall Idea of AHP}{Overall Idea of AHP}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.1/13.1.1.R}
+\tcaption{Penalty function approach}{Penalty function approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.1.2}
+\curlable{Exa~6.8}
 \begin{code}
-\tcaption{Weights and consistency for AHP}{Weights and consistency for AHP}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.2/13.1.2.R}
+\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.1.3}
+\curlable{Exa~6.12}
 \begin{code}
-\tcaption{Consistency ratio}{Consistency ratio}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.1.3/13.1.3.R}
+\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~13.2.1}
-\begin{code}
-\tcaption{Decision tree}{Decision tree}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.1/13.2.1.R}
-\end{code}
+\chapter{ Option Pricing by Binomial and Trinomial Lattices}
 
 \vspace*{10mm}
-\curlable{Exa~13.2.2}
+\curlable{Exa~7.1}
 \begin{code}
-\tcaption{Expected value criterion}{Expected value criterion}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.2.2/13.2.2.R}
+\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.3.1}
+\curlable{Exa~7.2}
 \begin{code}
-\tcaption{Decision under uncertainity}{Decision under uncertainity}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.3.1/13.3.1.R}
+\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.4.1}
+\curlable{Exa~7.3}
 \begin{code}
-\tcaption{Two person zero sum game}{Two person zero sum game}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.1/13.4.1.R}
+\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.4.3}
+\curlable{Exa~7.4}
 \begin{code}
-\tcaption{Mixed strategy games}{Mixed strategy games}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH13/EX13.4.3/13.4.3.R}
+\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
 \end{code}
 
-\chapter{Probabilistic Inventory Models}
-
 \vspace*{10mm}
-\curlable{Exa~14.1.1}
+\curlable{Exa~7.5}
 \begin{code}
-\tcaption{Probabilistic Inventory Models with normal distribution of demand}{Probabilistic Inventory Models with normal distribution of demand}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.1.1/14.1.1.R}
+\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.2.1}
+\curlable{Exa~7.6}
 \begin{code}
-\tcaption{Newsvendor problem}{Newsvendor problem}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH14/EX14.2.1/14.2.1.R}
+\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
 \end{code}
-
-\chapter{Markov Chain}
 
 \vspace*{10mm}
-\curlable{Exa~15.2.1}
+\curlable{Exa~7.7}
 \begin{code}
-\tcaption{Absolute probabilities after transitions}{Absolute probabilities after transitions}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.2.1/15.2.1.R}
+\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~15.3.1}
-\begin{code}
-\tcaption{Absorbing and transient states}{Absorbing and transient states}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.1/15.3.1.R}
-\end{code}
+\chapter{Option Pricing by Monte Carlo Methods }
 
 \vspace*{10mm}
-\curlable{Exa~15.3.2}
+\curlable{Exa~8.1}
 \begin{code}
-\tcaption{Periodic states}{Periodic states}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.3.2/15.3.2.R}
+\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~15.4.1}
+\curlable{Exa~8.2}
 \begin{code}
-\tcaption{Steady state probabilities}{Steady state probabilities}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.1/15.4.1.R}
+\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~15.4.2}
+\curlable{Exa~8.3}
 \begin{code}
-\tcaption{Cost model}{Cost model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.4.2/15.4.2.R}
+\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~15.5.1}
+\curlable{Exa~8.4}
 \begin{code}
-\tcaption{Mean first passage time}{Mean first passage time}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.5.1/15.5.1.R}
+\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~15.6.1}
+\curlable{Exa~8.5}
 \begin{code}
-\tcaption{Analysis of absorbing states}{Analysis of absorbing states}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH15/EX15.6.1/15.6.1.R}
+\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
 \end{code}
 
-\chapter{ Queuing Systems}
-
 \vspace*{10mm}
-\curlable{Exa~16.4.1}
+\curlable{Exa~8.6}
 \begin{code}
-\tcaption{Pure birth model}{Pure birth model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.1/16.4.1.R}
+\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.4.2}
+\curlable{Exa~8.7}
 \begin{code}
-\tcaption{Pure death model}{Pure death model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.4.2/16.4.2.R}
+\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.1}
+\curlable{Exa~8.8}
 \begin{code}
-\tcaption{Measures of performance}{Measures of performance}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.1/16.6.1.R}
+\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.2}
+\curlable{Exa~8.9}
 \begin{code}
-\tcaption{MM1 GDInfInf model}{MM1 GDInfInf model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.2/16.6.2.R}
+\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.4}
+\curlable{Exa~8.10}
 \begin{code}
-\tcaption{MM1 GDNInf model}{MM1 GDNInf model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.4/16.6.4.R}
+\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.5}
+\curlable{Exa~8.11}
 \begin{code}
-\tcaption{MMc GDInfInf model}{MMc GDInfInf model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.5/16.6.5.R}
+\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.6}
+\curlable{Exa~8.12}
 \begin{code}
-\tcaption{MMc GDNInf model}{MMc GDNInf model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.6/16.6.6.R}
+\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.7}
+\curlable{Exa~8.13}
 \begin{code}
-\tcaption{MMInf GDInfNEInf or Slef service models}{MMInf GDInfNEInf or Slef service models}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.7/16.6.7.R}
+\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.6.8}
+\curlable{Exa~8.14}
 \begin{code}
-\tcaption{MMR GDKK or Machine servicing model}{MMR GDKK or Machine servicing model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.6.8/16.6.8.R}
+\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.7.1}
+\curlable{Exa~8.15}
 \begin{code}
-\tcaption{MG1 GDInfInf model or Pollaczek Khintchine formula}{MG1 GDInfInf model or Pollaczek Khintchine formula}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.7.1/16.7.1.R}
+\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.9.1}
+\curlable{Exa~8.16}
 \begin{code}
-\tcaption{Cost models}{Cost models}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.1/16.9.1.R}
+\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.9.2}
+\curlable{Exa~8.17}
 \begin{code}
-\tcaption{Practical problem for MMc GDInfInf model}{Practical problem for MMc GDInfInf model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.2/16.9.2.R}
+\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.9.3}
+\curlable{Exa~8.18}
 \begin{code}
-\tcaption{Aspiration level model}{Aspiration level model}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH16/EX16.9.3/16.9.3.R}
+\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
 \end{code}
 
-\chapter{ Simulation Modelling}
+\chapter{ Option Pricing by Finite Difference Methods}
 
 \vspace*{10mm}
-\curlable{Exa~17.1.1}
+\curlable{Exa~9.3}
 \begin{code}
-\tcaption{Monte carlo sampling}{Monte carlo sampling}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.1.1/17.1.1.R}
+\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~17.3.3}
+\curlable{Exa~9.4}
 \begin{code}
-\tcaption{Erlang distribution}{Erlang distribution}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.3.3/17.3.3.R}
+\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~17.4.1}
+\curlable{Exa~9.5}
 \begin{code}
-\tcaption{Multiplicative congruential method}{Multiplicative congruential method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH17/EX17.4.1/17.4.1.R}
+\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
 \end{code}
-
-\chapter{Classical Optimization theory}
 
-\vspace*{10mm}
-\curlable{Exa~18.1.1}
-\begin{code}
-\tcaption{Necessary and sufficient conditions}{Necessary and sufficient conditions}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.1/18.1.1.R}
-\end{code}
+\chapter{ Dynamic Programming}
 
 \vspace*{10mm}
-\curlable{Exa~18.1.3}
+\curlable{Exa~10.4}
 \begin{code}
-\tcaption{Newton Raphson method}{Newton Raphson method}
-\lstinputlisting{../Operations_Research:_An_Introduction_by_Hamdy_A_Taha/CH18/EX18.1.3/18.1.3.R}
+\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
 \end{code}
 
