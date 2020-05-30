@@ -1,76 +1,145 @@
-2# Financial Theory#2.7#Basic theory of interest rates#Ex2_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R#S##399
-2# Financial Theory#2.8#Basic theory of interest rates#Ex2_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R#S##400
-2# Financial Theory#2.9#Basic pricing of fixed income securities#Ex2_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R#S##401
-2# Financial Theory#2.10#Interest rate sensitivity and bond portfolio immunization#Ex2_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R#S##402
-2# Financial Theory#2.24#Black Scholes model in MATLAB#Ex2_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R#S##403
-3#Basics of Numerical Analysis#3.2#Error propagation conditioning and instability#Ex3_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R#S##404
-3#Basics of Numerical Analysis#3.4#Vector and matrix norms#Ex3_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R#S##405
-3#Basics of Numerical Analysis#3.6#Vector and matrix norms#Ex3_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R#S##406
-3#Basics of Numerical Analysis#3.7#Condition number for a matrix#Ex3_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R#S##407
-3#Basics of Numerical Analysis#3.8#Condition number for a matrix#Ex3_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R#S##408
-3#Basics of Numerical Analysis#3.11#Direct methods for solving systems of linear equations#Ex3_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R#S##409
-3#Basics of Numerical Analysis#3.12#Direct methods for solving systems of linear equations#Ex3_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R#S##410
-3#Basics of Numerical Analysis#3.13#Iterative methods for solving systems of linear equations#Ex3_13.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R#S##411
-3#Basics of Numerical Analysis#3.14#Iterative methods for solving systems of linear equations#Ex3_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R#S##412
-3#Basics of Numerical Analysis#3.15#FUNCTION APPROXIMATION AND INTERPOLATION#Ex3_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R#S##413
-3#Basics of Numerical Analysis#3.16#Elementary polynomial interpolation#Ex3_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R#S##414
-3#Basics of Numerical Analysis#3.17#Elementary polynomial interpolation#Ex3_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R#S##415
-3#Basics of Numerical Analysis#3.18#Interpolation by cubic splines#Ex3_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R#S##416
-3#Basics of Numerical Analysis#3.22#Bisection method#Ex3_22.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R#S##417
-3#Basics of Numerical Analysis#3.23#Newtons method#Ex3_23.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R#S##418
-3#Basics of Numerical Analysis#3.24#Optimization based solution of non linear equations#Ex3_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R#S##419
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.1#Numerical integration in MATLAB#Ex4_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R#S##420
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.2#MONTE CARLO INTEGRATION#Ex4_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R#S##421
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.3#MONTE CARLO INTEGRATION#Ex4_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R#S##422
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.4#Generating pseudorandom numbers#Ex4_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R#S##423
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.5#Generating pseudorandom numbers#Ex4_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R#S##424
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.6#Inverse transform method#Ex4_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R#S##425
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.8#Generating normal variates by the polar approach#Ex4_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R#S##426
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.9#Generating normal variates by the polar approach#Ex4_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R#S##427
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.10#SETTING THE NUMBER OF REPLICATIONS#Ex4_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R#S##428
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.11#Antithetic sampling#Ex4_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R#S##429
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.12#BlsMCAV#Ex4_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R#S##430
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.14#Importance sampling#Ex4_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R#S##431
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.15#Generating Halton low discrepancy sequences#Ex4_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R#S##432
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.16#Generating Halton low discrepancy sequences#Ex4_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R#S##433
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.17#Generating Halton low discrepancy sequences#Ex4_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R#S##434
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.18#Generating Sobol low discrepancy sequences#Ex4_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R#S##435
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.19#Generating Sobol low discrepancy sequences#Ex4_19.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R#S##436
-4# Numerical Integration Deterministic and Monte Carlo Methods#4.20#Generating Sobol low discrepancy sequences#Ex4_20.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R#S##437
-5# Finite Difference Methods for Partial Differential Equations#5.1#Instability in a finite difference scheme#Ex5_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R#S##438
-5# Finite Difference Methods for Partial Differential Equations#5.3#Solving the heat equation by an explicit method#Ex5_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R#S##439
-5# Finite Difference Methods for Partial Differential Equations#5.4#Solving the heat equation by a fully implicit method#Ex5_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R#S##440
-6# Convex Optimization#6.1#Finite vs infinite dimensional problems#Ex6_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R#S##441
-6# Convex Optimization#6.3#Linear vs non linear problems#Ex6_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R#S##442
-6# Convex Optimization#6.5#Penalty function approach#Ex6_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R#S##443
-6# Convex Optimization#6.8#Kuhn Tucker conditions#Ex6_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R#S##444
-6# Convex Optimization#6.12#Geometric and algebraic features of linear programming#Ex6_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R#S##445
-7# Option Pricing by Binomial and Trinomial Lattices#7.1#Calibrating a binomial lattice#Ex7_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R#S##446
-7# Option Pricing by Binomial and Trinomial Lattices#7.2#Accuracy of the binomial lattice for decreasing deltaT#Page_409_CompLatticeBLS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R#S##447
-7# Option Pricing by Binomial and Trinomial Lattices#7.3#Price a pay later option by a binomial lattice#Page_411_Luenberger_Investment Science_Ex13_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R#S##448
-7# Option Pricing by Binomial and Trinomial Lattices#7.4#Pricing an European call by a binomial lattice#Page_413_SmartEurLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R#S##449
-7# Option Pricing by Binomial and Trinomial Lattices#7.5#Pricing an American put by a binomial lattice#Page_416_AmPutLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R#S##450
-7# Option Pricing by Binomial and Trinomial Lattices#7.6#Pricing an American spread option by a bidimensional binomial lattice#Page_420_AmSpreadLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R#S##451
-7# Option Pricing by Binomial and Trinomial Lattices#7.7#Pricing an European call by a trinomial lattice#Page_424_EuCallTrinomial.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R#S##452
-8#Option Pricing by Monte Carlo Methods #8.1#Generate asset price paths by Monte Carlo simulation#Page_433_AssetPaths.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R#S##453
-8#Option Pricing by Monte Carlo Methods #8.2#Vectorized code to generate asset price paths#Page_434_AssetPathsV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R#S##454
-8#Option Pricing by Monte Carlo Methods #8.3#Evaluating the cost of a stop loss hedging strategy#Page_436_StopLoss.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R#S##455
-8#Option Pricing by Monte Carlo Methods #8.4#Vectorized code for the stop loss hedging strategy#Page_437_StopLossV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R#S##456
-8#Option Pricing by Monte Carlo Methods #8.5#Evaluating the performance of delta hedging#Page_438_DeltaHedging.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R#S##457
-8#Option Pricing by Monte Carlo Methods #8.6#Implementing and checking path generation for the standard Wiener process by a Brownian bridge#Page_442_WienerBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R#S##458
-8#Option Pricing by Monte Carlo Methods #8.7#Code to price an exchange option analytically#Page_444_Exchange.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R#S##459
-8#Option Pricing by Monte Carlo Methods #8.8#Code to price an exchange option by Monte Carlo simulation#Page_445_ExchangeMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R#S##460
-8#Option Pricing by Monte Carlo Methods #8.9#Crude Monte Carlo simulation for a discrete barrier option#Page_446_DOPutMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R#S##461
-8#Option Pricing by Monte Carlo Methods #8.10#Conditional Monte Carlo simulation for a discrete barrier option#Page_449_D0PutMCCond.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R#S##462
-8#Option Pricing by Monte Carlo Methods #8.11#Using conditional Monte Carlo and importance sampling for a discrete barrier option#Page_453_DOPutMCCondIS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R#S##463
-8#Option Pricing by Monte Carlo Methods #8.12#Monte Carlo simulation for an Asian option#Page_455_AsianMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R#S##464
-8#Option Pricing by Monte Carlo Methods #8.13#Monte Carlo simulation with control variates for an Asian option#Page_456_AsianMCCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R#S##465
-8#Option Pricing by Monte Carlo Methods #8.14#Using the geometric average Asian option as a control variate#Page_459_AsianMCGeoCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R#S##466
-8#Option Pricing by Monte Carlo Methods #8.15#Pricing an Asian option by Halton sequences#Page_460_AsianHalton.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R#S##467
-8#Option Pricing by Monte Carlo Methods #8.16#Simulating geometric Brownian motion by Halton sequences and the Brownian bridge#Page_464_GBMHaltonBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R#S##468
-8#Option Pricing by Monte Carlo Methods #8.17#Improving the estimate of the option Delta by Common Random Numbers#Page_470_BlsDeltaMCNaive.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R#S##469
-8#Option Pricing by Monte Carlo Methods #8.18#Estimating the option Delta by a pathwise estimator#Page_472_BlsDeltaMCPath.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R#S##470
-9# Option Pricing by Finite Difference Methods#9.3#price a European vanilla put by a straightforward explicit scheme#Page_479_EuPutExpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R#S##471
-9# Option Pricing by Finite Difference Methods#9.4#price a vanilla European option by a fully implicit method#Page_484_EuPutImpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R#S##472
-9# Option Pricing by Finite Difference Methods#9.5#price a down and out put option by the Crank Nicolson method#Page_487_DOPutCK.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R#S##473
-10# Dynamic Programming#10.4#Simple asset allocation problem under uncertainty Monte Carlo sampling#Ex10_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R#S##475
+2# Descriptive Measures#2.1#Arithmetic Mean#EX2_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.1/EX2_1.R#S##6281
+2# Descriptive Measures#2.2#Mean#EX2_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.2/EX2_2.R#S##6283
+2# Descriptive Measures#2.3#Percentage Male Female Employees#EX2_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.3/EX2_3.R#S##6284
+2# Descriptive Measures#2.4#Age Limits#EX2_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.4/EX2_4.R#S##6285
+2# Descriptive Measures#2.6#Median#EX2_6.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.6/EX2_6.R#S##6287
+2# Descriptive Measures#2.7#Median Wages#EX2_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.7/EX2_7.R#S##6288
+2# Descriptive Measures#2.8#Median Hours Of Work#EX2_8.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.8/EX2_8.R#S##6290
+2# Descriptive Measures#2.9#Incomplete Frequency#EX2_9.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.9/EX2_9.R#S##6292
+2# Descriptive Measures#2.12#Mode#EX2_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.12/EX2_12.R#S##6293
+2# Descriptive Measures#2.15#Geometric mean#EX2_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.15/EX2_15.R#S##6294
+2# Descriptive Measures#2.17#Average Speed#EX2_17.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.17/EX2_17.R#S##6295
+2# Descriptive Measures#2.18#Average Price#EX2_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.18/EX2_18.R#S##6296
+2# Descriptive Measures#2.19#Average Speed#EX2_19.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.19/EX2_19.R#S##6297
+2# Descriptive Measures#2.20#Number Of Tosses Required#EX2_20.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.20/EX2_20.R#S##6298
+2# Descriptive Measures#2.21#Lower Quartile Marks#EX2_21.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.21/EX2_21.R#S##6299
+2# Descriptive Measures#2.23#Cumulative Frequency Curve#EX2_23.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.23/EX2_23.R#S##6300
+2# Descriptive Measures#2.24#Quartile Deviation And Mean Deviation From Mean#EX2_24.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.24/EX2_24.R#S##6302
+2# Descriptive Measures#2.26#Mean and Standard deviation#EX2_26.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.26/EX2_26.R#S##6303
+2# Descriptive Measures#2.27#Corrected Mean And Standard Deviation#EX2_27.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.27/EX2_27.R#S##6304
+2# Descriptive Measures#2.28#Original Frequency Distribution#EX2_28.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.28/EX2_28.R#S##6305
+2# Descriptive Measures#2.29#Standard Deviation Of Second Group#EX2_29.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.29/EX2_29.R#S##6306
+2# Descriptive Measures#2.34#Wages By Firm A And B#EX2_34.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.34/EX2_34.R#S##6307
+2# Descriptive Measures#2.35#Moments About Mean Origin Particular Point #EX2_35.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.35/EX2_35.R#S##6308
+2# Descriptive Measures#2.36#First Four Moments#EX2_36.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.36/EX2_36.R#S##6309
+2# Descriptive Measures#2.40#Corrected Frequency Constants#EX2_40.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.40/EX2_40.R#S##6311
+2# Descriptive Measures#2.42#First Four Moments About Origin#EX2_42.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.42/EX2_42.R#S##6313
+2# Descriptive Measures#2.43#First Four Moments About Mean Of The Distribution#EX2_43.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.43/EX2_43.R#S##6315
+3# Probability I#3.2#Two Unbiased Dice#EX3_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.2/EX3_2.R#S##6326
+3# Probability I#3.3#Probability That Odd Digit Selected#EX3_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.3/EX3_3.R#S##6333
+3# Probability I#3.4#Four Cards Drawn At Random#EX3_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.4/EX3_4.R#S##6335
+3# Probability I#3.24#Probability That Letter Chosen#EX3_24.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.24/EX3_24.R#S##6338
+3# Probability I#3.29#Probability That Odd Number Appear#EX3_29.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.29/EX3_29.R#S##6340
+3# Probability I#3.30#Probability#EX3_30.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.30/EX3_30.R#S##6341
+3# Probability I#3.37#Probability#EX3_37.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.37/EX3_37.R#S##6344
+4# Probability II#4.1#Factories Production#EX4_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.1/EX4_1.R#S##6351
+4# Probability II#4.2#Probability #EX4_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.2/EX4_2.R#S##6355
+4# Probability II#4.3#Probability of X Y Z Becoming Managers#EX-4_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.3/EX-4_3.R#S##6356
+4# Probability II#4.4#Probability By Machines I And II And III #EX4_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.4/EX4_4.R#S##6358
+4# Probability II#4.9#Vessel Containing Balls#EX4_9.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.9/EX4_9.R#S##6360
+4# Probability II#4.10#Probability That Answer Is Correct#EX4_10.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.10/EX4_10.R#S##6364
+4# Probability II#4.16#Probability That A Wrote Plus#EX4_16.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.16/EX4_16.R#S##6366
+4# Probability II#4.18#Probability Of Drawing White Ball#EX4_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.18/EX4_18.R#S##6368
+4# Probability II#4.20#Die A And B#EX4_20.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.20/EX4_20.R#S##6370
+5# Random Variables And Distribution Functions#5.1#Random Variable X#EX5_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.1/EX5_1.R#S##6373
+5# Random Variables And Distribution Functions#5.2#Probability#EX5_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.2/EX5_2.R#S##6374
+5# Random Variables And Distribution Functions#5.3#Distribution Function Of X#EX5_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.3/EX5_3.R#S##6376
+5# Random Variables And Distribution Functions#5.4#Probability Function#EX5_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.4/EX5_4.R#S##6377
+5# Random Variables And Distribution Functions#5.5#Probability Density Function#EX5_5.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.5/EX5_5.R#S##6378
+5# Random Variables And Distribution Functions#5.12#Relative Frequency Density#EX5_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.12/EX5_12.R#S##6380
+5# Random Variables And Distribution Functions#5.13#Standard Deviation And Mean Deviation#EX5_13.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.13/EX5_13.R#S##6382
+5# Random Variables And Distribution Functions#5.19#Probability Density Function#EX5_19.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.19/EX5_19.R#S##6383
+5# Random Variables And Distribution Functions#5.22#Probability That Tyres Will Last#EX5_22.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.22/EX5_22.R#S##6385
+5# Random Variables And Distribution Functions#5.24#Probability Density Function#EX5_24.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.24/EX5_24.R#S##6387
+6# Mathematical Expectations#6.1#Laws of Expectation#EX6_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.1/EX6_1.R#S##6390
+6# Mathematical Expectations#6.2#Expectations Results#EX6_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.2/EX6_2.R#S##6391
+6# Mathematical Expectations#6.3#Expected Value Of X#EX6_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.3/EX6_3.R#S##6392
+6# Mathematical Expectations#6.4#Urn Example#EX6_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.4/EX6_4.R#S##6393
+6# Mathematical Expectations#6.5#Expectation Of Player#EX6_5.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.5/EX6_5.R#S##6394
+6# Mathematical Expectations#6.29#Joint Distribution Of Y And X1#EX6_29.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.29/EX6_29.R#S##6395
+6# Mathematical Expectations#6.30#Joint Probability Distribution #EX6_30.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.30/EX6_30.R#S##6397
+7# Generating Functions And Law Of Large Numbers#7.12#Probability Of Getting 80 to 120 Sixes#EX7_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.12/EX7_12.R#S##6400
+7# Generating Functions And Law Of Large Numbers#7.13#Use Chebychev Inequality#EX7_13.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.13/EX7_13.R#S##6402
+7# Generating Functions And Law Of Large Numbers#7.14#How Large Is Sample#EX7_14.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.14/EX7_14.R#S##6405
+7# Generating Functions And Law Of Large Numbers#7.17#Discrete Variate With Density#EX7_17.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.17/EX7_17.R#S##6406
+7# Generating Functions And Law Of Large Numbers#7.18#Two Unbiased Dice#EX7_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.18/EX7_18.R#S##6409
+7# Generating Functions And Law Of Large Numbers#7.19#Chebychev Inequality#EX7_19.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.19/EX7_19.R#S##6411
+8# Special Discrete Probability Distributions#8.1#Probability Of Getting At Least 7 Heads#EX8_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.1/EX8_1.R#S##6413
+8# Special Discrete Probability Distributions#8.2#A And B Play A Game#EX8_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.2/EX8_2.R#S##6414
+8# Special Discrete Probability Distributions#8.3#Chances Of Having The Claim Accepted Or Rejected#EX8_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.3/EX8_3.R#S##6415
+8# Special Discrete Probability Distributions#8.4#Probability That Student Secures Distinction#EX8_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.4/EX8_4.R#S##6453
+8# Special Discrete Probability Distributions#8.6#Probability#EX8_6.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.6/EX8_6.R#S##6454
+8# Special Discrete Probability Distributions#8.7#Probability Man Hitting A Target#EX8_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.7/EX8_7.R#S##6455
+8# Special Discrete Probability Distributions#8.9#Find Parameter P#EX8_9.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.9/EX8_9.R#S##6456
+8# Special Discrete Probability Distributions#8.10#P For Binomial Variate X#EX8_10.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.10/EX8_10.R#S##6457
+8# Special Discrete Probability Distributions#8.12#Probability#EX8_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.12/EX8_12.R#S##6458
+8# Special Discrete Probability Distributions#8.21#Fit Binomial Distribution#EX8_21.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.21/EX8_21.R#S##6459
+8# Special Discrete Probability Distributions#8.22#Fit A Binomial Distribution#EX8_22.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.22/EX8_22.R#S##6460
+8# Special Discrete Probability Distributions#8.33#Proportion Of Days#EX8_33.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.33/EX8_33.R#S##6461
+8# Special Discrete Probability Distributions#8.34#Probability That More Than 3 Collect Policy In A Year#EX8_34.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.34/EX8_34.R#S##6462
+8# Special Discrete Probability Distributions#8.37#Random Sample Of 5 Page With No Error#EX8_37.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.37/EX8_37.R#S##6463
+8# Special Discrete Probability Distributions#8.41#Probability That X Have More Than On Value#EX8_41.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.41/EX8_41.R#S##6464
+8# Special Discrete Probability Distributions#8.55#Fit A Poisson Distribution#EX8_55.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.55/EX8_55.R#S##6465
+8# Special Discrete Probability Distributions#8.56#Errors In 1000 Pages#EX8_56.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.56/EX8_56.R#S##6466
+8# Special Discrete Probability Distributions#8.57#Fit A Poisson Distribution#EX8_57.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.57/EX8_57.R#S##6467
+8# Special Discrete Probability Distributions#8.63#Fit A Negative Binomial Distribution #EX8_63.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.63/EX8_63.R#S##6468
+9# Special Continuous Probability Distributions#9.1# Equation Of Normal Curve#EX9_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.1/EX9_1.R#S##6469
+9# Special Continuous Probability Distributions#9.3#Probability#EX9_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.3/EX9_3.R#S##6470
+9# Special Continuous Probability Distributions#9.4#X Is A Normal Variate#EX9_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.4/EX9_4.R#S##6471
+9# Special Continuous Probability Distributions#9.5#Batch Of 1000 Plots#EX9_5.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.5/EX9_5.R#S##6472
+9# Special Continuous Probability Distributions#9.7#Number Of Lamps#EX9_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.7/EX9_7.R#S##6473
+9# Special Continuous Probability Distributions#9.8#Probability Of Marks#EX9_8.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.8/EX9_8.R#S##6474
+9# Special Continuous Probability Distributions#9.9#Probability#EX9_9.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.9/EX9_9.R#S##6475
+9# Special Continuous Probability Distributions#9.12#Mean And Standard Deviation Of The Distribution#EX9_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.12/EX9_12.R#S##6476
+9# Special Continuous Probability Distributions#9.13#Mean And Standard Deviation#EX9_13.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.13/EX9_13.R#S##6477
+9# Special Continuous Probability Distributions#9.14#Percentage Of Students Placed In Second Division#EX9_14.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.14/EX9_14.R#S##6478
+9# Special Continuous Probability Distributions#9.15#Probability Of the Defectives In The Sample#EX9_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.15/EX9_15.R#S##6479
+9# Special Continuous Probability Distributions#9.21#Probability#EX9_21.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.21/EX9_21.R#S##6480
+9# Special Continuous Probability Distributions#9.22#Probability#EX9_22.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.22/EX9_22.R#S##6481
+10#Correlation#10.1#Correlation Coefficient#EX10_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.1/EX10_1.R#S##6482
+10#Correlation#10.2#Correct Value Of Correlation Coefficient#EX10_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.2/EX10_2.R#S##6483
+10#Correlation#10.14#Correlation Coefficient#EX10_14.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.14/EX10_14.R#S##6484
+10#Correlation#10.15#Correlation Coefficient Between X And Y#EX10_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.15/EX10_15.R#S##6485
+10#Correlation#10.17#Rank Correlation Coefficient#EX10_17.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.17/EX10_17.R#S##6486
+10#Correlation#10.18#Rank Correlation Between 3 Judges#EX10_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.18/EX10_18.R#S##6487
+10#Correlation#10.19#Rank Correlation Coefficient#EX10_19.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.19/EX10_19.R#S##6488
+11# Linear And Curvilinear Regression#11.1#Equations Of Two Lines Of Regression#EX11_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.1/EX11_1.R#S##6489
+11# Linear And Curvilinear Regression#11.2#Record An Analysis On Correlation Data#EX11_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.2/EX11_2.R#S##6490
+11# Linear And Curvilinear Regression#11.3#Correlation Coefficient#EX11_3.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.3/EX11_3.R#S##6491
+11# Linear And Curvilinear Regression#11.6#Coefficient Of Regression And Regression Equation#EX11_6.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.6/EX11_6.R#S##6492
+11# Linear And Curvilinear Regression#11.7#Fit Exponential Curve#EX11_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.7/EX11_7.R#S##6493
+12# Additional Topics On Correlation And Regression#12.7#Partial And Multiple Correlation Coefficient#EX12_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.7/EX12_7.R#S##6494
+12# Additional Topics On Correlation And Regression#12.8#Distribution#EX12_8.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.8/EX12_8.R#S##6529
+12# Additional Topics On Correlation And Regression#12.9#Regression Equation#EX12_9.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.9/EX12_9.R#S##6496
+13# Theory Of Attributes#13.2#Finding Frequencies#EX13_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.2/EX13_2.R#S##6497
+13# Theory Of Attributes#13.11#Find if A And B Are Independent Or Positively Associated Or Negatively Associated#EX13_11.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.11/EX13_11.R#S##6498
+13# Theory Of Attributes#13.12#Heredity In A Family#EX13_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.12/EX13_12.R#S##6499
+13# Theory Of Attributes#13.14#Coefficient Of Association#EX13_14.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.14/EX13_14.R#S##6500
+13# Theory Of Attributes#13.15#Coefficient Of Association#EX13_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.15/EX13_15.R#S##6501
+14# Large Sample Theory#14.1#Limits Between Which Probability 3 Or 4 Lies#EX14_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.1/EX14_1.R#S##6502
+14# Large Sample Theory#14.2#Percentage Of Bad Pineapples#EX14_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.2/EX14_2.R#S##6503
+14# Large Sample Theory#14.4#Rice And Wheat Eaters#EX14_4.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.4/EX14_4.R#S##6504
+14# Large Sample Theory#14.6#Number Of Observations#EX14_6.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.6/EX14_6.R#S##6505
+14# Large Sample Theory#14.7#Test For Significance For Difference Of Proportions#EX14_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.7/EX14_7.R#S##6506
+14# Large Sample Theory#14.10#Test For Significance For Difference Of Proportions#EX14_10.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.10/EX14_10.R#S##6507
+14# Large Sample Theory#14.15#Proportion Of Failures#EX14_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.15/EX14_15.R#S##6508
+14# Large Sample Theory#14.18#Arithmetic Mean And Standard Deviation#EX14_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.18/EX14_18.R#S##6509
+14# Large Sample Theory#14.26#Food Expenditure Of Two Populations#EX14_26.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.26/EX14_26.R#S##6510
+14# Large Sample Theory#14.28#Difference In Average Weights Of Items#EX14_28.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.28/EX14_28.R#S##6511
+14# Large Sample Theory#14.30#Relating Heights Of Country A And Country B#EX14_30.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.30/EX14_30.R#S##6512
+15# Exact Sampling Distributions I#15.9#Precision Of Instrument#EX15_9.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.9/EX15_9.R#S##6513
+15# Exact Sampling Distributions I#15.12#Digits And Frequency In Telephone Directory#EX15_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.12/EX15_12.R#S##6514
+15# Exact Sampling Distributions I#15.14#Survey Of 800 Families#EX15_14.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.14/EX15_14.R#S##6515
+15# Exact Sampling Distributions I#15.15#Fit a Poisson Distribution#EX15_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.15/EX15_15.R#S##6516
+15# Exact Sampling Distributions I#15.18#8000 Graduates#EX15_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.18/EX15_18.R#S##6517
+15# Exact Sampling Distributions I#15.20#Two Researchers#EX15_20.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.20/EX15_20.R#S##6518
+16# Exact Sampling Distributions II#16.6#Sales Of Soap Bars Advertising Campaign#EX16_6.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.6/EX16_6.R#S##6519
+16# Exact Sampling Distributions II#16.7#Sample Of 10 Boys IQ#EX16_7.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.7/EX16_7.R#S##6520
+16# Exact Sampling Distributions II#16.10#Gain In Weights By Diet A And B#EX16_10.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.10/EX16_10.R#S##6521
+16# Exact Sampling Distributions II#16.12#Heights Of Sailors And Soldiers#EX16_12.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.12/EX16_12.R#S##6522
+16# Exact Sampling Distributions II#16.15#Increase In Weights Of Animals By Food A And Food B#EX16_15.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.15/EX16_15.R#S##6523
+16# Exact Sampling Distributions II#16.18#Random Sample Of 625 Pairs Of Observations#EX16_18.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.18/EX16_18.R#S##6524
+16# Exact Sampling Distributions II#16.26#F Test#EX16_26.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.26/EX16_26.R#S##6525
+16# Exact Sampling Distributions II#16.27#F Test And T Test#EX16_27.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.27/EX16_27.R#S##6526
+20# Some Additional Topics#20.1#Fit A Straight Line#EX20_1.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX20.1/EX20_1.R#S##6527
+20# Some Additional Topics#20.2#Fit A Second Degree Parabola#EX20_2.R#Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX20.2/EX20_2.R#S##6528

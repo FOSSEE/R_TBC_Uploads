@@ -1,0 +1,20 @@
+#Page no. 2.53
+rm(list=ls())
+SI<-c(120,115,92,73)
+yt<-function(t){
+  x<-t-2001
+  return(214.4+5.86*x)
+}
+yt(2005)
+yt(1999)
+annual_inc<-5.86/4
+annual_inc
+quat_inc<-annual_inc/4
+quat_inc
+avg_quat_trend_2005<-yt(2005)/4
+avg_quat_trend_2005
+ye<-function(a){
+  return(avg_quat_trend_2005+quat_inc*a)
+}
+Est_prod<-data.frame("ye"=ye(c(-1.5,-0.5,0.5,1.5)),SI,"Ses_Eff"=SI/100,"Est_Prod"=(SI/100)*ye(c(-1.5,-0.5,0.5,1.5)))
+Est_prod

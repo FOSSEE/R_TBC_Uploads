@@ -56,134 +56,346 @@ l.73 \newpage
               [1] [2] [3] [4]
 Chapter 2.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R) [5]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R [6])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R [7] [8]
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd) [9] [10])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R) [11]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+1/EX2_1.R [5])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+2/EX2_2.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+3/EX2_3.R (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd)
+[6])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+4/EX2_4.R [7])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+6/EX2_6.R [8])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+7/EX2_7.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+8/EX2_8.R [9])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+9/EX2_9.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+12/EX2_12.R [10])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+15/EX2_15.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+17/EX2_17.R [11])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+18/EX2_18.R [12])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+19/EX2_19.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+20/EX2_20.R [13])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+21/EX2_21.R [14])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+23/EX2_23.R [15])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+24/EX2_24.R [16])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+26/EX2_26.R [17])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+27/EX2_27.R) [18]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+28/EX2_28.R) [19]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+29/EX2_29.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+34/EX2_34.R [20])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+35/EX2_35.R [21])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+36/EX2_36.R [22])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+40/EX2_40.R [23])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+42/EX2_42.R [24])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
+43/EX2_43.R [25]) [26]
 Chapter 3.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R) [12]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R [13])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R) [14]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R [15])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R [16])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R) [17]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R [18])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R [19])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R [20])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R [21]) [22]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+2/EX3_2.R [27])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+3/EX3_3.R [28])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+4/EX3_4.R [29] [30])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+24/EX3_24.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+29/EX3_29.R [31])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+30/EX3_30.R [32])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
+37/EX3_37.R [33]) [34]
 Chapter 4.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R [23])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R [24])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R [25])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R [26])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R [27])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R [28])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R [29])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R [30] [31] [32])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R [33])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R [34] [35])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R [36] [37])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R [38] [39])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R [40])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R) [41]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R [42]) [43]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+1/EX4_1.R (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd)
+[35])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+2/EX4_2.R) [36]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+3/EX-4_3.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+4/EX4_4.R [37])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+9/EX4_9.R [38])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+10/EX4_10.R [39])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+16/EX4_16.R [40])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+18/EX4_18.R [41])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
+20/EX4_20.R) [42]
 Chapter 5.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R [44] [45])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R [46])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R [47]) [48]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+1/EX5_1.R [43] [44])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+2/EX5_2.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+3/EX5_3.R [45])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+4/EX5_4.R [46] [47])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+5/EX5_5.R [48])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+12/EX5_12.R [49] [50])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+13/EX5_13.R [51])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+19/EX5_19.R [52])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+22/EX5_22.R [53])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
+24/EX5_24.R [54]) [55]
 Chapter 6.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R [49])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd))
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R) [50]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R) [51]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+1/EX6_1.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+2/EX6_2.R [56])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+3/EX6_3.R [57])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+4/EX6_4.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+5/EX6_5.R [58])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+29/EX6_29.R [59])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
+30/EX6_30.R [60]) [61]
 Chapter 7.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R [52])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R [53])
-! Missing $ inserted.
-<inserted text> 
-                $
-l.446 ..._Luenberger_Investment Science_Ex13_11.R}
-                                                  
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
+12/EX7_12.R) [62]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
+13/EX7_13.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
+14/EX7_14.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
+17/EX7_17.R [63])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
+18/EX7_18.R [64])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
+19/EX7_19.R) [65] [66]
+Chapter 8.
 
-! Package Listings Error: File `../Numerical_Methods_In_Finance_And_Economics:_
-A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_
-Investment Science_Ex13_11(.R)' not found.
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+1/EX8_1.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+2/EX8_2.R [67])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+3/EX8_3.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+4/EX8_4.R [68])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+6/EX8_6.R [69])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+7/EX8_7.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+9/EX8_9.R [70])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+10/EX8_10.R [71])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+12/EX8_12.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+21/EX8_21.R [72])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+22/EX8_22.R [73]) [74]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+33/EX8_33.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+34/EX8_34.R) [75]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+37/EX8_37.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+41/EX8_41.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+55/EX8_55.R [76])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+56/EX8_56.R) [77]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+57/EX8_57.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
+63/EX8_63.R [78]) [79]
+Chapter 9.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+1/EX9_1.R [80]
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 26--27
+[][][] 
+)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+3/EX9_3.R [81])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+4/EX9_4.R [82])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+5/EX9_5.R [83])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+7/EX9_7.R [84])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+8/EX9_8.R [85])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+9/EX9_9.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+12/EX9_12.R [86])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+13/EX9_13.R [87])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+14/EX9_14.R [88])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+15/EX9_15.R) [89]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+21/EX9_21.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
+22/EX9_22.R [90]) [91]
+Chapter 10.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.446 ..._Luenberger_Investment Science_Ex13_11.R}
-                                                  ^^M
-!  ==> Fatal error occurred, no output PDF file produced!
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.1/EX10_1.R) [92]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.2/EX10_2.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.14/EX10_14.R [93])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.15/EX10_15.R [94])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.17/EX10_17.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.18/EX10_18.R [95])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
+0.19/EX10_19.R) [96]
+Chapter 11.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
+1.1/EX11_1.R [97])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
+1.2/EX11_2.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
+1.3/EX11_3.R [98])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
+1.6/EX11_6.R [99])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
+1.7/EX11_7.R) [100]
+Chapter 12.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX1
+2.7/EX12_7.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX1
+2.8/EX12_8.R [101]) [102]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX1
+2.9/EX12_9.R) [103]
+Chapter 13.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
+3.2/EX13_2.R) [104]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
+3.11/EX13_11.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
+3.12/EX13_12.R [105])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
+3.14/EX13_14.R [106])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
+3.15/EX13_15.R) [107]
+Chapter 14.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.1/EX14_1.R) [108]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.2/EX14_2.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.4/EX14_4.R [109])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.6/EX14_6.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.7/EX14_7.R [110])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.10/EX14_10.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.15/EX14_15.R [111])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.18/EX14_18.R [112])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.26/EX14_26.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.28/EX14_28.R [113])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
+4.30/EX14_30.R [114]) [115]
+Chapter 15.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
+5.9/EX15_9.R) [116]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
+5.12/EX15_12.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
+5.14/EX15_14.R [117])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
+5.15/EX15_15.R [118])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
+5.18/EX15_18.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
+5.20/EX15_20.R [119]) [120]
+Chapter 16.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.6/EX16_6.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.7/EX16_7.R [121])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.10/EX16_10.R [122])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.12/EX16_12.R [123])
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.15/EX16_15.R [124]) [125]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.18/EX16_18.R) [126]
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.26/EX16_26.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
+6.27/EX16_27.R [127]) [128]
+Chapter 20.
+
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX2
+0.1/EX20_1.R)
+(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX2
+0.2/EX20_2.R [129]) [130] (./TEX_final.aux)
+
+Package rerunfilecheck Warning: File `TEX_final.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on TEX_final.pdf (131 pages, 411256 bytes).
 Transcript written on TEX_final.log.
+'TEX_final.pdf' -> 'book_Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor.pdf'

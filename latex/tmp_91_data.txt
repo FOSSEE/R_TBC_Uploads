@@ -6,9 +6,9 @@
 8#Limit Theorems #3.b#Probability of a professor teaching two sections#Ex8_3b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.b/Ex8_3b.R#S##1257
 8#Limit Theorems #3.a#Astronomical distances#Ex8_3a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX3.a/Ex8_3a.R#S##1256
 8#Limit Theorems #2.b#Chebyshev inequality#Ex8_2b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH8/EX2.b/Ex8_2b.R#S##2609
-7# Properties of Expectation#5.e.c#Game of carps "c"#Ex7_5ec.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.c/Ex7_5ec.R#S##1198
-7# Properties of Expectation#5.e.b#Game of carps "b"#Ex7_5eb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.b/Ex7_5eb.R#S##1197
-7# Properties of Expectation#5.e.a#Game of carps "a"#Ex7_5ea.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.a/Ex7_5ea.R#S##1196
+7# Properties of Expectation#5.e.c#Game of craps "c"#Ex7_5ec.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.c/Ex7_5ec.R#S##1198
+7# Properties of Expectation#5.e.b#Game of craps "b"#Ex7_5eb.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.b/Ex7_5eb.R#S##1197
+7# Properties of Expectation#5.e.a#Game of craps "a"#Ex7_5ea.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX5.e.a/Ex7_5ea.R#S##1196
 7# Properties of Expectation#2.r#Chipmunks and groves#Ex7_2r.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH7/EX2.r/Ex7_2r.R#S##1195
 6# Jointly Distributed Random Variables#6.b#Probability of sample median#Ex6_6b.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX6.b/Ex6_6b.R#S##1314
 6# Jointly Distributed Random Variables#4.a#Conditional probability on joint PMF#Ex6_4a.R#A_First_Course_In_Probability_by_Sheldon_Ross/CH6/EX4.a/Ex6_4a.R#S##1311

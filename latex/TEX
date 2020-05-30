@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Fundamentals of Mathematical Statistics\\by S.C. Gupta, V.K. Kapoor\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Meet Bhatnagar\\B.Tech.\\Computer Science and Engineering\\VELLORE INSTITUTE OF TECHNOLOGY\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
-\item [Author:] Paolo Brandimarte
-\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
-\item [Edition:] 2
-\item [Year:] 2006
-\item [ISBN:] 0471745030
+\item [Title:] Fundamentals of Mathematical Statistics
+\item [Author:] S.C. Gupta, V.K. Kapoor
+\item [Publisher:] Sultan Chand \& Sons, New Delhi
+\item [Edition:] 11
+\item [Year:] 2008
+\item [ISBN:] 81-8054-004-9
 \end{description}
 
 \newpage
@@ -28,553 +28,1052 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 
 
 \setcounter{chapter}{1}
-\chapter{ Financial Theory}
+\chapter{ Descriptive Measures}
+
+\vspace*{10mm}
+\curlable{Exa~2.1}
+\begin{code}
+\tcaption{Arithmetic Mean}{Arithmetic Mean}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.1/EX2_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.2}
+\begin{code}
+\tcaption{Mean}{Mean}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.2/EX2_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.3}
+\begin{code}
+\tcaption{Percentage Male Female Employees}{Percentage Male Female Employees}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.3/EX2_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.4}
+\begin{code}
+\tcaption{Age Limits}{Age Limits}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.4/EX2_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.6}
+\begin{code}
+\tcaption{Median}{Median}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.6/EX2_6.R}
+\end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.7}
 \begin{code}
-\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
+\tcaption{Median Wages}{Median Wages}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.7/EX2_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.8}
 \begin{code}
-\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
+\tcaption{Median Hours Of Work}{Median Hours Of Work}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.8/EX2_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.9}
 \begin{code}
-\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
+\tcaption{Incomplete Frequency}{Incomplete Frequency}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.9/EX2_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.10}
+\curlable{Exa~2.12}
 \begin{code}
-\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
+\tcaption{Mode}{Mode}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.12/EX2_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.15}
+\begin{code}
+\tcaption{Geometric mean}{Geometric mean}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.15/EX2_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.17}
+\begin{code}
+\tcaption{Average Speed}{Average Speed}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.17/EX2_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.18}
+\begin{code}
+\tcaption{Average Price}{Average Price}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.18/EX2_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.19}
+\begin{code}
+\tcaption{Average Speed}{Average Speed}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.19/EX2_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.20}
+\begin{code}
+\tcaption{Number Of Tosses Required}{Number Of Tosses Required}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.20/EX2_20.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.21}
+\begin{code}
+\tcaption{Lower Quartile Marks}{Lower Quartile Marks}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.21/EX2_21.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.23}
+\begin{code}
+\tcaption{Cumulative Frequency Curve}{Cumulative Frequency Curve}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.23/EX2_23.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.24}
 \begin{code}
-\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
+\tcaption{Quartile Deviation And Mean Deviation From Mean}{Quartile Deviation And Mean Deviation From Mean}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.24/EX2_24.R}
 \end{code}
 
-\chapter{Basics of Numerical Analysis}
+\vspace*{10mm}
+\curlable{Exa~2.26}
+\begin{code}
+\tcaption{Mean and Standard deviation}{Mean and Standard deviation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.26/EX2_26.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.27}
+\begin{code}
+\tcaption{Corrected Mean And Standard Deviation}{Corrected Mean And Standard Deviation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.27/EX2_27.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.28}
+\begin{code}
+\tcaption{Original Frequency Distribution}{Original Frequency Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.28/EX2_28.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.29}
+\begin{code}
+\tcaption{Standard Deviation Of Second Group}{Standard Deviation Of Second Group}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.29/EX2_29.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.34}
+\begin{code}
+\tcaption{Wages By Firm A And B}{Wages By Firm A And B}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.34/EX2_34.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.35}
+\begin{code}
+\tcaption{Moments About Mean Origin Particular Point }{Moments About Mean Origin Particular Point }
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.35/EX2_35.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.36}
+\begin{code}
+\tcaption{First Four Moments}{First Four Moments}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.36/EX2_36.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.40}
+\begin{code}
+\tcaption{Corrected Frequency Constants}{Corrected Frequency Constants}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.40/EX2_40.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.42}
+\begin{code}
+\tcaption{First Four Moments About Origin}{First Four Moments About Origin}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.42/EX2_42.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.43}
+\begin{code}
+\tcaption{First Four Moments About Mean Of The Distribution}{First Four Moments About Mean Of The Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.43/EX2_43.R}
+\end{code}
+
+\chapter{ Probability I}
 
 \vspace*{10mm}
 \curlable{Exa~3.2}
 \begin{code}
-\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
+\tcaption{Two Unbiased Dice}{Two Unbiased Dice}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.2/EX3_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.3}
+\begin{code}
+\tcaption{Probability That Odd Digit Selected}{Probability That Odd Digit Selected}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.3/EX3_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.4}
 \begin{code}
-\tcaption{Vector and matrix norms}{Vector and matrix norms}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.6}
-\begin{code}
-\tcaption{Vector and matrix norms}{Vector and matrix norms}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.7}
-\begin{code}
-\tcaption{Condition number for a matrix}{Condition number for a matrix}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.8}
-\begin{code}
-\tcaption{Condition number for a matrix}{Condition number for a matrix}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.11}
-\begin{code}
-\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.12}
-\begin{code}
-\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.13}
-\begin{code}
-\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.14}
-\begin{code}
-\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.15}
-\begin{code}
-\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.16}
-\begin{code}
-\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.17}
-\begin{code}
-\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.18}
-\begin{code}
-\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.22}
-\begin{code}
-\tcaption{Bisection method}{Bisection method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.23}
-\begin{code}
-\tcaption{Newtons method}{Newtons method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
+\tcaption{Four Cards Drawn At Random}{Four Cards Drawn At Random}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.4/EX3_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.24}
 \begin{code}
-\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
+\tcaption{Probability That Letter Chosen}{Probability That Letter Chosen}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.24/EX3_24.R}
 \end{code}
 
-\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
+\vspace*{10mm}
+\curlable{Exa~3.29}
+\begin{code}
+\tcaption{Probability That Odd Number Appear}{Probability That Odd Number Appear}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.29/EX3_29.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.30}
+\begin{code}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.30/EX3_30.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.37}
+\begin{code}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.37/EX3_37.R}
+\end{code}
+
+\chapter{ Probability II}
 
 \vspace*{10mm}
 \curlable{Exa~4.1}
 \begin{code}
-\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
+\tcaption{Factories Production}{Factories Production}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.1/EX4_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.2}
 \begin{code}
-\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
+\tcaption{Probability }{Probability }
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.2/EX4_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.3}
 \begin{code}
-\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
+\tcaption{Probability of X Y Z Becoming Managers}{Probability of X Y Z Becoming Managers}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.3/EX-4_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.4}
 \begin{code}
-\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.5}
-\begin{code}
-\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.6}
-\begin{code}
-\tcaption{Inverse transform method}{Inverse transform method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.8}
-\begin{code}
-\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
+\tcaption{Probability By Machines I And II And III }{Probability By Machines I And II And III }
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.4/EX4_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.9}
 \begin{code}
-\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
+\tcaption{Vessel Containing Balls}{Vessel Containing Balls}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.9/EX4_9.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.10}
 \begin{code}
-\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.11}
-\begin{code}
-\tcaption{Antithetic sampling}{Antithetic sampling}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.12}
-\begin{code}
-\tcaption{BlsMCAV}{BlsMCAV}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.14}
-\begin{code}
-\tcaption{Importance sampling}{Importance sampling}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.15}
-\begin{code}
-\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
+\tcaption{Probability That Answer Is Correct}{Probability That Answer Is Correct}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.10/EX4_10.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.16}
 \begin{code}
-\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.17}
-\begin{code}
-\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
+\tcaption{Probability That A Wrote Plus}{Probability That A Wrote Plus}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.16/EX4_16.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.18}
 \begin{code}
-\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.19}
-\begin{code}
-\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
+\tcaption{Probability Of Drawing White Ball}{Probability Of Drawing White Ball}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.18/EX4_18.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.20}
 \begin{code}
-\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
+\tcaption{Die A And B}{Die A And B}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.20/EX4_20.R}
 \end{code}
 
-\chapter{ Finite Difference Methods for Partial Differential Equations}
+\chapter{ Random Variables And Distribution Functions}
 
 \vspace*{10mm}
 \curlable{Exa~5.1}
 \begin{code}
-\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
+\tcaption{Random Variable X}{Random Variable X}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.1/EX5_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.2}
+\begin{code}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.2/EX5_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.3}
 \begin{code}
-\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
+\tcaption{Distribution Function Of X}{Distribution Function Of X}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.3/EX5_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.4}
 \begin{code}
-\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
+\tcaption{Probability Function}{Probability Function}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.4/EX5_4.R}
 \end{code}
 
-\chapter{ Convex Optimization}
+\vspace*{10mm}
+\curlable{Exa~5.5}
+\begin{code}
+\tcaption{Probability Density Function}{Probability Density Function}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.5/EX5_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.12}
+\begin{code}
+\tcaption{Relative Frequency Density}{Relative Frequency Density}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.12/EX5_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.13}
+\begin{code}
+\tcaption{Standard Deviation And Mean Deviation}{Standard Deviation And Mean Deviation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.13/EX5_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.19}
+\begin{code}
+\tcaption{Probability Density Function}{Probability Density Function}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.19/EX5_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.22}
+\begin{code}
+\tcaption{Probability That Tyres Will Last}{Probability That Tyres Will Last}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.22/EX5_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.24}
+\begin{code}
+\tcaption{Probability Density Function}{Probability Density Function}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.24/EX5_24.R}
+\end{code}
+
+\chapter{ Mathematical Expectations}
 
 \vspace*{10mm}
 \curlable{Exa~6.1}
 \begin{code}
-\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
+\tcaption{Laws of Expectation}{Laws of Expectation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.1/EX6_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.2}
+\begin{code}
+\tcaption{Expectations Results}{Expectations Results}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.2/EX6_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.3}
 \begin{code}
-\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
+\tcaption{Expected Value Of X}{Expected Value Of X}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.3/EX6_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.4}
+\begin{code}
+\tcaption{Urn Example}{Urn Example}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.4/EX6_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.5}
 \begin{code}
-\tcaption{Penalty function approach}{Penalty function approach}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
+\tcaption{Expectation Of Player}{Expectation Of Player}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.5/EX6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.8}
+\curlable{Exa~6.29}
 \begin{code}
-\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
+\tcaption{Joint Distribution Of Y And X1}{Joint Distribution Of Y And X1}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.29/EX6_29.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.12}
+\curlable{Exa~6.30}
 \begin{code}
-\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
+\tcaption{Joint Probability Distribution }{Joint Probability Distribution }
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.30/EX6_30.R}
 \end{code}
 
-\chapter{ Option Pricing by Binomial and Trinomial Lattices}
+\chapter{ Generating Functions And Law Of Large Numbers}
 
 \vspace*{10mm}
-\curlable{Exa~7.1}
+\curlable{Exa~7.12}
 \begin{code}
-\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.2}
-\begin{code}
-\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
+\tcaption{Probability Of Getting 80 to 120 Sixes}{Probability Of Getting 80 to 120 Sixes}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.12/EX7_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3}
+\curlable{Exa~7.13}
 \begin{code}
-\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
+\tcaption{Use Chebychev Inequality}{Use Chebychev Inequality}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.13/EX7_13.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.4}
+\curlable{Exa~7.14}
 \begin{code}
-\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
+\tcaption{How Large Is Sample}{How Large Is Sample}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.14/EX7_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.5}
+\curlable{Exa~7.17}
 \begin{code}
-\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
+\tcaption{Discrete Variate With Density}{Discrete Variate With Density}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.17/EX7_17.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.6}
+\curlable{Exa~7.18}
 \begin{code}
-\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
+\tcaption{Two Unbiased Dice}{Two Unbiased Dice}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.18/EX7_18.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.7}
+\curlable{Exa~7.19}
 \begin{code}
-\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
+\tcaption{Chebychev Inequality}{Chebychev Inequality}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.19/EX7_19.R}
 \end{code}
 
-\chapter{Option Pricing by Monte Carlo Methods }
+\chapter{ Special Discrete Probability Distributions}
 
 \vspace*{10mm}
 \curlable{Exa~8.1}
 \begin{code}
-\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
+\tcaption{Probability Of Getting At Least 7 Heads}{Probability Of Getting At Least 7 Heads}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.1/EX8_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.2}
 \begin{code}
-\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
+\tcaption{A And B Play A Game}{A And B Play A Game}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.2/EX8_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.3}
 \begin{code}
-\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
+\tcaption{Chances Of Having The Claim Accepted Or Rejected}{Chances Of Having The Claim Accepted Or Rejected}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.3/EX8_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.4}
 \begin{code}
-\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.5}
-\begin{code}
-\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
+\tcaption{Probability That Student Secures Distinction}{Probability That Student Secures Distinction}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.4/EX8_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.6}
 \begin{code}
-\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.6/EX8_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.7}
 \begin{code}
-\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.8}
-\begin{code}
-\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
+\tcaption{Probability Man Hitting A Target}{Probability Man Hitting A Target}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.7/EX8_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.9}
 \begin{code}
-\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
+\tcaption{Find Parameter P}{Find Parameter P}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.9/EX8_9.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.10}
 \begin{code}
-\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.11}
-\begin{code}
-\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
+\tcaption{P For Binomial Variate X}{P For Binomial Variate X}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.10/EX8_10.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.12}
 \begin{code}
-\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.12/EX8_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.13}
+\curlable{Exa~8.21}
 \begin{code}
-\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
+\tcaption{Fit Binomial Distribution}{Fit Binomial Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.21/EX8_21.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.14}
+\curlable{Exa~8.22}
 \begin{code}
-\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
+\tcaption{Fit A Binomial Distribution}{Fit A Binomial Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.22/EX8_22.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.15}
+\curlable{Exa~8.33}
 \begin{code}
-\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
+\tcaption{Proportion Of Days}{Proportion Of Days}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.33/EX8_33.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.16}
+\curlable{Exa~8.34}
 \begin{code}
-\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
+\tcaption{Probability That More Than 3 Collect Policy In A Year}{Probability That More Than 3 Collect Policy In A Year}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.34/EX8_34.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.17}
+\curlable{Exa~8.37}
 \begin{code}
-\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
+\tcaption{Random Sample Of 5 Page With No Error}{Random Sample Of 5 Page With No Error}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.37/EX8_37.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.18}
+\curlable{Exa~8.41}
 \begin{code}
-\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
+\tcaption{Probability That X Have More Than On Value}{Probability That X Have More Than On Value}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.41/EX8_41.R}
 \end{code}
 
-\chapter{ Option Pricing by Finite Difference Methods}
+\vspace*{10mm}
+\curlable{Exa~8.55}
+\begin{code}
+\tcaption{Fit A Poisson Distribution}{Fit A Poisson Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.55/EX8_55.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.56}
+\begin{code}
+\tcaption{Errors In 1000 Pages}{Errors In 1000 Pages}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.56/EX8_56.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.57}
+\begin{code}
+\tcaption{Fit A Poisson Distribution}{Fit A Poisson Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.57/EX8_57.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.63}
+\begin{code}
+\tcaption{Fit A Negative Binomial Distribution }{Fit A Negative Binomial Distribution }
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.63/EX8_63.R}
+\end{code}
+
+\chapter{ Special Continuous Probability Distributions}
+
+\vspace*{10mm}
+\curlable{Exa~9.1}
+\begin{code}
+\tcaption{ Equation Of Normal Curve}{ Equation Of Normal Curve}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.1/EX9_1.R}
+\end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.3}
 \begin{code}
-\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.3/EX9_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.4}
 \begin{code}
-\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
+\tcaption{X Is A Normal Variate}{X Is A Normal Variate}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.4/EX9_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.5}
 \begin{code}
-\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
+\tcaption{Batch Of 1000 Plots}{Batch Of 1000 Plots}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.5/EX9_5.R}
 \end{code}
 
-\chapter{ Dynamic Programming}
+\vspace*{10mm}
+\curlable{Exa~9.7}
+\begin{code}
+\tcaption{Number Of Lamps}{Number Of Lamps}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.7/EX9_7.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.4}
+\curlable{Exa~9.8}
 \begin{code}
-\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
+\tcaption{Probability Of Marks}{Probability Of Marks}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.8/EX9_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.9}
+\begin{code}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.9/EX9_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.12}
+\begin{code}
+\tcaption{Mean And Standard Deviation Of The Distribution}{Mean And Standard Deviation Of The Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.12/EX9_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.13}
+\begin{code}
+\tcaption{Mean And Standard Deviation}{Mean And Standard Deviation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.13/EX9_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.14}
+\begin{code}
+\tcaption{Percentage Of Students Placed In Second Division}{Percentage Of Students Placed In Second Division}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.14/EX9_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.15}
+\begin{code}
+\tcaption{Probability Of the Defectives In The Sample}{Probability Of the Defectives In The Sample}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.15/EX9_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.21}
+\begin{code}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.21/EX9_21.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.22}
+\begin{code}
+\tcaption{Probability}{Probability}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.22/EX9_22.R}
+\end{code}
+
+\chapter{Correlation}
+
+\vspace*{10mm}
+\curlable{Exa~10.1}
+\begin{code}
+\tcaption{Correlation Coefficient}{Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.1/EX10_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.2}
+\begin{code}
+\tcaption{Correct Value Of Correlation Coefficient}{Correct Value Of Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.2/EX10_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.14}
+\begin{code}
+\tcaption{Correlation Coefficient}{Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.14/EX10_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.15}
+\begin{code}
+\tcaption{Correlation Coefficient Between X And Y}{Correlation Coefficient Between X And Y}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.15/EX10_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.17}
+\begin{code}
+\tcaption{Rank Correlation Coefficient}{Rank Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.17/EX10_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.18}
+\begin{code}
+\tcaption{Rank Correlation Between 3 Judges}{Rank Correlation Between 3 Judges}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.18/EX10_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.19}
+\begin{code}
+\tcaption{Rank Correlation Coefficient}{Rank Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.19/EX10_19.R}
+\end{code}
+
+\chapter{ Linear And Curvilinear Regression}
+
+\vspace*{10mm}
+\curlable{Exa~11.1}
+\begin{code}
+\tcaption{Equations Of Two Lines Of Regression}{Equations Of Two Lines Of Regression}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.1/EX11_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.2}
+\begin{code}
+\tcaption{Record An Analysis On Correlation Data}{Record An Analysis On Correlation Data}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.2/EX11_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.3}
+\begin{code}
+\tcaption{Correlation Coefficient}{Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.3/EX11_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.6}
+\begin{code}
+\tcaption{Coefficient Of Regression And Regression Equation}{Coefficient Of Regression And Regression Equation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.6/EX11_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.7}
+\begin{code}
+\tcaption{Fit Exponential Curve}{Fit Exponential Curve}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.7/EX11_7.R}
+\end{code}
+
+\chapter{ Additional Topics On Correlation And Regression}
+
+\vspace*{10mm}
+\curlable{Exa~12.7}
+\begin{code}
+\tcaption{Partial And Multiple Correlation Coefficient}{Partial And Multiple Correlation Coefficient}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.7/EX12_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.8}
+\begin{code}
+\tcaption{Distribution}{Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.8/EX12_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.9}
+\begin{code}
+\tcaption{Regression Equation}{Regression Equation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.9/EX12_9.R}
+\end{code}
+
+\chapter{ Theory Of Attributes}
+
+\vspace*{10mm}
+\curlable{Exa~13.2}
+\begin{code}
+\tcaption{Finding Frequencies}{Finding Frequencies}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.2/EX13_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.11}
+\begin{code}
+\tcaption{Find if A And B Are Independent Or Positively Associated Or Negatively Associated}{Find if A And B Are Independent Or Positively Associated Or Negatively Associated}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.11/EX13_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.12}
+\begin{code}
+\tcaption{Heredity In A Family}{Heredity In A Family}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.12/EX13_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.14}
+\begin{code}
+\tcaption{Coefficient Of Association}{Coefficient Of Association}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.14/EX13_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.15}
+\begin{code}
+\tcaption{Coefficient Of Association}{Coefficient Of Association}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.15/EX13_15.R}
+\end{code}
+
+\chapter{ Large Sample Theory}
+
+\vspace*{10mm}
+\curlable{Exa~14.1}
+\begin{code}
+\tcaption{Limits Between Which Probability 3 Or 4 Lies}{Limits Between Which Probability 3 Or 4 Lies}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.1/EX14_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.2}
+\begin{code}
+\tcaption{Percentage Of Bad Pineapples}{Percentage Of Bad Pineapples}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.2/EX14_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.4}
+\begin{code}
+\tcaption{Rice And Wheat Eaters}{Rice And Wheat Eaters}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.4/EX14_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.6}
+\begin{code}
+\tcaption{Number Of Observations}{Number Of Observations}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.6/EX14_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.7}
+\begin{code}
+\tcaption{Test For Significance For Difference Of Proportions}{Test For Significance For Difference Of Proportions}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.7/EX14_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.10}
+\begin{code}
+\tcaption{Test For Significance For Difference Of Proportions}{Test For Significance For Difference Of Proportions}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.10/EX14_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.15}
+\begin{code}
+\tcaption{Proportion Of Failures}{Proportion Of Failures}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.15/EX14_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.18}
+\begin{code}
+\tcaption{Arithmetic Mean And Standard Deviation}{Arithmetic Mean And Standard Deviation}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.18/EX14_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.26}
+\begin{code}
+\tcaption{Food Expenditure Of Two Populations}{Food Expenditure Of Two Populations}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.26/EX14_26.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.28}
+\begin{code}
+\tcaption{Difference In Average Weights Of Items}{Difference In Average Weights Of Items}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.28/EX14_28.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.30}
+\begin{code}
+\tcaption{Relating Heights Of Country A And Country B}{Relating Heights Of Country A And Country B}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.30/EX14_30.R}
+\end{code}
+
+\chapter{ Exact Sampling Distributions I}
+
+\vspace*{10mm}
+\curlable{Exa~15.9}
+\begin{code}
+\tcaption{Precision Of Instrument}{Precision Of Instrument}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.9/EX15_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.12}
+\begin{code}
+\tcaption{Digits And Frequency In Telephone Directory}{Digits And Frequency In Telephone Directory}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.12/EX15_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.14}
+\begin{code}
+\tcaption{Survey Of 800 Families}{Survey Of 800 Families}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.14/EX15_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.15}
+\begin{code}
+\tcaption{Fit a Poisson Distribution}{Fit a Poisson Distribution}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.15/EX15_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.18}
+\begin{code}
+\tcaption{8000 Graduates}{8000 Graduates}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.18/EX15_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~15.20}
+\begin{code}
+\tcaption{Two Researchers}{Two Researchers}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.20/EX15_20.R}
+\end{code}
+
+\chapter{ Exact Sampling Distributions II}
+
+\vspace*{10mm}
+\curlable{Exa~16.6}
+\begin{code}
+\tcaption{Sales Of Soap Bars Advertising Campaign}{Sales Of Soap Bars Advertising Campaign}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.6/EX16_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.7}
+\begin{code}
+\tcaption{Sample Of 10 Boys IQ}{Sample Of 10 Boys IQ}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.7/EX16_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.10}
+\begin{code}
+\tcaption{Gain In Weights By Diet A And B}{Gain In Weights By Diet A And B}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.10/EX16_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.12}
+\begin{code}
+\tcaption{Heights Of Sailors And Soldiers}{Heights Of Sailors And Soldiers}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.12/EX16_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.15}
+\begin{code}
+\tcaption{Increase In Weights Of Animals By Food A And Food B}{Increase In Weights Of Animals By Food A And Food B}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.15/EX16_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.18}
+\begin{code}
+\tcaption{Random Sample Of 625 Pairs Of Observations}{Random Sample Of 625 Pairs Of Observations}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.18/EX16_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.26}
+\begin{code}
+\tcaption{F Test}{F Test}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.26/EX16_26.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~16.27}
+\begin{code}
+\tcaption{F Test And T Test}{F Test And T Test}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.27/EX16_27.R}
+\end{code}
+
+
+\setcounter{chapter}{19}
+\chapter{ Some Additional Topics}
+
+\vspace*{10mm}
+\curlable{Exa~20.1}
+\begin{code}
+\tcaption{Fit A Straight Line}{Fit A Straight Line}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX20.1/EX20_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~20.2}
+\begin{code}
+\tcaption{Fit A Second Degree Parabola}{Fit A Second Degree Parabola}
+\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX20.2/EX20_2.R}
 \end{code}
 
