@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  30 MAY 2020 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  31 MAY 2020 22:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -329,409 +329,898 @@ Overfull \hbox (70.614pt too wide) detected at line 1
 \tf@toc=\write4
 \openout4 = `TEX_final.toc'.
 
- [4] (./TEX_final.cod [5
+ [4] (./TEX_final.cod
+Overfull \hbox (3.9307pt too wide) in paragraph at lines 17--17
+ [][] [][][]\OT1/cmr/m/n/12 Probability Cal-cu-la-tion Us-ing For-mula And Law 
+of Large 
+ []
 
-] [6] [7] [8])
+[5
+
+] [6] [7] [8] [9] [10])
 \tf@cod=\write5
 \openout5 = `TEX_final.cod'.
 
- [9]
-Chapter 2.
+ [11]
+Chapter 1.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 93.
+nput line 91.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-1/EX2_1.R [10
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.2/Ex1_2.R
+Overfull \hbox (378.41653pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
 
-])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-2/EX2_2.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-3/EX2_3.R
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 7.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 7.
-
-[11])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-4/EX2_4.R [12])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-6/EX2_6.R [13])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-7/EX2_7.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-8/EX2_8.R [14])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-9/EX2_9.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-12/EX2_12.R [15])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-15/EX2_15.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-17/EX2_17.R [16])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-18/EX2_18.R [17])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-19/EX2_19.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-20/EX2_20.R [18])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-21/EX2_21.R [19])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-23/EX2_23.R [20])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-24/EX2_24.R [21])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-26/EX2_26.R [22])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-27/EX2_27.R) [23]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-28/EX2_28.R) [24]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-29/EX2_29.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-34/EX2_34.R [25])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-35/EX2_35.R [26])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-36/EX2_36.R [27])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-40/EX2_40.R [28])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-42/EX2_42.R [29])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.
-43/EX2_43.R [30]) [31]
-Chapter 3.
-
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-2/EX3_2.R [32
+[12
 
 ])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-3/EX3_3.R [33])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-4/EX3_4.R [34] [35])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-24/EX3_24.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-29/EX3_29.R [36])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-30/EX3_30.R [37])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.
-37/EX3_37.R [38]) [39]
-Chapter 4.
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.3/Ex1_3.R) [13]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.4/Ex1_4.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.5/Ex1_5.R
+Overfull \hbox (963.81165pt too wide) in paragraph at lines 9--11
+[][] 
+ []
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-1/EX4_1.R
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 13.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+[14]) [15]
+Chapter 2.
+
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.2/Ex2_2.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.3/Ex2_3.R [16
+
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.8/Ex2_8.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.10/Ex2_10.R [17])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.15/Ex2_15.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.18/Ex2_18.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.a/Ex2_19a.R [18])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.b/Ex2_19b.R [19])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.c/Ex2_19c.R)
+[20]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.d/Ex2_19d.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.21/Ex2_21.R [21])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.22/Ex2_22.R) [22]
+Overfull \hbox (0.372pt too wide) in paragraph at lines 205--206
+[]\OT1/cmr/m/n/12 Probability Cal-cu-la-tion Us-ing For-mula And Law of Large
+ []
+
+
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.24/Ex2_24.R [23])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.25/Ex2_25.R [24])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.30/Ex2_30.R [25])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.34/Ex2_34.R [26])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.37/Ex2_37.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.43/Ex2_43.R [27]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 13.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+) [28]
+Chapter 3.
 
-[40
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.8/Ex3_8.R [29
 
 ])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-2/EX4_2.R) [41]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-3/EX-4_3.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-4/EX4_4.R [42])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-9/EX4_9.R [43])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-10/EX4_10.R [44])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-16/EX4_16.R [45])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-18/EX4_18.R [46])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.
-20/EX4_20.R) [47]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.9/Ex3_9.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.10/Ex3_10.R [30])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.11/Ex3_11.R [31]
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 20.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 20.
+)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.12/Ex3_12.R [32])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.14/Ex3_14.R) [33]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.15/Ex3_15.R [34])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.16/Ex3_16.R [35])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.18/Ex3_18.R [36])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.20/Ex3_20.R [37])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.22/Ex3_22.R [38])
+[39]
+Chapter 4.
+
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.1/Ex4_1.R) [40
+
+]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.2/Ex4_2.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.3/Ex4_3.R [41])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.4/Ex4_4.R) [42]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.5/Ex4_5.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.6/Ex4_6.R [43])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.7/Ex4_7.R [44])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.8/Ex4_8.R [45])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.9/Ex4_9.R [46])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.10/Ex4_10.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.11/Ex4_11.R [47])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.12/Ex4_12.R) [48]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.13/Ex4_13.R [49])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.14/Ex4_14.R [50])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.15/Ex4_15.R [51])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.16/Ex4_16.R [52]
+[53])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.17/Ex4_17.R) [54]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.18/Ex4_18.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.19/Ex4_19.R [55])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.20/Ex4_20.R [56])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.21/Ex4_21.R [57])
+[58]
 Chapter 5.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-1/EX5_1.R [48
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.1/Ex5_1.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.2.a/Ex5_2a.R [59
 
-] [49])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-2/EX5_2.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-3/EX5_3.R [50])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-4/EX5_4.R [51] [52])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-5/EX5_5.R [53])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-12/EX5_12.R [54] [55])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-13/EX5_13.R [56])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-19/EX5_19.R [57])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-22/EX5_22.R [58])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.
-24/EX5_24.R [59]) [60]
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.2.b.c/Ex5_2b_2c.R
+[60])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.3/Ex5_3.R) [61]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.4/Ex5_4.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.6/Ex5_6.R [62])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.7/Ex5_7.R) [63]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.8/Ex5_8.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.9/Ex5_9.R [64])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.10/Ex5_10.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.11/Ex5_11.R [65])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.12/Ex5_12.R) [66]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.13/Ex5_13.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.14/Ex5_14.R [67])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.15/Ex5_15.R [68])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.16/Ex5_16.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.17/Ex5_17.R [69])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.18/Ex5_18.R) [70]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.19/Ex5_19.R [71])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.20/Ex5_20.R) [72]
 Chapter 6.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-1/EX6_1.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-2/EX6_2.R [61
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.1/Ex6_1.R [73
 
 ])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-3/EX6_3.R [62])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-4/EX6_4.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-5/EX6_5.R [63])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-29/EX6_29.R [64])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.
-30/EX6_30.R [65]) [66]
-Chapter 7.
-
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
-12/EX7_12.R) [67
-
-]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
-13/EX7_13.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
-14/EX7_14.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
-17/EX7_17.R [68])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
-18/EX7_18.R [69])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.
-19/EX7_19.R) [70] [71]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.2/Ex6_2.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.3/Ex6_3.R [74])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.4/Ex6_4.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.5/Ex6_5.R) [75]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.6/Ex6_6.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.7/Ex6_7.R [76])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.8/Ex6_8.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.9/Ex6_9.R [77])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.11/Ex6_11.R) [78]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.12/Ex6_12.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.13/Ex6_13.R [79])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.14/Ex6_14.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.15/Ex6_15.R [80])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.16/Ex6_16.R [81])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.17/Ex6_17.R [82])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.18/Ex6_18.R [83])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.19/Ex6_19.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.20/Ex6_20.R [84])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.21/Ex6_21.R [85])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.22/Ex6_22.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.23/Ex6_23.R [86])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.24/Ex6_24.R) [87]
+[88]
 Chapter 8.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-1/EX8_1.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-2/EX8_2.R [72
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.1/Ex8_1.R
+Overfull \hbox (7.9133pt too wide) in paragraph at lines 14--16
+[][][] 
+ []
 
-])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-3/EX8_3.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-4/EX8_4.R [73])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-6/EX8_6.R [74])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-7/EX8_7.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-9/EX8_9.R [75])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-10/EX8_10.R [76])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-12/EX8_12.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-21/EX8_21.R [77])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-22/EX8_22.R [78]) [79]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-33/EX8_33.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-34/EX8_34.R) [80]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-37/EX8_37.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-41/EX8_41.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-55/EX8_55.R [81])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-56/EX8_56.R) [82]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-57/EX8_57.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.
-63/EX8_63.R [83]) [84]
-Chapter 9.
-
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-1/EX9_1.R [85
+) [89
 
 ]
-Overfull \hbox (237.6253pt too wide) in paragraph at lines 26--27
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.2/Ex8_2.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.4/Ex8_4.R [90])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.5/Ex8_5.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.6/Ex8_6.R [91])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.7/Ex8_7.R [92])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.8/Ex8_8.R) [93]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.10/Ex8_10.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.11/Ex8_11.R [94])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.12/Ex8_12.R
+Overfull \hbox (282.0857pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 10--13
+[][][] 
+ []
+
+[95]) [96]
+Chapter 9.
+
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.2/Ex9_2.R [97
+
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.3/Ex9_3.R) [98]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.4/Ex9_4.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.5/Ex9_5.R [99])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.6/Ex9_6.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.7/Ex9_7.R [100])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.8/Ex9_8.R [101])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.10/Ex9_10.R) [102]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.11/Ex9_11.R [103])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.12/Ex9_12.R [104])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.13/Ex9_13.R
+Overfull \hbox (245.03537pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
+
+
+Overfull \hbox (252.44543pt too wide) in paragraph at lines 8--11
 [][][] 
  []
 
 )
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-3/EX9_3.R [86])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-4/EX9_4.R [87])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-5/EX9_5.R [88])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-7/EX9_7.R [89])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-8/EX9_8.R [90])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-9/EX9_9.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-12/EX9_12.R [91])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-13/EX9_13.R [92])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-14/EX9_14.R [93])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-15/EX9_15.R) [94]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-21/EX9_21.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.
-22/EX9_22.R [95]) [96]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.14/Ex9_14.R [105])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.15/Ex9_15.R [106])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.16/Ex9_16.R) [107]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.18/Ex9_18.R
+Overfull \hbox (7.9133pt too wide) in paragraph at lines 6--9
+[][][] 
+ []
+
+)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.19/Ex9_19.R [108])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.22/Ex9_22.R [109])
+[110]
 Chapter 10.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.1/EX10_1.R) [97
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.3/Ex10_3.R [111
 
-]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.2/EX10_2.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.14/EX10_14.R [98])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.15/EX10_15.R [99])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.17/EX10_17.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.18/EX10_18.R [100])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX1
-0.19/EX10_19.R) [101]
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.4/Ex10_4.R [112])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.5/Ex10_5.R [113])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.6/Ex10_6.R [114])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.7/Ex10_7.R [115])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.9/Ex10_9.R [116])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.10/Ex10_10.R [117])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.11/Ex10_11.R [118])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.12/Ex10_12.R [119])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.13/Ex10_13.R)
+[120]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.14/Ex10_14.R [121])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.15/Ex10_15.R)
+[122]
 Chapter 11.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
-1.1/EX11_1.R [102
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.1/Ex11_1.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+[123
 
 ])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
-1.2/EX11_2.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
-1.3/EX11_3.R [103])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
-1.6/EX11_6.R [104])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX1
-1.7/EX11_7.R) [105]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.2/Ex11_2.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+) [124]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.3/Ex11_3.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 9--11
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 11--13
+[][][] 
+ []
+
+[125])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.4/Ex11_4.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+[126])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.5/Ex11_5.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 9--11
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 11--13
+[][][] 
+ []
+
+[127])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.6/Ex11_6.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+[128])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.7/Ex11_7.R
+Overfull \hbox (356.18634pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (363.5964pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+[129])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.8/Ex11_8.R
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 15--17
+[][][] 
+ []
+
+[130])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.9/Ex11_9.R) [131]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.10/Ex11_10.R
+Overfull \hbox (926.76132pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (926.76132pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.11/Ex11_11.R [132]
+Overfull \hbox (926.76132pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+
+Overfull \hbox (926.76132pt too wide) in paragraph at lines 12--14
+[][][] 
+ []
+
+) [133]
 Chapter 12.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX1
-2.7/EX12_7.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX1
-2.8/EX12_8.R [106
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.1/Ex12_1.R
+Overfull \hbox (378.41653pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
 
-]) [107]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX1
-2.9/EX12_9.R) [108]
+
+Overfull \hbox (378.41653pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (378.41653pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+[134
+
+]
+Overfull \hbox (526.61783pt too wide) in paragraph at lines 12--14
+[][][] 
+ []
+
+)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.2/Ex12_2.R [135])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.3/Ex12_3.R [136])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.4/Ex12_4.R
+Overfull \hbox (119.06427pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+
+Overfull \hbox (133.8844pt too wide) in paragraph at lines 12--14
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 14--16
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 16--18
+[][][] 
+ []
+
+[137])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.5/Ex12_5.R [138]
+Overfull \hbox (119.06427pt too wide) in paragraph at lines 15--17
+[][][] 
+ []
+
+
+Overfull \hbox (133.8844pt too wide) in paragraph at lines 17--19
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 19--21
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 21--23
+[][][] 
+ []
+
+[139] [140])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.6/Ex12_6.R
+Overfull \hbox (119.06427pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
+
+
+Overfull \hbox (133.8844pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 12--14
+[][][] 
+ []
+
+[141])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.7/Ex12_7.R
+Overfull \hbox (119.06427pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
+
+
+Overfull \hbox (133.8844pt too wide) in paragraph at lines 8--11
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 11--13
+[][][] 
+ []
+
+
+Overfull \hbox (126.47433pt too wide) in paragraph at lines 13--15
+[][][] 
+ []
+
+[142])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.8/Ex12_8.R [143])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.9/Ex12_9.R
+Overfull \hbox (170.93472pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
+
+
+Overfull \hbox (170.93472pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+[144])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.10/Ex12_10.R [145])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.11/Ex12_11.R [146]
+[147])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.12/Ex12_12.R [148]
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 11--13
+[][][] 
+ []
+
+
+Overfull \hbox (282.0857pt too wide) in paragraph at lines 19--21
+[][][] 
+ []
+
+[149])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.13/Ex12_13.R [150])
+[151]
 Chapter 13.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
-3.2/EX13_2.R) [109
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.1/Ex13_1.R
+Overfull \hbox (526.61783pt too wide) in paragraph at lines 9--11
+[][][] 
+ []
 
-]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
-3.11/EX13_11.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
-3.12/EX13_12.R [110])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
-3.14/EX13_14.R [111])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX1
-3.15/EX13_15.R) [112]
+[152
+
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.2/Ex13_2.R
+Overfull \hbox (1689.99799pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.3/Ex13_3.R [153]
+Overfull \hbox (1689.99799pt too wide) in paragraph at lines 11--13
+[][][] 
+ []
+
+)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.4/Ex13_4.R [154]
+Overfull \hbox (526.61783pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+) [155]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.5/Ex13_5.R) [156]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.6/Ex13_6.R [157])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.7/Ex13_7.R [158])
+[159]
 Chapter 14.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.1/EX14_1.R) [113
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.1/Ex14_1.R [160
 
-]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.2/EX14_2.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.4/EX14_4.R [114])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.6/EX14_6.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.7/EX14_7.R [115])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.10/EX14_10.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.15/EX14_15.R [116])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.18/EX14_18.R [117])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.26/EX14_26.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.28/EX14_28.R [118])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX1
-4.30/EX14_30.R [119]) [120]
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.2/Ex14_2.R [161]
+[162])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.3/Ex14_3.R [163])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.4/Ex14_4.R
+Overfull \hbox (304.31589pt too wide) in paragraph at lines 6--8
+[][][] 
+ []
+
+
+Overfull \hbox (282.0857pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (304.31589pt too wide) in paragraph at lines 10--13
+[][][] 
+ []
+
+[164])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.5/Ex14_5.R [165])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.6/Ex14_6.R [166]
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 8--10
+[][][] 
+ []
+
+
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 10--12
+[][][] 
+ []
+
+
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 12--15
+[][][] 
+ []
+
+) [167]
 Chapter 15.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
-5.9/EX15_9.R) [121
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.1/Ex15_1.R [168
 
-]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
-5.12/EX15_12.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
-5.14/EX15_14.R [122])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
-5.15/EX15_15.R [123])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
-5.18/EX15_18.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX1
-5.20/EX15_20.R [124]) [125]
+])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.2/Ex15_2.R) [169]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.4/Ex15_4.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.6/Ex15_6.R [170]
+Overfull \hbox (200.57498pt too wide) in paragraph at lines 7--8
+[][][] 
+ []
+
+[171])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.7/Ex15_7.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.8/Ex15_8.R [172]
+Overfull \hbox (37.55356pt too wide) in paragraph at lines 30--32
+[][][] 
+ []
+
+[173]) [174]
 Chapter 16.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.6/EX16_6.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.7/EX16_7.R [126
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.1/Ex16_1.R) [175
+
+]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.2/Ex16_2.R
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 17--19
+[][][] 
+ []
+
+
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 19--21
+[][][] 
+ []
+
+[176])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.3/Ex16_3.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.4/Ex16_4.R [177])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.5/Ex16_5.R [178])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.6/Ex16_6.R [179])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.7/Ex16_7.R
+Overfull \hbox (82.01395pt too wide) in paragraph at lines 17--19
+[][][] 
+ []
+
+[180])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.8.9/Ex16_8&9.R
+[181]) [182]
+Chapter 17.
+
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.1/Ex17_1.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.2/Ex17_2.R [183
+
+]
+Overfull \hbox (934.17139pt too wide) in paragraph at lines 16--18
+[][][] 
+ []
+
+
+Overfull \hbox (934.17139pt too wide) in paragraph at lines 18--20
+[][][] 
+ []
+
+
+Overfull \hbox (934.17139pt too wide) in paragraph at lines 20--22
+[][][] 
+ []
+
+
+Overfull \hbox (934.17139pt too wide) in paragraph at lines 22--24
+[][][] 
+ []
+
+
+Overfull \hbox (934.17139pt too wide) in paragraph at lines 24--26
+[][][] 
+ []
+
+[184])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.3/Ex17_3.R [185])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.4/Ex17_4.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.5/Ex17_5.R [186])
+[187]
+Chapter 18.
+
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.1/Ex18_1.R [188
 
 ])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.10/EX16_10.R [127])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.12/EX16_12.R [128])
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.15/EX16_15.R [129]) [130]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.18/EX16_18.R) [131]
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.26/EX16_26.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX1
-6.27/EX16_27.R [132]) [133]
-Chapter 20.
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.4/Ex18_4.R [189])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.6/Ex18_6.R) [190]
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.7/Ex18_7.R)
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.8/Ex18_8.R [191])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.9/Ex18_9.R [192])
+(../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpol
+e,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.11/Ex18_11.R [193])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1515.
 
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX2
-0.1/EX20_1.R)
-(../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX2
-0.2/EX20_2.R [134
-
-])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1136.
- [135]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1136.
+[194]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1515.
  (./TEX_final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1136.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1136.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1515.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1515.
 
 Package rerunfilecheck Info: File `TEX_final.out' has not changed.
-(rerunfilecheck)             Checksum: DA44DC3639F332D3B6163722384B2D5B;1086.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1136.
+(rerunfilecheck)             Checksum: 0BCEFCA4D3109C78F78FC27B46570586;1302.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1515.
  ) 
 Here is how much of TeX's memory you used:
- 12287 strings out of 493013
- 206772 string characters out of 6133328
- 321647 words of memory out of 5000000
- 11547 multiletter control sequences out of 15000+600000
+ 13507 strings out of 493013
+ 272606 string characters out of 6133328
+ 354647 words of memory out of 5000000
+ 11442 multiletter control sequences out of 15000+600000
  10548 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,7n,40p,513b,2406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,40p,569b,2410s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
@@ -740,10 +1229,10 @@ r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
 al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TEX_final.pdf (136 pages, 424495 bytes).
+Output written on TEX_final.pdf (195 pages, 600389 bytes).
 PDF statistics:
- 5117 PDF objects out of 5155 (max. 8388607)
- 4921 compressed objects within 50 object streams
- 3646 named destinations out of 4296 (max. 500000)
- 137 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6741 PDF objects out of 7423 (max. 8388607)
+ 6471 compressed objects within 65 object streams
+ 4755 named destinations out of 5155 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 

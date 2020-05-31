@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Fundamentals of Mathematical Statistics\\by S.C. Gupta, V.K. Kapoor\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Meet Bhatnagar\\B.Tech.\\Computer Science and Engineering\\VELLORE INSTITUTE OF TECHNOLOGY\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Probability and Statistics for Engineers and Scientists\\by Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Dubey Varshit Shailendra\\B.Tech.\\Electronics Engineering\\College of Engineering Pune\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Fundamentals of Mathematical Statistics
-\item [Author:] S.C. Gupta, V.K. Kapoor
-\item [Publisher:] Sultan Chand \& Sons, New Delhi
-\item [Edition:] 11
-\item [Year:] 2008
-\item [ISBN:] 81-8054-004-9
+\item [Title:] Probability and Statistics for Engineers and Scientists
+\item [Author:] Ronald E. Walpole, Raymond H. Myers, Sharon L. Myers, Keying Ye
+\item [Publisher:] Pearson Education, Boston USA
+\item [Edition:] 9
+\item [Year:] 2016
+\item [ISBN:] 978-0-321-62911-1
 \end{description}
 
 \newpage
@@ -26,1054 +26,1433 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 \tableofcontents
 \listofcode
 
-
-\setcounter{chapter}{1}
-\chapter{ Descriptive Measures}
+\chapter{ Introduction To Statistics And Data Analysis}
 
 \vspace*{10mm}
-\curlable{Exa~2.1}
+\curlable{Exa~1.2}
 \begin{code}
-\tcaption{Arithmetic Mean}{Arithmetic Mean}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.1/EX2_1.R}
+\tcaption{Dotplot }{Dotplot }
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.2/Ex1_2.R}
 \end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.3}
+\begin{code}
+\tcaption{Plot for Corrosion Data}{Plot for Corrosion Data}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.3/Ex1_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.4}
+\begin{code}
+\tcaption{Mean Variance and Standard Deviation}{Mean Variance and Standard Deviation}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.4/Ex1_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.5}
+\begin{code}
+\tcaption{Box and Whisker Plot }{Box and Whisker Plot }
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH1/EX1.5/Ex1_5.R}
+\end{code}
+
+\vspace*{10mm}
+\chapter{ Probability}
 
 \vspace*{10mm}
 \curlable{Exa~2.2}
 \begin{code}
-\tcaption{Mean}{Mean}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.2/EX2_2.R}
+\tcaption{Sample Space}{Sample Space}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.2/Ex2_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.3}
 \begin{code}
-\tcaption{Percentage Male Female Employees}{Percentage Male Female Employees}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.3/EX2_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.4}
-\begin{code}
-\tcaption{Age Limits}{Age Limits}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.4/EX2_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.6}
-\begin{code}
-\tcaption{Median}{Median}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.6/EX2_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.7}
-\begin{code}
-\tcaption{Median Wages}{Median Wages}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.7/EX2_7.R}
+\tcaption{Find Sample Space example 2}{Find Sample Space example 2}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.3/Ex2_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.8}
 \begin{code}
-\tcaption{Median Hours Of Work}{Median Hours Of Work}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.8/EX2_8.R}
+\tcaption{To find Intersection }{To find Intersection }
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.8/Ex2_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.9}
+\curlable{Exa~2.10}
 \begin{code}
-\tcaption{Incomplete Frequency}{Incomplete Frequency}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.9/EX2_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.12}
-\begin{code}
-\tcaption{Mode}{Mode}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.12/EX2_12.R}
+\tcaption{To find Union}{To find Union}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.10/Ex2_10.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.15}
 \begin{code}
-\tcaption{Geometric mean}{Geometric mean}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.15/EX2_15.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.17}
-\begin{code}
-\tcaption{Average Speed}{Average Speed}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.17/EX2_17.R}
+\tcaption{Generalized Multiplication Rule}{Generalized Multiplication Rule}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.15/Ex2_15.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.18}
 \begin{code}
-\tcaption{Average Price}{Average Price}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.18/EX2_18.R}
+\tcaption{Permutation Problem}{Permutation Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.18/Ex2_18.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.19}
+\curlable{Exa~2.19.a}
 \begin{code}
-\tcaption{Average Speed}{Average Speed}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.19/EX2_19.R}
+\tcaption{Permutation Problem Example 19a}{Permutation Problem Example 19a}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.a/Ex2_19a.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.20}
+\curlable{Exa~2.19.b}
 \begin{code}
-\tcaption{Number Of Tosses Required}{Number Of Tosses Required}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.20/EX2_20.R}
+\tcaption{Permutation Problem Example 19b}{Permutation Problem Example 19b}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.b/Ex2_19b.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.19.c}
+\begin{code}
+\tcaption{Permutation Problem Example 19c}{Permutation Problem Example 19c}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.c/Ex2_19c.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.19.d}
+\begin{code}
+\tcaption{Permutation Problem Example 19d}{Permutation Problem Example 19d}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.19.d/Ex2_19d.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.21}
 \begin{code}
-\tcaption{Lower Quartile Marks}{Lower Quartile Marks}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.21/EX2_21.R}
+\tcaption{Partition Problem}{Partition Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.21/Ex2_21.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.23}
+\curlable{Exa~2.22}
 \begin{code}
-\tcaption{Cumulative Frequency Curve}{Cumulative Frequency Curve}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.23/EX2_23.R}
+\tcaption{Combination Problem}{Combination Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.22/Ex2_22.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.24}
 \begin{code}
-\tcaption{Quartile Deviation And Mean Deviation From Mean}{Quartile Deviation And Mean Deviation From Mean}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.24/EX2_24.R}
+\tcaption{Probability Calculation Using Formula And Law of Large Numbers}{Probability Calculation Using Formula And Law of Large Numbers}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.24/Ex2_24.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.26}
+\curlable{Exa~2.25}
 \begin{code}
-\tcaption{Mean and Standard deviation}{Mean and Standard deviation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.26/EX2_26.R}
+\tcaption{Probability Calculation Using Law of Large Numbers}{Probability Calculation Using Law of Large Numbers}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.25/Ex2_25.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.27}
+\curlable{Exa~2.30}
 \begin{code}
-\tcaption{Corrected Mean And Standard Deviation}{Corrected Mean And Standard Deviation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.27/EX2_27.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.28}
-\begin{code}
-\tcaption{Original Frequency Distribution}{Original Frequency Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.28/EX2_28.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.29}
-\begin{code}
-\tcaption{Standard Deviation Of Second Group}{Standard Deviation Of Second Group}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.29/EX2_29.R}
+\tcaption{Probability Calculation Using Law of Large Numbers And Union Property }{Probability Calculation Using Law of Large Numbers And Union Property }
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.30/Ex2_30.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.34}
 \begin{code}
-\tcaption{Wages By Firm A And B}{Wages By Firm A And B}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.34/EX2_34.R}
+\tcaption{Conditional Probability Problem}{Conditional Probability Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.34/Ex2_34.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.35}
+\curlable{Exa~2.37}
 \begin{code}
-\tcaption{Moments About Mean Origin Particular Point }{Moments About Mean Origin Particular Point }
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.35/EX2_35.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.36}
-\begin{code}
-\tcaption{First Four Moments}{First Four Moments}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.36/EX2_36.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.40}
-\begin{code}
-\tcaption{Corrected Frequency Constants}{Corrected Frequency Constants}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.40/EX2_40.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.42}
-\begin{code}
-\tcaption{First Four Moments About Origin}{First Four Moments About Origin}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.42/EX2_42.R}
+\tcaption{Independence and Multiplicative Rule}{Independence and Multiplicative Rule}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.37/Ex2_37.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.43}
 \begin{code}
-\tcaption{First Four Moments About Mean Of The Distribution}{First Four Moments About Mean Of The Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH2/EX2.43/EX2_43.R}
+\tcaption{Bayes Rule}{Bayes Rule}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH2/EX2.43/Ex2_43.R}
 \end{code}
 
-\chapter{ Probability I}
+\chapter{ Random Variables And Probability Distributions}
 
 \vspace*{10mm}
-\curlable{Exa~3.2}
+\curlable{Exa~3.8}
 \begin{code}
-\tcaption{Two Unbiased Dice}{Two Unbiased Dice}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.2/EX3_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.3}
-\begin{code}
-\tcaption{Probability That Odd Digit Selected}{Probability That Odd Digit Selected}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.3/EX3_3.R}
+\tcaption{Discrete Probability Distribution Problem}{Discrete Probability Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.8/Ex3_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4}
+\curlable{Exa~3.9}
 \begin{code}
-\tcaption{Four Cards Drawn At Random}{Four Cards Drawn At Random}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.4/EX3_4.R}
+\tcaption{Discrete Probability Distribution Problem 9}{Discrete Probability Distribution Problem 9}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.9/Ex3_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.24}
+\curlable{Exa~3.10}
 \begin{code}
-\tcaption{Probability That Letter Chosen}{Probability That Letter Chosen}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.24/EX3_24.R}
+\tcaption{Cumulative Distribution Function Problem}{Cumulative Distribution Function Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.10/Ex3_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.29}
+\curlable{Exa~3.11}
 \begin{code}
-\tcaption{Probability That Odd Number Appear}{Probability That Odd Number Appear}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.29/EX3_29.R}
+\tcaption{Probability Density Function Problem 11}{Probability Density Function Problem 11}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.11/Ex3_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.30}
+\curlable{Exa~3.12}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.30/EX3_30.R}
+\tcaption{Cumulative Distribution Function of Continuous Random Variable}{Cumulative Distribution Function of Continuous Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.12/Ex3_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.37}
+\curlable{Exa~3.14}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH3/EX3.37/EX3_37.R}
+\tcaption{Joint Probability Distribution of Discrete Random Variable}{Joint Probability Distribution of Discrete Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.14/Ex3_14.R}
 \end{code}
 
-\chapter{ Probability II}
+\vspace*{10mm}
+\curlable{Exa~3.15}
+\begin{code}
+\tcaption{Joint Density Function of Continuous Random Variable}{Joint Density Function of Continuous Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.15/Ex3_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.16}
+\begin{code}
+\tcaption{Marginal Distribution Problem}{Marginal Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.16/Ex3_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.18}
+\begin{code}
+\tcaption{Conditional Distribution Of a Random Variable}{Conditional Distribution Of a Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.18/Ex3_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.20}
+\begin{code}
+\tcaption{Marginal and Conditional Densities Evaluation}{Marginal and Conditional Densities Evaluation}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.20/Ex3_20.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.22}
+\begin{code}
+\tcaption{Statistical Independent Problem}{Statistical Independent Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH3/EX3.22/Ex3_22.R}
+\end{code}
+
+\chapter{ Mathematical Expectation}
 
 \vspace*{10mm}
 \curlable{Exa~4.1}
 \begin{code}
-\tcaption{Factories Production}{Factories Production}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.1/EX4_1.R}
+\tcaption{Expected Value Evaluation Problem 1}{Expected Value Evaluation Problem 1}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.1/Ex4_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.2}
 \begin{code}
-\tcaption{Probability }{Probability }
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.2/EX4_2.R}
+\tcaption{Expected Value Evaluation Problem 2}{Expected Value Evaluation Problem 2}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.2/Ex4_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.3}
 \begin{code}
-\tcaption{Probability of X Y Z Becoming Managers}{Probability of X Y Z Becoming Managers}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.3/EX-4_3.R}
+\tcaption{Expected Value of probability density function}{Expected Value of probability density function}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.3/Ex4_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.4}
 \begin{code}
-\tcaption{Probability By Machines I And II And III }{Probability By Machines I And II And III }
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.4/EX4_4.R}
+\tcaption{Expected Value of a new Random Variable}{Expected Value of a new Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.4/Ex4_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.5}
+\begin{code}
+\tcaption{Expected Value of a new Random Variable }{Expected Value of a new Random Variable }
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.5/Ex4_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.6}
+\begin{code}
+\tcaption{Expected value of Discrete Joint Probability Distribution}{Expected value of Discrete Joint Probability Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.6/Ex4_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.7}
+\begin{code}
+\tcaption{Expected value of Joint Density Function}{Expected value of Joint Density Function}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.7/Ex4_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.8}
+\begin{code}
+\tcaption{Variance Of Discrete Distribution}{Variance Of Discrete Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.8/Ex4_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.9}
 \begin{code}
-\tcaption{Vessel Containing Balls}{Vessel Containing Balls}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.9/EX4_9.R}
+\tcaption{Variance using Expectation Formula}{Variance using Expectation Formula}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.9/Ex4_9.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.10}
 \begin{code}
-\tcaption{Probability That Answer Is Correct}{Probability That Answer Is Correct}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.10/EX4_10.R}
+\tcaption{Mean And Variance of Continuous Random Variable}{Mean And Variance of Continuous Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.10/Ex4_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.11}
+\begin{code}
+\tcaption{Variance of a new Random variable}{Variance of a new Random variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.11/Ex4_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.12}
+\begin{code}
+\tcaption{Variance of a new Random variable given the Density Function}{Variance of a new Random variable given the Density Function}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.12/Ex4_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.13}
+\begin{code}
+\tcaption{Covariance of 2 Random Variables}{Covariance of 2 Random Variables}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.13/Ex4_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.14}
+\begin{code}
+\tcaption{Covariance Of Two Random Variables given Joint Density Function}{Covariance Of Two Random Variables given Joint Density Function}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.14/Ex4_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.15}
+\begin{code}
+\tcaption{Correlation Coefficient Evaluation}{Correlation Coefficient Evaluation}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.15/Ex4_15.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.16}
 \begin{code}
-\tcaption{Probability That A Wrote Plus}{Probability That A Wrote Plus}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.16/EX4_16.R}
+\tcaption{Correlation Coefficient Of 2 Random Variables Given Joint Density Function}{Correlation Coefficient Of 2 Random Variables Given Joint Density Function}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.16/Ex4_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.17}
+\begin{code}
+\tcaption{Expectation Value of Linear Combination Of Random Variables}{Expectation Value of Linear Combination Of Random Variables}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.17/Ex4_17.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.18}
 \begin{code}
-\tcaption{Probability Of Drawing White Ball}{Probability Of Drawing White Ball}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.18/EX4_18.R}
+\tcaption{Expectation Value of Linear Combination Of Continuous Random Variables }{Expectation Value of Linear Combination Of Continuous Random Variables }
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.18/Ex4_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.19}
+\begin{code}
+\tcaption{Expectation Value of Linear Combination Of Random Variables Using Properties}{Expectation Value of Linear Combination Of Random Variables Using Properties}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.19/Ex4_19.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.20}
 \begin{code}
-\tcaption{Die A And B}{Die A And B}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH4/EX4.20/EX4_20.R}
+\tcaption{Expectation Value Evaluation Using Properties Given a Density Function}{Expectation Value Evaluation Using Properties Given a Density Function}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.20/Ex4_20.R}
 \end{code}
 
-\chapter{ Random Variables And Distribution Functions}
+\vspace*{10mm}
+\curlable{Exa~4.21}
+\begin{code}
+\tcaption{Expectation Value of 2 Independent Random Variable}{Expectation Value of 2 Independent Random Variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH4/EX4.21/Ex4_21.R}
+\end{code}
+
+\chapter{ Some Discrete Probability Distribution}
 
 \vspace*{10mm}
 \curlable{Exa~5.1}
 \begin{code}
-\tcaption{Random Variable X}{Random Variable X}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.1/EX5_1.R}
+\tcaption{Binomial Distribution Problem}{Binomial Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.1/Ex5_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.2}
+\curlable{Exa~5.2.a}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.2/EX5_2.R}
+\tcaption{Binomial Distribution Problem}{Binomial Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.2.a/Ex5_2a.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.2.b.c}
+\begin{code}
+\tcaption{Binomial Distribution Problem}{Binomial Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.2.b.c/Ex5_2b_2c.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.3}
 \begin{code}
-\tcaption{Distribution Function Of X}{Distribution Function Of X}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.3/EX5_3.R}
+\tcaption{Binomial Distribution Problem 3}{Binomial Distribution Problem 3}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.4}
 \begin{code}
-\tcaption{Probability Function}{Probability Function}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.4/EX5_4.R}
+\tcaption{Binomial Distribution Problem 4}{Binomial Distribution Problem 4}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.4/Ex5_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.5}
+\curlable{Exa~5.6}
 \begin{code}
-\tcaption{Probability Density Function}{Probability Density Function}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.5/EX5_5.R}
+\tcaption{Binomial Distribution Problem 6}{Binomial Distribution Problem 6}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.6/Ex5_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.7}
+\begin{code}
+\tcaption{Multinomial Distribution Problem}{Multinomial Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.7/Ex5_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.8}
+\begin{code}
+\tcaption{Hypergeometric Distribution In Acceptance Sampling}{Hypergeometric Distribution In Acceptance Sampling}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.8/Ex5_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.9}
+\begin{code}
+\tcaption{Hypergeometric Distribution In Acceptance Sampling}{Hypergeometric Distribution In Acceptance Sampling}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.9/Ex5_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.10}
+\begin{code}
+\tcaption{Hypergeometric Probability Distribution Problem}{Hypergeometric Probability Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.10/Ex5_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.11}
+\begin{code}
+\tcaption{Mean And Variance Of Hypergeometric Experiment}{Mean And Variance Of Hypergeometric Experiment}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.11/Ex5_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.12}
 \begin{code}
-\tcaption{Relative Frequency Density}{Relative Frequency Density}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.12/EX5_12.R}
+\tcaption{Relation Between Hypergeometric and Binomial Distribution}{Relation Between Hypergeometric and Binomial Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.12/Ex5_12.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.13}
 \begin{code}
-\tcaption{Standard Deviation And Mean Deviation}{Standard Deviation And Mean Deviation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.13/EX5_13.R}
+\tcaption{Multivariate Hypergeometric Distribution Problem}{Multivariate Hypergeometric Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.13/Ex5_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.14}
+\begin{code}
+\tcaption{Negative Binomial Distribution Problem}{Negative Binomial Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.14/Ex5_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.15}
+\begin{code}
+\tcaption{Geometric Distribution Problem}{Geometric Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.15/Ex5_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.16}
+\begin{code}
+\tcaption{Geometric Distribution Problem}{Geometric Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.16/Ex5_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.17}
+\begin{code}
+\tcaption{Poisson Distribution Problem}{Poisson Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.17/Ex5_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.18}
+\begin{code}
+\tcaption{Poisson Distribution Problem}{Poisson Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.18/Ex5_18.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.19}
 \begin{code}
-\tcaption{Probability Density Function}{Probability Density Function}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.19/EX5_19.R}
+\tcaption{Approximation of Binomial By a Poisson Distribution}{Approximation of Binomial By a Poisson Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.19/Ex5_19.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.22}
+\curlable{Exa~5.20}
 \begin{code}
-\tcaption{Probability That Tyres Will Last}{Probability That Tyres Will Last}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.22/EX5_22.R}
+\tcaption{Approximation of Binomial By a Poisson Distribution}{Approximation of Binomial By a Poisson Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH5/EX5.20/Ex5_20.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~5.24}
-\begin{code}
-\tcaption{Probability Density Function}{Probability Density Function}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH5/EX5.24/EX5_24.R}
-\end{code}
-
-\chapter{ Mathematical Expectations}
+\chapter{ Some Continuous Probability Distributions}
 
 \vspace*{10mm}
 \curlable{Exa~6.1}
 \begin{code}
-\tcaption{Laws of Expectation}{Laws of Expectation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.1/EX6_1.R}
+\tcaption{Uniform Distribution Problem}{Uniform Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.2}
 \begin{code}
-\tcaption{Expectations Results}{Expectations Results}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.2/EX6_2.R}
+\tcaption{Normal Distribution Problem}{Normal Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.2/Ex6_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.3}
 \begin{code}
-\tcaption{Expected Value Of X}{Expected Value Of X}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.3/EX6_3.R}
+\tcaption{Find The Value of k given Normal Distribution}{Find The Value of k given Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.3/Ex6_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.4}
 \begin{code}
-\tcaption{Urn Example}{Urn Example}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.4/EX6_4.R}
+\tcaption{Find area under the Normal Distribution curve}{Find area under the Normal Distribution curve}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.4/Ex6_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.5}
 \begin{code}
-\tcaption{Expectation Of Player}{Expectation Of Player}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.5/EX6_5.R}
+\tcaption{Find the Probability given Normal Distribution}{Find the Probability given Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.29}
+\curlable{Exa~6.6}
 \begin{code}
-\tcaption{Joint Distribution Of Y And X1}{Joint Distribution Of Y And X1}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.29/EX6_29.R}
+\tcaption{Using Normal Curve In Reverse}{Using Normal Curve In Reverse}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.6/Ex6_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.30}
+\curlable{Exa~6.7}
 \begin{code}
-\tcaption{Joint Probability Distribution }{Joint Probability Distribution }
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH6/EX6.30/EX6_30.R}
-\end{code}
-
-\chapter{ Generating Functions And Law Of Large Numbers}
-
-\vspace*{10mm}
-\curlable{Exa~7.12}
-\begin{code}
-\tcaption{Probability Of Getting 80 to 120 Sixes}{Probability Of Getting 80 to 120 Sixes}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.12/EX7_12.R}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.7/Ex6_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.13}
+\curlable{Exa~6.8}
 \begin{code}
-\tcaption{Use Chebychev Inequality}{Use Chebychev Inequality}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.13/EX7_13.R}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.14}
+\curlable{Exa~6.9}
 \begin{code}
-\tcaption{How Large Is Sample}{How Large Is Sample}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.14/EX7_14.R}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.9/Ex6_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.17}
+\curlable{Exa~6.11}
 \begin{code}
-\tcaption{Discrete Variate With Density}{Discrete Variate With Density}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.17/EX7_17.R}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.11/Ex6_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.18}
+\curlable{Exa~6.12}
 \begin{code}
-\tcaption{Two Unbiased Dice}{Two Unbiased Dice}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.18/EX7_18.R}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.12/Ex6_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.19}
+\curlable{Exa~6.13}
 \begin{code}
-\tcaption{Chebychev Inequality}{Chebychev Inequality}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH7/EX7.19/EX7_19.R}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.13/Ex6_13.R}
 \end{code}
 
-\chapter{ Special Discrete Probability Distributions}
+\vspace*{10mm}
+\curlable{Exa~6.14}
+\begin{code}
+\tcaption{Applications of Normal Distribution}{Applications of Normal Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.14/Ex6_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.15}
+\begin{code}
+\tcaption{Normal Approximation To the Binomial}{Normal Approximation To the Binomial}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.15/Ex6_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.16}
+\begin{code}
+\tcaption{Normal Approximation To the Binomial}{Normal Approximation To the Binomial}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.16/Ex6_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.17}
+\begin{code}
+\tcaption{Exponential Distribution Problem}{Exponential Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.17/Ex6_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.18}
+\begin{code}
+\tcaption{Gamma Distribution Problem}{Gamma Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.18/Ex6_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.19}
+\begin{code}
+\tcaption{Application of Gamma Distribution}{Application of Gamma Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.19/Ex6_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.20}
+\begin{code}
+\tcaption{Application of Gamma Distribution}{Application of Gamma Distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.20/Ex6_20.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.21}
+\begin{code}
+\tcaption{Cumulative Distribution For Exponential Distribution Problem}{Cumulative Distribution For Exponential Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.21/Ex6_21.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.22}
+\begin{code}
+\tcaption{Lognormal Distribution Problem}{Lognormal Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.22/Ex6_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.23}
+\begin{code}
+\tcaption{Find Percentile From Lognormal DIstribution}{Find Percentile From Lognormal DIstribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.23/Ex6_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.24}
+\begin{code}
+\tcaption{Weibull Distribution Problem}{Weibull Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH6/EX6.24/Ex6_24.R}
+\end{code}
+
+
+\setcounter{chapter}{7}
+\chapter{ Fundamental Sampling Distributions And Data Descriptions}
 
 \vspace*{10mm}
 \curlable{Exa~8.1}
 \begin{code}
-\tcaption{Probability Of Getting At Least 7 Heads}{Probability Of Getting At Least 7 Heads}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.1/EX8_1.R}
+\tcaption{Sample Mode Evaluation}{Sample Mode Evaluation}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.1/Ex8_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.2}
 \begin{code}
-\tcaption{A And B Play A Game}{A And B Play A Game}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.2/EX8_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.3}
-\begin{code}
-\tcaption{Chances Of Having The Claim Accepted Or Rejected}{Chances Of Having The Claim Accepted Or Rejected}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.3/EX8_3.R}
+\tcaption{Sample mean and Sample Variance}{Sample mean and Sample Variance}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.2/Ex8_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.4}
 \begin{code}
-\tcaption{Probability That Student Secures Distinction}{Probability That Student Secures Distinction}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.4/EX8_4.R}
+\tcaption{Central Limit Theorem}{Central Limit Theorem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.4/Ex8_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.5}
+\begin{code}
+\tcaption{Central limit theorem}{Central limit theorem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.5/Ex8_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.6}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.6/EX8_6.R}
+\tcaption{Sampling Distribution of the difference of 2 means}{Sampling Distribution of the difference of 2 means}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.6/Ex8_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.7}
 \begin{code}
-\tcaption{Probability Man Hitting A Target}{Probability Man Hitting A Target}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.7/EX8_7.R}
+\tcaption{The Chi squared Distribution Problem}{The Chi squared Distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.7/Ex8_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.9}
+\curlable{Exa~8.8}
 \begin{code}
-\tcaption{Find Parameter P}{Find Parameter P}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.9/EX8_9.R}
+\tcaption{The t distribution Problem}{The t distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.8/Ex8_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.10}
 \begin{code}
-\tcaption{P For Binomial Variate X}{P For Binomial Variate X}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.10/EX8_10.R}
+\tcaption{The t distribution Problem}{The t distribution Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.10/Ex8_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.11}
+\begin{code}
+\tcaption{Applications of t distribution}{Applications of t distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.11/Ex8_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.12}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.12/EX8_12.R}
+\tcaption{To Construct a Normal quantile quantile plot}{To Construct a Normal quantile quantile plot}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH8/EX8.12/Ex8_12.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~8.21}
-\begin{code}
-\tcaption{Fit Binomial Distribution}{Fit Binomial Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.21/EX8_21.R}
-\end{code}
+\chapter{ One And Two Sample Estimation Problems}
 
 \vspace*{10mm}
-\curlable{Exa~8.22}
+\curlable{Exa~9.2}
 \begin{code}
-\tcaption{Fit A Binomial Distribution}{Fit A Binomial Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.22/EX8_22.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.33}
-\begin{code}
-\tcaption{Proportion Of Days}{Proportion Of Days}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.33/EX8_33.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.34}
-\begin{code}
-\tcaption{Probability That More Than 3 Collect Policy In A Year}{Probability That More Than 3 Collect Policy In A Year}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.34/EX8_34.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.37}
-\begin{code}
-\tcaption{Random Sample Of 5 Page With No Error}{Random Sample Of 5 Page With No Error}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.37/EX8_37.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.41}
-\begin{code}
-\tcaption{Probability That X Have More Than On Value}{Probability That X Have More Than On Value}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.41/EX8_41.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.55}
-\begin{code}
-\tcaption{Fit A Poisson Distribution}{Fit A Poisson Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.55/EX8_55.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.56}
-\begin{code}
-\tcaption{Errors In 1000 Pages}{Errors In 1000 Pages}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.56/EX8_56.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.57}
-\begin{code}
-\tcaption{Fit A Poisson Distribution}{Fit A Poisson Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.57/EX8_57.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.63}
-\begin{code}
-\tcaption{Fit A Negative Binomial Distribution }{Fit A Negative Binomial Distribution }
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH8/EX8.63/EX8_63.R}
-\end{code}
-
-\chapter{ Special Continuous Probability Distributions}
-
-\vspace*{10mm}
-\curlable{Exa~9.1}
-\begin{code}
-\tcaption{ Equation Of Normal Curve}{ Equation Of Normal Curve}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.1/EX9_1.R}
+\tcaption{Confidence Interval Evaluation}{Confidence Interval Evaluation}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.2/Ex9_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.3}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.3/EX9_3.R}
+\tcaption{To Find the sample size}{To Find the sample size}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.3/Ex9_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.4}
 \begin{code}
-\tcaption{X Is A Normal Variate}{X Is A Normal Variate}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.4/EX9_4.R}
+\tcaption{To find 95 Percent bound for mean}{To find 95 Percent bound for mean}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.4/Ex9_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.5}
 \begin{code}
-\tcaption{Batch Of 1000 Plots}{Batch Of 1000 Plots}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.5/EX9_5.R}
+\tcaption{To Find 95 Percent Confidence Interval for mean}{To Find 95 Percent Confidence Interval for mean}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.5/Ex9_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.6}
+\begin{code}
+\tcaption{To Find 99 Percent Confidence Interval}{To Find 99 Percent Confidence Interval}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.6/Ex9_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.7}
 \begin{code}
-\tcaption{Number Of Lamps}{Number Of Lamps}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.7/EX9_7.R}
+\tcaption{To find 95 Percent Prediction Interval}{To find 95 Percent Prediction Interval}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.7/Ex9_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.8}
 \begin{code}
-\tcaption{Probability Of Marks}{Probability Of Marks}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.8/EX9_8.R}
+\tcaption{To find 99 Percent prediction interval}{To find 99 Percent prediction interval}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.8/Ex9_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.9}
+\curlable{Exa~9.10}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.9/EX9_9.R}
+\tcaption{Confidence Interval for the difference between 2 means}{Confidence Interval for the difference between 2 means}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.10/Ex9_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.11}
+\begin{code}
+\tcaption{Confidence Interval Evaluation Using Pooled Estimate of Variance}{Confidence Interval Evaluation Using Pooled Estimate of Variance}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.11/Ex9_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.12}
 \begin{code}
-\tcaption{Mean And Standard Deviation Of The Distribution}{Mean And Standard Deviation Of The Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.12/EX9_12.R}
+\tcaption{Confidence Interval Evaluation For difference of 2 means when their variance is not equal and Unknown}{Confidence Interval Evaluation For difference of 2 means when their variance is not equal and Unknown}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.12/Ex9_12.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.13}
 \begin{code}
-\tcaption{Mean And Standard Deviation}{Mean And Standard Deviation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.13/EX9_13.R}
+\tcaption{To find Confidence Intervals for Paired Observations}{To find Confidence Intervals for Paired Observations}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.13/Ex9_13.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.14}
 \begin{code}
-\tcaption{Percentage Of Students Placed In Second Division}{Percentage Of Students Placed In Second Division}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.14/EX9_14.R}
+\tcaption{Estimating a Proportion for Single Sample}{Estimating a Proportion for Single Sample}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.14/Ex9_14.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.15}
 \begin{code}
-\tcaption{Probability Of the Defectives In The Sample}{Probability Of the Defectives In The Sample}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.15/EX9_15.R}
+\tcaption{Evaluate sample size for estimating a Proportion for Single Sample}{Evaluate sample size for estimating a Proportion for Single Sample}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.15/Ex9_15.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.21}
+\curlable{Exa~9.16}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.21/EX9_21.R}
+\tcaption{Evaluate sample size for estimating a Proportion for Single Sample}{Evaluate sample size for estimating a Proportion for Single Sample}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.16/Ex9_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.18}
+\begin{code}
+\tcaption{To obtain Confidence Interval of Variance}{To obtain Confidence Interval of Variance}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.18/Ex9_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.19}
+\begin{code}
+\tcaption{To find Confidence Interval For the Ratio of 2 Variances}{To find Confidence Interval For the Ratio of 2 Variances}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.19/Ex9_19.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.22}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH9/EX9.22/EX9_22.R}
+\tcaption{Maximum Likelihood Estimation Problem}{Maximum Likelihood Estimation Problem}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH9/EX9.22/Ex9_22.R}
 \end{code}
 
-\chapter{Correlation}
+\chapter{ One And Two Sample Tests Of Hypothesis}
 
 \vspace*{10mm}
-\curlable{Exa~10.1}
+\curlable{Exa~10.3}
 \begin{code}
-\tcaption{Correlation Coefficient}{Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.1/EX10_1.R}
+\tcaption{Test Concerning a Single Mean for Single Sample}{Test Concerning a Single Mean for Single Sample}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.3/Ex10_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.2}
+\curlable{Exa~10.4}
 \begin{code}
-\tcaption{Correct Value Of Correlation Coefficient}{Correct Value Of Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.2/EX10_2.R}
+\tcaption{Test Concerning a Single Mean for Single Sample}{Test Concerning a Single Mean for Single Sample}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.4/Ex10_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.5}
+\begin{code}
+\tcaption{The t statistic for a test on a single mean when Variance is Unknown}{The t statistic for a test on a single mean when Variance is Unknown}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.5/Ex10_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.6}
+\begin{code}
+\tcaption{The 2 Sample Pooled t test}{The 2 Sample Pooled t test}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.6/Ex10_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.7}
+\begin{code}
+\tcaption{Choice of Sample Size for Testing Mean}{Choice of Sample Size for Testing Mean}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.7/Ex10_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.9}
+\begin{code}
+\tcaption{One Sample Test on a Single Proportion}{One Sample Test on a Single Proportion}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.9/Ex10_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.10}
+\begin{code}
+\tcaption{One Sample Test on a Single Proportion}{One Sample Test on a Single Proportion}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.10/Ex10_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.11}
+\begin{code}
+\tcaption{Two Sample Tests On 2 Proportions}{Two Sample Tests On 2 Proportions}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.11/Ex10_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.12}
+\begin{code}
+\tcaption{One and Two Sample Tests Concerning Variance}{One and Two Sample Tests Concerning Variance}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.12/Ex10_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~10.13}
+\begin{code}
+\tcaption{To do Hypothesis Testing for 2 variances}{To do Hypothesis Testing for 2 variances}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.13/Ex10_13.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~10.14}
 \begin{code}
-\tcaption{Correlation Coefficient}{Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.14/EX10_14.R}
+\tcaption{Test For Homogeneity}{Test For Homogeneity}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.14/Ex10_14.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~10.15}
 \begin{code}
-\tcaption{Correlation Coefficient Between X And Y}{Correlation Coefficient Between X And Y}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.15/EX10_15.R}
+\tcaption{Testing for several proportion}{Testing for several proportion}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH10/EX10.15/Ex10_15.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~10.17}
-\begin{code}
-\tcaption{Rank Correlation Coefficient}{Rank Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.17/EX10_17.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.18}
-\begin{code}
-\tcaption{Rank Correlation Between 3 Judges}{Rank Correlation Between 3 Judges}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.18/EX10_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.19}
-\begin{code}
-\tcaption{Rank Correlation Coefficient}{Rank Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH10/EX10.19/EX10_19.R}
-\end{code}
-
-\chapter{ Linear And Curvilinear Regression}
+\chapter{ Simple Linear Regression And Correlation}
 
 \vspace*{10mm}
 \curlable{Exa~11.1}
 \begin{code}
-\tcaption{Equations Of Two Lines Of Regression}{Equations Of Two Lines Of Regression}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.1/EX11_1.R}
+\tcaption{To Estimate the Regression Line}{To Estimate the Regression Line}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.1/Ex11_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.2}
 \begin{code}
-\tcaption{Record An Analysis On Correlation Data}{Record An Analysis On Correlation Data}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.2/EX11_2.R}
+\tcaption{Confidence Interval for Slope of Regression Line}{Confidence Interval for Slope of Regression Line}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.2/Ex11_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.3}
 \begin{code}
-\tcaption{Correlation Coefficient}{Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.3/EX11_3.R}
+\tcaption{Hypothesis Testing On Slope Of Regression Line}{Hypothesis Testing On Slope Of Regression Line}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.3/Ex11_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.4}
+\begin{code}
+\tcaption{Confidence Interval For Intercept Of Regression Line}{Confidence Interval For Intercept Of Regression Line}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.4/Ex11_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.5}
+\begin{code}
+\tcaption{Hypothesis Testing on Intercept of Regression line}{Hypothesis Testing on Intercept of Regression line}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.5/Ex11_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.6}
 \begin{code}
-\tcaption{Coefficient Of Regression And Regression Equation}{Coefficient Of Regression And Regression Equation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.6/EX11_6.R}
+\tcaption{To find the confidence interval of the mean response}{To find the confidence interval of the mean response}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.6/Ex11_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.7}
 \begin{code}
-\tcaption{Fit Exponential Curve}{Fit Exponential Curve}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH11/EX11.7/EX11_7.R}
+\tcaption{To Find Prediction Interval}{To Find Prediction Interval}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.7/Ex11_7.R}
 \end{code}
 
-\chapter{ Additional Topics On Correlation And Regression}
+\vspace*{10mm}
+\curlable{Exa~11.8}
+\begin{code}
+\tcaption{Computation of Lack of Fit Sum of Squares}{Computation of Lack of Fit Sum of Squares}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.8/Ex11_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.9}
+\begin{code}
+\tcaption{Transformation To Linear Regression Model}{Transformation To Linear Regression Model}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.9/Ex11_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.10}
+\begin{code}
+\tcaption{To find Correlation Coefficient}{To find Correlation Coefficient}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.10/Ex11_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.11}
+\begin{code}
+\tcaption{To do Hypothesis Testing of linear association between two variables}{To do Hypothesis Testing of linear association between two variables}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH11/EX11.11/Ex11_11.R}
+\end{code}
+
+\chapter{ Multiple Linear Regression And Certain Non Linear Regression Models}
+
+\vspace*{10mm}
+\curlable{Exa~12.1}
+\begin{code}
+\tcaption{Estimation Of Equation Of Regression Line and predict values}{Estimation Of Equation Of Regression Line and predict values}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.1/Ex12_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.2}
+\begin{code}
+\tcaption{To find the estimate of polynomial regression}{To find the estimate of polynomial regression}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.2/Ex12_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.3}
+\begin{code}
+\tcaption{Estimate the regression coefficients in polynomial model}{Estimate the regression coefficients in polynomial model}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.3/Ex12_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.4}
+\begin{code}
+\tcaption{Linear regression model using matrices}{Linear regression model using matrices}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.4/Ex12_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.5}
+\begin{code}
+\tcaption{To test the hypothesis on the slope of the regression model}{To test the hypothesis on the slope of the regression model}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.5/Ex12_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.6}
+\begin{code}
+\tcaption{To Construct Confidence Interval for Mean Response}{To Construct Confidence Interval for Mean Response}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.6/Ex12_6.R}
+\end{code}
 
 \vspace*{10mm}
 \curlable{Exa~12.7}
 \begin{code}
-\tcaption{Partial And Multiple Correlation Coefficient}{Partial And Multiple Correlation Coefficient}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.7/EX12_7.R}
+\tcaption{Prediction interval Evaluation}{Prediction interval Evaluation}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.7/Ex12_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~12.8}
 \begin{code}
-\tcaption{Distribution}{Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.8/EX12_8.R}
+\tcaption{To show Analysis of Variance Table for Grain Radius Data}{To show Analysis of Variance Table for Grain Radius Data}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.8/Ex12_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~12.9}
 \begin{code}
-\tcaption{Regression Equation}{Regression Equation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH12/EX12.9/EX12_9.R}
+\tcaption{To find the model for data which have 3 levels in a variable}{To find the model for data which have 3 levels in a variable}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.9/Ex12_9.R}
 \end{code}
 
-\chapter{ Theory Of Attributes}
+\vspace*{10mm}
+\curlable{Exa~12.10}
+\begin{code}
+\tcaption{To predict all possible regression lines}{To predict all possible regression lines}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.10/Ex12_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.11}
+\begin{code}
+\tcaption{To model the data set using forward selection}{To model the data set using forward selection}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.11/Ex12_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.12}
+\begin{code}
+\tcaption{Cp Statistic}{Cp Statistic}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.12/Ex12_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.13}
+\begin{code}
+\tcaption{Logistic regression model}{Logistic regression model}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH12/EX12.13/Ex12_13.R}
+\end{code}
+
+\chapter{ One Factor Experiment General}
+
+\vspace*{10mm}
+\curlable{Exa~13.1}
+\begin{code}
+\tcaption{One way ANOVA}{One way ANOVA}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.1/Ex13_1.R}
+\end{code}
 
 \vspace*{10mm}
 \curlable{Exa~13.2}
 \begin{code}
-\tcaption{Finding Frequencies}{Finding Frequencies}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.2/EX13_2.R}
+\tcaption{One way ANOVA}{One way ANOVA}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.2/Ex13_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.11}
+\curlable{Exa~13.3}
 \begin{code}
-\tcaption{Find if A And B Are Independent Or Positively Associated Or Negatively Associated}{Find if A And B Are Independent Or Positively Associated Or Negatively Associated}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.11/EX13_11.R}
+\tcaption{Bartlett Test}{Bartlett Test}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.3/Ex13_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.12}
+\curlable{Exa~13.4}
 \begin{code}
-\tcaption{Heredity In A Family}{Heredity In A Family}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.12/EX13_12.R}
+\tcaption{Contrasts Sum Of Squares Corresponding to Orthogonal Contrasts}{Contrasts Sum Of Squares Corresponding to Orthogonal Contrasts}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.4/Ex13_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.14}
+\curlable{Exa~13.5}
 \begin{code}
-\tcaption{Coefficient Of Association}{Coefficient Of Association}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.14/EX13_14.R}
+\tcaption{Dunnett Test}{Dunnett Test}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.5/Ex13_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~13.15}
+\curlable{Exa~13.6}
 \begin{code}
-\tcaption{Coefficient Of Association}{Coefficient Of Association}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH13/EX13.15/EX13_15.R}
+\tcaption{Randomized Complete Block Diagram}{Randomized Complete Block Diagram}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.6/Ex13_6.R}
 \end{code}
 
-\chapter{ Large Sample Theory}
+\vspace*{10mm}
+\curlable{Exa~13.7}
+\begin{code}
+\tcaption{Random Effects Model}{Random Effects Model}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH13/EX13.7/Ex13_7.R}
+\end{code}
+
+\chapter{ Factorial Experiments Two Or More Factors}
 
 \vspace*{10mm}
 \curlable{Exa~14.1}
 \begin{code}
-\tcaption{Limits Between Which Probability 3 Or 4 Lies}{Limits Between Which Probability 3 Or 4 Lies}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.1/EX14_1.R}
+\tcaption{Two Factor Analysis of Variance}{Two Factor Analysis of Variance}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.1/Ex14_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~14.2}
 \begin{code}
-\tcaption{Percentage Of Bad Pineapples}{Percentage Of Bad Pineapples}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.2/EX14_2.R}
+\tcaption{Single Degree Of Freedom Sum Of Squares}{Single Degree Of Freedom Sum Of Squares}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.2/Ex14_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.3}
+\begin{code}
+\tcaption{Evaluate Analysis of Variance table and derive conclusion also test on main effects}{Evaluate Analysis of Variance table and derive conclusion also test on main effects}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.3/Ex14_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~14.4}
 \begin{code}
-\tcaption{Rice And Wheat Eaters}{Rice And Wheat Eaters}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.4/EX14_4.R}
+\tcaption{Anova for 3 factor experiment}{Anova for 3 factor experiment}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.4/Ex14_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.5}
+\begin{code}
+\tcaption{Pooling in Multi factor Model}{Pooling in Multi factor Model}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.5/Ex14_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~14.6}
 \begin{code}
-\tcaption{Number Of Observations}{Number Of Observations}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.6/EX14_6.R}
+\tcaption{Factorial Experiments for Random Effects}{Factorial Experiments for Random Effects}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH14/EX14.6/Ex14_6.R}
+\end{code}
+
+\chapter{ 2 to the power k Factorial Experiments and Fractions}
+
+\vspace*{10mm}
+\curlable{Exa~15.1}
+\begin{code}
+\tcaption{2 squared Factorial Experiment}{2 squared Factorial Experiment}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.1/Ex15_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.7}
+\curlable{Exa~15.2}
 \begin{code}
-\tcaption{Test For Significance For Difference Of Proportions}{Test For Significance For Difference Of Proportions}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.7/EX14_7.R}
+\tcaption{Factorial Experiment in a Regression Setting}{Factorial Experiment in a Regression Setting}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.2/Ex15_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.10}
+\curlable{Exa~15.4}
 \begin{code}
-\tcaption{Test For Significance For Difference Of Proportions}{Test For Significance For Difference Of Proportions}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.10/EX14_10.R}
+\tcaption{Standard Errors of the least Squares Regression Coefficients}{Standard Errors of the least Squares Regression Coefficients}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.4/Ex15_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.15}
+\curlable{Exa~15.6}
 \begin{code}
-\tcaption{Proportion Of Failures}{Proportion Of Failures}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.15/EX14_15.R}
+\tcaption{Use a half replicate to study the effects of five factors each at 2 levels on some response}{Use a half replicate to study the effects of five factors each at 2 levels on some response}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.6/Ex15_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.18}
+\curlable{Exa~15.7}
 \begin{code}
-\tcaption{Arithmetic Mean And Standard Deviation}{Arithmetic Mean And Standard Deviation}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.18/EX14_18.R}
+\tcaption{To construct a 2 level screening design with 6 variables containing 12 design points}{To construct a 2 level screening design with 6 variables containing 12 design points}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.7/Ex15_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.26}
+\curlable{Exa~15.8}
 \begin{code}
-\tcaption{Food Expenditure Of Two Populations}{Food Expenditure Of Two Populations}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.26/EX14_26.R}
+\tcaption{Response Surface Analysis}{Response Surface Analysis}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH15/EX15.8/Ex15_8.R}
+\end{code}
+
+\chapter{ Non Parametric Statistics}
+
+\vspace*{10mm}
+\curlable{Exa~16.1}
+\begin{code}
+\tcaption{Use sign test to test the hypothesis}{Use sign test to test the hypothesis}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.1/Ex16_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.28}
+\curlable{Exa~16.2}
 \begin{code}
-\tcaption{Difference In Average Weights Of Items}{Difference In Average Weights Of Items}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.28/EX14_28.R}
+\tcaption{Use Sign test to test the hypothesis}{Use Sign test to test the hypothesis}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.2/Ex16_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~14.30}
+\curlable{Exa~16.3}
 \begin{code}
-\tcaption{Relating Heights Of Country A And Country B}{Relating Heights Of Country A And Country B}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH14/EX14.30/EX14_30.R}
-\end{code}
-
-\chapter{ Exact Sampling Distributions I}
-
-\vspace*{10mm}
-\curlable{Exa~15.9}
-\begin{code}
-\tcaption{Precision Of Instrument}{Precision Of Instrument}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.9/EX15_9.R}
+\tcaption{Use signed rank test to test the hypothesis}{Use signed rank test to test the hypothesis}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.3/Ex16_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~15.12}
+\curlable{Exa~16.4}
 \begin{code}
-\tcaption{Digits And Frequency In Telephone Directory}{Digits And Frequency In Telephone Directory}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.12/EX15_12.R}
+\tcaption{Use signed rank test to test the hypothesis}{Use signed rank test to test the hypothesis}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.4/Ex16_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~15.14}
+\curlable{Exa~16.5}
 \begin{code}
-\tcaption{Survey Of 800 Families}{Survey Of 800 Families}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.14/EX15_14.R}
+\tcaption{To perform Wilcoxin rank sum test}{To perform Wilcoxin rank sum test}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.5/Ex16_5.R}
 \end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.15}
-\begin{code}
-\tcaption{Fit a Poisson Distribution}{Fit a Poisson Distribution}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.15/EX15_15.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.18}
-\begin{code}
-\tcaption{8000 Graduates}{8000 Graduates}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.18/EX15_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.20}
-\begin{code}
-\tcaption{Two Researchers}{Two Researchers}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH15/EX15.20/EX15_20.R}
-\end{code}
-
-\chapter{ Exact Sampling Distributions II}
 
 \vspace*{10mm}
 \curlable{Exa~16.6}
 \begin{code}
-\tcaption{Sales Of Soap Bars Advertising Campaign}{Sales Of Soap Bars Advertising Campaign}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.6/EX16_6.R}
+\tcaption{Kruskal Wallis Test}{Kruskal Wallis Test}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.6/Ex16_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~16.7}
 \begin{code}
-\tcaption{Sample Of 10 Boys IQ}{Sample Of 10 Boys IQ}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.7/EX16_7.R}
+\tcaption{Runs Test}{Runs Test}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.7/Ex16_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.10}
+\curlable{Exa~16.8.9}
 \begin{code}
-\tcaption{Gain In Weights By Diet A And B}{Gain In Weights By Diet A And B}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.10/EX16_10.R}
+\tcaption{Rank Correlation Coefficient}{Rank Correlation Coefficient}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH16/EX16.8.9/Ex16_8&9.R}
+\end{code}
+
+\chapter{ Statistical Quality Control}
+
+\vspace*{10mm}
+\curlable{Exa~17.1}
+\begin{code}
+\tcaption{Expected Value of samples required to detect the shift}{Expected Value of samples required to detect the shift}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.1/Ex17_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.12}
+\curlable{Exa~17.2}
 \begin{code}
-\tcaption{Heights Of Sailors And Soldiers}{Heights Of Sailors And Soldiers}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.12/EX16_12.R}
+\tcaption{ Xbar and S chart}{ Xbar and S chart}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.2/Ex17_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.15}
+\curlable{Exa~17.3}
 \begin{code}
-\tcaption{Increase In Weights Of Animals By Food A And Food B}{Increase In Weights Of Animals By Food A And Food B}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.15/EX16_15.R}
+\tcaption{UCL and LCL for preliminary control chart value}{UCL and LCL for preliminary control chart value}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.3/Ex17_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.18}
+\curlable{Exa~17.4}
 \begin{code}
-\tcaption{Random Sample Of 625 Pairs Of Observations}{Random Sample Of 625 Pairs Of Observations}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.18/EX16_18.R}
+\tcaption{Find Sample Size per subgroup}{Find Sample Size per subgroup}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.4/Ex17_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.26}
+\curlable{Exa~17.5}
 \begin{code}
-\tcaption{F Test}{F Test}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.26/EX16_26.R}
+\tcaption{Control Charts for Defects C chart}{Control Charts for Defects C chart}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH17/EX17.5/Ex17_5.R}
+\end{code}
+
+\chapter{ Bayesian Statistics}
+
+\vspace*{10mm}
+\curlable{Exa~18.1}
+\begin{code}
+\tcaption{To find the Posterior probability distribution}{To find the Posterior probability distribution}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.1/Ex18_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~16.27}
+\curlable{Exa~18.4}
 \begin{code}
-\tcaption{F Test And T Test}{F Test And T Test}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH16/EX16.27/EX16_27.R}
-\end{code}
-
-
-\setcounter{chapter}{19}
-\chapter{ Some Additional Topics}
-
-\vspace*{10mm}
-\curlable{Exa~20.1}
-\begin{code}
-\tcaption{Fit A Straight Line}{Fit A Straight Line}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX20.1/EX20_1.R}
+\tcaption{Posterior Mean and Posterior Mode}{Posterior Mean and Posterior Mode}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.4/Ex18_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~20.2}
+\curlable{Exa~18.6}
 \begin{code}
-\tcaption{Fit A Second Degree Parabola}{Fit A Second Degree Parabola}
-\lstinputlisting{../Fundamentals_Of_Mathematical_Statistics_by_S.c._Gupta,_V.k._Kapoor/CH20/EX20.2/EX20_2.R}
+\tcaption{To find 95 percent Bayesian interval}{To find 95 percent Bayesian interval}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.6/Ex18_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~18.7}
+\begin{code}
+\tcaption{To find the 95 percent Bayesian interval for mu given the various parameter}{To find the 95 percent Bayesian interval for mu given the various parameter}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.7/Ex18_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~18.8}
+\begin{code}
+\tcaption{To find Bayes estimates of p}{To find Bayes estimates of p}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.8/Ex18_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~18.9}
+\begin{code}
+\tcaption{To find Bayes estimates of p}{To find Bayes estimates of p}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.9/Ex18_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~18.11}
+\begin{code}
+\tcaption{To find Bayes estimates of p under Absolute Error loss}{To find Bayes estimates of p under Absolute Error loss}
+\lstinputlisting{../Probability_And_Statistics_For_Engineers_And_Scientists_by_Ronald_E._Walpole,_Raymond_H._Myers,_Sharon_L._Myers,_Keying_Ye/CH18/EX18.11/Ex18_11.R}
 \end{code}
 
