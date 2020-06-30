@@ -1,25 +1,25 @@
-#page 206
+#Page No. 206
 
 library(matlib)
+
 coeff<-matrix(c(-2,3,-1,1,2,-1,-2,-1,1),nrow=3,byrow = TRUE)
 b<- matrix(c(1,4,-3),c(3,1))
-print(coeff)
-first.D<- det(coeff)
-print(first.D)
+first_D <- det(coeff)
 
 coeff[,1]<- b;coeff
-Second.D<-det(coeff)
-x1<- Second.D / first.D
-print(x1)
+Second_D <-det(coeff)
+x1<- Second_D / first_D
 coeff<-matrix(c(-2,3,-1,1,2,-1,-2,-1,1),nrow=3,byrow = TRUE)
 
 coeff[,2]<- b;coeff
-third.D<- det(coeff)
-x2<- third.D / first.D
-print(x2)
+third_D <- det(coeff)
+x2<- third_D / first_D
 coeff<-matrix(c(-2,3,-1,1,2,-1,-2,-1,1),nrow=3,byrow = TRUE)
 
-coeff[,3]<- b;coeff
-fourth.D<-det(coeff)
-x3<- fourth.D / first.D
-print(x3)
+coeff[,3] <- b;coeff
+fourth_D<-det(coeff)
+x3<- fourth_D / first_D
+
+cat("X1 is:", x1, "\n")
+cat("X2 is:", x2, "\n")
+cat("X3 is:", x3)

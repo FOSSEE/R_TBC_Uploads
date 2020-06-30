@@ -1,0 +1,10 @@
+a, r, n, number, p, k, i, num, phi, q, rd, ans
+
+calculate()
+a, r, n, c, ans, var
+
+gcd()
+x, y, temp
+
+pos_prime()
+p, n, sum, c, x

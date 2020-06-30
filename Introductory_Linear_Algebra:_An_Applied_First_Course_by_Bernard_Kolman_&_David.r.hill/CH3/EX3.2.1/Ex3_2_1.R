@@ -1,20 +1,13 @@
-#page 196
-
+#Page No. 196
 
 library(matlib)
+
 A<-matrix(c(3,4,7,-1,5,1,2,6,2),c(3,3))
 
-D<- minor(A,1,2)
-print(D)
-D2<- minor(A,2,3)
-print(D2)
-D3<- minor(A,3,1)
-print(D3)
+A12 <- cofactor(A,1,2)
+A23 <- cofactor(A,2,3)
+A31 <- cofactor(A,3,1)
 
-C1<-cofactor(A,1,2)
-print(C1)
-C2<-cofactor(A,2,3)
-print(C2)
-C3<-cofactor(A,3,1)
-print(C3)
+solution <- array(c(A12, A23, A31), dim = c(3,1))
+cat("Cofactors are: ", solution)
 

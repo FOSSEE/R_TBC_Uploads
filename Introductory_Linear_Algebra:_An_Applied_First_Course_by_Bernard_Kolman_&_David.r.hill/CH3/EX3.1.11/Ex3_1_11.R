@@ -1,4 +1,4 @@
-#page 187
+#Page No. 187
 
 A<-matrix(c(1,-1,1,2,0,2,3,7,3) , nrow=3, ncol=3)
 
@@ -12,19 +12,7 @@ check = function(a,b,d)
       y=identical(a,b)
       z=identical(b,d)
       
-      if(x==TRUE)
-      {
-        ziz<-det(A)
-        ziz=0
-        return(ziz)
-      }
-      if(y==TRUE)
-      {
-        ziz<-det(A)
-        ziz=0
-        return(ziz)
-      }
-      if(z==TRUE)
+      if(x==TRUE || y==TRUE || z==TRUE)
       {
         ziz<-det(A)
         ziz=0
@@ -33,4 +21,4 @@ check = function(a,b,d)
       else
        return(det(A))
 }
-check(A) 
+cat("Determinant is: ", check(A)) 

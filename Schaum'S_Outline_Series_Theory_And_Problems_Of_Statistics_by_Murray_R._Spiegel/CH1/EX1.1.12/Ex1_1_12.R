@@ -1,0 +1,17 @@
+#PAGE=11
+A<-48.0*943
+round(A,digits=-2)
+b<-8.35/98
+round(b,digits=3)
+c<-28*4193*182
+formatC(c,format='e',digits=1)
+d<-(526.7*0.001280)/0.000034921
+formatC(d,format='e',digits=3)
+e<-((1.47562-1.47322)*4895.36)/0.000159180
+formatC(e,format='e',digits=2)
+f<-(4.38**2)/5+(5.482**2)/6
+round(f,digits=2)
+g<-3.1416*sqrt(71.35)
+round(g,digits=2)
+h<-sqrt(128.5-89.24)
+round(h,digits=2)

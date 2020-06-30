@@ -1,6 +1,7 @@
-#page 237
+#Page No. 237
 
 library(matlib)
+
 u<-c(2,3,2,-1)
 v<-c(4,2,1,3)
 
@@ -11,7 +12,6 @@ DOT= function(u,v)
   
 }
 sol<- DOT(u,v)
-print(sol)
 
 magnitude =function(u)
 {
@@ -19,9 +19,10 @@ magnitude =function(u)
   s1<-0
   m<-0
   for(num in u)
-  { s1<- num^2
-  sum=sum+s1  
-  next }
+  {  s1<- num^2
+     sum=sum+s1  
+      next
+     }
   m<-sqrt(sum)
   return(m)
 } 
@@ -29,12 +30,21 @@ magnitude =function(u)
 mag_u<- magnitude(u)
 mag_v<- magnitude(v)
 mag_UV <- mag_u * mag_v 
-print(mag_UV)
 
 if(sol <= mag_UV)
+{
   cos_angle<- abs(sol/mag_UV )
-  if(cos_angle >= -1 && cos_angle <= 1)   range -1<=angle<=1
+
+  if(cos_angle >= -1 && cos_angle <= 1)
   {
-    print(cos_angle)
-    angle(u,v,degree = TRUE) }
-}  
+      print("vectors are nonzero")
+      cat("Angle Theta: ",cos_angle, "\n")
+      
+  }else{
+      print("vectors are not nonzero")
+    }
+
+}
+
+#the answer in the textbook may vary due to difference in representation of final value
+

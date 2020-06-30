@@ -1,17 +1,19 @@
-#page 292
+#Page No. 292
 
 s1<-matrix(c(1,0,0,0),c(2,2))
 s2<-matrix(c(0,1,1,0),c(2,2))
 s3<-matrix(c(0,0,0,1),c(2,2))
 
-A<-matrix(c('a','b','b','c'),c(2,2))
-A
+matrix_model<-matrix(c('a','b','b','c'),c(2,2))
 
-d1<-3
-d2<-6
-d3<-9
+a<-3
+b<-6
+c<-9
 
-span_S <- (d1*s1) + (d2*s2) + (d3*s3) 
+span_S <- (a * s1) + (b * s2) + (c * s3) 
+print(matrix_model)
 print(span_S) 
+
+#the answer in the textbook may vary due to assumption of variables(a,b,c,d) as real numbers
 
 

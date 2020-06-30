@@ -1,11 +1,10 @@
-#page 96
+#Page No. 96
 
 A<-matrix(c(1,0,5,1,2,5,1,3,1),c(3,3))
-print(A)
+
 Ainv<- solve(A)
+
+print("Inverse of matrix :")
 print(Ainv)
-LHS<- A*Ainv
-RHS<- Ainv*A
 
-all.equal(LHS,RHS) 
-
+#the answer in the textbook may vary due to difference in representation

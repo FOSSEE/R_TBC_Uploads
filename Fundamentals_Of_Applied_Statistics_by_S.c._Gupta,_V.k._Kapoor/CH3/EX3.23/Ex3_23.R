@@ -1,0 +1,21 @@
+#Page no. 3.39
+rm(list=ls())
+food_item<-c("Rice","Wheat","Dal","Ghee","Oil","spices","Milk","Fish","Vegetable","refreshment")
+wht<-c(33,11,8,5,5,3,7,9,9,10)
+per_inc_price<-c(180,202,115,212,175,517,260,426,332,279)
+group<-c("Food","Clothing",'Fuel&light',"Rent&Rates","Misll")
+index<-c(NA,310,220,150,300)
+weight<-c(60,5,8,9,18)
+cal<-data.frame("w"=wht,per_inc_price,"I"=per_inc_price+100,"IW"=(per_inc_price+100)*wht,row.names=food_item)
+Total<-c(sum(wht),NA,NA,sum(cal$IW))
+cal<-rbind(cal,"Total"=Total)
+cal
+index_food_grp<-sum((per_inc_price+100)*wht)/sum(wht)
+index_food_grp
+index[1]<-index_food_grp
+calcultion<-data.frame("I"=index,"w"=weight,"Iw"=index*weight,row.names=group)
+total<-c("",sum(weight),sum(index*weight))
+calcultion<-rbind(calcultion,"Total"=total)
+calcultion
+cost_of_living<-sum(index*weight)/sum(weight)
+cost_of_living

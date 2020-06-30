@@ -1,16 +1,14 @@
-#page 457
+#Page No. 457
 
-library(matrixcalc)
 A<-matrix(c(1,0,0,0,3,-2,0,-2,3),c(3,3))
-A
 
 ev<-eigen(A)
-ev
-vect= ev$vectors  
+vect<- round(ev$vectors, 0)  
+value<- Re(ev$values)
 
-L1<-1
-L1_mat<-matrix(c(L1-1,0,0,0,L1-3,-2,0,-2,L1-3),c(3,3))
-L1_mat
-matrix.rank(L1_mat) 
+cat("Eigen values: ", value, "\n")
+print(vect)
+
+
 
 

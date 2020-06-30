@@ -1,4 +1,4 @@
-#page 127
+#Page No. 127
 
 library(igraph ,quietly=TRUE)
 
@@ -7,3 +7,4 @@ simple.graph<- graph_from_literal(P1-+P5 ,P3-+P1 ,P2-+P5, P2-+P5, P6-+P2,P6-+P4,
 plot.igraph(simple.graph)
 get.adjacency(simple.graph)  
 
+#the answer in the textbook may vary due to difference in representation

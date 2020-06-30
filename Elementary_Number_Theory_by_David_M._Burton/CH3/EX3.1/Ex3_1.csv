@@ -1,0 +1,13 @@
+a, p, prime_factors
+
+canonical_form()
+y, arr, p
+
+prime_numbers()
+n, x, prime_nums, i
+
+new_y()
+n, ar, i
+
+check_prime()
+h, flag, i

@@ -1,4 +1,4 @@
-#page 32 
+#Page No. 32 
 
 A<- array(c(3,4,5,8))
 sum<-0

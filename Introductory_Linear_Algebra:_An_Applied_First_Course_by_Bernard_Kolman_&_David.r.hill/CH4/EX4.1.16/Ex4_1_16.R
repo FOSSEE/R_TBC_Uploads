@@ -1,6 +1,7 @@
-#page 226
+#Page No. 226
 
 library(matlib)
+
 x<-c(-3,4)
 
 unit_vector =function(u)
@@ -17,4 +18,4 @@ unit_vector =function(u)
   return(sol)
 }
 
-unit_vector(x)
+cat("Ans: ", unit_vector(x))

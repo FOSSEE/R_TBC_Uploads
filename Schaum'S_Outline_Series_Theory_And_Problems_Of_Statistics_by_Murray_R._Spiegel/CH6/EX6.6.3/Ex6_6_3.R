@@ -1,0 +1,15 @@
+#PAGE=129
+r=6
+w=4
+bb=5
+x=r+w+bb
+a=r/x
+a
+b=w/x
+b
+c=bb/x
+c
+d=1-a
+d
+e=(r+w)/(x)
+e

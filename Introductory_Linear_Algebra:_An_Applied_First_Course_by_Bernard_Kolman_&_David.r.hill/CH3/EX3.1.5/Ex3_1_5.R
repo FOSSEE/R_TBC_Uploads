@@ -1,4 +1,4 @@
-#page 184
+#Page No. 184
 
 a11<-2
 a21<-4
@@ -15,4 +15,4 @@ F_Determinant= function(x,y)
 
 }
 
-F_Determinant(A) 
+cat("Determinant : ",F_Determinant(A)) 

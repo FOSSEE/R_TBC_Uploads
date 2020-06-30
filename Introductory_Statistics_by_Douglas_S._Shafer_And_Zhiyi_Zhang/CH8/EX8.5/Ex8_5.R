@@ -1,4 +1,4 @@
-#Page 393
+#Page 392
 mean<-8.1
 mean_exp<-8.2
 sd<-0.22

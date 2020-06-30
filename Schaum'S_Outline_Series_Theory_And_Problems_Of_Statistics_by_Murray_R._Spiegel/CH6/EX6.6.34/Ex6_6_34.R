@@ -1,0 +1,10 @@
+#PAGE=141
+n=5
+r=3
+a=1/6
+b=1-a
+f1=factorial(n)/(factorial(r)*factorial(n-r))
+x=a**r
+y=b**(n-r)
+p=x*y*f1
+p

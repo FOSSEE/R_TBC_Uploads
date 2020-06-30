@@ -1,8 +1,7 @@
-#page 262
+#Page No. 262
 
 library(utils)
 library(matlib)
-
 
 P1<-matrix(c(2,2,4),byrow = T)
 P2<-matrix(c(-1,0,5),byrow= T)
@@ -38,7 +37,6 @@ CrossProduct<- function(x, y, i=1:3)
 }
 
 new<-CrossProduct(u,v) 
-new 
 
 Area.triangle= function(x)
 {
@@ -52,5 +50,6 @@ Area.triangle= function(x)
   return(sqrt(half))
 }  
 
-print("The area of Triangle is :") 
-Area.triangle(new)              
+cat("The area of Triangle is: ", Area.triangle(new), "\n")       
+
+#the answer in the textbook may vary due to difference in representation

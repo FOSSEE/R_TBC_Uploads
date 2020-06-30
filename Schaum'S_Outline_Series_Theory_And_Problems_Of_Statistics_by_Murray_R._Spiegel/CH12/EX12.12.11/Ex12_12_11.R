@@ -1,0 +1,23 @@
+#PAGE=253
+n1=315
+n2=108
+n3=101
+n4=32
+n=n1+n2+n3+n4
+k1=9
+k2=3
+k3=3
+k4=1
+x=k1+k2+k3+k4
+x1=(k1*n)/x
+x2=(k2*n)/x
+x3=(k3*n)/x
+x4=(k4*n)/x
+y=c(x1,x2,x3,x4)
+z=c(n1,n2,n3,n4)
+z=z^2
+l=z/y
+l=sum(l)
+l=l-n
+l=round(l,digits = 2)
+l

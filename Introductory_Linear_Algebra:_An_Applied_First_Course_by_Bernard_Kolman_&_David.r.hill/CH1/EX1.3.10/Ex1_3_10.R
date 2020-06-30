@@ -7,11 +7,12 @@ AB<- A%*%B
 BA<- B%*%A
  
 Check=function(x,y)
-{ w<-TRUE
+{ 
   w<-identical(x,y)
   return(w)
 }
 
-Check(AB,BA)
-  
+ans <- Check(AB,BA)
+print(ans)  
 
+#The answer in the textbook may vary due to difference in representation

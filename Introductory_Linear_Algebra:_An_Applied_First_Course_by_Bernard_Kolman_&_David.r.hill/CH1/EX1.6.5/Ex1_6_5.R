@@ -1,4 +1,4 @@
-#page 65
+#Page No. 65
 
 A<-matrix(c(0,0,2,2,2,0,2,0,3,2,-5,-6,-4,3,2,9,1,4,4,7),c(4,5))
 
@@ -29,7 +29,6 @@ pivot = function(x,y)
       
 }
 c<-Pcol(A)
-print(c)
 p<-pivot(A)
 
 A2=A
@@ -38,38 +37,29 @@ A2=A
   
 A2[c(1),c(1,2,3,4,5)]<-c
 A2[c(3),c(1,2,3,4,5)]<-a
-print(A2) 
 
 mul<- A2[c(1),c(1,2,3,4,5)] * 1/p
 A2[c(1),c(1,2,3,4,5)]<-mul;A2
-print(A2) 
 
 A3<-A2
 A3[c(4),c(1,2,3,4,5)]<- (-2)*A3[c(1),c(1,2,3,4,5)] + A3[c(4),c(1,2,3,4,5)]
-print(A3) 
-
 
 B<- A3[c(2,3,4),c(1,2,3,4,5)]
 
 c<-Pcol(B)
-print(c+1)
 p2<-pivot(B)
 
 a<-B[c(1),c(1,2,3,4,5)]
 b<-B[c(2),c(1,2,3,4,5)]
 B[c(1),c(1,2,3,4,5)]<-b
 B[c(2),c(1,2,3,4,5)]<-a
-print(B)
  
 app12<-B[c(1),c(1,2,3,4,5)]* 1/p2
 B[c(1),c(1,2,3,4,5)]<-app12;B
 B[c(3),c(1,2,3,4,5)]<- (B[c(1),c(1,2,3,4,5)]*2 )+ B[c(3),c(1,2,3,4,5)]
-print(B)
-
 
 C<- B[c(2,3),c(1,2,3,4,5)]
 c<-Pcol(C)
-print(c+2)
 p3<-pivot(C)
 
 adik<- C[c(1),c(1,2,3,4,5)] * 1/p3
@@ -89,8 +79,10 @@ cbind(k,fourth)
 z<-cbind(k,fourth) 
 solution<-t(z) 
 
+print("Row echelon matrix :")
 print(solution)
 
+#the answer in the textbook may vary due to difference in representation
 
 
 

@@ -1,0 +1,5 @@
+factorize()
+n, uy, ux, xn, yn, c, m
+
+gcd()
+x, y, temp

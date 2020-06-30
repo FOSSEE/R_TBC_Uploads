@@ -1,4 +1,4 @@
-#page 225
+#Page No. 225
 
 u<-c(2,-4)
 v<-c(4,2)
@@ -10,7 +10,11 @@ DOT= function(u,v)
   
 }
 sol<- DOT(u,v)
-print(sol)
 
-if(sol==0)
+if(sol==0){
+  cat("Ans:" , sol, "\n")
   print("vectors are orthogonal")
+}else{
+  print("vectors are non-orthogonal")
+}
+  

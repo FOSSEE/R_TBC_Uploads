@@ -1,0 +1,207 @@
+#PAGE=390
+a=c(271,230,198,275,282,225,284,219,253,216,262,288,236,291,253,224,264,295,211,252,294,243,272,268)
+a=sort(a)
+b=median(a)
+c1=0
+c2=0
+p=1/2
+q=1-p
+if(a[1]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+
+if(a[2]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+
+if(a[3]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[4]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[5]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[6]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[7]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[8]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[9]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[10]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[11]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[12]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[13]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[14]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[15]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[16]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[17]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[18]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[19]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[20]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[21]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[22]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[23]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+if(a[24]>b)
+{
+  c1=c1+1
+}else
+{
+  c2=c2+1
+}
+
+
+c=(2*c1*c2)/(c1+c2)+1
+c
+
+s=2*c1*c2*(2*c1*c2-c1-c2)/((2*c1)**2*(c1+c2-1))
+s
+s1=sqrt(s)
+s1=round(s1,digits = 3)
+s1
+
+m=c1+c2
+v=m-3*3
+
+z=(v-c)/s1
+z=round(z,digits = 3)
+z
+
+n=0.05
+d=qnorm(n/2)
+d1=round(d,digits = 3)
+d1
+d2=abs(d1)
+d2
+
+if(z>d1 & z<d2) k<-TRUE 
+k
+#"The answer may vary due to difference in representation."
+  

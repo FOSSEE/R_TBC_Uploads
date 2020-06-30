@@ -1,10 +1,15 @@
-#page 4
+#Page No. 4
 
-A=matrix(c(1L,2L,-3L,2L,1L,-3L),2,3,T)
-b=matrix(c(-4L,4L),2,1,T)
+A=matrix(c(1,2,-3,2,1,-3),2,3,T)
+A
+b=matrix(c(-4,4),2,1,T)
 
 asvd <-svd(A)
 adiag <- diag(1/asvd$d)
-adiag[2,2] =0
-solution= asvd$v %*% adiag %*% t(asvd$u) %*% b
-print(paste(solution))
+adiag[2,1] =0
+solution<- asvd$v %*% adiag %*% t(asvd$u)  %*% b
+
+print(round(solution,0))
+
+#the answer in the textbook may vary due to difference in value assigned to real number
+

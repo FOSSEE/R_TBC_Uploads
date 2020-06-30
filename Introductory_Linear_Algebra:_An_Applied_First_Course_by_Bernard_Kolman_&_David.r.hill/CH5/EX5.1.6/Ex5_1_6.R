@@ -1,10 +1,9 @@
-#page 263
+#Page No. 263
 
 u<-c(1,-2,3)
 v<-c(1,3,1)
 w<-c(2,1,2)
 mat<-matrix(c(u,v,w),nrow=3,byrow = T)
-mat
 
 CrossProduct= function(x, y, i=1:3) 
 {
@@ -18,7 +17,7 @@ CrossProduct= function(x, y, i=1:3)
             x[Index3D(i + 2)] * y[Index3D(i + 1)])
 }
 
-vw.cross<-CrossProduct(v,w)
+vw_cross<-CrossProduct(v,w)
 
 DOT= function(u,v)
 {
@@ -26,10 +25,11 @@ DOT= function(u,v)
   return(sis)
   
 }
-uv_dot<-DOT(u,vw.cross)
+uv_dot<-DOT(u,vw_cross)
 
 vol1<- abs(uv_dot)
-vol1
+cat("volume(method 1) :", vol1, "\n")
+
 vol2<- abs(det(mat))
-print("volume of parellepiped is :")
-vol2 
+cat("volume(method 2) :", vol2)
+

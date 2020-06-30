@@ -1,7 +1,6 @@
-#page 151
+#Page No. 151
 
 x0<-matrix(c(1,0)) 
-print(x0)
 
 T<- matrix(c(2/3,1/3,1/2,1/2),c(2,2),dimnames=list(c("D","R"),c("D","R")) )
 print(T) 
@@ -12,15 +11,14 @@ round(x2,4)
 x3<- T %*% x2
 round(x3,4)
 x4<- T %*% x3
-prob<-round(x4,3)
-print(prob)
+first_term<-round(x4,3)
 x5<- T %*% x4
-prob11<-round(x5,3)
-print(prob11)
+second_term <-round(x5,3)
 
-identical(prob,prob11) 
+if(identical(first_term, second_term) == TRUE){
+  cat("% of Dry days: ",second_term[1]*100, "\n" )
+  cat("% od Rainy days: ", second_term[2]*100, "\n")
+} 
 
-
-
-
+#the answer in the textbook may vary due to difference in rounding off decimal points
 

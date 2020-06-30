@@ -1,4 +1,4 @@
-#page 259
+#Page No. 259
 
 vector.cross <- function(a, b) 
   {
@@ -14,5 +14,6 @@ vector.cross <- function(a, b)
 u<-c(2,1,2) 
 v<-c(3,-1,-3) 
 
-vector.cross(u,v)
+cat("Ans: ",vector.cross(u,v), "\n")
 
+#the answer in the textbook may vary due to difference in representation

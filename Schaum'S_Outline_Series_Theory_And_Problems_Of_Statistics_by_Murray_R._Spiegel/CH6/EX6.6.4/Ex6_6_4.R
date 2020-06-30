@@ -1,0 +1,13 @@
+#PAGE=129
+l1=(1:6)
+l2=(1:6)
+e1=c(4,5,6)
+e2=c(1,2,3,4)
+len=length(e1)
+len2=length(e2)
+m1=length(l1)
+m2=length(l2)
+m=m1*m2
+len1=len*len2
+p=len1/m
+p

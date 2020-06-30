@@ -1,0 +1,9 @@
+#page=59
+x=c(8,3,5,12,10)
+len=length(x)
+y=mean(x)
+z=x-y
+z
+a=sum(z)
+x=round(a,digits=0)
+x

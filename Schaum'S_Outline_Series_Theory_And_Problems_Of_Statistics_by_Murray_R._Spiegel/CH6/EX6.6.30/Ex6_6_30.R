@@ -1,0 +1,10 @@
+#PAGE=139
+c=7
+v=5
+c1=4
+v1=3
+f1=factorial(c)/(factorial(c1)*factorial(c-c1))
+f2=factorial(v)/(factorial(v1)*factorial(v-v1))
+p=factorial(c)
+a=f1*f2*p
+a

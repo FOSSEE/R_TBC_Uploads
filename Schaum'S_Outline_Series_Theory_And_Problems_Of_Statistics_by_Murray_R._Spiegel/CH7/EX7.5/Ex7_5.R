@@ -1,0 +1,9 @@
+#PAGE=153
+t=12
+n=2
+s=t/n
+a=factorial(t)/(factorial(n)**s)
+b=(1/s)**(2*6)
+c=a*b
+c=round(c,digits=5)
+c

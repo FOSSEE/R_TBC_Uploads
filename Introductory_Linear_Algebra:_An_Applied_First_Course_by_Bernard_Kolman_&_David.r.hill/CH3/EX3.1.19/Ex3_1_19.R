@@ -1,18 +1,19 @@
-#page 191
+#Page No. 191
 
 A<-matrix(c(1,3,2,4),c(2,2))
-Aii <- solve(A)
+Ainv <- solve(A)
 
-det_A   = det(A)
-det_Aii = det(Aii)
+Det_A   = det(A)
+Det_Ainv = det(Ainv)
 
-print(det_A)
-print(det_Aii)
+Det_A_reciprocal = 1/Det_A
 
-det_Amino = 1/det_A
-print(det_Amino)
-x<-all.equal.numeric(det_Amino,det_Aii)
-if(x==TRUE)
+x<-all.equal.numeric(Det_A_reciprocal , Det_Ainv)
+if(x==TRUE){
+  cat("Reciprocal of Det_A :", Det_A_reciprocal, "\n")
+  cat("Determinant of Ainv : ", Det_Ainv, "\n")
   print("Property holds true")
+}
+  
 
 

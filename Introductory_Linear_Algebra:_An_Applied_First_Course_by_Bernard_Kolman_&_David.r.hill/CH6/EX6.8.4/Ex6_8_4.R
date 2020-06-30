@@ -1,4 +1,4 @@
-#page 357
+#Page No. 357
 
 library(matlib)
 
@@ -6,8 +6,6 @@ u1<-c(1,1,1)
 u2<-c(-1,0,-1)
 u3<-c(-1,2,3)
 v1=u1
-
-
 
 DOT= function(u,v)
 {
@@ -21,7 +19,7 @@ lower<- DOT(v1,v1)
 lower2<-DOT(v2,v2)
 v2<- u2 - (upper/lower)*v1
 v2<-v2*3
-v2
+
 high<-DOT(u3,v1)
 high2<-DOT(u3,v2)
 v3<- u3 - (high/lower)*v1 - (high2/lower2)*v2
@@ -41,16 +39,15 @@ magnitude =function(q)
 }
 
 m1<-magnitude(v1)
-m1
 m2<-magnitude(v2)
-m2
 m3<-magnitude(v3)
-m3
 
 w1<- v1/m1
-print(w1)
 w2<- v2/m2
-print(w2)
 w3<- v3/m3
-print(w3)
 
+cat("w1: ", w1, "\n")
+cat("w2: ", w2, "\n")
+cat("w3: ", w3, "\n")
+
+#the answer in the textbook may vary due to difference in representation

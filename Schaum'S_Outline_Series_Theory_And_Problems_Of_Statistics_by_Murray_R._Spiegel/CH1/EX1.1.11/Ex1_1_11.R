@@ -1,0 +1,14 @@
+#page=10
+a<-475000000
+b<-12684000
+c<-1372410
+d<-a+b-c
+d
+e=round(a,digits=-5)
+e
+f=round(b,digits=-5)
+f
+g=round(c,digits=-5)
+g
+h<-e+f-g
+h

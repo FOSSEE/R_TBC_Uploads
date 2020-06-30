@@ -1,4 +1,4 @@
-#page 22
+#Page No. 22
 
 
 DOT =function(U,V) 
@@ -14,5 +14,7 @@ DOT =function(U,V)
 
 U<- c(1,-2,3,4)
 V<- c(2,3,-2,1)
-DOT(U,V)
+
+ans <- DOT(U,V)
+cat("u.v is : ", ans)
 

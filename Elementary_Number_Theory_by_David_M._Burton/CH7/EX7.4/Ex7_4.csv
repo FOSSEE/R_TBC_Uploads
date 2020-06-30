@@ -1,0 +1,5 @@
+n, number, p, k, i, s, num, phi, rel_prime, v, sum,
+desired_sum
+
+pos_prime()
+p, n, sum, c, x

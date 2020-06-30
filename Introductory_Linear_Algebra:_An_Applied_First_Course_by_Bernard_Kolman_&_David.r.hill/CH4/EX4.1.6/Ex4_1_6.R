@@ -1,4 +1,4 @@
-#page 219
+#Page No. 219
 
  x1 <- matrix(c(2,-5), ncol = 1, byrow = T)
  sum<-0
@@ -10,6 +10,7 @@
   sum<- sq+sum
   next 
  }
- print(sum)
- sqrt(sum) 
+
+cat("Ans :", sqrt(sum)) 
  
+#the answer in the textbook may vary due to difference in representation

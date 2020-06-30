@@ -1,6 +1,7 @@
-#page 230
+#Page No. 230
 
 u<-c(2,3,-1,2)
 c=-2
 final<- c*u
-print(final) 
+
+cat("Ans: ", final) 
