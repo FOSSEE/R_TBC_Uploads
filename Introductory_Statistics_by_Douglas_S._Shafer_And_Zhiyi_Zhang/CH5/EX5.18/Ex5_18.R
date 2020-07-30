@@ -12,7 +12,6 @@ print(x_slow)
 x=seq(-4,4,length=200)
 y=dnorm(x,mean=0,sd=1)
 plot(x,y,type="l",lwd=2,col="red")
-reqd_probability<-print(pnorm(l,mean=0,sd=1)-pnorm(k,mean=0,sd=1))
 
 x=seq(z1,z2,length=500)
 y=dnorm(x)

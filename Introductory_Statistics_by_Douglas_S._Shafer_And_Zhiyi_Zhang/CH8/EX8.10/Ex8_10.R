@@ -16,7 +16,7 @@ plot(x,y,type="l",lwd=2,col="black")
 x=seq(-3,t,length=500)
 y=dnorm(x,mean=0,sd=1)
 polygon(c(-3,x,t),c(0,y,0),col="gray")
-points(t_alpha,0,pch=1,col="red",cex=1.5)
+points(t,0,pch=19,col="red",cex=1)
 
 if(t_alpha>t){
   print("REJECT NULL HYPOTHESIS")

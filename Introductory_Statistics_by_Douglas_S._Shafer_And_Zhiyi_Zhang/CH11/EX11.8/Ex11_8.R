@@ -43,13 +43,12 @@ if(f<f0){
   print("ACCEPT NULL HYPOTHESIS")
 }
 
-
-x=seq(-5,40,length=1000)
-y=dchisq(x,df=10)
+x=seq(-1,4,length=1000)
+y=df(x,df1,df2)
 plot(x,y,type="l",lwd=2,col="black")
 
-x=seq(f,40,length=50)
-y=dchisq(x,df=10)
-polygon(c(f,x,40),c(0,y,0),col="gray")
+x=seq(f,4,length=50)
+y=df(x,df1,df2)
+polygon(c(f,x,4),c(0,y,0),col="gray")
 
 points(f0,0,pch=18,col="red",cex=2)

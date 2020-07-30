@@ -1,149 +1,68 @@
-1# DESCRIBING DATA WITH GRAPHS#1.3#Pie and Bar Chart#Ex1_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.3/Ex1_3.R#S##1126
-1# DESCRIBING DATA WITH GRAPHS#1.4#Pareto Chart of Candies Problem#Ex1_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.4/Ex1_4.R#S##1127
-1# DESCRIBING DATA WITH GRAPHS#1.5#Bar and Pie Chart #Ex1_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.5/Ex1_5.R#S##1128
-1# DESCRIBING DATA WITH GRAPHS#1.6#Line Chart#Ex1_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.6/Ex1_6.R#S##2638
-1# DESCRIBING DATA WITH GRAPHS#1.7#Stem and Leaf Plot#Ex1_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.7/Ex1_7.R#S##1129
-1# DESCRIBING DATA WITH GRAPHS#1.8#Stem and Leaf Plot for Weights#Ex1_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.8/Ex1_8.R#S##1130
-1# DESCRIBING DATA WITH GRAPHS#1.10#Dotplot#Ex1_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.10/Ex1_10.R#S##1131
-1# DESCRIBING DATA WITH GRAPHS#1.11#Relative Frequency Histogram#Ex1_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH1/EX1.11/Ex1_11.R#S##2637
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.1#Dotplot and Sample Mean#Ex2_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.1/Ex2_1.R#S##1190
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.2#Median#Ex2_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.2/Ex2_2.R#S##1191
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.3#Median for Set#Ex2_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.3/Ex2_3.R#S##1431
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.5#Variance and Standard Deviation#Ex2_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.5/Ex2_5.R#S##2728
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.6#Tchebysheff theorem#Ex2_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.6/Ex2_6.R#S##2636
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.7#Empirical Rule#Ex2_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.7/Ex2_7.R#S##2635
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.9#Range Approximation#Ex2_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.9/Ex2_9.R#S##1433
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.10#Range Approximation#Ex2_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.10/Ex2_10.R#S##2634
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.11#Z Score#Ex2_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.11/Ex2_11.R#S##1434
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.13#Lower and Upper Quartiles#Ex2_13.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.13/Ex2_13.R#S##1201
-2#DESCRIBING DATA WITH NUMERICAL MEASURES#2.14#Box Plot and Outlier#Ex2_14.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH2/EX2.14/Ex2_14.R#S##1202
-3# DESCRIBING BIVARIATE DATA#3.1#Side by Side Bar Chart#Ex3_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.1/Ex3_1.R#S##2633
-3# DESCRIBING BIVARIATE DATA#3.2#Comparative Charts#Ex3_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.2/Ex3_2.R#S##1206
-3# DESCRIBING BIVARIATE DATA#3.3#Scatterplot#Ex3_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.3/Ex3_3.R#S##1208
-3# DESCRIBING BIVARIATE DATA#3.4#Scatterplot for Data#Ex3_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.4/Ex3_4.R#S##1211
-3# DESCRIBING BIVARIATE DATA#3.5#Scatter Plot for Size of Living Area and Selling Price#Ex3_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.5/Ex3_5.R#S##1212
-3# DESCRIBING BIVARIATE DATA#3.6#Correlation Coefficient#Ex3_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.6/Ex3_6.R#S##2729
-3# DESCRIBING BIVARIATE DATA#3.7#Line and Dataplot#Ex3_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH3/EX3.7/Ex3_7.R#S##1215
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.5#Probabilities Using Simple Events#Ex4_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.5/Ex4_5.R#S##1436
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.6#Probabilities of Blood Phenotypes#Ex4_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.6/Ex4_6.R#S##1437
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.7#Probability of Candies Problem#Ex4_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.7/Ex4_7.R#S##1438
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.8#Probability Using Counting Rules#Ex4_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.8/Ex4_8.R#S##1439
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.9#Candy Dish#Ex4_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.9/Ex4_9.R#S##1440
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.10#Simple Events of Coins#Ex4_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.10/Ex4_10.R#S##1441
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.11#Routes #Ex4_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.11/Ex4_11.R#S##1442
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.12#Simple Events Using Permutation#Ex4_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.12/Ex4_12.R#S##1443
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.13#Permutaion of Tests#Ex4_13.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.13/Ex4_13.R#S##1444
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.14#Counting Rule for Combinations#Ex4_14.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.14/Ex4_14.R#S##2730
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.15#Manufacturers Problem#Ex4_15.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.15/Ex4_15.R#S##2732
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.17#Oil Prospecting Firm Problem#Ex4_17.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.17/Ex4_17.R#S##1447
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.18#College Education Expenses Problem#Ex4_18.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.18/Ex4_18.R#S##1448
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.19#Multiplication Rule for Probability#Ex4_19.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.19/Ex4_19.R#S##1449
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.20#Independent Events#Ex4_20.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.20/Ex4_20.R#S##2632
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.21#Multiplication Rule for Independent Events#Ex4_21.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.21/Ex4_21.R#S##1450
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.22#Cards Problem#Ex4_22.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.22/Ex4_22.R#S##1451
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.23#Law of Total Probability#Ex4_23.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.23/Ex4_23.R#S##3246
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.24#Sneakers Problem#Ex4_24.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.24/Ex4_24.R#S##3249
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.26#Mean Variance and Standard Deviation #Ex4_26.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.26/Ex4_26.R#S##2731
-4# PROBABILITY AND PROBABILITY DISTRIBUTIONS#4.27#Expected Gain#Ex4_27.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH4/EX4.27/Ex4_27.R#S##2733
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.3#Binomial Probability Distribution#Ex5_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.3/Ex5_3.R#S##1454
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.4#Probabilities for free throws#Ex5_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.4/Ex5_4.R#S##1455
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.5#Probabilities for Successes#Ex5_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.5/Ex5_5.R#S##1456
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.6# Probability of Survivors#Ex5_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.6/Ex5_6.R#S##1457
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.7#Multiple Choice Test#Ex5_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.7/Ex5_7.R#S##2631
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.8#Traffic Accidents using Poisson Distribution#Ex5_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.8/Ex5_8.R#S##1458
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.9#Life Insurance Company#Ex5_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.9/Ex5_9.R#S##1459
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.10#Lawn Mowers Problem#Ex5_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.10/Ex5_10.R#S##1460
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.11#Probability Distribution Mean Variance#Ex5_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.11/Ex5_11.R#S##1461
-5# SEVERAL USEFUL DISCRETE DISTRIBUTIONS#5.12#Hypergeometric Probability Distribution#Ex5_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH5/EX5.12/Ex5_12.R#S##1462
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.1#Probability#Ex6_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.1/Ex6_1.R#S##2744
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.2#Probability of waiting time#Ex6_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.2/Ex6_2.R#S##2742
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.3#Normal Probability Distribution#Ex6_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.3/Ex6_3.R#S##1463
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.4#Normal Probability Distribution#Ex6_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.4/Ex6_4.R#S##1464
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.5#Normal Probability Distribution#Ex6_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.5/Ex6_5.R#S##1465
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.6#Normal Probability Distribution#Ex6_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.6/Ex6_6.R#S##3084
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.7#z value#Ex6_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.7/Ex6_7.R#S##2645
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.8#Normal Distributed Random Variable#Ex6_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.8/Ex6_8.R#S##2860
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.9#Gasoline use for Compact car#Ex6_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.9/Ex6_9.R#S##2857
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.10#Gasoline Use Rate#Ex6_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.10/Ex6_10.R#S##2859
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.11#Normal Approximation to Binomial Distribution#Ex6_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.11/Ex6_11.R#S##2855
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.12#Electric Fuse#Ex6_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.12/Ex6_12.R#S##2854
-6# THE NORMAL PROBABILITY DISTRIBUTION#6.13#Soft Drinks Brand#Ex6_13.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH6/EX6.13/Ex6_13.R#S##2861
-7# SAMPLING DISTRIBUTIONS#7.1#Simple Random Sample#Ex7_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.1/Ex7_1.R#S##2628
-7# SAMPLING DISTRIBUTIONS#7.4#Alzheimer disease#Ex7_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.4/Ex7_4.R#S##2881
-7# SAMPLING DISTRIBUTIONS#7.5#Sample Distribution of Sample Mean#Ex7_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.5/Ex7_5.R#S##2882
-7# SAMPLING DISTRIBUTIONS#7.6#Sample Distribution of Sample Proportion#Ex7_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.6/Ex7_6.R#S##1474
-7# SAMPLING DISTRIBUTIONS#7.7#Probability for Sample Proportion#Ex7_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.7/Ex7_7.R#S##2883
-7# SAMPLING DISTRIBUTIONS#7.8#Xbar Chart#Ex7_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.8/Ex7_8.R#S##3439
-7# SAMPLING DISTRIBUTIONS#7.9#Control Chart#Ex7_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH7/EX7.9/Ex7_9.R#S##3440
-8# LARGE SAMPLE ESTIMATION#8.4#Point Estimation of Population Parameter#Ex8_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.4/Ex8_4.R#S##1476
-8# LARGE SAMPLE ESTIMATION#8.5#Estimation of True Population#Ex8_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.5/Ex8_5.R#S##1477
-8# LARGE SAMPLE ESTIMATION#8.6#Construction of Confidence Interval#Ex8_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.6/Ex8_6.R#S##1478
-8# LARGE SAMPLE ESTIMATION#8.7#99 percent Confidence Interval#Ex8_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.7/Ex8_7.R#S##1479
-8# LARGE SAMPLE ESTIMATION#8.8#Large Sample Confidence Interval#Ex8_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.8/Ex8_8.R#S##1480
-8# LARGE SAMPLE ESTIMATION#8.9#Difference Between Two Sample Mean#Ex8_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.9/Ex8_9.R#S##1481
-8# LARGE SAMPLE ESTIMATION#8.10# Confidence Interval for Difference#Ex8_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.10/Ex8_10.R#S##1482
-8# LARGE SAMPLE ESTIMATION#8.11#Bond proposal problem#Ex8_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.11/Ex8_11.R#S##2627
-8# LARGE SAMPLE ESTIMATION#8.12#95 percent upper confidence bound#Ex8_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.12/Ex8_12.R#S##2626
-8# LARGE SAMPLE ESTIMATION#8.13#Plastic Pipe#Ex8_13.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.13/Ex8_13.R#S##2625
-8# LARGE SAMPLE ESTIMATION#8.14#Workers in Training groups#Ex8_14.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH8/EX8.14/Ex8_14.R#S##2891
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.3#Test Statistic#Ex9_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.3/Ex9_3.R#S##2623
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.4#Appropriate Hypothesis#Ex9_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.4/Ex9_4.R#S##1483
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.5#Appropriate Hypothesis #Ex9_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.5/Ex9_5.R#S##1484
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.6#Calculation P Value#Ex9_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.6/Ex9_6.R#S##1485
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.7#Daily Sodium Intake#Ex9_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.7/Ex9_7.R#S##1486
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.8#Beta and power of beta#Ex9_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.8/Ex9_8.R#S##3109
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.9#Car Ownership Affect#Ex9_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.9/Ex9_9.R#S##1487
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.10#Hypothesis Testing and Confidence Interval#Ex9_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.10/Ex9_10.R#S##2892
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.11#Hypothesis Testing and P Value#Ex9_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.11/Ex9_11.R#S##1489
-9# LARGE SAMPLE TESTS OF HYPOTHESES#9.12#Hypothesis Test for Difference Between Two Binomial Proportions#Ex9_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH9/EX9.12/Ex9_12.R#S##1490
-10# INFERENCE FROM SMALL SAMPLES#10.2#Students T Distribution#Ex10_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.2/Ex10_2.R#S##1491
-10# INFERENCE FROM SMALL SAMPLES#10.3#Average Weight of Diamonds#Ex10_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.3/Ex10_3.R#S##2896
-10# INFERENCE FROM SMALL SAMPLES#10.4#P value of paint probem#Ex10_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.4/Ex10_4.R#S##3118
-10# INFERENCE FROM SMALL SAMPLES#10.5#Hypothesis Testing and T Value for Student grades#Ex10_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.5/Ex10_5.R#S##3793
-10# INFERENCE FROM SMALL SAMPLES#10.6#P Value For Student Grades #Ex10_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.6/Ex10_6.R#S##3572
-10# INFERENCE FROM SMALL SAMPLES#10.7#Lower confidence bound#Ex10_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.7/Ex10_7.R#S##3794
-10# INFERENCE FROM SMALL SAMPLES#10.8#Tire problem#Ex10_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.8/Ex10_8.R#S##2898
-10# INFERENCE FROM SMALL SAMPLES#10.9#95 percent confidence interval#Ex10_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.9/Ex10_9.R#S##2899
-10# INFERENCE FROM SMALL SAMPLES#10.11#Cement manufacturer#Ex10_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.11/Ex10_11.R#S##2619
-10# INFERENCE FROM SMALL SAMPLES#10.12#90 percent confidence interval#Ex10_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.12/Ex10_12.R#S##2618
-10# INFERENCE FROM SMALL SAMPLES#10.13#F Value#Ex10_13.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.13/Ex10_13.R#S##1494
-10# INFERENCE FROM SMALL SAMPLES#10.14#Hypothesis Test For Equality of two Population Variances#Ex10_14.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.14/Ex10_14.R#S##3314
-10# INFERENCE FROM SMALL SAMPLES#10.15#Confidence Interval Estimate#Ex10_15.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.15/Ex10_15.R#S##3124
-10# INFERENCE FROM SMALL SAMPLES#10.16#Impurities in the batch of chemical#Ex10_16.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH10/EX10.16/Ex10_16.R#S##2617
-11# THE ANALYSIS OF VARIANCE#11.4#Analysis of Variance Table#Ex11_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.4/Ex11_4.R#S##1496
-11# THE ANALYSIS OF VARIANCE#11.5#F test#Ex11_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.5/Ex11_5.R#S##2614
-11# THE ANALYSIS OF VARIANCE#11.6#CONFIDENCE INTERVALS FOR A SINGLE TREATMENT MEAN AND THE DIFFERENCE BETWEEN TWO TREATMENT MEANS#Ex11_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.6/Ex11_6.R#S##1497
-11# THE ANALYSIS OF VARIANCE#11.7#Tukey method for paired comparison#Ex11_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.7/Ex11_7.R#S##2615
-11# THE ANALYSIS OF VARIANCE#11.8#Randomized Block Design #Ex11_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.8/Ex11_8.R#S##3251
-11# THE ANALYSIS OF VARIANCE#11.9#Evidence Indication#Ex11_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.9/Ex11_9.R#S##3252
-11# THE ANALYSIS OF VARIANCE#11.10#cell phone cost#Ex11_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.10/Ex11_10.R#S##2616
-11# THE ANALYSIS OF VARIANCE#11.12#Two Way ANOVA#Ex11_12.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH11/EX11.12/Ex11_12.R#S##3277
-12# LINEAR REGRESSION AND CORRELATION#12.1#Least Squares Prediction Line#Ex12_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.1/Ex12_1.R#S##2931
-12# LINEAR REGRESSION AND CORRELATION#12.2#Hypothesis Test for Linear Relationship#Ex12_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.2/Ex12_2.R#S##1499
-12# LINEAR REGRESSION AND CORRELATION#12.3#Confidence Interval Estimate#Ex12_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.3/Ex12_3.R#S##2933
-12# LINEAR REGRESSION AND CORRELATION#12.4#Average Calculus Grade#Ex12_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.4/Ex12_4.R#S##3475
-12# LINEAR REGRESSION AND CORRELATION#12.5#Student Achievement test#Ex12_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.5/Ex12_5.R#S##3469
-12# LINEAR REGRESSION AND CORRELATION#12.6#Grade Achievement test #Ex12_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.6/Ex12_6.R#S##3470
-12# LINEAR REGRESSION AND CORRELATION#12.7#Correlation Coefficient#Ex12_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.7/Ex12_7.R#S##2932
-12# LINEAR REGRESSION AND CORRELATION#12.8#Correlation Coefficient#Ex12_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH12/EX12.8/Ex12_8.R#S##2957
-13#Multiple Regression Analysis#13.2#Multiple Regression Analysis#Ex13_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH13/EX13.2/Ex13_2.R#S##2575
-13#Multiple Regression Analysis#13.3#Productivity of Retail Grocery Outlets#Ex13_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH13/EX13.3/Ex13_3.R#S##2576
-13#Multiple Regression Analysis#13.4#Productivity of Retail Grocery Outlets#Ex13_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH13/EX13.4/Ex13_4.R#S##3003
-13#Multiple Regression Analysis#13.6#Regression Analysis#Ex13_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH13/EX13.6/Ex13_6.R#S##3310
-13#Multiple Regression Analysis#13.7#Sufficient Evidence Test#Ex13_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH13/EX13.7/Ex13_7.R#S##3279
-13#Multiple Regression Analysis#13.8#Real Estate Data#Ex13_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH13/EX13.8/Ex13_8.R#S##3311
-14# Analysis of Categorical Data#14.1#Rat problem#Ex14_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH14/EX14.1/Ex14_1.R#S##3313
-14# Analysis of Categorical Data#14.2#Blood phenotype#Ex14_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH14/EX14.2/Ex14_2.R#S##2571
-14# Analysis of Categorical Data#14.4#Furniture defect #Ex14_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH14/EX14.4/Ex14_4.R#S##3034
-14# Analysis of Categorical Data#14.5#Flu Vaccine#Ex14_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH14/EX14.5/Ex14_5.R#S##2573
-14# Analysis of Categorical Data#14.7#Survey of Voter#Ex14_7.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH14/EX14.7/Ex14_7.R#S##2574
-15# Nonparametric Statistics#15.1#Euglossine bees #Ex15_1.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.1/Ex15_1.R#S##2561
-15# Nonparametric Statistics#15.2#Kraft papers#Ex15_2.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.2/Ex15_2.R#S##2562
-15# Nonparametric Statistics#15.3#Defective Electrical Fuses#Ex15_3.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.3/Ex15_3.R#S##2563
-15# Nonparametric Statistics#15.4#Employee accident rates #Ex15_4.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.4/Ex15_4.R#S##2564
-15# Nonparametric Statistics#15.5#Densities of cakes#Ex15_5.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.5/Ex15_5.R#S##3583
-15# Nonparametric Statistics#15.6#Kruskal Wallis H test#Ex15_6.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.6/Ex15_6.R#S##3036
-15# Nonparametric Statistics#15.8#Friedman Fr test#Ex15_8.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.8/Ex15_8.R#S##2567
-15# Nonparametric Statistics#15.9#P value#Ex15_9.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.9/Ex15_9.R#S##3312
-15# Nonparametric Statistics#15.10#Spearman rank correlation coefficient#Ex15_10.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.10/Ex15_10.R#S##2568
-15# Nonparametric Statistics#15.11#Hypothesis Test of  no association#Ex15_11.R#Introduction_To_Probability_And_Statistics_by_William_Mendenhall,_Robert_J_Beaver,_And_Barbara_M_Beaver/CH15/EX15.11/Ex15_11.R#S##3040
+1#Relativity#1.1#Time dilation#Ex1_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.1/Ex1_1.R#S##7563
+1#Relativity#1.2#Longitudinal doppler effect in light#Ex1_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.2/Ex1_2.R#S##7564
+1#Relativity#1.3#Doppler effect Hubbles law#Ex1_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.3/Ex1_3.R#S##7565
+1#Relativity#1.4#Twin Paradox#Ex1_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.4/Ex1_4.R#S##7566
+1#Relativity#1.6#Mass and Energy of Stationary body#Ex1_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.6/Ex1_6.R#S##7567
+1#Relativity#1.7#Mass and Energy of Sun#Ex1_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.7/Ex1_7.R#S##7568
+1#Relativity#1.8#Energy and momentum of Electron and Photon#Ex1_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.8/Ex1_8.R#S##7569
+1#Relativity#1.11#Relativistic velocity transformation#Ex1_11.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.11/Ex1_11.R#S##7570
+2#Particle Properties of Waves#2.1#Energy of tuning fork and atomic oscillator#Ex2_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.1/Ex2_1.R#S##7571
+2#Particle Properties of Waves#2.2#Photoelectric effect#Ex2_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.2/Ex2_2.R#S##7572
+2#Particle Properties of Waves#2.3#X ray production#Ex2_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.3/Ex2_3.R#S##7573
+2#Particle Properties of Waves#2.4#Compton Effect#Ex2_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.4/Ex2_4.R#S##7574
+2#Particle Properties of Waves#2.6#Pair Production#Ex2_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.6/Ex2_6.R#S##7576
+2#Particle Properties of Waves#2.7#Photon Absorption and Radiation intensity#Ex2_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.7/Ex2_7.R#S##7577
+2#Particle Properties of Waves#2.8#Energy of falling photon#Ex2_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.8/Ex2_8.R#S##7578
+3#Wave Properties of Particles#3.1#De Broglie wavelengths#Ex3_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.1/Ex3_1.R#S##7579
+3#Wave Properties of Particles#3.2#Kinetic Energy using De Broglie wavelengths#Ex3_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.2/Ex3_2.R#S##7581
+3#Wave Properties of Particles#3.3#De Broglie phase and group velocities#Ex3_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.3/Ex3_3.R#S##7582
+3#Wave Properties of Particles#3.4#Permitted Energies of a Particle in a Box#Ex3_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.4/Ex3_4.R#S##11489
+3#Wave Properties of Particles#3.5#Permitted Energies of a Marble in a Box#Ex3_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.5/Ex3_5.R#S##7584
+3#Wave Properties of Particles#3.6#Uncertainty in protons position#Ex3_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.6/Ex3_6.R#S##7585
+3#Wave Properties of Particles#3.7#Energy of Nuclear electron by Uncertainty Principle#Ex3_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.7/Ex3_7.R#S##7586
+3#Wave Properties of Particles#3.8#Energy of Hydrogen electron by Uncertainty Principle#Ex3_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.8/Ex3_8.R#S##7587
+3#Wave Properties of Particles#3.9#Uncertainty in Time and Energy#Ex3_9.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.9/Ex3_9.R#S##7588
+4#Atomic Structure#4.1#Electron orbits of Hydrogen atom#Ex4_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.1/Ex4_1.R#S##7591
+4#Atomic Structure#4.2#Energy level of Electron Hydrogen collision#Ex4_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.2/Ex4_2.R#S##7592
+4#Atomic Structure#4.3#Energy level of Rydberg atoms#Ex4_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.3/Ex4_3.R#S##7593
+4#Atomic Structure#4.4#Balmer series of Hydrogen Spectrum#Ex4_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.4/Ex4_4.R#S##7595
+4#Atomic Structure#4.5#Frequency of revolution#Ex4_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.5/Ex4_5.R#S##7596
+4#Atomic Structure#4.7#Reduced Mass of Moun#Ex4_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.7/Ex4_7.R#S##7597
+4#Atomic Structure#4.8#Rutherford Scattering Formula#Ex4_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.8/Ex4_8.R#S##7599
+5#Quantum Mechanics#5.4#Wave function of Particle in a Box#Ex5_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH5/EX5.4/Ex5_4.R#S##7600
+5#Quantum Mechanics#5.6#Tunnel effect transmission probability#Ex5_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH5/EX5.6/Ex5_6.R#S##11490
+6#Quantum Theory of the Hydrogen Atom#6.3#Probability of Finding Electron#Ex6_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH6/EX6.3/Ex6_3.R#S##7641
+6#Quantum Theory of the Hydrogen Atom#6.4#Normal Zeeman Effect#Ex6_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH6/EX6.4/Ex6_4.R#S##7604
+7#Many Electron Atoms#7.1#Equatorial velocity of an electron#Ex7_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.1/Ex7_1.R#S##7605
+7#Many Electron Atoms#7.2#Effective charge on electron of lithium atom#Ex7_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.2/Ex7_2.R#S##7606
+7#Many Electron Atoms#7.3#Magnetic energy for an electron#Ex7_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.3/Ex7_3.R#S##7607
+7#Many Electron Atoms#7.8#K alpha  X rays#Ex7_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.8/Ex7_8.R#S##7609
+8#Molecules#8.1#Energy and angular velocity of the CO#Ex8_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.1/Ex8_1.R#S##7610
+8#Molecules#8.2#Bond length of CO molecule#Ex8_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.2/Ex8_2.R#S##7611
+8#Molecules#8.3#Force constant and vibrational levels in CO#Ex8_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.3/Ex8_3.R#S##7612
+9#Statistical Mechanics#9.1#Maxwell Boltzmann distribution function#Ex9_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.1/Ex9_1.R#S##7615
+9#Statistical Mechanics#9.4#Root mean square speed of oxygen molecule#Ex9_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.4/Ex9_4.R#S##7616
+9#Statistical Mechanics#9.5#Planck Radiation Law#Ex9_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.5/Ex9_5.R#S##7617
+9#Statistical Mechanics#9.6#Wiens displacement law#Ex9_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.6/Ex9_6.R#S##7618
+9#Statistical Mechanics#9.7#Surface temperature of the Sun#Ex9_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.7/Ex9_7.R#S##7619
+9#Statistical Mechanics#9.8#Fermi energy in Copper#Ex9_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.8/Ex9_8.R#S##7620
+10#The Solid State#10.1#Cohesive energy in NaCl#Ex10_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.1/Ex10_1.R#S##7621
+10#The Solid State#10.2#Drift velocity of free electrons in Copper#Ex10_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.2/Ex10_2.R#S##7622
+10#The Solid State#10.3#Mean free path of free electrons in Copper#Ex10_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.3/Ex10_3.R#S##7623
+11#Nuclear Structure#11.1#Density of C12 Nucleus#Ex11_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.1/Ex11_1.R#S##7624
+11#Nuclear Structure#11.2#Repulsive electric force on proton#Ex11_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.2/Ex11_2.R#S##7625
+11#Nuclear Structure#11.3#Magnetic energy and Larmor frequency of proton#Ex11_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.3/Ex11_3.R#S##7626
+11#Nuclear Structure#11.4#Binding energy of Neon isotope#Ex11_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.4/Ex11_4.R#S##7627
+11#Nuclear Structure#11.5#Binding energy of Calcium isotope#Ex11_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.5/Ex11_5.R#S##7628
+11#Nuclear Structure#11.6#Binding energy of Zinc isotope#Ex11_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.6/Ex11_6.R#S##7629
+11#Nuclear Structure#11.7#Most stable isobar of given atomic number#Ex11_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.7/Ex11_7.R#S##7630
+12#Nuclear Transformations#12.2#Radioactive decay of Radon#Ex12_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.2/Ex12_2.R#S##7631
+12#Nuclear Transformations#12.3#Activity of Radon#Ex12_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.3/Ex12_3.R#S##7632
+12#Nuclear Transformations#12.4#Activity of Radon one week later#Ex12_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.4/Ex12_4.R#S##7633
+12#Nuclear Transformations#12.5#Death date of tree by Radiometric Dating#Ex12_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.5/Ex12_5.R#S##7634
+12#Nuclear Transformations#12.6#Radioactive equilibrium for half life of U238#Ex12_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.6/Ex12_6.R#S##7635
+12#Nuclear Transformations#12.7#Alpha Decay in polonium isotope#Ex12_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.7/Ex12_7.R#S##7636
+12#Nuclear Transformations#12.8#Cross Section of Cadmium#Ex12_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.8/Ex12_8.R#S##7637
+12#Nuclear Transformations#12.9#Mean free path in Cadmium#Ex12_9.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.9/Ex12_9.R#S##7638
+12#Nuclear Transformations#12.10#Cross Section of Gold#Ex12_10.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.10/Ex12_10.R#S##7639
+12#Nuclear Transformations#12.11#Kinetic energies and Q value of Nuclear Reactions#Ex12_11.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.11/Ex12_11.R#S##7640

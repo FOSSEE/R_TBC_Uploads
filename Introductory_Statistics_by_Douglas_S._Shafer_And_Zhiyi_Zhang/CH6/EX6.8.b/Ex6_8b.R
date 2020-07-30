@@ -12,4 +12,4 @@ upper_limit<-p+l
 lower_limit<-p-l
 print(upper_limit)
 print(lower_limit)
-print("The sampling proportion is normally distributed.")
+print("Normally Distributed")
