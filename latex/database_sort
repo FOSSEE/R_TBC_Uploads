@@ -1,68 +1,76 @@
-1#Relativity#1.1#Time dilation#Ex1_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.1/Ex1_1.R#S##7563
-1#Relativity#1.2#Longitudinal doppler effect in light#Ex1_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.2/Ex1_2.R#S##7564
-1#Relativity#1.3#Doppler effect Hubbles law#Ex1_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.3/Ex1_3.R#S##7565
-1#Relativity#1.4#Twin Paradox#Ex1_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.4/Ex1_4.R#S##7566
-1#Relativity#1.6#Mass and Energy of Stationary body#Ex1_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.6/Ex1_6.R#S##7567
-1#Relativity#1.7#Mass and Energy of Sun#Ex1_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.7/Ex1_7.R#S##7568
-1#Relativity#1.8#Energy and momentum of Electron and Photon#Ex1_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.8/Ex1_8.R#S##7569
-1#Relativity#1.11#Relativistic velocity transformation#Ex1_11.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH1/EX1.11/Ex1_11.R#S##7570
-2#Particle Properties of Waves#2.1#Energy of tuning fork and atomic oscillator#Ex2_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.1/Ex2_1.R#S##7571
-2#Particle Properties of Waves#2.2#Photoelectric effect#Ex2_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.2/Ex2_2.R#S##7572
-2#Particle Properties of Waves#2.3#X ray production#Ex2_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.3/Ex2_3.R#S##7573
-2#Particle Properties of Waves#2.4#Compton Effect#Ex2_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.4/Ex2_4.R#S##7574
-2#Particle Properties of Waves#2.6#Pair Production#Ex2_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.6/Ex2_6.R#S##7576
-2#Particle Properties of Waves#2.7#Photon Absorption and Radiation intensity#Ex2_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.7/Ex2_7.R#S##7577
-2#Particle Properties of Waves#2.8#Energy of falling photon#Ex2_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH2/EX2.8/Ex2_8.R#S##7578
-3#Wave Properties of Particles#3.1#De Broglie wavelengths#Ex3_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.1/Ex3_1.R#S##7579
-3#Wave Properties of Particles#3.2#Kinetic Energy using De Broglie wavelengths#Ex3_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.2/Ex3_2.R#S##7581
-3#Wave Properties of Particles#3.3#De Broglie phase and group velocities#Ex3_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.3/Ex3_3.R#S##7582
-3#Wave Properties of Particles#3.4#Permitted Energies of a Particle in a Box#Ex3_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.4/Ex3_4.R#S##11489
-3#Wave Properties of Particles#3.5#Permitted Energies of a Marble in a Box#Ex3_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.5/Ex3_5.R#S##7584
-3#Wave Properties of Particles#3.6#Uncertainty in protons position#Ex3_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.6/Ex3_6.R#S##7585
-3#Wave Properties of Particles#3.7#Energy of Nuclear electron by Uncertainty Principle#Ex3_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.7/Ex3_7.R#S##7586
-3#Wave Properties of Particles#3.8#Energy of Hydrogen electron by Uncertainty Principle#Ex3_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.8/Ex3_8.R#S##7587
-3#Wave Properties of Particles#3.9#Uncertainty in Time and Energy#Ex3_9.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH3/EX3.9/Ex3_9.R#S##7588
-4#Atomic Structure#4.1#Electron orbits of Hydrogen atom#Ex4_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.1/Ex4_1.R#S##7591
-4#Atomic Structure#4.2#Energy level of Electron Hydrogen collision#Ex4_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.2/Ex4_2.R#S##7592
-4#Atomic Structure#4.3#Energy level of Rydberg atoms#Ex4_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.3/Ex4_3.R#S##7593
-4#Atomic Structure#4.4#Balmer series of Hydrogen Spectrum#Ex4_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.4/Ex4_4.R#S##7595
-4#Atomic Structure#4.5#Frequency of revolution#Ex4_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.5/Ex4_5.R#S##7596
-4#Atomic Structure#4.7#Reduced Mass of Moun#Ex4_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.7/Ex4_7.R#S##7597
-4#Atomic Structure#4.8#Rutherford Scattering Formula#Ex4_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH4/EX4.8/Ex4_8.R#S##7599
-5#Quantum Mechanics#5.4#Wave function of Particle in a Box#Ex5_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH5/EX5.4/Ex5_4.R#S##7600
-5#Quantum Mechanics#5.6#Tunnel effect transmission probability#Ex5_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH5/EX5.6/Ex5_6.R#S##11490
-6#Quantum Theory of the Hydrogen Atom#6.3#Probability of Finding Electron#Ex6_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH6/EX6.3/Ex6_3.R#S##7641
-6#Quantum Theory of the Hydrogen Atom#6.4#Normal Zeeman Effect#Ex6_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH6/EX6.4/Ex6_4.R#S##7604
-7#Many Electron Atoms#7.1#Equatorial velocity of an electron#Ex7_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.1/Ex7_1.R#S##7605
-7#Many Electron Atoms#7.2#Effective charge on electron of lithium atom#Ex7_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.2/Ex7_2.R#S##7606
-7#Many Electron Atoms#7.3#Magnetic energy for an electron#Ex7_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.3/Ex7_3.R#S##7607
-7#Many Electron Atoms#7.8#K alpha  X rays#Ex7_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH7/EX7.8/Ex7_8.R#S##7609
-8#Molecules#8.1#Energy and angular velocity of the CO#Ex8_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.1/Ex8_1.R#S##7610
-8#Molecules#8.2#Bond length of CO molecule#Ex8_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.2/Ex8_2.R#S##7611
-8#Molecules#8.3#Force constant and vibrational levels in CO#Ex8_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH8/EX8.3/Ex8_3.R#S##7612
-9#Statistical Mechanics#9.1#Maxwell Boltzmann distribution function#Ex9_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.1/Ex9_1.R#S##7615
-9#Statistical Mechanics#9.4#Root mean square speed of oxygen molecule#Ex9_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.4/Ex9_4.R#S##7616
-9#Statistical Mechanics#9.5#Planck Radiation Law#Ex9_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.5/Ex9_5.R#S##7617
-9#Statistical Mechanics#9.6#Wiens displacement law#Ex9_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.6/Ex9_6.R#S##7618
-9#Statistical Mechanics#9.7#Surface temperature of the Sun#Ex9_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.7/Ex9_7.R#S##7619
-9#Statistical Mechanics#9.8#Fermi energy in Copper#Ex9_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH9/EX9.8/Ex9_8.R#S##7620
-10#The Solid State#10.1#Cohesive energy in NaCl#Ex10_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.1/Ex10_1.R#S##7621
-10#The Solid State#10.2#Drift velocity of free electrons in Copper#Ex10_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.2/Ex10_2.R#S##7622
-10#The Solid State#10.3#Mean free path of free electrons in Copper#Ex10_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH10/EX10.3/Ex10_3.R#S##7623
-11#Nuclear Structure#11.1#Density of C12 Nucleus#Ex11_1.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.1/Ex11_1.R#S##7624
-11#Nuclear Structure#11.2#Repulsive electric force on proton#Ex11_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.2/Ex11_2.R#S##7625
-11#Nuclear Structure#11.3#Magnetic energy and Larmor frequency of proton#Ex11_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.3/Ex11_3.R#S##7626
-11#Nuclear Structure#11.4#Binding energy of Neon isotope#Ex11_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.4/Ex11_4.R#S##7627
-11#Nuclear Structure#11.5#Binding energy of Calcium isotope#Ex11_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.5/Ex11_5.R#S##7628
-11#Nuclear Structure#11.6#Binding energy of Zinc isotope#Ex11_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.6/Ex11_6.R#S##7629
-11#Nuclear Structure#11.7#Most stable isobar of given atomic number#Ex11_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH11/EX11.7/Ex11_7.R#S##7630
-12#Nuclear Transformations#12.2#Radioactive decay of Radon#Ex12_2.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.2/Ex12_2.R#S##7631
-12#Nuclear Transformations#12.3#Activity of Radon#Ex12_3.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.3/Ex12_3.R#S##7632
-12#Nuclear Transformations#12.4#Activity of Radon one week later#Ex12_4.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.4/Ex12_4.R#S##7633
-12#Nuclear Transformations#12.5#Death date of tree by Radiometric Dating#Ex12_5.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.5/Ex12_5.R#S##7634
-12#Nuclear Transformations#12.6#Radioactive equilibrium for half life of U238#Ex12_6.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.6/Ex12_6.R#S##7635
-12#Nuclear Transformations#12.7#Alpha Decay in polonium isotope#Ex12_7.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.7/Ex12_7.R#S##7636
-12#Nuclear Transformations#12.8#Cross Section of Cadmium#Ex12_8.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.8/Ex12_8.R#S##7637
-12#Nuclear Transformations#12.9#Mean free path in Cadmium#Ex12_9.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.9/Ex12_9.R#S##7638
-12#Nuclear Transformations#12.10#Cross Section of Gold#Ex12_10.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.10/Ex12_10.R#S##7639
-12#Nuclear Transformations#12.11#Kinetic energies and Q value of Nuclear Reactions#Ex12_11.R#Concepts_Of_Modern_Physics_by_Arthur_Beiser/CH12/EX12.11/Ex12_11.R#S##7640
+2# Financial Theory#2.7#Basic theory of interest rates#Ex2_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R#S##399
+2# Financial Theory#2.8#Basic theory of interest rates#Ex2_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R#S##400
+2# Financial Theory#2.9#Basic pricing of fixed income securities#Ex2_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R#S##401
+2# Financial Theory#2.10#Interest rate sensitivity and bond portfolio immunization#Ex2_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R#S##402
+2# Financial Theory#2.24#Black Scholes model in MATLAB#Ex2_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R#S##403
+3#Basics of Numerical Analysis#3.2#Error propagation conditioning and instability#Ex3_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R#S##404
+3#Basics of Numerical Analysis#3.4#Vector and matrix norms#Ex3_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R#S##405
+3#Basics of Numerical Analysis#3.6#Vector and matrix norms#Ex3_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R#S##406
+3#Basics of Numerical Analysis#3.7#Condition number for a matrix#Ex3_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R#S##407
+3#Basics of Numerical Analysis#3.8#Condition number for a matrix#Ex3_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R#S##408
+3#Basics of Numerical Analysis#3.11#Direct methods for solving systems of linear equations#Ex3_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R#S##409
+3#Basics of Numerical Analysis#3.12#Direct methods for solving systems of linear equations#Ex3_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R#S##410
+3#Basics of Numerical Analysis#3.13#Iterative methods for solving systems of linear equations#Ex3_13.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R#S##411
+3#Basics of Numerical Analysis#3.14#Iterative methods for solving systems of linear equations#Ex3_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R#S##412
+3#Basics of Numerical Analysis#3.15#FUNCTION APPROXIMATION AND INTERPOLATION#Ex3_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R#S##413
+3#Basics of Numerical Analysis#3.16#Elementary polynomial interpolation#Ex3_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R#S##414
+3#Basics of Numerical Analysis#3.17#Elementary polynomial interpolation#Ex3_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R#S##415
+3#Basics of Numerical Analysis#3.18#Interpolation by cubic splines#Ex3_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R#S##416
+3#Basics of Numerical Analysis#3.22#Bisection method#Ex3_22.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R#S##417
+3#Basics of Numerical Analysis#3.23#Newtons method#Ex3_23.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R#S##418
+3#Basics of Numerical Analysis#3.24#Optimization based solution of non linear equations#Ex3_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R#S##419
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.1#Numerical integration in MATLAB#Ex4_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R#S##420
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.2#MONTE CARLO INTEGRATION#Ex4_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R#S##421
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.3#MONTE CARLO INTEGRATION#Ex4_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R#S##422
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.4#Generating pseudorandom numbers#Ex4_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R#S##423
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.5#Generating pseudorandom numbers#Ex4_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R#S##424
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.6#Inverse transform method#Ex4_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R#S##425
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.8#Generating normal variates by the polar approach#Ex4_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R#S##426
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.9#Generating normal variates by the polar approach#Ex4_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R#S##427
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.10#SETTING THE NUMBER OF REPLICATIONS#Ex4_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R#S##428
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.11#Antithetic sampling#Ex4_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R#S##429
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.12#BlsMCAV#Ex4_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R#S##430
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.14#Importance sampling#Ex4_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R#S##431
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.15#Generating Halton low discrepancy sequences#Ex4_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R#S##432
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.16#Generating Halton low discrepancy sequences#Ex4_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R#S##433
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.17#Generating Halton low discrepancy sequences#Ex4_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R#S##434
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.18#Generating Sobol low discrepancy sequences#Ex4_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R#S##435
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.19#Generating Sobol low discrepancy sequences#Ex4_19.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R#S##436
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.20#Generating Sobol low discrepancy sequences#Ex4_20.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R#S##437
+5# Finite Difference Methods for Partial Differential Equations#5.1#Instability in a finite difference scheme#Ex5_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R#S##438
+5# Finite Difference Methods for Partial Differential Equations#5.3#Solving the heat equation by an explicit method#Ex5_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R#S##439
+5# Finite Difference Methods for Partial Differential Equations#5.4#Solving the heat equation by a fully implicit method#Ex5_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R#S##440
+6# Convex Optimization#6.1#Finite vs infinite dimensional problems#Ex6_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R#S##441
+6# Convex Optimization#6.3#Linear vs non linear problems#Ex6_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R#S##442
+6# Convex Optimization#6.5#Penalty function approach#Ex6_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R#S##443
+6# Convex Optimization#6.8#Kuhn Tucker conditions#Ex6_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R#S##444
+6# Convex Optimization#6.12#Geometric and algebraic features of linear programming#Ex6_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R#S##445
+7# Option Pricing by Binomial and Trinomial Lattices#7.1#Calibrating a binomial lattice#Ex7_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R#S##446
+7# Option Pricing by Binomial and Trinomial Lattices#7.2#Accuracy of the binomial lattice for decreasing deltaT#Page_409_CompLatticeBLS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R#S##447
+7# Option Pricing by Binomial and Trinomial Lattices#7.3#Price a pay later option by a binomial lattice#Page_411_Luenberger_Investment Science_Ex13_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R#S##448
+7# Option Pricing by Binomial and Trinomial Lattices#7.4#Pricing an European call by a binomial lattice#Page_413_SmartEurLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R#S##449
+7# Option Pricing by Binomial and Trinomial Lattices#7.5#Pricing an American put by a binomial lattice#Page_416_AmPutLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R#S##450
+7# Option Pricing by Binomial and Trinomial Lattices#7.6#Pricing an American spread option by a bidimensional binomial lattice#Page_420_AmSpreadLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R#S##451
+7# Option Pricing by Binomial and Trinomial Lattices#7.7#Pricing an European call by a trinomial lattice#Page_424_EuCallTrinomial.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R#S##452
+8#Option Pricing by Monte Carlo Methods #8.1#Generate asset price paths by Monte Carlo simulation#Page_433_AssetPaths.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R#S##453
+8#Option Pricing by Monte Carlo Methods #8.2#Vectorized code to generate asset price paths#Page_434_AssetPathsV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R#S##454
+8#Option Pricing by Monte Carlo Methods #8.3#Evaluating the cost of a stop loss hedging strategy#Page_436_StopLoss.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R#S##455
+8#Option Pricing by Monte Carlo Methods #8.4#Vectorized code for the stop loss hedging strategy#Page_437_StopLossV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R#S##456
+8#Option Pricing by Monte Carlo Methods #8.5#Evaluating the performance of delta hedging#Page_438_DeltaHedging.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R#S##457
+8#Option Pricing by Monte Carlo Methods #8.6#Implementing and checking path generation for the standard Wiener process by a Brownian bridge#Page_442_WienerBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R#S##458
+8#Option Pricing by Monte Carlo Methods #8.7#Code to price an exchange option analytically#Page_444_Exchange.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R#S##459
+8#Option Pricing by Monte Carlo Methods #8.8#Code to price an exchange option by Monte Carlo simulation#Page_445_ExchangeMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R#S##460
+8#Option Pricing by Monte Carlo Methods #8.9#Crude Monte Carlo simulation for a discrete barrier option#Page_446_DOPutMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R#S##461
+8#Option Pricing by Monte Carlo Methods #8.10#Conditional Monte Carlo simulation for a discrete barrier option#Page_449_D0PutMCCond.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R#S##462
+8#Option Pricing by Monte Carlo Methods #8.11#Using conditional Monte Carlo and importance sampling for a discrete barrier option#Page_453_DOPutMCCondIS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R#S##463
+8#Option Pricing by Monte Carlo Methods #8.12#Monte Carlo simulation for an Asian option#Page_455_AsianMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R#S##464
+8#Option Pricing by Monte Carlo Methods #8.13#Monte Carlo simulation with control variates for an Asian option#Page_456_AsianMCCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R#S##465
+8#Option Pricing by Monte Carlo Methods #8.14#Using the geometric average Asian option as a control variate#Page_459_AsianMCGeoCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R#S##466
+8#Option Pricing by Monte Carlo Methods #8.15#Pricing an Asian option by Halton sequences#Page_460_AsianHalton.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R#S##467
+8#Option Pricing by Monte Carlo Methods #8.16#Simulating geometric Brownian motion by Halton sequences and the Brownian bridge#Page_464_GBMHaltonBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R#S##468
+8#Option Pricing by Monte Carlo Methods #8.17#Improving the estimate of the option Delta by Common Random Numbers#Page_470_BlsDeltaMCNaive.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R#S##469
+8#Option Pricing by Monte Carlo Methods #8.18#Estimating the option Delta by a pathwise estimator#Page_472_BlsDeltaMCPath.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R#S##470
+9# Option Pricing by Finite Difference Methods#9.3#price a European vanilla put by a straightforward explicit scheme#Page_479_EuPutExpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R#S##471
+9# Option Pricing by Finite Difference Methods#9.4#price a vanilla European option by a fully implicit method#Page_484_EuPutImpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R#S##472
+9# Option Pricing by Finite Difference Methods#9.5#price a down and out put option by the Crank Nicolson method#Page_487_DOPutCK.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R#S##473
+10# Dynamic Programming#10.4#Simple asset allocation problem under uncertainty Monte Carlo sampling#Ex10_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R#S##475
