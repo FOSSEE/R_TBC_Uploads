@@ -1,0 +1,109 @@
+22# Decision analysis#22.1#An investment decision#EX22_1.R#Managerial_Statistics_by_Gerald_Keller/CH22/EX22.1/EX22_1.R#S##12951
+21# Statistical process control#21.3#Statistical process control at Lear seating#Ex21_3.R#Managerial_Statistics_by_Gerald_Keller/CH21/EX21.3/Ex21_3.R#S##12921
+21# Statistical process control#21.2#Statistical process control at Lear seating#Ex21_2.R#Managerial_Statistics_by_Gerald_Keller/CH21/EX21.2/Ex21_2.R#S##11693
+21# Statistical process control#21.1#Statistical process control at Lear seating#Ex21_1.R#Managerial_Statistics_by_Gerald_Keller/CH21/EX21.1/Ex21_1.R#S##12920
+20# Time Series Analysis And Forecasting#20.6#Forecasting changes to the consumer price index#Ex20_6.R#Managerial_Statistics_by_Gerald_Keller/CH20/EX20.6/Ex20_6.R#S##12950
+20# Time Series Analysis And Forecasting#20.5#Forecasting Hotel Occupancy Rares#Ex20_5.R#Managerial_Statistics_by_Gerald_Keller/CH20/EX20.5/Ex20_5.R#S##11690
+20# Time Series Analysis And Forecasting#20.4#Comparing Forecasting Models#Ex20_4.R#Managerial_Statistics_by_Gerald_Keller/CH20/EX20.4/Ex20_4.R#S##12918
+20# Time Series Analysis And Forecasting#20.3#Hotel Quarterly Occupancy Rates#Ex20_3.R#Managerial_Statistics_by_Gerald_Keller/CH20/EX20.3/Ex20_3.R#S##11688
+20# Time Series Analysis And Forecasting#20.2#Gasoline Sales#Ex20_2.R#Managerial_Statistics_by_Gerald_Keller/CH20/EX20.2/Ex20_2.R#S##11687
+20# Time Series Analysis And Forecasting#20.1#Gasoline Sales#Ex20_1.R#Managerial_Statistics_by_Gerald_Keller/CH20/EX20.1/Ex20_1.R#S##12917
+19# Nonparametric Statistics#19.7#Testing the Relationship between Aptitude Tests and Performance#Ex19_7.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.7/Ex19_7.R#S##11685
+19# Nonparametric Statistics#19.6#Comparing managers evaluation of job applicants#Ex19_6.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.6/Ex19_6.R#S##11684
+19# Nonparametric Statistics#19.5#Comparing quality in three shifts#Ex19_5.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.5/Ex19_5.R#S##11683
+19# Nonparametric Statistics#19.4#Comparing Flextime and Fixed time Schedules#Ex19_4.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.4/Ex19_4.R#S##12916
+19# Nonparametric Statistics#19.3#Comparing the comfort of two midsize cars#Ex19_3.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.3/Ex19_3.R#S##11681
+19# Nonparametric Statistics#19.2#Comparing pharmaceutical painkillers#Ex19_2.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.2/Ex19_2.R#S##11680
+19# Nonparametric Statistics#19.1#Wilcoxon rank sum test#Ex19_1.R#Managerial_Statistics_by_Gerald_Keller/CH19/EX19.1/Ex19_1.R#S##12915
+18# Model Building#18.6#Estimating the Probability of Loan Repayment#Ex18_6.R#Managerial_Statistics_by_Gerald_Keller/CH18/EX18.6/Ex18_6.R#S##11678
+18# Model Building#18.5#Estimating the Probability of a Heart Attack among Diabetics#Ex18_5.R#Managerial_Statistics_by_Gerald_Keller/CH18/EX18.5/Ex18_5.R#S##11677
+18# Model Building#18.4#Testing for pay equity equal pay for work of equal value#Ex18_4.R#Managerial_Statistics_by_Gerald_Keller/CH18/EX18.4/Ex18_4.R#S##12012
+16# Simple Linear Regression and Correlation#16.7#Predicting the Price and estimating the mean price of used Toyota Camrys#Ex16_7.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.7/Ex16_7.R#S##12914
+16# Simple Linear Regression and Correlation#16.6#Are Odometer reading and prices of used Toyota Camrys Linearly related#Ex16_6.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.6/Ex16_6.R#S##12010
+16# Simple Linear Regression and Correlation#16.5#Measuring the strength of the Linear relationship between Odometer reading and prices of used Toyota Camrys#Ex16_5.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.5/Ex16_5.R#S##12009
+16# Simple Linear Regression and Correlation#16.4#Are Odometer reading and prices of used Toyota Camrys related#Ex16_4.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.4/Ex16_4.R#S##12008
+16# Simple Linear Regression and Correlation#16.3#Odometer reading and prices of used Toyota Camrys#Ex16_3.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.3/Ex16_3.R#S##12007
+16# Simple Linear Regression and Correlation#16.2#Odometer reading and prices of used Toyota Camrys#Ex16_2.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.2/Ex16_2.R#S##12913
+16# Simple Linear Regression and Correlation#16.1#Annual Bonus and Years of Experience#Ex16_1.R#Managerial_Statistics_by_Gerald_Keller/CH16/EX16.1/Ex16_1.R#S##11676
+15#Chi squared tests #15.2#Relationship between undergraduate degree and MBA major#Ex15_2.R#Managerial_Statistics_by_Gerald_Keller/CH15/EX15.2/Ex15_2.R#S##12912
+15#Chi squared tests #15.1#Testing market shares#Ex15_1.R#Managerial_Statistics_by_Gerald_Keller/CH15/EX15.1/Ex15_1.R#S##12911
+14# Analysis of Variance#14.4#Comparing the lifetime number of jobs by educational level#Ex14_4.R#Managerial_Statistics_by_Gerald_Keller/CH14/EX14.4/Ex14_4.R#S##12949
+14# Analysis of Variance#14.3#Comparing cholesterol lowering drugs#Ex14_3.R#Managerial_Statistics_by_Gerald_Keller/CH14/EX14.3/Ex14_3.R#S##11673
+14# Analysis of Variance#14.2#Comparing the costs of repairing car bumpers#Ex14_2.R#Managerial_Statistics_by_Gerald_Keller/CH14/EX14.2/Ex14_2.R#S##12948
+14# Analysis of Variance#14.1#Proportion of Total Assets Invested in stocks#Ex14_1.R#Managerial_Statistics_by_Gerald_Keller/CH14/EX14.1/Ex14_1.R#S##12005
+13# Inference about comparing two Populations#13.9#Test marketing of packages designs#Ex13_9.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.9/Ex13_9.R#S##12947
+13# Inference about comparing two Populations#13.6#Comparing salary offers for finance and marketing MBA Majors#Ex13_6.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.6/Ex13_6.R#S##11671
+13# Inference about comparing two Populations#13.5#Comparing salary offers for finance and marketing MBA Majors#Ex13_5.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.5/Ex13_5.R#S##11670
+13# Inference about comparing two Populations#13.4#Comparing salary offers for finance and marketing MBA Majors#Ex13_4.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.4/Ex13_4.R#S##11669
+13# Inference about comparing two Populations#13.3#Dietary Effects of High Fiber Breakfast cereals#Ex13_3.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.3/Ex13_3.R#S##11668
+13# Inference about comparing two Populations#13.2#Effect of New CEO in Family Run Business#Ex13_2.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.2/Ex13_2.R#S##12904
+13# Inference about comparing two Populations#13.11#Test marketing of packages designs#Ex13_11.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.11/Ex13_11.R#S##12907
+13# Inference about comparing two Populations#13.10#Test marketing of packages designs#Ex13_10.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.10/Ex13_10.R#S##12906
+13# Inference about comparing two Populations#13.1#Direct and Broker purchased mutual funds#Ex13_1.R#Managerial_Statistics_by_Gerald_Keller/CH13/EX13.1/Ex13_1.R#S##11666
+12# Inference about a Population#12.9#Audit of Work orders at a car dealership#Ex12_9.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.9/Ex12_9.R#S##11665
+12# Inference about a Population#12.8#Audit of Purchase orders at a car dealership#Ex12_8.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.8/Ex12_8.R#S##12903
+12# Inference about a Population#12.7#GAO Audit of the US Forest Services#Ex12_7.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.7/Ex12_7.R#S##11663
+12# Inference about a Population#12.6#Segmenting the Breakfast Cereal market#Ex12_6.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.6/Ex12_6.R#S##12001
+12# Inference about a Population#12.5#Election Day Exit Poll#Ex12_5.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.5/Ex12_5.R#S##11662
+12# Inference about a Population#12.4#Consistency of a Container filling machine#Ex12_4.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.4/Ex12_4.R#S##11661
+12# Inference about a Population#12.3#Consistency of a Container filling machine#Ex12_3.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.3/Ex12_3.R#S##11660
+12# Inference about a Population#12.2#Tax Collected from Audited Returns#Ex12_2.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.2/Ex12_2.R#S##11659
+12# Inference about a Population#12.1#Newspaper Recycling Plant#Ex12_1.R#Managerial_Statistics_by_Gerald_Keller/CH12/EX12.1/Ex12_1.R#S##11658
+10# Introduction to Estimation#10.1#Doll Computer Company#Ex10_1.R#Managerial_Statistics_by_Gerald_Keller/CH10/EX10.1/Ex10_1.R#S##11657
+9# Sampling Distribution#9.3#Starting Salaries of MBAs#Ex9_3.R#Managerial_Statistics_by_Gerald_Keller/CH9/EX9.3/Ex9_3.R#S##11656
+9# Sampling Distribution#9.2#Political Survey#Ex9_2.R#Managerial_Statistics_by_Gerald_Keller/CH9/EX9.2/Ex9_2.R#S##11655
+9# Sampling Distribution#9.1#Content of a 32 ounce bottle#Ex9_1.R#Managerial_Statistics_by_Gerald_Keller/CH9/EX9.1/Ex9_1.R#S##11654
+8# Continuous Probability Distribution#8.8#Supermarket Checkout Counter#Ex8_8.R#Managerial_Statistics_by_Gerald_Keller/CH8/EX8.8/Ex8_8.R#S##11653
+8# Continuous Probability Distribution#8.7#Lifetimes of Alkaline Batteries#Ex8_7.R#Managerial_Statistics_by_Gerald_Keller/CH8/EX8.7/Ex8_7.R#S##11652
+8# Continuous Probability Distribution#8.6#Determining the Reorder point#Ex8_6.R#Managerial_Statistics_by_Gerald_Keller/CH8/EX8.6/Ex8_6.R#S##11651
+8# Continuous Probability Distribution#8.3#Probability of a Negative Return on investment#Ex8_3.R#Managerial_Statistics_by_Gerald_Keller/CH8/EX8.3/Ex8_3.R#S##11650
+8# Continuous Probability Distribution#8.2#Normally distributed Gasoline Sales#Ex8_2.R#Managerial_Statistics_by_Gerald_Keller/CH8/EX8.2/Ex8_2.R#S##11649
+8# Continuous Probability Distribution#8.1#Uniformly distributed Gasoline Sales#Ex8_1.R#Managerial_Statistics_by_Gerald_Keller/CH8/EX8.1/Ex8_1.R#S##11648
+7# Random Variables And Discrete Probability Distributions#7.9#Pat Statsdud and the Statistics Quiz#Ex7_9.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.9/Ex7_9.R#S##11643
+7# Random Variables And Discrete Probability Distributions#7.8#Describing the Population of the Returns on a Portfolio#Ex7_8.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.8/Ex7_8.R#S##11642
+7# Random Variables And Discrete Probability Distributions#7.7#Describing the Population of the Total Number of House Sales#Ex7_7.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.7/Ex7_7.R#S##11641
+7# Random Variables And Discrete Probability Distributions#7.6#Describing the Bivariate Distribution#Ex7_6.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.6/Ex7_6.R#S##11640
+7# Random Variables And Discrete Probability Distributions#7.5#Bivariate Distribution of the Number of House Sales#Ex7_5.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.5/Ex7_5.R#S##11639
+7# Random Variables And Discrete Probability Distributions#7.4#Describing the Population of Monthly Profits#Ex7_4.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.4/Ex7_4.R#S##11638
+7# Random Variables And Discrete Probability Distributions#7.3#Describing the Population of the Number of Color Television#Ex7_3.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.3/Ex7_3.R#S##11637
+7# Random Variables And Discrete Probability Distributions#7.2#Probability Distribution of the Number of Sales#Ex7_2.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.2/Ex7_2.R#S##11636
+7# Random Variables And Discrete Probability Distributions#7.13#Probability of the Number of Typographical Errors in 400 pages#Ex7_13.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.13/Ex7_13.R#S##11647
+7# Random Variables And Discrete Probability Distributions#7.12#Probability of the Number of Typographical Errors in Textbooks#Ex7_12.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.12/Ex7_12.R#S##11646
+7# Random Variables And Discrete Probability Distributions#7.11#Pat Statsdud has been cloned#Ex7_11.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.11/Ex7_11.R#S##11645
+7# Random Variables And Discrete Probability Distributions#7.10#Will Pat Fail the Quiz#Ex7_10.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.10/Ex7_10.R#S##11644
+7# Random Variables And Discrete Probability Distributions#7.1#Probability Distribution of the Number of Color Television#Ex7_1.R#Managerial_Statistics_by_Gerald_Keller/CH7/EX7.1/Ex7_1.R#S##11635
+6#Probability #6.9#Should an MBA Applicant Take a Preparatory course#Ex6_9.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.9/Ex6_9.R#S##11634
+6#Probability #6.8#Probability of Passing the Bar exam#Ex6_8.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.8/Ex6_8.R#S##12901
+6#Probability #6.7#Applying the Addition Rule#Ex6_7.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.7/Ex6_7.R#S##11632
+6#Probability #6.6#Selecting two students with replacement#Ex6_6.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.6/Ex6_6.R#S##11631
+6#Probability #6.5#Selecting two students without replacement#Ex6_5.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.5/Ex6_5.R#S##11630
+6#Probability #6.4#Determining of Success among Mutual Fund Managers#Ex6_4.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.4/Ex6_4.R#S##11629
+6#Probability #6.3#Determining of Success among Mutual Fund Managers#Ex6_3.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.3/Ex6_3.R#S##12900
+6#Probability #6.2#Determining of Success among Mutual Fund Managers#Ex6_2.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.2/Ex6_2.R#S##11627
+6#Probability #6.10#Probability of prostate cancer#Ex6_10.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.10/Ex6_10.R#S##12902
+6#Probability #6.1#Determining of Success among Mutual Fund Managers#Ex6_1.R#Managerial_Statistics_by_Gerald_Keller/CH6/EX6.1/Ex6_1.R#S##11626
+4# Numerical Descriptive Techniques#4.9#Using the empirical rule to interpret Standard Deviation#Ex4_9.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.9/Ex4_9.R#S##12897
+4# Numerical Descriptive Techniques#4.7#Summer Jobs#Ex4_7.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.7/Ex4_7.R#S##11616
+4# Numerical Descriptive Techniques#4.6#Mode Long Distance Telephone Bills#Ex4_6.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.6/Ex4_6.R#S##11615
+4# Numerical Descriptive Techniques#4.5#Mode Time Spent on the Internet#Ex4_5.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.5/Ex4_5.R#S##11614
+4# Numerical Descriptive Techniques#4.4#Median Long Distance Telephone Bills#Ex4_4.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.4/Ex4_4.R#S##11613
+4# Numerical Descriptive Techniques#4.3#Median Time Spent on the Internet#Ex4_3.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.3/Ex4_3.R#S##11612
+4# Numerical Descriptive Techniques#4.2#Mean Long Distance Telephone Bills#Ex4_2.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.2/Ex4_2.R#S##11611
+4# Numerical Descriptive Techniques#4.18#Measuring the strength of the linear relationship#Ex4_18.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.18/Ex4_18.R#S##11625
+4# Numerical Descriptive Techniques#4.17#Estimating Fixed and Variable Costs#Ex4_17.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.17/Ex4_17.R#S##11624
+4# Numerical Descriptive Techniques#4.16#Calculating the coefficients of correlation#Ex4_16.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.16/Ex4_16.R#S##11623
+4# Numerical Descriptive Techniques#4.14#Box Plot of Long Distance Telephone Bills#Ex4_14.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.14/Ex4_14.R#S##11622
+4# Numerical Descriptive Techniques#4.13#Interquartiles Range of Long Distance Telephone Bills#Ex4_13.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.13/Ex4_13.R#S##11621
+4# Numerical Descriptive Techniques#4.12#Quartiles of Long Distance telephone bills#Ex4_12.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.12/Ex4_12.R#S##12946
+4# Numerical Descriptive Techniques#4.11#Percentiles of Time Spent on internet#Ex4_11.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.11/Ex4_11.R#S##11619
+4# Numerical Descriptive Techniques#4.10#Using Chebysheffs theorem to interpret Standard Deviation#Ex4_10.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.10/Ex4_10.R#S##12898
+4# Numerical Descriptive Techniques#4.1#Mean Time Spent on the Internet#Ex4_1.R#Managerial_Statistics_by_Gerald_Keller/CH4/EX4.1/Ex4_1.R#S##11610
+2# Graphical and Tabular Descriptive Techniques#2.7#Mathematical Statistics Marks#Ex2_7.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.7/Ex2_7.R#S##11607
+2# Graphical and Tabular Descriptive Techniques#2.6#Bussiness Statistics Marks#Ex2_6.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.6/Ex2_6.R#S##11606
+2# Graphical and Tabular Descriptive Techniques#2.5#Comparing Returns on Two Investments#Ex2_5.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.5/Ex2_5.R#S##11605
+2# Graphical and Tabular Descriptive Techniques#2.4#Analysis of Long Distance Telephone Bills#Ex2_4.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.4/Ex2_4.R#S##11604
+2# Graphical and Tabular Descriptive Techniques#2.3#Per Capita Beer Consumption #Ex2_3.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.3/Ex2_3.R#S##11603
+2# Graphical and Tabular Descriptive Techniques#2.2#Energy Consumption in the United States#Ex2_2.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.2/Ex2_2.R#S##11602
+2# Graphical and Tabular Descriptive Techniques#2.12#Analyzing the Relationship between Price and Size of Houses#Ex2_12.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.12/Ex2_12.R#S##11609
+2# Graphical and Tabular Descriptive Techniques#2.11#Energy Source in the United States and Canada#Ex2_11.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.11/Ex2_11.R#S##11608
+2# Graphical and Tabular Descriptive Techniques#2.1#Light Beer Preference Survey#Ex2_1.R#Managerial_Statistics_by_Gerald_Keller/CH2/EX2.1/Ex2_1.R#S##11601

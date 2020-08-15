@@ -1,4 +1,4 @@
-##3page_no_840###
+###page_no_840###
 rm(list=ls())
 year<-seq(2004,2007,1)
 a_ts<-c(129,142,156,183)
@@ -15,4 +15,3 @@ SSE2<-sum((a_ts-m2)^2);SSE2
 
 MAD3<-sum(abs(a_ts-m3))/n;MAD3
 SSE3<-sum((a_ts-m3)^2);SSE3
-

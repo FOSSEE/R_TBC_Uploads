@@ -1,0 +1,203 @@
+11# Chi Square Tests and F Tests#11.9# Chi Square Tests and F Tests#Ex11_9.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.9/Ex11_9.R#S##12965
+11# Chi Square Tests and F Tests#11.8#F Test using MST and MSE#Ex11_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.8/Ex11_8.R#S##12940
+11# Chi Square Tests and F Tests#11.7#F test#Ex11_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.7/Ex11_7.R#S##9582
+11# Chi Square Tests and F Tests#11.6#F test#Ex11_6.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.6/Ex11_6.R#S##9581
+11# Chi Square Tests and F Tests#11.5.b#F Test Critical Values#Ex11_5b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.5.b/Ex11_5b.R#S##12939
+11# Chi Square Tests and F Tests#11.5.a#F Test Critical Values#Ex11_5a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.5.a/Ex11_5a.R#S##12280
+11# Chi Square Tests and F Tests#11.4.d#F Test Critical Values#Ex11_4d.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.4.d/Ex11_4d.R#S##12279
+11# Chi Square Tests and F Tests#11.4.c#F Test Critical Values#Ex11_4c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.4.c/Ex11_4c.R#S##12278
+11# Chi Square Tests and F Tests#11.4.b#F Test Critical Values#Ex11_4b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.4.b/Ex11_4b.R#S##12277
+11# Chi Square Tests and F Tests#11.4.a#F Test Critical Values#Ex11_4a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.4.a/Ex11_4a.R#S##12276
+11# Chi Square Tests and F Tests#11.3.b#F test#Ex11_3b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.3.b/Ex11_3b.R#S##12275
+11# Chi Square Tests and F Tests#11.3.a#F test#Ex11_3a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.3.a/Ex11_3a.R#S##12274
+11# Chi Square Tests and F Tests#11.2#Chi Square Test#Ex11_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.2/Ex11_2.R#S##9572
+11# Chi Square Tests and F Tests#11.1#Chi Square Test#Ex11_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH11/EX11.1/Ex11_1.R#S##11745
+10# Correlation and Regression#10.9#Critical value test#Ex10_9.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.9/Ex10_9.R#S##12272
+10# Correlation and Regression#10.8#Critical value test#Ex10_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.8/Ex10_8.R#S##9565
+10# Correlation and Regression#10.7#Statistical Inferences About beta1#Ex10_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.7/Ex10_7.R#S##9564
+10# Correlation and Regression#10.6#Statistical Inferences About beta1#Ex10_6.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.6/Ex10_6.R#S##9563
+10# Correlation and Regression#10.5#Sum of Squared Errors#Ex10_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.5/Ex10_5.R#S##9562
+10# Correlation and Regression#10.4.b#Sum of Squared Errors#Ex10_4b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.4.b/Ex10_4b.R#S##12271
+10# Correlation and Regression#10.4.a#Sum of Squared Errors#Ex10_4a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.4.a/Ex10_4a.R#S##12938
+10# Correlation and Regression#10.3.f#Correlation and Regression#Ex10_3f.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.3.f/Ex10_3f.R#S##12937
+10# Correlation and Regression#10.3.e#Correlation and Regression#Ex10_3e.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.3.e/Ex10_3e.R#S##12936
+10# Correlation and Regression#10.3.c#Least Squares Regression Line#Ex10_3c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.3.c/Ex10_3c.R#S##12267
+10# Correlation and Regression#10.3.b#Linear Correlation Coefficient#Ex10_3b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.3.b/Ex10_3b.R#S##12266
+10# Correlation and Regression#10.3.a#Scatter Diagram#Ex10_3a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.3.a/Ex10_3a.R#S##12265
+10# Correlation and Regression#10.2# The Least Squares Regression Line#Ex10_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.2/Ex10_2.R#S##11744
+10# Correlation and Regression#10.13#Construction of Confidence Level#Ex10_13.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.13/Ex10_13.R#S##9570
+10# Correlation and Regression#10.12#Construction of Confidence Level#Ex10_12.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.12/Ex10_12.R#S##9569
+10# Correlation and Regression#10.11# Coefficient of determination#Ex10_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.11/Ex10_11.R#S##9568
+10# Correlation and Regression#10.10#Proportion of the variability#Ex10_10.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.10/Ex10_10.R#S##12273
+10# Correlation and Regression#10.1#Linear Correlation Coefficient#Ex10_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH10/EX10.1/Ex10_1.R#S##12264
+9# Two Sample Problems#9.8#Critical value approach#Ex9_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.8/Ex9_8.R#S##9545
+9# Two Sample Problems#9.7#Construction of a point estimate and confidence interval#Ex9_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.7/Ex9_7.R#S##9544
+9# Two Sample Problems#9.5#Critical value approach#Ex9_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.5/Ex9_5.R#S##9543
+9# Two Sample Problems#9.4#Construction of a point estimate and confidence interval#Ex9_4.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.4/Ex9_4.R#S##9542
+9# Two Sample Problems#9.3#p value approach#Ex9_3.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.3/Ex9_3.R#S##9541
+9# Two Sample Problems#9.2#Comparison of Two Population Means using critical value approach#Ex9_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.2/Ex9_2.R#S##9540
+9# Two Sample Problems#9.15.b#Finding minimum equal sample sizes#Ex9_15b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.15.b/Ex9_15b.R#S##12263
+9# Two Sample Problems#9.15.a#Finding minimum equal sample sizes#Ex9_15a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.15.a/Ex9_15a.R#S##12262
+9# Two Sample Problems#9.14#Sample Size Considerations#Ex9_14.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.14/Ex9_14.R#S##9550
+9# Two Sample Problems#9.13#Sample Size Considerations#Ex9_13.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.13/Ex9_13.R#S##9549
+9# Two Sample Problems#9.12#p value approach#Ex9_12.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.12/Ex9_12.R#S##9548
+9# Two Sample Problems#9.11#Critical value approach#Ex9_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.11/Ex9_11.R#S##9547
+9# Two Sample Problems#9.10#Construction of a point estimate and confidence interval#Ex9_10.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.10/Ex9_10.R#S##9546
+9# Two Sample Problems#9.1#Construction of a point estimate and confidence interval#Ex9_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH9/EX9.1/Ex9_1.R#S##9539
+8# Testing Hypotheses#8.9# Observed Significance of a Test#Ex8_9.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.9/Ex8_9.R#S##9532
+8# Testing Hypotheses#8.8# Observed Significance of a Test#Ex8_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.8/Ex8_8.R#S##9531
+8# Testing Hypotheses#8.7# Observed Significance of a Test#Ex8_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.7/Ex8_7.R#S##9530
+8# Testing Hypotheses#8.6# Observed Significance of a Test#Ex8_6.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.6/Ex8_6.R#S##11743
+8# Testing Hypotheses#8.5# Large Sample Tests for a Population Mean#Ex8_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.5/Ex8_5.R#S##12259
+8# Testing Hypotheses#8.4#Large Sample Tests for a Population Mean#Ex8_4.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.4/Ex8_4.R#S##9527
+8# Testing Hypotheses#8.3#The Elements of Hypothesis Testing#Ex8_3.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.3/Ex8_3.R#S##9526
+8# Testing Hypotheses#8.15#p value approach#Ex8_15.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.15/Ex8_15.R#S##9538
+8# Testing Hypotheses#8.14#p value approach#Ex8_14.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.14/Ex8_14.R#S##9537
+8# Testing Hypotheses#8.13#Large Sample Tests for a Population Proportion#Ex8_13.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.13/Ex8_13.R#S##9536
+8# Testing Hypotheses#8.12#Large Sample Tests for a Population Proportion#Ex8_12.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.12/Ex8_12.R#S##9535
+8# Testing Hypotheses#8.11#Small Sample Tests for a Population Mean#Ex8_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.11/Ex8_11.R#S##12261
+8# Testing Hypotheses#8.10#Small Sample Tests for a Population Mean#Ex8_10.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH8/EX8.10/Ex8_10.R#S##12935
+7# Estimation#7.9#Estimation of Minimal Sample Size#Ex7_9.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.9/Ex7_9.R#S##9522
+7# Estimation#7.8#Computing Minimal Sample Size with E#Ex7_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.8/Ex7_8.R#S##9521
+7# Estimation#7.7#Large Sample Estimation of a Population Proportion#Ex7_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.7/Ex7_7.R#S##12256
+7# Estimation#7.6#Observed Significance#Ex7_6.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.6/Ex7_6.R#S##11746
+7# Estimation#7.5# Small Sample Estimation of a Population Mean#Ex7_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.5/Ex7_5.R#S##9518
+7# Estimation#7.4#Construction of Confidence Level#Ex7_4.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.4/Ex7_4.R#S##9517
+7# Estimation#7.3#Finding Critical Values#Ex7_3.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.3/Ex7_3.R#S##9516
+7# Estimation#7.2.b#Critical Values of Confidence Levels#Ex7_2b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.2.b/Ex7_2b.R#S##12255
+7# Estimation#7.2.a#Critical Values of Confidence Levels#Ex7_2a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.2.a/Ex7_2a.R#S##12254
+7# Estimation#7.11#Estimation of Minimal Sample Size#Ex7_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.11/Ex7_11.R#S##9525
+7# Estimation#7.10.b#Estimation of Minimal Sample Size#Ex7_10b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.10.b/Ex7_10b.R#S##12258
+7# Estimation#7.10.a#Estimation of Minimal Sample Size#Ex7_10a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.10.a/Ex7_10a.R#S##12257
+7# Estimation#7.1.b#Construction of Confidence Level#Ex7_1b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.1.b/Ex7_1b.R#S##12253
+7# Estimation#7.1.a#Construction of Confidence Level#Ex7_1a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH7/EX7.1.a/Ex7_1a.R#S##12252
+6# Sampling Distributions#6.8.c#Finding Sample Proportion#Ex6_8c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.8.c/Ex6_8c.R#S##12251
+6# Sampling Distributions#6.8.b#Sampling Distributions#Ex6_8b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.8.b/Ex6_8b.R#S##12934
+6# Sampling Distributions#6.8.a#Computing Sample Proportion#Ex6_8a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.8.a/Ex6_8a.R#S##12249
+6# Sampling Distributions#6.7.b#The Sample Proportion#Ex6_7b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.7.b/Ex6_7b.R#S##12248
+6# Sampling Distributions#6.7.a#Normal Distribution#Ex6_7a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.7.a/Ex6_7a.R#S##12933
+6# Sampling Distributions#6.6.b#Probability of Sampling Distribution#Ex6_6b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.6.b/Ex6_6b.R#S##12246
+6# Sampling Distributions#6.6.a#Probability of Sampling Distribution#Ex6_6a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.6.a/Ex6_6a.R#S##12245
+6# Sampling Distributions#6.5#Probability of Sample Mean of Sampling Distribution#Ex6_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.5/Ex6_5.R#S##9505
+6# Sampling Distributions#6.4#Computing Mean from Sampling Distribution#Ex6_4.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.4/Ex6_4.R#S##9504
+6# Sampling Distributions#6.3.c#Sampling Distribution Probabilities#Ex6_3c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.3.c/Ex6_3c.R#S##12244
+6# Sampling Distributions#6.3.b#Sampling Distribution Probabilities#Ex6_3b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.3.b/Ex6_3b.R#S##12243
+6# Sampling Distributions#6.3.a#Finding Mean and SD of the Sample Distribution#Ex6_3a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.3.a/Ex6_3a.R#S##12242
+6# Sampling Distributions#6.2#Finding Mean and SD#Ex6_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.2/Ex6_2.R#S##9500
+6# Sampling Distributions#6.1#Finding Probability Distribution and Mean and SD of the sample#Ex6_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH6/EX6.1/Ex6_1.R#S##9499
+5# Continuous Random Variables#5.9.b#Probability Computations for General Normal Random Variables#Ex5_9b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.9.b/Ex5_9b.R#S##12236
+5# Continuous Random Variables#5.9.a#Probability Computations for General Normal Random Variables#Ex5_9a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.9.a/Ex5_9a.R#S##12235
+5# Continuous Random Variables#5.8.c#Probability of Standard Normal Variable#Ex5_8c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.8.c/Ex5_8c.R#S##12234
+5# Continuous Random Variables#5.8.b#Probability of Standard Normal Variable#Ex5_8b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.8.b/Ex5_8b.R#S##12233
+5# Continuous Random Variables#5.8.a#Probability of Standard Normal Variable#Ex5_8a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.8.a/Ex5_8a.R#S##12232
+5# Continuous Random Variables#5.7.b#Probability of Standard Normal Variable#Ex5_7b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.7.b/Ex5_7b.R#S##12231
+5# Continuous Random Variables#5.7.a#Probability of Standard Normal Variable#Ex5_7a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.7.a/Ex5_7a.R#S##12230
+5# Continuous Random Variables#5.6.b#Finding Probabilities of Normally Distributed Variable#Ex5_6b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.6.b/Ex5_6b.R#S##12229
+5# Continuous Random Variables#5.6.a#Finding Probabilities of Normally Distributed Variable#Ex5_6a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.6.a/Ex5_6a.R#S##12228
+5# Continuous Random Variables#5.5.b#Probability of Standard Normal Variable#Ex5_5b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.5.b/Ex5_5b.R#S##12227
+5# Continuous Random Variables#5.5.a# Probability of Standard Normal Variable#Ex5_5a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.5.a/Ex5_5a.R#S##12226
+5# Continuous Random Variables#5.4.b#Probability of Standard Normal Variable#Ex5_4b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.4.b/Ex5_4b.R#S##12225
+5# Continuous Random Variables#5.4.a#Probability of Standard Normal Variable#Ex5_4a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.4.a/Ex5_4a.R#S##12224
+5# Continuous Random Variables#5.3#Computing Probability from Area of Density Function Curve#Ex5_3.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.3/Ex5_3.R#S##9467
+5# Continuous Random Variables#5.2#Computing Probability from Area of Density Function Curve#Ex5_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.2/Ex5_2.R#S##9466
+5# Continuous Random Variables#5.18#Range of Area of Tail Distributions#Ex5_18.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.18/Ex5_18.R#S##12932
+5# Continuous Random Variables#5.17#Area of Tails of Distribution with Mean and SD#Ex5_17.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.17/Ex5_17.R#S##12240
+5# Continuous Random Variables#5.16#Area of Tails of Distribution with Mean and SD#Ex5_16.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.16/Ex5_16.R#S##12239
+5# Continuous Random Variables#5.15#Area of Tails of Distribution with Mean and SD#Ex5_15.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.15/Ex5_15.R#S##12238
+5# Continuous Random Variables#5.14#Right and Left tails of Area in the Standard Normal Distribution#Ex5_14.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.14/Ex5_14.R#S##12284
+5# Continuous Random Variables#5.13#Areas of Tails of Distributions#Ex5_13.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.13/Ex5_13.R#S##12237
+5# Continuous Random Variables#5.12#Areas of Tails of Distributions#Ex5_12.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.12/Ex5_12.R#S##9490
+5# Continuous Random Variables#5.11#Finding Probability of General Normal Variable#Ex5_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.11/Ex5_11.R#S##9489
+5# Continuous Random Variables#5.10#Finding Probability of General Normal Variable#Ex5_10.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.10/Ex5_10.R#S##9488
+5# Continuous Random Variables#5.1.c#Continuous Random Variables#Ex5_1c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.1.c/Ex5_1c.R#S##12944
+5# Continuous Random Variables#5.1.b#Continuous Random Variables#Ex5_1b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.1.b/Ex5_1b.R#S##12943
+5# Continuous Random Variables#5.1.a#Probability of Continuous Random Variable#Ex5_1a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH5/EX5.1.a/Ex5_1a.R#S##12942
+4# Discrete Random Variables#4.9.b# Probability using Binomial Distribution#Ex4_9b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.9.b/Ex4_9b.R#S##12221
+4# Discrete Random Variables#4.9.a# Probability using Binomial Distribution#Ex4_9a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.9.a/Ex4_9a.R#S##12220
+4# Discrete Random Variables#4.8#Finding Mean and SD of the random variable#Ex4_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.8/Ex4_8.R#S##9460
+4# Discrete Random Variables#4.7.c#Finding Mean from Probability Distribution of Discrete Variables#Ex4_7c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.7.c/Ex4_7c.R#S##12219
+4# Discrete Random Variables#4.7.b#Maximum of the values#Ex4_7b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.7.b/Ex4_7b.R#S##12291
+4# Discrete Random Variables#4.7.a#Constructing Probability Distribution from Binomial Values#Ex4_7a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.7.a/Ex4_7a.R#S##12218
+4# Discrete Random Variables#4.6.h#Finding SD from Probability Distribution of Discrete Variables#Ex4_6h.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.h/Ex4_6h.R#S##12217
+4# Discrete Random Variables#4.6.g#Finding Variance from Probability Distribution of Discrete Variables#Ex4_6g.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.g/Ex4_6g.R#S##12216
+4# Discrete Random Variables#4.6.f# Finding Mean from Probability Distribution of Discrete Variables#Ex4_6f.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.f/Ex4_6f.R#S##12215
+4# Discrete Random Variables#4.6.e#Finding Probability from Probability Distribution of Discrete Variables#Ex4_6e.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.e/Ex4_6e.R#S##12931
+4# Discrete Random Variables#4.6.d#Finding Probability from Probability Distribution of Discrete Variables#Ex4_6d.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.d/Ex4_6d.R#S##12213
+4# Discrete Random Variables#4.6.c#Finding Probability from Probability Distribution of Discrete Variables#Ex4_6c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.c/Ex4_6c.R#S##12212
+4# Discrete Random Variables#4.6.b#Probability of Discrete Random Variable from Probability Distribution#Ex4_6b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.b/Ex4_6b.R#S##12211
+4# Discrete Random Variables#4.6.a#Finding missing values in Probability Distribution of Discrete Variable#Ex4_6a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.6.a/Ex4_6a.R#S##12210
+4# Discrete Random Variables#4.5#Expected Values of Discrete Variable#Ex4_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.5/Ex4_5.R#S##9448
+4# Discrete Random Variables#4.4.c#Expected Values of Discrete Variables#Ex4_4c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.4.c/Ex4_4c.R#S##12929
+4# Discrete Random Variables#4.4.b#Probability of Discrete Random Variable Case#Ex4_4b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.4.b/Ex4_4b.R#S##12928
+4# Discrete Random Variables#4.4.a# Probability Distribution of Discrete Random Variable#Ex4_4a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.4.a/Ex4_4a.R#S##12927
+4# Discrete Random Variables#4.3#Mean of Discrete Random Variable#Ex4_3.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.3/Ex4_3.R#S##9444
+4# Discrete Random Variables#4.2.c#Probability Distribution for Tossing Two Fair Dice#Ex4_2c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.2.c/Ex4_2c.R#S##12964
+4# Discrete Random Variables#4.2.b#Probability of Discrete Random Variable#Ex4_2b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.2.b/Ex4_2b.R#S##12926
+4# Discrete Random Variables#4.2.a#Probability Distribution of Discrete Variables#Ex4_2a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.2.a/Ex4_2a.R#S##12925
+4# Discrete Random Variables#4.1.b#Probability Distribution of Discrete Variables#Ex4_1b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.1.b/Ex4_1b.R#S##12289
+4# Discrete Random Variables#4.1.a#Probability Distribution of Discrete Variables#Ex4_1a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH4/EX4.1.a/Ex4_1a.R#S##12080
+3# Basic Concepts of Probability#3.9.c#Probability of occurrence of Event FN#Ex3_9c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.9.c/Ex3_9c.R#S##9070
+3# Basic Concepts of Probability#3.9.b#Probability of occurrence of Event MF#Ex3_9b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.9.b/Ex3_9b.R#S##9069
+3# Basic Concepts of Probability#3.9.a#Probability of occurrence of Event B#Ex3_9a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.9.a/Ex3_9a.R#S##9068
+3# Basic Concepts of Probability#3.8.c#Probability of occurrence of Event N#Ex3_8c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.8.c/Ex3_8c.R#S##9067
+3# Basic Concepts of Probability#3.8.b#Probability of occurrence of Event M#Ex3_8b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.8.b/Ex3_8b.R#S##9066
+3# Basic Concepts of Probability#3.8.a#Probability of occurrence of Event B#Ex3_8a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.8.a/Ex3_8a.R#S##9065
+3# Basic Concepts of Probability#3.7#Probability of two tossed coins matching#Ex3_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.7/Ex3_7.R#S##9064
+3# Basic Concepts of Probability#3.6# Probability of tossing a Single Die and a few cases#Ex3_6.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.6/Ex3_6.R#S##9063
+3# Basic Concepts of Probability#3.5#Probability for Tossing a Coin#Ex3_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.5/Ex3_5.R#S##9062
+3# Basic Concepts of Probability#3.4# Sample Space that describes all Three Child Families#Ex3_4.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.4/Ex3_4.R#S##12945
+3# Basic Concepts of Probability#3.3.b#Tossing two Distinguishable coins#Ex3_3b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.3.b/Ex3_3b.R#S##9061
+3# Basic Concepts of Probability#3.3.a#Tossing two coins sample space#Ex3_3a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.3.a/Ex3_3a.R#S##12058
+3# Basic Concepts of Probability#3.28.c#Repetitive Probabilities Case 3#Ex3_28c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.28.c/Ex3_28c.R#S##12078
+3# Basic Concepts of Probability#3.28.b#Repetitive Probabilities Case 2#Ex3_28b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.28.b/Ex3_28b.R#S##12077
+3# Basic Concepts of Probability#3.28.a#Repetitive Probabilities Case 1#Ex3_28a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.28.a/Ex3_28a.R#S##12076
+3# Basic Concepts of Probability#3.27#Repetitive Probabilities of Independent Events#Ex3_27.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.27/Ex3_27.R#S##9436
+3# Basic Concepts of Probability#3.26.b#Rule of Independence Events#Ex3_26b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.26.b/Ex3_26b.R#S##12075
+3# Basic Concepts of Probability#3.26.a#Complement Rule of Probability#Ex3_26a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.26.a/Ex3_26a.R#S##12074
+3# Basic Concepts of Probability#3.25.b#Conditional Probability and Independent Events#Ex3_25b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.25.b/Ex3_25b.R#S##12073
+3# Basic Concepts of Probability#3.25.a#Conditional Probability and Independent Events#Ex3_25a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.25.a/Ex3_25a.R#S##12072
+3# Basic Concepts of Probability#3.24#Test for Independent Events#Ex3_24.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.24/Ex3_24.R#S##9432
+3# Basic Concepts of Probability#3.23#Test for Independent Events#Ex3_23.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.23/Ex3_23.R#S##9431
+3# Basic Concepts of Probability#3.22.c#Conditional Probability and Independent Events#Ex3_22c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.22.c/Ex3_22c.R#S##12924
+3# Basic Concepts of Probability#3.22.b#Conditional Probability and Independent Events#Ex3_22b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.22.b/Ex3_22b.R#S##12070
+3# Basic Concepts of Probability#3.22.a#Conditional Probability and Independent Events#Ex3_22a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.22.a/Ex3_22a.R#S##12069
+3# Basic Concepts of Probability#3.21.b#Conditional Probability and Independent Events#Ex3_21b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.21.b/Ex3_21b.R#S##12068
+3# Basic Concepts of Probability#3.21.a#Conditional Probability and Independent Events#Ex3_21a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.21.a/Ex3_21a.R#S##12067
+3# Basic Concepts of Probability#3.20.b#Fair Die#Ex3_20b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.20.b/Ex3_20b.R#S##12063
+3# Basic Concepts of Probability#3.20.a#Fair Die#Ex3_20a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.20.a/Ex3_20a.R#S##12062
+3# Basic Concepts of Probability#3.2#Sample Space for Rolling a Die and a few Cases#Ex3_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.2/Ex3_2.R#S##9059
+3# Basic Concepts of Probability#3.19.c#Conditional Probability #Ex3_19c.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.19.c/Ex3_19c.R#S##12066
+3# Basic Concepts of Probability#3.19.b#Conditional Probability #Ex3_19b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.19.b/Ex3_19b.R#S##12065
+3# Basic Concepts of Probability#3.19.a#Conditional Probability #Ex3_19a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.19.a/Ex3_19a.R#S##12064
+3# Basic Concepts of Probability#3.18#Intersections and Unions of Probabilities#Ex3_18.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.18/Ex3_18.R#S##9079
+3# Basic Concepts of Probability#3.17.b#Finding probability of at least one die showing a 4 when two dice are thrown#Ex3_17b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.17.b/Ex3_17b.R#S##9078
+3# Basic Concepts of Probability#3.17.a#Probability that both dice show a 4 when two dice are shown#Ex3_17a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.17.a/Ex3_17a.R#S##9077
+3# Basic Concepts of Probability#3.16#Finding the Union and Intersection of two Events#Ex3_16.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.16/Ex3_16.R#S##9076
+3# Basic Concepts of Probability#3.15#Finding the Union of two Events#Ex3_15.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.15/Ex3_15.R#S##9075
+3# Basic Concepts of Probability#3.14#Complement of an Event#Ex3_14.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.14/Ex3_14.R#S##12923
+3# Basic Concepts of Probability#3.13.b#Probability of intersection of two events#Ex3_13b.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.13.b/Ex3_13b.R#S##9074
+3# Basic Concepts of Probability#3.13.a#Intersection of two events while rolling a fair die#Ex3_13a.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.13.a/Ex3_13a.R#S##9073
+3# Basic Concepts of Probability#3.12#Finding the Intersection of two Events#Ex3_12.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.12/Ex3_12.R#S##9072
+3# Basic Concepts of Probability#3.11#Probability Calculation#Ex3_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.11/Ex3_11.R#S##11740
+3# Basic Concepts of Probability#3.10#Events concerned with the experiment of rolling a single die#Ex3_10.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.10/Ex3_10.R#S##9071
+3# Basic Concepts of Probability#3.1#Sample Space for Tossing a Coin#Ex3_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH3/EX3.1/Ex3_1.R#S##8097
+2# Descriptive Statistics#2.9#Multiple Modes in Data Set#Ex2_9.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.9/Ex2_9.R#S##8088
+2# Descriptive Statistics#2.8#Sample Mode of Data Set#Ex2_8.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.8/Ex2_8.R#S##8087
+2# Descriptive Statistics#2.7#Sample Median of Frequency Distribution Table#Ex2_7.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.7/Ex2_7.R#S##8086
+2# Descriptive Statistics#2.6#Sample Median of Students GPA#Ex2_6.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.6/Ex2_6.R#S##8085
+2# Descriptive Statistics#2.5#Sample Median of Data Set#Ex2_5.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.5/Ex2_5.R#S##8084
+2# Descriptive Statistics#2.4#Measures of Variability#Ex2_4.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.4/Ex2_4.R#S##12057
+2# Descriptive Statistics#2.3#Sample Mean of Students GPA#Ex2_3.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.3/Ex2_3.R#S##8082
+2# Descriptive Statistics#2.2#Mean of Sample Data#Ex2_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.2/Ex2_2.R#S##8081
+2# Descriptive Statistics#2.18#Computing Data from given Standard Deviation and Variance #Ex2_18.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.18/Ex2_18.R#S##8096
+2# Descriptive Statistics#2.17#Z Scores of Observations#Ex2_17.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.17/Ex2_17.R#S##8095
+2# Descriptive Statistics#2.16#Box Plots and Interquartile Range#Ex2_16.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.16/Ex2_16.R#S##8094
+2# Descriptive Statistics#2.15#Quartiles of Students GPA#Ex2_15.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.15/Ex2_15.R#S##8093
+2# Descriptive Statistics#2.14#Quartiles in a Data Set#Ex2_14.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.14/Ex2_14.R#S##8092
+2# Descriptive Statistics#2.13#Measures of Central Location#Ex2_13.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.13/Ex2_13.R#S##11739
+2# Descriptive Statistics#2.12#Standard Deviation and Variance of Students GPA#Ex2_12.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.12/Ex2_12.R#S##8091
+2# Descriptive Statistics#2.11#Standard Deviation and Variance in a Data Set#Ex2_11.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.11/Ex2_11.R#S##8090
+2# Descriptive Statistics#2.10#Range of Data Set#Ex2_10.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.10/Ex2_10.R#S##8089
+2# Descriptive Statistics#2.1#Operations on the Data Set#Ex2_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH2/EX2.1/Ex2_1.R#S##8080
+1# Introduction#1.2#Data Frequency Table#Ex1_2.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH1/EX1.2/Ex1_2.R#S##8079
+1# Introduction#1.1#Set Notation#Ex1_1.R#Introductory_Statistics_by_Douglas_S_Shafer_And_Zhiyi_Zhang/CH1/EX1.1/Ex1_1.R#S##8078

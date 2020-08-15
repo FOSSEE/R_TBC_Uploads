@@ -1,6 +1,6 @@
 #$ cat changedir.sh
 #!/bin/bash
-
+export PATH=$PATH:/usr/local/texlive/2016/bin/x86_64-linux
 
 if [ -f TEX_final.tex ]
 then
