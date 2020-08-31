@@ -1,0 +1,31 @@
+#page no:156-157
+library(MASS)
+df=data.frame(robbery=c(145.7,133.1,119.3,113.7),
+              burg=c(732.1,717.7,701,702.2),
+              rape=c(29.7,29.1,27.7,26.8),
+              vehicle=c(314.7,259.2,239.1,229.6))
+rownames(df)=c("2008","2009","2010","2011")
+View(df)
+df$rtotal=rowSums(df)
+ctotal<-c(colSums(df[]))
+total=ctotal[5]
+P_8=df$rtotal[1]/total
+P_9=df$rtotal[2]/total
+P_10=df$rtotal[3]/total
+P_11=df$rtotal[4]/total
+P_R=ctotal[1]/total
+P_B=ctotal[2]/total
+P_Ra=ctotal[3]/total
+P_V=ctotal[4]/total
+P9intR=df$robbery[2]/total
+P10intB=df$burg[3]/total
+P11intRa=df$rape[4]/total
+P8intV=df$vehicle[1]/total
+P10UB=(P_10+P_B)-P10intB
+P11_Ra=P11intRa/P_Ra
+PV_8=P8intV/P_8
+print(paste("a.solution=",round(P9intR,4)))
+print(paste("b.solution=",round(P10intB,4)))
+print(paste("c.solution=",round(P10UB,4)))
+print(paste("d.solution=",round(P11_Ra,4)))
+print(paste("e.solution=",round(PV_8,4)))

@@ -1,0 +1,15 @@
+# Page No. 127
+
+X_A <- 0.250
+X_B <- 0.750
+VP_CH30H <- 96
+VP_C2H5OH <- 43.9
+
+PCH30H <- X_A * VP_CH30H
+PC2H50H <- X_B * VP_C2H5OH
+P <- PC2H50H + PCH30H
+X_CH3OH <- PCH30H / P
+
+print(PC2H50H)
+print(PCH30H)
+print(X_CH3OH)

@@ -1,192 +1,192 @@
-16# Application to Reliability and Life Testing #16.4#The Exponential Model in Life Testing#EX16_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.4/EX16_4.R#S##4128
-16# Application to Reliability and Life Testing #16.3#The Exponential Model in Life Testing#EX16_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.3/EX16_3.R#S##4127
-16# Application to Reliability and Life Testing #16.2#Reliability #EX16_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.2/EX16_2.R#S##4126
-16# Application to Reliability and Life Testing #16.1#Reliability #EX16_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.1/EX16_1.R#S##4125
-15#The Statistical Content of Quality Improvement Programs#15.4#Tolerance Limits#EX15_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH15/EX15.4/EX15_4.R#S##4129
-15#The Statistical Content of Quality Improvement Programs#15.3#Tolerance Limits#EX15_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH15/EX15.3/EX15_3.R#S##4130
-15#The Statistical Content of Quality Improvement Programs#15.2#Experimental Designs for Quality#EX15_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH15/EX15.2/EX15_2.R#S##4132
-14# NONPARAMETRIC TESTS#14.9#The Kolmogorov Smirnov and Anderson Darling Tests#EX14_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.9/EX14_9.R#S##4470
-14# NONPARAMETRIC TESTS#14.8#The Kolmogorov Smirnov and Anderson Darling Tests#EX14_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.8/EX14_8.R#S##4196
-14# NONPARAMETRIC TESTS#14.7#Tests of Randomness#EX14_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.7/EX14_7.R#S##4456
-14# NONPARAMETRIC TESTS#14.6#Tests of Randomness#EX14_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.6/EX14_6.R#S##4194
-14# NONPARAMETRIC TESTS#14.5#Correlation Based on Ranks#EX14_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.5/EX14_5.R#S##4193
-14# NONPARAMETRIC TESTS#14.4#Rank Sum Tests#EX14_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.4/EX14_4.R#S##4192
-14# NONPARAMETRIC TESTS#14.3#Rank Sum Tests#EX14_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.3/EX14_3.R#S##4191
-14# NONPARAMETRIC TESTS#14.2#The Sign Test#EX14_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.2/EX14_2.R#S##4198
-14# NONPARAMETRIC TESTS#14.1#The Sign Test#EX14_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.1/EX14_1.R#S##4455
-13# Factorial Experimentation#13.4#Response Surface Analysis#EX13_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.4/EX13_4.R#S##4447
-13# Factorial Experimentation#13.3#Multifactor Experiments#EX13_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.3/EX13_3.R#S##4448
-13# Factorial Experimentation#13.2#Multifactor Experiments #EX13_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.2/EX13_2.R#S##4200
-13# Factorial Experimentation#13.1#Two Factor Experiments#EX13_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.1/EX13_1.R#S##4528
-12# ANALYSIS OF VARIANCE#12.9#Multiple Comparisons#EX12_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.9/EX12_9.R#S##4174
-12# ANALYSIS OF VARIANCE#12.8#Randomized Block Designs#EX12_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.8/EX12_8.R#S##4173
-12# ANALYSIS OF VARIANCE#12.7#Randomized Block Designs#EX12_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.7/EX12_7.R#S##4172
-12# ANALYSIS OF VARIANCE#12.6#Randomized Block Designs#EX12_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.6/EX12_6.R#S##4171
-12# ANALYSIS OF VARIANCE#12.5#Completely Randomized Designs#EX12_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.5/EX12_5.R#S##4170
-12# ANALYSIS OF VARIANCE#12.4#Completely Randomized Designs#EX12_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.4/EX12_4.R#S##4169
-12# ANALYSIS OF VARIANCE#12.3#Completely Randomized Designs#EX12_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.3/EX12_3.R#S##4168
-12# ANALYSIS OF VARIANCE#12.2#Completely Randomized Designs#EX12_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.2/EX12_2.R#S##4167
-12# ANALYSIS OF VARIANCE#12.11#Analysis of Covariance#12_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.11/12_11.R#S##4532
-12# ANALYSIS OF VARIANCE#12.10#Multiple Comparisons#EX12_10.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.10/EX12_10.R#S##4454
-12# ANALYSIS OF VARIANCE#12.1#Completely Randomized Designs#EX12_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.1/EX12_1.R#S##4166
-11# REGRESSION ANALYSIS#11.9#Inferences Based on the Least Squares Estimators#EX11_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.9/EX11_9.R#S##4463
-11# REGRESSION ANALYSIS#11.8#Inferences Based on the Least Squares Estimators#EX11_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.8/EX11_8.R#S##4179
-11# REGRESSION ANALYSIS#11.7# Inferences Based on the Least Squares Estimators#EX11_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.7/EX11_7.R#S##4533
-11# REGRESSION ANALYSIS#11.6#Inferences Based on the Least Squares Estimators#EX11_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.6/EX11_6.R#S##4178
-11# REGRESSION ANALYSIS#11.5#Inferences Based on the Least Squares Estimators#EX11_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.5/EX11_5.R#S##4461
-11# REGRESSION ANALYSIS#11.3#The Method of Least Squares#EX11_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.3/EX11_3.R#S##4165
-11# REGRESSION ANALYSIS#11.21#Multiple Linear Regression Matrix Notation#EX11_21.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.21/EX11_21.R#S##4190
-11# REGRESSION ANALYSIS#11.20#Multiple Linear Regression Matrix Notation#EX11_20.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.20/EX11_20.R#S##4189
-11# REGRESSION ANALYSIS#11.2#The Method of Least Squares#EX11_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.2/EX11_2.R#S##4530
-11# REGRESSION ANALYSIS#11.19#Multiple Linear Regression Matrix Notation#EX11_19.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.19/EX11_19.R#S##4188
-11# REGRESSION ANALYSIS#11.18#Correlation#EX11_18.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.18/EX11_18.R#S##4469
-11# REGRESSION ANALYSIS#11.17#Correlation#EX11_17.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.17/EX11_17.R#S##4186
-11# REGRESSION ANALYSIS#11.15#Correlation#EX11_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.15/EX11_15.R#S##4468
-11# REGRESSION ANALYSIS#11.14#Correlation#EX11_14.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.14/EX11_14.R#S##4467
-11# REGRESSION ANALYSIS#11.12#Multiple Regression#EX11_12.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.12/EX11_12.R#S##4531
-11# REGRESSION ANALYSIS#11.11#Curvilinear Regression#EX11_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.11/EX11_11.R#S##4465
-11# REGRESSION ANALYSIS#11.10#Curvilinear Regression#EX11_10.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.10/EX11_10.R#S##4464
-11# REGRESSION ANALYSIS#11.1#The Method of Least Squares#EX11_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.1/EX11_1.R#S##4473
-10# INFERENCES CONCERNING PROPORTIONS#10.9#Hypotheses Concerning Several Proportions#EX10_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.9/EX10_9.R#S##4118
-10# INFERENCES CONCERNING PROPORTIONS#10.8#Hypotheses Concerning Several Proportions#EX10_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.8/EX10_8.R#S##4117
-10# INFERENCES CONCERNING PROPORTIONS#10.7#Hypotheses Concerning One Proportion#EX10_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.7/EX10_7.R#S##4116
-10# INFERENCES CONCERNING PROPORTIONS#10.6#Hypotheses Concerning One Proportion#EX10_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.6/EX10_6.R#S##4115
-10# INFERENCES CONCERNING PROPORTIONS#10.5#Estimation of Proportions#EX10_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.5/EX10_5.R#S##4114
-10# INFERENCES CONCERNING PROPORTIONS#10.4#Estimation of Proportions#EX10_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.4/EX10_4.R#S##4113
-10# INFERENCES CONCERNING PROPORTIONS#10.3#Estimation of Proportions#EX10_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.3/EX10_3.R#S##4112
-10# INFERENCES CONCERNING PROPORTIONS#10.2#Estimation of Proportions#EX10_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.2/EX10_2.R#S##4111
-10# INFERENCES CONCERNING PROPORTIONS#10.15#Goodness of Fit#EX10_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.15/EX10_15.R#S##4123
-10# INFERENCES CONCERNING PROPORTIONS#10.13#Analysis of r x c Tables#EX10_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.13/EX10_13.R#S##4122
-10# INFERENCES CONCERNING PROPORTIONS#10.12#Analysis of r x c Tables#EX10_12.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.12/EX10_12.R#S##4121
-10# INFERENCES CONCERNING PROPORTIONS#10.11#Hypotheses Concerning Several Proportions#EX10_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.11/EX10_11.R#S##4120
-10# INFERENCES CONCERNING PROPORTIONS#10.10#Hypotheses Concerning Several Proportions#EX10_10.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.10/EX10_10.R#S##4119
-10# INFERENCES CONCERNING PROPORTIONS#10.1#Estimation of Proportions#EX10_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.1/EX10_1.R#S##4110
-9#INFERENCES CONCERNING VARIANCES#9.6#Hypotheses Concerning Two Variances#EX9_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.6/EX9_6.R#S##4162
-9#INFERENCES CONCERNING VARIANCES#9.5#Hypotheses Concerning Two Variances#EX9_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.5/EX9_5.R#S##4161
-9#INFERENCES CONCERNING VARIANCES#9.4#Hypotheses Concerning Two Variances#EX9_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.4/EX9_4.R#S##4160
-9#INFERENCES CONCERNING VARIANCES#9.3#Hypotheses Concerning One Variance#EX9_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.3/EX9_3.R#S##4460
-9#INFERENCES CONCERNING VARIANCES#9.2#The Estimation of Variances #EX9_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.2/EX9_2.R#S##4158
-9#INFERENCES CONCERNING VARIANCES#9.1#The Estimation of Variances #EX9_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.1/EX9_1.R#S##4157
-8# Comparing Two Treatments#8.9#Comparisons Two Independent Small Samples#EX8_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.9/EX8_9.R#S##4104
-8# Comparing Two Treatments#8.8#Comparisons Two Independent Small Samples#EX8_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.8/EX8_8.R#S##4103
-8# Comparing Two Treatments#8.7#Comparisons Two Independent Small Samples#EX8_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.7/EX8_7.R#S##4102
-8# Comparing Two Treatments#8.6#Comparisons Two Independent Large Samples#EX8_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.6/EX8_6.R#S##4101
-8# Comparing Two Treatments#8.5#Comparisons Two Independent Large Samples#EX8_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.5/EX8_5.R#S##4100
-8# Comparing Two Treatments#8.4#Comparisons Two Independent Large Samples#EX8_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.4/EX8_4.R#S##4099
-8# Comparing Two Treatments#8.3#Comparisons Two Independent Large Samples#EX8_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.3/EX8_3.R#S##4098
-8# Comparing Two Treatments#8.14#Matched Pairs Comparisons#EX8_14.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.14/EX8_14.R#S##4109
-8# Comparing Two Treatments#8.13#Matched Pairs Comparisons#EX8_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.13/EX8_13.R#S##4108
-8# Comparing Two Treatments#8.12#Matched Pairs Comparisons#EX8_12.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.12/EX8_12.R#S##4107
-8# Comparing Two Treatments#8.11#Comparisons Two Independent Small Samples#EX8_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.11/EX8_11.R#S##4106
-8# Comparing Two Treatments#8.10#Comparisons Two Independent Small Samples#EX8_10.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.10/EX8_10.R#S##4453
-7# Inferences Concerning a Mean#7.8#Interval Estimation#EX7_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.8/EX7_8.R#S##4148
-7# Inferences Concerning a Mean#7.7#Interval Estimation#EX7_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.7/EX7_7.R#S##4147
-7# Inferences Concerning a Mean#7.6#Interval Estimation#EX7_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.6/EX7_6.R#S##4146
-7# Inferences Concerning a Mean#7.5#Point Estimation#EX7_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.5/EX7_5.R#S##4145
-7# Inferences Concerning a Mean#7.4#Point Estimation#EX7_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.4/EX7_4.R#S##4144
-7# Inferences Concerning a Mean#7.3#Point Estimation#EX7_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.3/EX7_3.R#S##4143
-7# Inferences Concerning a Mean#7.24#Power Sample Size and Operating Characteristic Curves#EX7_24.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.24/EX7_24.R#S##4156
-7# Inferences Concerning a Mean#7.23#Power Sample Size and Operating Characteristic Curves#EX7_23.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.23/EX7_23.R#S##4155
-7# Inferences Concerning a Mean#7.22#Power Sample Size and Operating Characteristic Curves#EX7_22.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.22/EX7_22.R#S##4154
-7# Inferences Concerning a Mean#7.20#Hypotheses Concerning One Mean#EX7_20.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.20/EX7_20.R#S##4153
-7# Inferences Concerning a Mean#7.2#Point Estimation#EX7_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.2/EX7_2.R#S##4142
-7# Inferences Concerning a Mean#7.19#Hypotheses Concerning One Mean#EX7_19.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.19/EX7_19.R#S##4152
-7# Inferences Concerning a Mean#7.18#Hypotheses Concerning One Mean#EX7_18.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.18/EX7_18.R#S##4151
-7# Inferences Concerning a Mean#7.15#Maximum Likelihood Estimation#EX7_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.15/EX7_15.R#S##4150
-7# Inferences Concerning a Mean#7.13#Maximum Likelihood Estimation#EX7_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.13/EX7_13.R#S##4149
-6# SAMPLING DISTRIBUTIONS#6.55#The Sampling Distribution of the Variance#EX6_55.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.55/EX6_55.R#S##4138
-6# SAMPLING DISTRIBUTIONS#6.53#The Sampling Distribution of the Variance#EX6_53.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.53/EX6_53.R#S##4136
-6# SAMPLING DISTRIBUTIONS#6.52#The Sampling Distribution of the Mean Sigma Unknown#EX6_52.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.52/EX6_52.R#S##4135
-6# SAMPLING DISTRIBUTIONS#6.51#The Sampling Distribution of the Mean#EX6_51.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.51/EX6_51.R#S##4134
-6# SAMPLING DISTRIBUTIONS#6.49#The Sampling Distribution of the Mean#EX6_49.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.49/EX6_49.R#S##4133
-6# SAMPLING DISTRIBUTIONS#5.54#The Sampling Distribution of the Variance#EX6_54.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX5.54/EX6_54.R#S##4137
-5# PROBABILITY DENSITIES#5.9#The Normal Distribution#EX5_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.9/EX5_9.R#S##4079
-5# PROBABILITY DENSITIES#5.8#The Normal Distribution#EX5_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.8/EX5_8.R#S##4078
-5# PROBABILITY DENSITIES#5.7#The Normal Distribution#EX5_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.7/EX5_7.R#S##4077
-5# PROBABILITY DENSITIES#5.6#The Normal Distribution#EX5_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.6/EX5_6.R#S##4076
-5# PROBABILITY DENSITIES#5.5#The Normal Distribution#EX5_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.5/EX5_5.R#S##4075
-5# PROBABILITY DENSITIES#5.45#Simulation#EX5_45.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.45/EX5_45.R#S##4097
-5# PROBABILITY DENSITIES#5.44#Simulation#EX5_44.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.44/EX5_44.R#S##4096
-5# PROBABILITY DENSITIES#5.43#Transforming Observations to Near Normality#EX5_43.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.43/EX5_43.R#S##4095
-5# PROBABILITY DENSITIES#5.42#Checking If the Data Are Normal#EX5_42.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.42/EX5_42.R#S##4094
-5# PROBABILITY DENSITIES#5.4#Continuous Random Variables#EX5_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.4/EX5_4.R#S##4074
-5# PROBABILITY DENSITIES#5.31#Joint Distributions Discrete and Continuous#EX5_31.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.31/EX5_31.R#S##4459
-5# PROBABILITY DENSITIES#5.3#Continuous Random Variables#EX5_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.3/EX5_3.R#S##4072
-5# PROBABILITY DENSITIES#5.23#Joint Distributions Discrete and Continuous#EX5_23.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.23/EX5_23.R#S##4093
-5# PROBABILITY DENSITIES#5.22#Joint Distributions Discrete and Continuous#EX5_22.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.22/EX5_22.R#S##4092
-5# PROBABILITY DENSITIES#5.21#Joint Distributions Discrete and Continuous#EX5_21.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.21/EX5_21.R#S##4091
-5# PROBABILITY DENSITIES#5.20#Joint Distributions Discrete and Continuous#EX5_20.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.20/EX5_20.R#S##4090
-5# PROBABILITY DENSITIES#5.2#Continuous Random Variables#EX5_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.2/EX5_2.R#S##4073
-5# PROBABILITY DENSITIES#5.19#The Weibull Distribution#EX5_19.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.19/EX5_19.R#S##4089
-5# PROBABILITY DENSITIES#5.18#The Beta Distribution#EX5_18.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.18/EX5_18.R#S##4088
-5# PROBABILITY DENSITIES#5.17#The Gamma Distribution#EX5_17.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.17/EX5_17.R#S##4087
-5# PROBABILITY DENSITIES#5.16#The Gamma Distribution#EX5_16.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.16/EX5_16.R#S##4086
-5# PROBABILITY DENSITIES#5.15#The Log Normal Distribution#EX5_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.15/EX5_15.R#S##4085
-5# PROBABILITY DENSITIES#5.14#The Log Normal Distribution#EX5_14.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.14/EX5_14.R#S##4458
-5# PROBABILITY DENSITIES#5.13#The Log Normal Distribution#EX5_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.13/EX5_13.R#S##4083
-5# PROBABILITY DENSITIES#5.12#The Log Normal Distribution#EX5_12.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.12/EX5_12.R#S##4457
-5# PROBABILITY DENSITIES#5.11#The Normal Approximation to the Binomial Distribution#EX5_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.11/EX5_11.R#S##4081
-5# PROBABILITY DENSITIES#5.10#The Normal Distribution#EX5_10.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.10/EX5_10.R#S##4080
-5# PROBABILITY DENSITIES#5.1#Continuous Random Variables#EX5_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.1/EX5_1.R#S##4071
-4# PROBABILITY DISTRIBUTIONS#4.9#The Hypergeometric Distribution#EX4_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.9/EX4_9.R#S##4053
-4# PROBABILITY DISTRIBUTIONS#4.8#The Hypergeometric Distribution#EX4_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.8/EX4_8.R#S##4451
-4# PROBABILITY DISTRIBUTIONS#4.7#The Binomial Distribution#EX4_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.7/EX4_7.R#S##4051
-4# PROBABILITY DISTRIBUTIONS#4.6#The Binomial Distribution#EX4_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.6/EX4_6.R#S##4050
-4# PROBABILITY DISTRIBUTIONS#4.5#The Binomial Distribution#EX4_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.5/EX4_5.R#S##4049
-4# PROBABILITY DISTRIBUTIONS#4.4#The Binomial Distribution#EX4_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.4/EX4_4.R#S##4048
-4# PROBABILITY DISTRIBUTIONS#4.3#The Binomial Distribution#EX4_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.3/EX4_3.R#S##4047
-4# PROBABILITY DISTRIBUTIONS#4.27#The Multinomial Distribution#EX4_27.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.27/EX4_27.R#S##4070
-4# PROBABILITY DISTRIBUTIONS#4.26#The Geometric and Negative Binomial Distribution#EX4_26.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.26/EX4_26.R#S##4069
-4# PROBABILITY DISTRIBUTIONS#4.25#Poisson Processes#EX4_25.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.25/EX4_25.R#S##4068
-4# PROBABILITY DISTRIBUTIONS#4.24#Poisson Processes#EX4_24.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.24/EX4_24.R#S##4067
-4# PROBABILITY DISTRIBUTIONS#4.22#The Poisson Distribution and Rare Events#EX4_22.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.22/EX4_22.R#S##4066
-4# PROBABILITY DISTRIBUTIONS#4.21#The Poisson Distribution and Rare Events#EX4_21.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.21/EX4_21.R#S##4065
-4# PROBABILITY DISTRIBUTIONS#4.20#Chebyshevs Theorem#EX4_20.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.20/EX4_20.R#S##4063
-4# PROBABILITY DISTRIBUTIONS#4.19#Chebyshevs Theorem#EX4_19.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.19/EX4_19.R#S##4452
-4# PROBABILITY DISTRIBUTIONS#4.18#The Mean and the Variance of a Probability Distribution#EX4_18.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.18/EX4_18.R#S##4055
-4# PROBABILITY DISTRIBUTIONS#4.17#The Mean and the Variance of a Probability Distribution#EX4_17.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.17/EX4_17.R#S##4062
-4# PROBABILITY DISTRIBUTIONS#4.16#The Mean and the Variance of a Probability Distribution#EX4_16.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.16/EX4_16.R#S##4061
-4# PROBABILITY DISTRIBUTIONS#4.15#The Mean and the Variance of a Probability Distribution#EX4_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.15/EX4_15.R#S##4060
-4# PROBABILITY DISTRIBUTIONS#4.14#The Mean and the Variance of a Probability Distribution#EX4_14.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.14/EX4_14.R#S##4450
-4# PROBABILITY DISTRIBUTIONS#4.13#The Mean and the Variance of a Probability Distribution#EX4_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.13/EX4_13.R#S##4058
-4# PROBABILITY DISTRIBUTIONS#4.12#The Mean and the Variance of a Probability Distribution#EX4_12.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.12/EX4_12.R#S##4057
-4# PROBABILITY DISTRIBUTIONS#4.11#The Mean and the Variance of a Probability Distribution#EX4_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.11/EX4_11.R#S##4056
-4# PROBABILITY DISTRIBUTIONS#4.10#The Mean and the Variance of a Probability Distribution#EX4_10.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.10/EX4_10.R#S##4054
-4# PROBABILITY DISTRIBUTIONS#4.1#Random Variables#EX4_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.1/EX4_1.R#S##4046
-3# PROBABILITY#3.6#Counting#EX3_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.6/EX3_6.R#S##4020
-3# PROBABILITY#3.5#Counting#EX3_5.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.5/EX3_5.R#S##4019
-3# PROBABILITY#3.31#Bayes Theorem#EX3_31.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.31/EX3_31.R#S##4045
-3# PROBABILITY#3.30#Bayes Theorem#EX3_30.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.30/EX3_30.R#S##4044
-3# PROBABILITY#3.29#Conditional Probability#EX3_29.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.29/EX3_29.R#S##4043
-3# PROBABILITY#3.28#Conditional Probability#EX3_28.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.28/EX3_28.R#S##4042
-3# PROBABILITY#3.26#Conditional Probability#EX3_26.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.26/EX3_26.R#S##4040
-3# PROBABILITY#3.25#Conditional Probability#EX3_25.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.25/EX3_25.R#S##4039
-3# PROBABILITY#3.24#Conditional Probability#EX3_24.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.24/EX3_24.R#S##4038
-3# PROBABILITY#3.22#Conditional Probability#EX3_22.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.22/EX3_22.R#S##4036
-3# PROBABILITY#3.21#Conditional Probability#EX3_21.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.21/EX3_21.R#S##4035
-3# PROBABILITY#3.20#Conditional Probability#EX3_20.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.20/EX3_20.R#S##4034
-3# PROBABILITY#3.19#Some Elementary Theorems#EX3_19.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.19/EX3_19.R#S##4033
-3# PROBABILITY#3.18#Some Elementary Theorems#EX3_18.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.18/EX3_18.R#S##4032
-3# PROBABILITY#3.17#Some Elementary Theorems#EX3_17.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.17/EX3_17.R#S##4031
-3# PROBABILITY#3.16#Some Elementary Theorems#EX3_16.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.16/EX3_16.R#S##4030
-3# PROBABILITY#3.15#Some Elementary Theorems#EX3_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.15/EX3_15.R#S##4029
-3# PROBABILITY#3.14#The Axioms of Probability#EX3_14.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.14/EX3_14.R#S##4028
-3# PROBABILITY#3.13#Probability#EX3_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.13/EX3_13.R#S##4027
-3# PROBABILITY#3.11#Probability#EX3_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.11/EX3_11.R#S##4025
-3# PROBABILITY#3.1#Sample Spaces and Events#EX3_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.1/EX3_1.R#S##4017
-2# Organization and Description of Data #2.9#Descriptive Measures#EX2_9.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.9/EX2_9.R#S##4008
-2# Organization and Description of Data #2.8#Descriptive Measures#EX2_8.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.8/EX2_8.R#S##4007
-2# Organization and Description of Data #2.7#Graphs of Frequency Distributions#EX2_7.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.7/EX2_7.R#S##4006
-2# Organization and Description of Data #2.6#Graphs of Frequency Distributions#EX2_6.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.6/EX2_6.R#S##4005
-2# Organization and Description of Data #2.4#Frequency Distributions#EX2_4.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.4/EX2_4.R#S##4004
-2# Organization and Description of Data #2.3#Frequency Distributions#EX2_3.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.3/EX2_3.R#S##4003
-2# Organization and Description of Data #2.2#Pareto Diagrams and Dot Diagrams#EX2_2.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.2/EX2_2.R#S##4002
-2# Organization and Description of Data #2.19#The Calculation of x and s#EX2_19.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.19/EX2_19.R#S##4016
-2# Organization and Description of Data #2.18#The Calculation of x and s#EX2_18.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.18/EX2_18.R#S##4015
-2# Organization and Description of Data #2.16#Quartiles and Percentiles#EX2_16.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.16/EX2_16.R#S##4014
-2# Organization and Description of Data #2.15#Quartiles and Percentiles#EX2_15.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.15/EX2_15.R#S##4013
-2# Organization and Description of Data #2.14#Quartiles and Percentiles#EX2_14.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.14/EX2_14.R#S##4012
-2# Organization and Description of Data #2.13#Descriptive Measures#EX2_13.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.13/EX2_13.R#S##4011
-2# Organization and Description of Data #2.12#Descriptive Measures#EX2_12.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.12/EX2_12.R#S##4010
-2# Organization and Description of Data #2.11#Descriptive Measures#EX2_11.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.11/EX2_11.R#S##4009
-2# Organization and Description of Data #2.1#Pareto Diagrams and Dot Diagrams#EX2_1.R#Miller_And_Freund'S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.1/EX2_1.R#S##4001
+16# Application to Reliability and Life Testing #16.4#The Exponential Model in Life Testing#EX16_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.4/EX16_4.R#S##4128
+16# Application to Reliability and Life Testing #16.3#The Exponential Model in Life Testing#EX16_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.3/EX16_3.R#S##4127
+16# Application to Reliability and Life Testing #16.2#Reliability #EX16_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.2/EX16_2.R#S##4126
+16# Application to Reliability and Life Testing #16.1#Reliability #EX16_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH16/EX16.1/EX16_1.R#S##4125
+15#The Statistical Content of Quality Improvement Programs#15.4#Tolerance Limits#EX15_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH15/EX15.4/EX15_4.R#S##4129
+15#The Statistical Content of Quality Improvement Programs#15.3#Tolerance Limits#EX15_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH15/EX15.3/EX15_3.R#S##4130
+15#The Statistical Content of Quality Improvement Programs#15.2#Experimental Designs for Quality#EX15_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH15/EX15.2/EX15_2.R#S##4132
+14# NONPARAMETRIC TESTS#14.9#The Kolmogorov Smirnov and Anderson Darling Tests#EX14_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.9/EX14_9.R#S##4470
+14# NONPARAMETRIC TESTS#14.8#The Kolmogorov Smirnov and Anderson Darling Tests#EX14_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.8/EX14_8.R#S##4196
+14# NONPARAMETRIC TESTS#14.7#Tests of Randomness#EX14_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.7/EX14_7.R#S##4456
+14# NONPARAMETRIC TESTS#14.6#Tests of Randomness#EX14_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.6/EX14_6.R#S##4194
+14# NONPARAMETRIC TESTS#14.5#Correlation Based on Ranks#EX14_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.5/EX14_5.R#S##4193
+14# NONPARAMETRIC TESTS#14.4#Rank Sum Tests#EX14_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.4/EX14_4.R#S##4192
+14# NONPARAMETRIC TESTS#14.3#Rank Sum Tests#EX14_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.3/EX14_3.R#S##4191
+14# NONPARAMETRIC TESTS#14.2#The Sign Test#EX14_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.2/EX14_2.R#S##4198
+14# NONPARAMETRIC TESTS#14.1#The Sign Test#EX14_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH14/EX14.1/EX14_1.R#S##4455
+13# Factorial Experimentation#13.4#Response Surface Analysis#EX13_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.4/EX13_4.R#S##4447
+13# Factorial Experimentation#13.3#Multifactor Experiments#EX13_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.3/EX13_3.R#S##4448
+13# Factorial Experimentation#13.2#Multifactor Experiments #EX13_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.2/EX13_2.R#S##4200
+13# Factorial Experimentation#13.1#Two Factor Experiments#EX13_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH13/EX13.1/EX13_1.R#S##4528
+12# ANALYSIS OF VARIANCE#12.9#Multiple Comparisons#EX12_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.9/EX12_9.R#S##4174
+12# ANALYSIS OF VARIANCE#12.8#Randomized Block Designs#EX12_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.8/EX12_8.R#S##4173
+12# ANALYSIS OF VARIANCE#12.7#Randomized Block Designs#EX12_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.7/EX12_7.R#S##4172
+12# ANALYSIS OF VARIANCE#12.6#Randomized Block Designs#EX12_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.6/EX12_6.R#S##4171
+12# ANALYSIS OF VARIANCE#12.5#Completely Randomized Designs#EX12_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.5/EX12_5.R#S##4170
+12# ANALYSIS OF VARIANCE#12.4#Completely Randomized Designs#EX12_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.4/EX12_4.R#S##4169
+12# ANALYSIS OF VARIANCE#12.3#Completely Randomized Designs#EX12_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.3/EX12_3.R#S##4168
+12# ANALYSIS OF VARIANCE#12.2#Completely Randomized Designs#EX12_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.2/EX12_2.R#S##4167
+12# ANALYSIS OF VARIANCE#12.11#Analysis of Covariance#12_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.11/12_11.R#S##4532
+12# ANALYSIS OF VARIANCE#12.10#Multiple Comparisons#EX12_10.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.10/EX12_10.R#S##4454
+12# ANALYSIS OF VARIANCE#12.1#Completely Randomized Designs#EX12_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH12/EX12.1/EX12_1.R#S##4166
+11# REGRESSION ANALYSIS#11.9#Inferences Based on the Least Squares Estimators#EX11_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.9/EX11_9.R#S##4463
+11# REGRESSION ANALYSIS#11.8#Inferences Based on the Least Squares Estimators#EX11_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.8/EX11_8.R#S##4179
+11# REGRESSION ANALYSIS#11.7# Inferences Based on the Least Squares Estimators#EX11_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.7/EX11_7.R#S##4533
+11# REGRESSION ANALYSIS#11.6#Inferences Based on the Least Squares Estimators#EX11_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.6/EX11_6.R#S##4178
+11# REGRESSION ANALYSIS#11.5#Inferences Based on the Least Squares Estimators#EX11_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.5/EX11_5.R#S##4461
+11# REGRESSION ANALYSIS#11.3#The Method of Least Squares#EX11_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.3/EX11_3.R#S##4165
+11# REGRESSION ANALYSIS#11.21#Multiple Linear Regression Matrix Notation#EX11_21.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.21/EX11_21.R#S##4190
+11# REGRESSION ANALYSIS#11.20#Multiple Linear Regression Matrix Notation#EX11_20.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.20/EX11_20.R#S##4189
+11# REGRESSION ANALYSIS#11.2#The Method of Least Squares#EX11_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.2/EX11_2.R#S##4530
+11# REGRESSION ANALYSIS#11.19#Multiple Linear Regression Matrix Notation#EX11_19.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.19/EX11_19.R#S##4188
+11# REGRESSION ANALYSIS#11.18#Correlation#EX11_18.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.18/EX11_18.R#S##4469
+11# REGRESSION ANALYSIS#11.17#Correlation#EX11_17.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.17/EX11_17.R#S##4186
+11# REGRESSION ANALYSIS#11.15#Correlation#EX11_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.15/EX11_15.R#S##4468
+11# REGRESSION ANALYSIS#11.14#Correlation#EX11_14.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.14/EX11_14.R#S##4467
+11# REGRESSION ANALYSIS#11.12#Multiple Regression#EX11_12.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.12/EX11_12.R#S##4531
+11# REGRESSION ANALYSIS#11.11#Curvilinear Regression#EX11_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.11/EX11_11.R#S##4465
+11# REGRESSION ANALYSIS#11.10#Curvilinear Regression#EX11_10.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.10/EX11_10.R#S##4464
+11# REGRESSION ANALYSIS#11.1#The Method of Least Squares#EX11_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH11/EX11.1/EX11_1.R#S##4473
+10# INFERENCES CONCERNING PROPORTIONS#10.9#Hypotheses Concerning Several Proportions#EX10_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.9/EX10_9.R#S##4118
+10# INFERENCES CONCERNING PROPORTIONS#10.8#Hypotheses Concerning Several Proportions#EX10_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.8/EX10_8.R#S##4117
+10# INFERENCES CONCERNING PROPORTIONS#10.7#Hypotheses Concerning One Proportion#EX10_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.7/EX10_7.R#S##4116
+10# INFERENCES CONCERNING PROPORTIONS#10.6#Hypotheses Concerning One Proportion#EX10_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.6/EX10_6.R#S##4115
+10# INFERENCES CONCERNING PROPORTIONS#10.5#Estimation of Proportions#EX10_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.5/EX10_5.R#S##4114
+10# INFERENCES CONCERNING PROPORTIONS#10.4#Estimation of Proportions#EX10_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.4/EX10_4.R#S##4113
+10# INFERENCES CONCERNING PROPORTIONS#10.3#Estimation of Proportions#EX10_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.3/EX10_3.R#S##4112
+10# INFERENCES CONCERNING PROPORTIONS#10.2#Estimation of Proportions#EX10_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.2/EX10_2.R#S##4111
+10# INFERENCES CONCERNING PROPORTIONS#10.15#Goodness of Fit#EX10_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.15/EX10_15.R#S##4123
+10# INFERENCES CONCERNING PROPORTIONS#10.13#Analysis of r x c Tables#EX10_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.13/EX10_13.R#S##4122
+10# INFERENCES CONCERNING PROPORTIONS#10.12#Analysis of r x c Tables#EX10_12.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.12/EX10_12.R#S##4121
+10# INFERENCES CONCERNING PROPORTIONS#10.11#Hypotheses Concerning Several Proportions#EX10_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.11/EX10_11.R#S##4120
+10# INFERENCES CONCERNING PROPORTIONS#10.10#Hypotheses Concerning Several Proportions#EX10_10.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.10/EX10_10.R#S##4119
+10# INFERENCES CONCERNING PROPORTIONS#10.1#Estimation of Proportions#EX10_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH10/EX10.1/EX10_1.R#S##4110
+9#INFERENCES CONCERNING VARIANCES#9.6#Hypotheses Concerning Two Variances#EX9_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.6/EX9_6.R#S##4162
+9#INFERENCES CONCERNING VARIANCES#9.5#Hypotheses Concerning Two Variances#EX9_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.5/EX9_5.R#S##4161
+9#INFERENCES CONCERNING VARIANCES#9.4#Hypotheses Concerning Two Variances#EX9_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.4/EX9_4.R#S##4160
+9#INFERENCES CONCERNING VARIANCES#9.3#Hypotheses Concerning One Variance#EX9_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.3/EX9_3.R#S##4460
+9#INFERENCES CONCERNING VARIANCES#9.2#The Estimation of Variances #EX9_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.2/EX9_2.R#S##4158
+9#INFERENCES CONCERNING VARIANCES#9.1#The Estimation of Variances #EX9_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH9/EX9.1/EX9_1.R#S##4157
+8# Comparing Two Treatments#8.9#Comparisons Two Independent Small Samples#EX8_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.9/EX8_9.R#S##4104
+8# Comparing Two Treatments#8.8#Comparisons Two Independent Small Samples#EX8_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.8/EX8_8.R#S##4103
+8# Comparing Two Treatments#8.7#Comparisons Two Independent Small Samples#EX8_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.7/EX8_7.R#S##4102
+8# Comparing Two Treatments#8.6#Comparisons Two Independent Large Samples#EX8_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.6/EX8_6.R#S##4101
+8# Comparing Two Treatments#8.5#Comparisons Two Independent Large Samples#EX8_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.5/EX8_5.R#S##4100
+8# Comparing Two Treatments#8.4#Comparisons Two Independent Large Samples#EX8_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.4/EX8_4.R#S##4099
+8# Comparing Two Treatments#8.3#Comparisons Two Independent Large Samples#EX8_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.3/EX8_3.R#S##4098
+8# Comparing Two Treatments#8.14#Matched Pairs Comparisons#EX8_14.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.14/EX8_14.R#S##4109
+8# Comparing Two Treatments#8.13#Matched Pairs Comparisons#EX8_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.13/EX8_13.R#S##4108
+8# Comparing Two Treatments#8.12#Matched Pairs Comparisons#EX8_12.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.12/EX8_12.R#S##4107
+8# Comparing Two Treatments#8.11#Comparisons Two Independent Small Samples#EX8_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.11/EX8_11.R#S##4106
+8# Comparing Two Treatments#8.10#Comparisons Two Independent Small Samples#EX8_10.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH8/EX8.10/EX8_10.R#S##4453
+7# Inferences Concerning a Mean#7.8#Interval Estimation#EX7_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.8/EX7_8.R#S##4148
+7# Inferences Concerning a Mean#7.7#Interval Estimation#EX7_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.7/EX7_7.R#S##4147
+7# Inferences Concerning a Mean#7.6#Interval Estimation#EX7_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.6/EX7_6.R#S##4146
+7# Inferences Concerning a Mean#7.5#Point Estimation#EX7_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.5/EX7_5.R#S##4145
+7# Inferences Concerning a Mean#7.4#Point Estimation#EX7_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.4/EX7_4.R#S##4144
+7# Inferences Concerning a Mean#7.3#Point Estimation#EX7_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.3/EX7_3.R#S##4143
+7# Inferences Concerning a Mean#7.24#Power Sample Size and Operating Characteristic Curves#EX7_24.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.24/EX7_24.R#S##4156
+7# Inferences Concerning a Mean#7.23#Power Sample Size and Operating Characteristic Curves#EX7_23.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.23/EX7_23.R#S##4155
+7# Inferences Concerning a Mean#7.22#Power Sample Size and Operating Characteristic Curves#EX7_22.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.22/EX7_22.R#S##4154
+7# Inferences Concerning a Mean#7.20#Hypotheses Concerning One Mean#EX7_20.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.20/EX7_20.R#S##4153
+7# Inferences Concerning a Mean#7.2#Point Estimation#EX7_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.2/EX7_2.R#S##4142
+7# Inferences Concerning a Mean#7.19#Hypotheses Concerning One Mean#EX7_19.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.19/EX7_19.R#S##4152
+7# Inferences Concerning a Mean#7.18#Hypotheses Concerning One Mean#EX7_18.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.18/EX7_18.R#S##4151
+7# Inferences Concerning a Mean#7.15#Maximum Likelihood Estimation#EX7_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.15/EX7_15.R#S##4150
+7# Inferences Concerning a Mean#7.13#Maximum Likelihood Estimation#EX7_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH7/EX7.13/EX7_13.R#S##4149
+6# SAMPLING DISTRIBUTIONS#6.55#The Sampling Distribution of the Variance#EX6_55.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.55/EX6_55.R#S##4138
+6# SAMPLING DISTRIBUTIONS#6.53#The Sampling Distribution of the Variance#EX6_53.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.53/EX6_53.R#S##4136
+6# SAMPLING DISTRIBUTIONS#6.52#The Sampling Distribution of the Mean Sigma Unknown#EX6_52.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.52/EX6_52.R#S##4135
+6# SAMPLING DISTRIBUTIONS#6.51#The Sampling Distribution of the Mean#EX6_51.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.51/EX6_51.R#S##4134
+6# SAMPLING DISTRIBUTIONS#6.49#The Sampling Distribution of the Mean#EX6_49.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX6.49/EX6_49.R#S##4133
+6# SAMPLING DISTRIBUTIONS#5.54#The Sampling Distribution of the Variance#EX6_54.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH6/EX5.54/EX6_54.R#S##4137
+5# PROBABILITY DENSITIES#5.9#The Normal Distribution#EX5_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.9/EX5_9.R#S##4079
+5# PROBABILITY DENSITIES#5.8#The Normal Distribution#EX5_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.8/EX5_8.R#S##4078
+5# PROBABILITY DENSITIES#5.7#The Normal Distribution#EX5_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.7/EX5_7.R#S##4077
+5# PROBABILITY DENSITIES#5.6#The Normal Distribution#EX5_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.6/EX5_6.R#S##4076
+5# PROBABILITY DENSITIES#5.5#The Normal Distribution#EX5_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.5/EX5_5.R#S##4075
+5# PROBABILITY DENSITIES#5.45#Simulation#EX5_45.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.45/EX5_45.R#S##4097
+5# PROBABILITY DENSITIES#5.44#Simulation#EX5_44.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.44/EX5_44.R#S##4096
+5# PROBABILITY DENSITIES#5.43#Transforming Observations to Near Normality#EX5_43.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.43/EX5_43.R#S##4095
+5# PROBABILITY DENSITIES#5.42#Checking If the Data Are Normal#EX5_42.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.42/EX5_42.R#S##4094
+5# PROBABILITY DENSITIES#5.4#Continuous Random Variables#EX5_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.4/EX5_4.R#S##4074
+5# PROBABILITY DENSITIES#5.31#Joint Distributions Discrete and Continuous#EX5_31.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.31/EX5_31.R#S##4459
+5# PROBABILITY DENSITIES#5.3#Continuous Random Variables#EX5_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.3/EX5_3.R#S##4072
+5# PROBABILITY DENSITIES#5.23#Joint Distributions Discrete and Continuous#EX5_23.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.23/EX5_23.R#S##4093
+5# PROBABILITY DENSITIES#5.22#Joint Distributions Discrete and Continuous#EX5_22.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.22/EX5_22.R#S##4092
+5# PROBABILITY DENSITIES#5.21#Joint Distributions Discrete and Continuous#EX5_21.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.21/EX5_21.R#S##4091
+5# PROBABILITY DENSITIES#5.20#Joint Distributions Discrete and Continuous#EX5_20.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.20/EX5_20.R#S##4090
+5# PROBABILITY DENSITIES#5.2#Continuous Random Variables#EX5_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.2/EX5_2.R#S##4073
+5# PROBABILITY DENSITIES#5.19#The Weibull Distribution#EX5_19.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.19/EX5_19.R#S##4089
+5# PROBABILITY DENSITIES#5.18#The Beta Distribution#EX5_18.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.18/EX5_18.R#S##4088
+5# PROBABILITY DENSITIES#5.17#The Gamma Distribution#EX5_17.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.17/EX5_17.R#S##4087
+5# PROBABILITY DENSITIES#5.16#The Gamma Distribution#EX5_16.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.16/EX5_16.R#S##4086
+5# PROBABILITY DENSITIES#5.15#The Log Normal Distribution#EX5_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.15/EX5_15.R#S##4085
+5# PROBABILITY DENSITIES#5.14#The Log Normal Distribution#EX5_14.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.14/EX5_14.R#S##4458
+5# PROBABILITY DENSITIES#5.13#The Log Normal Distribution#EX5_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.13/EX5_13.R#S##4083
+5# PROBABILITY DENSITIES#5.12#The Log Normal Distribution#EX5_12.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.12/EX5_12.R#S##4457
+5# PROBABILITY DENSITIES#5.11#The Normal Approximation to the Binomial Distribution#EX5_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.11/EX5_11.R#S##4081
+5# PROBABILITY DENSITIES#5.10#The Normal Distribution#EX5_10.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.10/EX5_10.R#S##4080
+5# PROBABILITY DENSITIES#5.1#Continuous Random Variables#EX5_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH5/EX5.1/EX5_1.R#S##4071
+4# PROBABILITY DISTRIBUTIONS#4.9#The Hypergeometric Distribution#EX4_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.9/EX4_9.R#S##4053
+4# PROBABILITY DISTRIBUTIONS#4.8#The Hypergeometric Distribution#EX4_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.8/EX4_8.R#S##4451
+4# PROBABILITY DISTRIBUTIONS#4.7#The Binomial Distribution#EX4_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.7/EX4_7.R#S##4051
+4# PROBABILITY DISTRIBUTIONS#4.6#The Binomial Distribution#EX4_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.6/EX4_6.R#S##4050
+4# PROBABILITY DISTRIBUTIONS#4.5#The Binomial Distribution#EX4_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.5/EX4_5.R#S##4049
+4# PROBABILITY DISTRIBUTIONS#4.4#The Binomial Distribution#EX4_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.4/EX4_4.R#S##4048
+4# PROBABILITY DISTRIBUTIONS#4.3#The Binomial Distribution#EX4_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.3/EX4_3.R#S##4047
+4# PROBABILITY DISTRIBUTIONS#4.27#The Multinomial Distribution#EX4_27.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.27/EX4_27.R#S##4070
+4# PROBABILITY DISTRIBUTIONS#4.26#The Geometric and Negative Binomial Distribution#EX4_26.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.26/EX4_26.R#S##4069
+4# PROBABILITY DISTRIBUTIONS#4.25#Poisson Processes#EX4_25.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.25/EX4_25.R#S##4068
+4# PROBABILITY DISTRIBUTIONS#4.24#Poisson Processes#EX4_24.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.24/EX4_24.R#S##4067
+4# PROBABILITY DISTRIBUTIONS#4.22#The Poisson Distribution and Rare Events#EX4_22.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.22/EX4_22.R#S##4066
+4# PROBABILITY DISTRIBUTIONS#4.21#The Poisson Distribution and Rare Events#EX4_21.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.21/EX4_21.R#S##4065
+4# PROBABILITY DISTRIBUTIONS#4.20#Chebyshevs Theorem#EX4_20.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.20/EX4_20.R#S##4063
+4# PROBABILITY DISTRIBUTIONS#4.19#Chebyshevs Theorem#EX4_19.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.19/EX4_19.R#S##4452
+4# PROBABILITY DISTRIBUTIONS#4.18#The Mean and the Variance of a Probability Distribution#EX4_18.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.18/EX4_18.R#S##4055
+4# PROBABILITY DISTRIBUTIONS#4.17#The Mean and the Variance of a Probability Distribution#EX4_17.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.17/EX4_17.R#S##4062
+4# PROBABILITY DISTRIBUTIONS#4.16#The Mean and the Variance of a Probability Distribution#EX4_16.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.16/EX4_16.R#S##4061
+4# PROBABILITY DISTRIBUTIONS#4.15#The Mean and the Variance of a Probability Distribution#EX4_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.15/EX4_15.R#S##4060
+4# PROBABILITY DISTRIBUTIONS#4.14#The Mean and the Variance of a Probability Distribution#EX4_14.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.14/EX4_14.R#S##4450
+4# PROBABILITY DISTRIBUTIONS#4.13#The Mean and the Variance of a Probability Distribution#EX4_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.13/EX4_13.R#S##4058
+4# PROBABILITY DISTRIBUTIONS#4.12#The Mean and the Variance of a Probability Distribution#EX4_12.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.12/EX4_12.R#S##4057
+4# PROBABILITY DISTRIBUTIONS#4.11#The Mean and the Variance of a Probability Distribution#EX4_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.11/EX4_11.R#S##4056
+4# PROBABILITY DISTRIBUTIONS#4.10#The Mean and the Variance of a Probability Distribution#EX4_10.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.10/EX4_10.R#S##4054
+4# PROBABILITY DISTRIBUTIONS#4.1#Random Variables#EX4_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH4/EX4.1/EX4_1.R#S##4046
+3# PROBABILITY#3.6#Counting#EX3_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.6/EX3_6.R#S##4020
+3# PROBABILITY#3.5#Counting#EX3_5.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.5/EX3_5.R#S##4019
+3# PROBABILITY#3.31#Bayes Theorem#EX3_31.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.31/EX3_31.R#S##4045
+3# PROBABILITY#3.30#Bayes Theorem#EX3_30.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.30/EX3_30.R#S##4044
+3# PROBABILITY#3.29#Conditional Probability#EX3_29.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.29/EX3_29.R#S##4043
+3# PROBABILITY#3.28#Conditional Probability#EX3_28.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.28/EX3_28.R#S##4042
+3# PROBABILITY#3.26#Conditional Probability#EX3_26.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.26/EX3_26.R#S##4040
+3# PROBABILITY#3.25#Conditional Probability#EX3_25.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.25/EX3_25.R#S##4039
+3# PROBABILITY#3.24#Conditional Probability#EX3_24.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.24/EX3_24.R#S##4038
+3# PROBABILITY#3.22#Conditional Probability#EX3_22.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.22/EX3_22.R#S##4036
+3# PROBABILITY#3.21#Conditional Probability#EX3_21.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.21/EX3_21.R#S##4035
+3# PROBABILITY#3.20#Conditional Probability#EX3_20.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.20/EX3_20.R#S##4034
+3# PROBABILITY#3.19#Some Elementary Theorems#EX3_19.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.19/EX3_19.R#S##4033
+3# PROBABILITY#3.18#Some Elementary Theorems#EX3_18.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.18/EX3_18.R#S##4032
+3# PROBABILITY#3.17#Some Elementary Theorems#EX3_17.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.17/EX3_17.R#S##4031
+3# PROBABILITY#3.16#Some Elementary Theorems#EX3_16.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.16/EX3_16.R#S##4030
+3# PROBABILITY#3.15#Some Elementary Theorems#EX3_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.15/EX3_15.R#S##4029
+3# PROBABILITY#3.14#The Axioms of Probability#EX3_14.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.14/EX3_14.R#S##4028
+3# PROBABILITY#3.13#Probability#EX3_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.13/EX3_13.R#S##4027
+3# PROBABILITY#3.11#Probability#EX3_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.11/EX3_11.R#S##4025
+3# PROBABILITY#3.1#Sample Spaces and Events#EX3_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH3/EX3.1/EX3_1.R#S##4017
+2# Organization and Description of Data #2.9#Descriptive Measures#EX2_9.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.9/EX2_9.R#S##4008
+2# Organization and Description of Data #2.8#Descriptive Measures#EX2_8.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.8/EX2_8.R#S##4007
+2# Organization and Description of Data #2.7#Graphs of Frequency Distributions#EX2_7.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.7/EX2_7.R#S##4006
+2# Organization and Description of Data #2.6#Graphs of Frequency Distributions#EX2_6.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.6/EX2_6.R#S##4005
+2# Organization and Description of Data #2.4#Frequency Distributions#EX2_4.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.4/EX2_4.R#S##4004
+2# Organization and Description of Data #2.3#Frequency Distributions#EX2_3.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.3/EX2_3.R#S##4003
+2# Organization and Description of Data #2.2#Pareto Diagrams and Dot Diagrams#EX2_2.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.2/EX2_2.R#S##4002
+2# Organization and Description of Data #2.19#The Calculation of x and s#EX2_19.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.19/EX2_19.R#S##4016
+2# Organization and Description of Data #2.18#The Calculation of x and s#EX2_18.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.18/EX2_18.R#S##4015
+2# Organization and Description of Data #2.16#Quartiles and Percentiles#EX2_16.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.16/EX2_16.R#S##4014
+2# Organization and Description of Data #2.15#Quartiles and Percentiles#EX2_15.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.15/EX2_15.R#S##4013
+2# Organization and Description of Data #2.14#Quartiles and Percentiles#EX2_14.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.14/EX2_14.R#S##4012
+2# Organization and Description of Data #2.13#Descriptive Measures#EX2_13.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.13/EX2_13.R#S##4011
+2# Organization and Description of Data #2.12#Descriptive Measures#EX2_12.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.12/EX2_12.R#S##4010
+2# Organization and Description of Data #2.11#Descriptive Measures#EX2_11.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.11/EX2_11.R#S##4009
+2# Organization and Description of Data #2.1#Pareto Diagrams and Dot Diagrams#EX2_1.R#Miller_And_Freund_S_Probability_And_Statistics_For_Engineers_by_Richard_A._Johnson/CH2/EX2.1/EX2_1.R#S##4001

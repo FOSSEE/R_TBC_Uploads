@@ -1,0 +1,93 @@
+19# Photochemistry#19.6#Calculating oscillator strength#Ex19_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.6/Ex19_6.R#S##13181
+19# Photochemistry#19.5#Evaluate the product N X h X c#Ex19_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.5/Ex19_5.R#S##13180
+19# Photochemistry#19.4#Calculating the absorbance A and the molar absorption coefficient E#Ex19_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.4/Ex19_4.R#S##13179
+19# Photochemistry#19.3#Calculating the photon energy#Ex19_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.3/Ex19_3.R#S##13178
+19# Photochemistry#19.1#Calculating the transmittance at the same wavelength of two filters in combination#Ex19_1.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.1/Ex19_1.R#S##13177
+18#Reaction Rate Theory #18.8#Calculating the thermodynamic properties M and S and G #Ex18_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH18/EX18.8/Ex18_8.R#S##13176
+18#Reaction Rate Theory #18.6#Estimating the maximum kinetic isotope effect#Ex18_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH18/EX18.6/Ex18_6.R#S##13175
+17#Statistical Thermodynamics #17.15#Evaluating coefficient of integral in formula#Ex17_15.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.15/Ex17_15.R#S##13174
+17#Statistical Thermodynamics #17.14#Calculating electromagnetic energy#Ex17_14.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.14/Ex17_14.R#S##13173
+17#Statistical Thermodynamics #17.13#Calculating the constant products #Ex17_13.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.13/Ex17_13.R#S##13172
+17#Statistical Thermodynamics #17.12#Formulating Kc and Kp#Ex17_12.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.12/Ex17_12.R#S##13171
+16# Explanatory Mechanisms#16.2#Calculating coefficient k#Ex16_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH16/EX16.2/Ex16_2.R#S##13170
+15#Phenomenological Chemical Kinetics #15.9#Calculating the diffusion limited rate constant#Ex15_9.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.9/Ex15_9.R#S##13168
+15#Phenomenological Chemical Kinetics #15.8#Calculating the rate constants#Ex15_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.8/Ex15_8.R#S##13167
+15#Phenomenological Chemical Kinetics #15.7#Calculating the Arrhenius parameters#Ex15_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.7/Ex15_7.R#S##13166
+15#Phenomenological Chemical Kinetics #15.4#Calculating the reaction order#Ex15_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.4/Ex15_4.R#S##13165
+15#Phenomenological Chemical Kinetics #15.3#Estimating the order of the reaction#Ex15_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.3/Ex15_3.R#S##13164
+15#Phenomenological Chemical Kinetics #15.10#Calculating the zero activation energy rate constant#Ex15_10.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.10/Ex15_10.R#S##13169
+14# States of Molecular Electrons#14.3#estimating energies of molecular orbitals of HF #Ex14_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH14/EX14.3/Ex14_3.R#S##13163
+13# Analyzing Organized Structures#13.16#Showing primitive symmetry species F2 occurs three times in the atomic motions#Ex13_16.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH13/EX13.16/Ex13_16.R#S##13162
+12# Vibrational and Radial Motion#12.9# Calculating the harmonic oscillator wave number#Ex12_9.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.9/Ex12_9.R#S##13158
+12# Vibrational and Radial Motion#12.7#Calculating force constant of a spring#Ex12_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.7/Ex12_7.R#S##13157
+12# Vibrational and Radial Motion#12.6#Determining the force constant for a molecule#Ex12_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.6/Ex12_6.R#S##13156
+12# Vibrational and Radial Motion#12.13#Expressing the electronic energy of a hydrogenlike system in reciprocal centimeters#Ex12_13.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.13/Ex12_13.R#S##13161
+12# Vibrational and Radial Motion#12.11#Evaluating Bohr radius#Ex12_11.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.11/Ex12_11.R#S##13160
+12# Vibrational and Radial Motion#12.10#Determining the dissociation energy of a diatomic molecule#Ex12_10.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.10/Ex12_10.R#S##13159
+11# Free Rotational and Angular Motion#11.7#Expressing the Boltzmann constant in the reciprocal centimeter energy unit#Ex11_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.7/Ex11_7.R#S##13155
+11# Free Rotational and Angular Motion#11.6#determining bond length in HCl#Ex11_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.6/Ex11_6.R#S##13154
+11# Free Rotational and Angular Motion#11.5#Calculating corresponding moment of inertia#Ex11_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.5/Ex11_5.R#S##13153
+11# Free Rotational and Angular Motion#11.4#Evaluating a constant h divided by 4pi and c#Ex11_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.4/Ex11_4.R#S##13152
+10# Basic Quantum Mechanics#10.8#Calculating kinetic energy#Ex10_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.8/Ex10_8.R#S##13151
+10# Basic Quantum Mechanics#10.7#Calculating coefficient h squared divided by 8m#Ex10_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.7/Ex10_7.R#S##13150
+10# Basic Quantum Mechanics#10.6#Calculating Fermi energy#Ex10_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.6/Ex10_6.R#S##13149
+10# Basic Quantum Mechanics#10.4#Finding coefficient h squared divided 2m#Ex10_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.4/Ex10_4.R#S##13148
+9#Electrochemistry#9.8#Finding actual decomposition potential#Ex9_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.8/Ex9_8.R#S##13147
+9#Electrochemistry#9.7#Calculating emf of the cell#Ex9_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.7/Ex9_7.R#S##13146
+9#Electrochemistry#9.6#Finding E of cell#Ex9_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.6/Ex9_6.R#S##13145
+9#Electrochemistry#9.5#Finding specific conductance#Ex9_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.5/Ex9_5.R#S##13144
+9#Electrochemistry#9.4#Calculating equivalent conductance#Ex9_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.4/Ex9_4.R#S##13143
+9#Electrochemistry#9.3#Calculating equivalent conductance#Ex9_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.3/Ex9_3.R#S##13142
+9#Electrochemistry#9.2#Calculating transference numbers#Ex9_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.2/Ex9_2.R#S##13141
+9#Electrochemistry#9.1#Finding weight of copper plating on cathode and anode#Ex9_1.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.1/Ex9_1.R#S##13140
+8# Equilibria in Condensed Phases#8.9#Calculating hydrogen ion concentration#Ex8_9.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.9/Ex8_9.R#S##13136
+8# Equilibria in Condensed Phases#8.8#Finding delta H and delta S and K#Ex8_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.8/Ex8_8.R#S##13135
+8# Equilibria in Condensed Phases#8.6#Calculating mH#Ex8_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.6/Ex8_6.R#S##13134
+8# Equilibria in Condensed Phases#8.5#Calculating mH#Ex8_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.5/Ex8_5.R#S##13133
+8# Equilibria in Condensed Phases#8.4#Calculate the hydroxide ion concentration#Ex8_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.4/Ex8_4.R#S##13132
+8# Equilibria in Condensed Phases#8.3#Calculating hydrogen ion concentration#Ex8_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.3/Ex8_3.R#S##13131
+8# Equilibria in Condensed Phases#8.2#Calculating hydrogen ion concentration in a solution#Ex8_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.2/Ex8_2.R#S##13130
+8# Equilibria in Condensed Phases#8.12#Calculating the equilibrium concentrations#Ex8_12.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.12/Ex8_12.R#S##13139
+8# Equilibria in Condensed Phases#8.11#Calculating the solubility of AgCI#Ex8_11.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.11/Ex8_11.R#S##13138
+8# Equilibria in Condensed Phases#8.10#Calculating hydrogen ion concentration#Ex8_10.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.10/Ex8_10.R#S##13137
+8# Equilibria in Condensed Phases#8.1#Calculating amount of I2 in equilibrium#Ex8_1.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.1/Ex8_1.R#S##13129
+7# Relationships among Reactants #7.9#Calculating Kp and Kc#Ex7_9.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.9/Ex7_9.R#S##13125
+7# Relationships among Reactants #7.8#Determining the equilibrium constant#Ex7_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.8/Ex7_8.R#S##13124
+7# Relationships among Reactants #7.7#Calculating Gibbs energy change#Ex7_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.7/Ex7_7.R#S##13123
+7# Relationships among Reactants #7.6#Calculating delta S and G and H#Ex7_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.6/Ex7_6.R#S##13122
+7# Relationships among Reactants #7.5#Calculating entropy correction for gas imperfection#Ex7_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.5/Ex7_5.R#S##13121
+7# Relationships among Reactants #7.2#Determining delta H for a reaction#Ex7_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.2/Ex7_2.R#S##13120
+7# Relationships among Reactants #7.13#Calculating final pressure after equilibrium#Ex7_13.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.13/Ex7_13.R#S##13128
+7# Relationships among Reactants #7.12#Calculating the density of an equilibrium mixture#Ex7_12.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.12/Ex7_12.R#S##13127
+7# Relationships among Reactants #7.11#Calculating Kp#Ex7_11.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.11/Ex7_11.R#S##13126
+6# Relationships between Phases#6.8#Calculating osmotic pressure for a sucrose solution#Ex6_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.8/Ex6_8.R#S##13119
+6# Relationships between Phases#6.7#Calculating the molal elevation constant for water#Ex6_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.7/Ex6_7.R#S##13118
+6# Relationships between Phases#6.6#Finding initial concentration of methanol in vaporu#Ex6_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.6/Ex6_6.R#S##13117
+6# Relationships between Phases#6.5# Determining partial pressure of water in saturated gas#Ex6_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.5/Ex6_5.R#S##13116
+6# Relationships between Phases#6.4#Calculating the vapour pressure of benzene#Ex6_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.4/Ex6_4.R#S##13115
+6# Relationships between Phases#6.3#Calculating the change in melting point of ice#Ex6_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.3/Ex6_3.R#S##13114
+6# Relationships between Phases#6.2#Determining endothermicity which causes a solution to separate into two phases#Ex6_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.2/Ex6_2.R#S##13113
+5# Entropy and the Second Law#5.9#Determining the gravitational force#Ex5_9.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.9/Ex5_9.R#S##13112
+5# Entropy and the Second Law#5.8#Calculating the thermodynamic force acting on a solute#Ex5_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.8/Ex5_8.R#S##13111
+5# Entropy and the Second Law#5.5#Finding delta A and G for vaporization of 1 mole water#Ex5_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.5/Ex5_5.R#S##13110
+5# Entropy and the Second Law#5.4#Calculating entropy change#Ex5_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.4/Ex5_4.R#S##13109
+5# Entropy and the Second Law#5.2#Calculating entropy change #Ex5_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.2/Ex5_2.R#S##13108
+5# Entropy and the Second Law#5.1#Calculating entropy change #Ex5_1.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.1/Ex5_1.R#S##13106
+4# The First Law for Energy#4.6# Estimating translational and rotational and vibrational contributions#Ex4_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH4/EX4.6/Ex4_6.R#S##13105
+4# The First Law for Energy#4.5#Calculating w and delta E and q for the overall process#Ex4_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH4/EX4.5/Ex4_5.R#S##13104
+4# The First Law for Energy#4.3#Calculating delta E and delta H  for vaporization of 1 mole water#Ex4_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH4/EX4.3/Ex4_3.R#S##13103
+3#Gases and Collective Properties #3.9#Calculating number of particles in 32 layers of gold sol#Ex3_9.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.9/Ex3_9.R#S##13100
+3#Gases and Collective Properties #3.8#Calculating radius of helium atom#Ex3_8.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.8/Ex3_8.R#S##13099
+3#Gases and Collective Properties #3.7#Estimating energy associated with thermal agitation in 1 mole water vapour#Ex3_7.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.7/Ex3_7.R#S##13098
+3#Gases and Collective Properties #3.6#Calculating the partial pressure#Ex3_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.6/Ex3_6.R#S##13097
+3#Gases and Collective Properties #3.5#Calculating root mean square velocity of helium molecule #Ex3_5.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.5/Ex3_5.R#S##13096
+3#Gases and Collective Properties #3.4#Changing the energy unit in R #Ex3_4.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.4/Ex3_4.R#S##13095
+3#Gases and Collective Properties #3.3#Calculating joules in 1 liter atmosphere#Ex3_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.3/Ex3_3.R#S##13094
+3#Gases and Collective Properties #3.2#Finding newtons per square meter in 1 atmosphere#Ex3_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.2/Ex3_2.R#S##13093
+3#Gases and Collective Properties #3.14#Calculating hypothetical maximum specific reaction rate#Ex3_14.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.14/Ex3_14.R#S##13102
+3#Gases and Collective Properties #3.13#Calculating cross section and mean relative speed and collision rate density for molecular oxygen#Ex3_13.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.13/Ex3_13.R#S##13101
+2# Structure in Molecules and Atoms#2.3#Calculating cross section presented by cadmium atom to beam#Ex2_3.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH2/EX2.3/Ex2_3.R#S##13092
+2# Structure in Molecules and Atoms#2.1#Relation of homogeneous electron beam to the voltage accelerating the electrons#Ex2_1.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH2/EX2.1/Ex2_1.R#S##13091
+1#Structure in Solids #1.6#Calculating Avogadros number#Ex1_6.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH1/EX1.6/Ex1_6.R#S##13090
+1#Structure in Solids #1.2#Finding interplanar spacing#Ex1_2.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH1/EX1.2/Ex1_2.R#S##13089
+1#Structure in Solids #1.1#Finding angle phi#Ex1_1.R#Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH1/EX1.1/Ex1_1.R#S##13185

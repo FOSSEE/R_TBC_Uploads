@@ -1,0 +1,22 @@
+#page no: 321
+N=3000
+n=360
+p=0.06
+term1=sqrt((p*(1-p))/n)
+term2=sqrt((N-n)/(N-1))
+sdp1=term1*term2
+p10=10/n
+p20=20/n
+znum1=(p10-p)
+znum2=(p20-p)
+z10=znum1/sdp1
+z20=znum2/sdp1
+zscore10=0.4969
+zscore20=0.1480
+ans=zscore10-zscore20
+print(paste("sigma p' =",round(sdp1,4)))
+print(paste("P1' =",round(p10,4)))
+print(paste("P2' =",round(p20,4)))
+print(paste("Z1' =",round(z10,2)))
+print(paste("Z2' =",round(z20,2)))
+print(paste("the solution=",round(ans,4)))

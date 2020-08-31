@@ -1,126 +1,126 @@
-14# Analysis of Covariance #14.4.1#ANCOVA#Ex14.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH14/EX14.4.1/Ex14.4_1.R#S##5548
-13# Analysis of Variance#13.8.4#Two Way ANOVA#Ex13.8_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH13/EX13.8.4/Ex13.8_4.R#S##5547
-13# Analysis of Variance#13.8.3#Anova#Ex13.8_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH13/EX13.8.3/Ex13.8_3.R#S##5546
-13# Analysis of Variance#13.8.2#Deviation Score Method#Ex13.8_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH13/EX13.8.2/Ex13.8_2.R#S##5545
-13# Analysis of Variance#13.8.1#One Way Anova#Ex13.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH13/EX13.8.1/Ex13.8_1.R#S##5544
-12# Testing the Difference Between Two Group Means #12.9.3.9#Students t Test Uncorrelated Small Sample #Ex12.9.3_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.9/Ex12.9.3_9.R#S##5543
-12# Testing the Difference Between Two Group Means #12.9.3.8#Students t Test Uncorrelated Small Sample #Ex12.9.3_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.8/Ex12.9.3_8.R#S##5542
-12# Testing the Difference Between Two Group Means #12.9.3.7#Students t Test Uncorrelated Small Sample #Ex12.9.3_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.7/Ex12.9.3_7.R#S##5541
-12# Testing the Difference Between Two Group Means #12.9.3.6#Students t Test Uncorrelated Large Sample #Ex12.9.3_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.6/Ex12.9.3_6.R#S##5539
-12# Testing the Difference Between Two Group Means #12.9.3.5#Students t Test Uncorrelated Large Sample #Ex12.9.3_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.5/Ex12.9.3_5.R#S##5538
-12# Testing the Difference Between Two Group Means #12.9.3.4#Students t Test Correlated Small Sample #Ex12.9.3_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.4/Ex12.9.3_4.R#S##5537
-12# Testing the Difference Between Two Group Means #12.9.3.3#Students t Test Correlated Small Sample #Ex12.9.3_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.3/Ex12.9.3_3.R#S##5536
-12# Testing the Difference Between Two Group Means #12.9.3.2#Students t Test Correlated Large Sample #Ex12.9.3_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.2/Ex12.9.3_2.R#S##5535
-12# Testing the Difference Between Two Group Means #12.9.3.1#Students t Test Correlated Large Sample #Ex12.9.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH12/EX12.9.3.1/Ex12.9.3_1.R#S##5534
-11# Chi Square#11.4.8#chi Square of 2 by 2 Table#Ex11.4_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH11/EX11.4.8/Ex11.4_8.R#S##5532
-11# Chi Square#11.4.7#Chi Square of Independence#Ex11.4_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH11/EX11.4.7/Ex11.4_7.R#S##5531
-11# Chi Square#11.4.4#Chi Square Testing Equal Probability Cases#Ex11.4_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH11/EX11.4.4/Ex11.4_4.R#S##5528
-11# Chi Square#11.4.3#Chi Square Testing#Ex11.4_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH11/EX11.4.3/Ex11.4_3.R#S##5527
-11# Chi Square#11.4.2#Chi Square Testing#Ex11.4_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH11/EX11.4.2/Ex11.4_2.R#S##5526
-11# Chi Square#11.4.1#Chi Square Testing#Ex11.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH11/EX11.4.1/Ex11.4_1.R#S##5525
-10# Interpretation of Scores#10.7.1#H score#Ex10.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH10/EX10.7.1/Ex10.7_1.R#S##5524
-10# Interpretation of Scores#10.6.1#T Score#Ex10.6_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH10/EX10.6.1/Ex10.6_1.R#S##5523
-10# Interpretation of Scores#10.5.3#Standard Score#Ex10.5_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH10/EX10.5.3/Ex10.5_3.R#S##5522
-10# Interpretation of Scores#10.5.2#Standard Score#Ex10.5_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH10/EX10.5.2/Ex10.5_2.R#S##5521
-10# Interpretation of Scores#10.5.1#Standard Score#Ex10.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH10/EX10.5.1/Ex10.5_1.R#S##5520
-9# Normal Distribution#9.7.8#Uses of Normal Curve#Ex9.7_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.8/Ex9.7_8.R#S##5519
-9# Normal Distribution#9.7.7#Percentage of Cases#Ex9.7_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.7/Ex9.7_7.R#S##5518
-9# Normal Distribution#9.7.6#Relative difficulty value#Ex9.7_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.6/Ex9.7_6.R#S##5517
-9# Normal Distribution#9.7.5#Uses of Normal Curve#Ex9.7_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.5/Ex9.7_5.R#S##5516
-9# Normal Distribution#9.7.4#Uses of Normal Curve#Ex9.7_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.4/Ex9.7_4.R#S##5515
-9# Normal Distribution#9.7.3#Uses of Normal Curve#Ex9.7_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.3/Ex9.7_3.R#S##5514
-9# Normal Distribution#9.7.2#Uses of Normal Curve#Ex9.7_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.2/Ex9.7_2.R#S##5513
-9# Normal Distribution#9.7.1#Uses of Normal Curve#Ex9.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH9/EX9.7.1/Ex9.7_1.R#S##5512
-8#Testing Relationship and Associations Correlation#8.9.4#Pearson s Product Moment Coefficient of Correlation#Ex8.9_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.9.4/Ex8.9_4.R#S##5496
-8#Testing Relationship and Associations Correlation#8.9.3#Pearson s Product Moment Coefficient of Correlation#Ex8.9_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.9.3/Ex8.9_3.R#S##5495
-8#Testing Relationship and Associations Correlation#8.9.2#Pearson s Product Moment Coefficient of Correlation#Ex8.9_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.9.2/Ex8.9_2.R#S##5494
-8#Testing Relationship and Associations Correlation#8.9.1#Pearson s Product Moment Coefficient of Correlation#Ex8.9_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.9.1/Ex8.9_1.R#S##5493
-8#Testing Relationship and Associations Correlation#8.8.9#Spearman s Rank Difference Method#Ex8.8_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.9/Ex8.8_9.R#S##5490
-8#Testing Relationship and Associations Correlation#8.8.8#Spearman s Rank Difference Method#Ex8.8_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.8/Ex8.8_8.R#S##5489
-8#Testing Relationship and Associations Correlation#8.8.7#Spearman s Rank Difference Method#Ex8.8_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.7/Ex8.8_7.R#S##5488
-8#Testing Relationship and Associations Correlation#8.8.6#Spearman s Rank Difference Method#Ex8.8_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.6/Ex8.8_6.R#S##5487
-8#Testing Relationship and Associations Correlation#8.8.5#Spearman s Rank Difference Method#Ex8.8_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.5/Ex8.8_5.R#S##5486
-8#Testing Relationship and Associations Correlation#8.8.4#Spearman s Rank Difference Method#Ex8.8_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.4/Ex8.8_4.R#S##5485
-8#Testing Relationship and Associations Correlation#8.8.3#Spearman s Rank Difference Method#Ex8.8_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.3/Ex8.8_3.R#S##5484
-8#Testing Relationship and Associations Correlation#8.8.2#Spearman s Rank Difference Method#Ex8.8_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.2/Ex8.8_2.R#S##5483
-8#Testing Relationship and Associations Correlation#8.8.11#Spearman s Rank Difference Method#Ex8.8_11.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.11/Ex8.8_11.R#S##5492
-8#Testing Relationship and Associations Correlation#8.8.10#Spearman s Rank Difference Method#Ex8.8_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.10/Ex8.8_10.R#S##5491
-8#Testing Relationship and Associations Correlation#8.8.1#Spearman s Rank Difference Method#Ex8.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.8.1/Ex8.8_1.R#S##5482
-8#Testing Relationship and Associations Correlation#8.15.2#Phi Coefficient#Ex8.15_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.15.2/Ex8.15_2.R#S##5511
-8#Testing Relationship and Associations Correlation#8.15.1#Phi Coefficient#Ex8.15_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.15.1/Ex8.15_1.R#S##5510
-8#Testing Relationship and Associations Correlation#8.14.2#Tetrachoric Correlation#Ex8.14_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.14.2/Ex8.14_2.R#S##5509
-8#Testing Relationship and Associations Correlation#8.14.1#Tetrachoric Correlation#Ex8.14_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.14.1/Ex8.14_1.R#S##5508
-8#Testing Relationship and Associations Correlation#8.13.2#Partial Correlation#Ex8.13_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.13.2/Ex8.13_2.R#S##5507
-8#Testing Relationship and Associations Correlation#8.13.1#Partial Correlation#Ex8.13_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.13.1/Ex8.13_1.R#S##5506
-8#Testing Relationship and Associations Correlation#8.12.2#Point Biserial Correlation#Ex8.12_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.12.2/Ex8.12_2.R#S##5505
-8#Testing Relationship and Associations Correlation#8.12.1#Point Biserial Correlation#Ex8.12_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.12.1/Ex8.12_1.R#S##5504
-8#Testing Relationship and Associations Correlation#8.11.3#Biserial Correlation#Ex8.11_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.11.3/Ex8.11_3.R#S##5503
-8#Testing Relationship and Associations Correlation#8.11.2#Biserial Correlation#Ex8.11_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.11.2/Ex8.11_2.R#S##5502
-8#Testing Relationship and Associations Correlation#8.11.1#Biserial Correlation#Ex8.11_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.11.1/Ex8.11_1.R#S##5501
-8#Testing Relationship and Associations Correlation#8.10.4#Raw Score Method #Ex8.10_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.10.4/Ex8.10_4.R#S##6108
-8#Testing Relationship and Associations Correlation#8.10.3#Raw Score Method #Ex8.10_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.10.3/Ex8.10_3.R#S##5499
-8#Testing Relationship and Associations Correlation#8.10.2#Raw Score Method #Ex8.10_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.10.2/Ex8.10_2.R#S##5498
-8#Testing Relationship and Associations Correlation#8.10.1#Product Mement Method from Group Data#Ex8.10_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH8/EX8.10.1/Ex8.10_1.R#S##5497
-7# Measures of Dispersion#7.8.9#Effects upon Std Deviation#Ex7.8_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.8.9/Ex7.8_9.R#S##5476
-7# Measures of Dispersion#7.8.6#Standard Deviation from Grouped data#Ex7.8_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.8.6/Ex7.8_6.R#S##5473
-7# Measures of Dispersion#7.8.5#Standard Deviation from Grouped data#Ex7.8_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.8.5/Ex7.8_5.R#S##5472
-7# Measures of Dispersion#7.8.2#Standard Deviation#Ex7.8_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.8.2/Ex7.8_2.R#S##5469
-7# Measures of Dispersion#7.8.10#Effects upon Std Deviation#Ex7.8_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.8.10/Ex7.8_10.R#S##5477
-7# Measures of Dispersion#7.8.1#Standard Deviation#Ex7.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.8.1/Ex7.8_1.R#S##5468
-7# Measures of Dispersion#7.7.7#Average Deviation from Grouped data#Ex7.7_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.7.7/Ex7.7_7.R#S##5466
-7# Measures of Dispersion#7.7.6#Average Deviation from Grouped data#Ex7.7_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.7.6/Ex7.7_6.R#S##5465
-7# Measures of Dispersion#7.7.5#Average Deviation from Grouped data#Ex7.7_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.7.5/Ex7.7_5.R#S##5464
-7# Measures of Dispersion#7.7.3#Average Deviation#Ex7.7_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.7.3/Ex7.7_3.R#S##5462
-7# Measures of Dispersion#7.7.2#Average Deviation#Ex7.7_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.7.2/Ex7.7_2.R#S##5461
-7# Measures of Dispersion#7.6.3#Quartile Deviation#Ex7.6_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.6.3/Ex7.6_3.R#S##5459
-7# Measures of Dispersion#7.6.2#Quartile Deviation#Ex7.6_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.6.2/Ex7.6_2.R#S##5458
-7# Measures of Dispersion#7.6.1#Quartile Deviation#Ex7.6_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.6.1/Ex7.6_1.R#S##5457
-7# Measures of Dispersion#7.5.6#Coefficient of Range for Grouped Data#Ex7.5_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.5.6/Ex7.5_6.R#S##5456
-7# Measures of Dispersion#7.5.5#Coefficient of Range for Grouped Data#Ex7.5_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.5.5/Ex7.5_5.R#S##5455
-7# Measures of Dispersion#7.5.4#Coefficient of Range for Grouped Data#Ex7.5_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.5.4/Ex7.5_4.R#S##5454
-7# Measures of Dispersion#7.5.3#Coefficient of Range#Ex7.5_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.5.3/Ex7.5_3.R#S##5453
-7# Measures of Dispersion#7.5.2#Range#Ex7.5_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.5.2/Ex7.5_2.R#S##5452
-7# Measures of Dispersion#7.5.1#Range#Ex7.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH7/EX7.5.1/Ex7.5_1.R#S##5451
-6# Percentile and Percentile Rank #6.5.1#Graphical Representation of Percentile#Ex6.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.5.1/Ex6.5_1.R#S##7240
-6# Percentile and Percentile Rank #6.4.1#Percentile Problems#Ex6.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.4.1/Ex6.4_1.R#S##7087
-6# Percentile and Percentile Rank #6.3.4#Percentile rank#Ex6.3_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.3.4/Ex6.3_4.R#S##7099
-6# Percentile and Percentile Rank #6.3.3#Percentile rank#Ex6.3_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.3.3/Ex6.3_3.R#S##7098
-6# Percentile and Percentile Rank #6.3.2#Percentile rank#Ex6.3_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.3.2/Ex6.3_2.R#S##7083
-6# Percentile and Percentile Rank #6.3.1#Percentile rank#Ex6.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.3.1/Ex6.3_1.R#S##7082
-6# Percentile and Percentile Rank #6.2.1#Percentile#Ex6.2_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH6/EX6.2.1/Ex6.2_1.R#S##7079
-5# Measures of Central Tendency#5.7.2#Calculation of Mean Median Mode from Grouped Data#Ex5.7_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.7.2/Ex5.7_2.R#S##6107
-5# Measures of Central Tendency#5.7.1#Calculation of Mean Median Mode from Grouped Data#Ex5.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.7.1/Ex5.7_1.R#S##6106
-5# Measures of Central Tendency#5.5.9#Calculation of Mode from Grouped Data#Ex5.5_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.9/Ex5.5_9.R#S##6103
-5# Measures of Central Tendency#5.5.8#Bi modal#Ex5.5_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.8/Ex5.5_8.R#S##6102
-5# Measures of Central Tendency#5.5.7#Calculation of Mode from Grouped Data#Ex5.5_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.7/Ex5.5_7.R#S##6101
-5# Measures of Central Tendency#5.5.6#Bi modal#Ex5.5_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.6/Ex5.5_6.R#S##6100
-5# Measures of Central Tendency#5.5.4#Mode#Ex5.5_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.4/Ex5.5_4.R#S##6098
-5# Measures of Central Tendency#5.5.3#Mode#Ex5.5_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.3/Ex5.5_3.R#S##6097
-5# Measures of Central Tendency#5.5.2#Mode#Ex5.5_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.2/Ex5.5_2.R#S##6096
-5# Measures of Central Tendency#5.5.11#Calculation of Mode from Grouped Data#Ex5.5_11.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.11/Ex5.5_11.R#S##6105
-5# Measures of Central Tendency#5.5.10#Calculation of Mode from Grouped Data#Ex5.5_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.10/Ex5.5_10.R#S##6104
-5# Measures of Central Tendency#5.5.1#Mode#Ex5.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.5.1/Ex5.5_1.R#S##6095
-5# Measures of Central Tendency#5.4.9#Calculation of Median from Grouped Data#Ex5.4_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.4.9/Ex5.4_9.R#S##6087
-5# Measures of Central Tendency#5.4.8#Calculation of Median from Grouped Data#Ex5.4_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.4.8/Ex5.4_8.R#S##6086
-5# Measures of Central Tendency#5.4.7#Calculation of Median from Grouped Data#Ex5.4_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.4.7/Ex5.4_7.R#S##6085
-5# Measures of Central Tendency#5.4.3#Calculation of Median #Ex5.4_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.4.3/Ex5.4_3.R#S##6081
-5# Measures of Central Tendency#5.4.2#Calculation of Median #EX5.4_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.4.2/EX5.4_2.R#S##6079
-5# Measures of Central Tendency#5.4.1#Calculation of Median #Ex5.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.4.1/Ex5.4_1.R#S##6078
-5# Measures of Central Tendency#5.3.9#Combined Mean#Ex5.3_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.9/Ex5.3_9.R#S##6071
-5# Measures of Central Tendency#5.3.8#Combined Mean#Ex5.3_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.8/Ex5.3_8.R#S##6070
-5# Measures of Central Tendency#5.3.7#Combined Mean#Ex5.3_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.7/Ex5.3_7.R#S##6069
-5# Measures of Central Tendency#5.3.6#Calculation of Mean from Grouped Data#Ex5.3_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.6/Ex5.3_6.R#S##6068
-5# Measures of Central Tendency#5.3.5#Calculation of Mean from Grouped Data#Ex5.3_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.5/Ex5.3_5.R#S##6067
-5# Measures of Central Tendency#5.3.4#Calculation of Mean from Grouped Data#Ex5.3_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.4/Ex5.3_4.R#S##6066
-5# Measures of Central Tendency#5.3.3#Mean#Ex5.3_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.3/Ex5.3_3.R#S##6065
-5# Measures of Central Tendency#5.3.2#Mean#Ex5.3_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.2/Ex5.3_2.R#S##6064
-5# Measures of Central Tendency#5.3.12#Properties of Mean#Ex5.3_12.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.12/Ex5.3_12.R#S##6074
-5# Measures of Central Tendency#5.3.11#Properties of Mean#Ex5.3_11.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.11/Ex5.3_11.R#S##6073
-5# Measures of Central Tendency#5.3.10#Properties of Mean#Ex5.3_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.10/Ex5.3_10.R#S##6072
-5# Measures of Central Tendency#5.3.1#Mean#Ex5.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH5/EX5.3.1/Ex5.3_1.R#S##6063
-4# Graphic Presentation#4.9.1#Ogive#Ex4.9_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH4/EX4.9.1/Ex4.9_1.R#S##6061
-4# Graphic Presentation#4.8.1#Frequency Polygon#Ex4.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH4/EX4.8.1/Ex4.8_1.R#S##6060
-4# Graphic Presentation#4.7.1#Histogram#Ex4.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH4/EX4.7.1/Ex4.7_1.R#S##6059
-4# Graphic Presentation#4.10.1#Pie Diagram#Ex4.10_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH4/EX4.10.1/Ex4.10_1.R#S##6062
-3# Frequency Distribution#3.3.1#Procedure #Ex3.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH3/EX3.3.1/Ex3.3_1.R#S##6058
-2# Some Fundamentals of Statistics in Education and Psychology#2.6.1#Class Interval#Ex2.6_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_&_Bhabagrahi_Biswal/CH2/EX2.6.1/Ex2.6_1.R#S##6057
+14# Analysis of Covariance #14.4.1#ANCOVA#Ex14.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH14/EX14.4.1/Ex14.4_1.R#S##5548
+13# Analysis of Variance#13.8.4#Two Way ANOVA#Ex13.8_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH13/EX13.8.4/Ex13.8_4.R#S##5547
+13# Analysis of Variance#13.8.3#Anova#Ex13.8_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH13/EX13.8.3/Ex13.8_3.R#S##5546
+13# Analysis of Variance#13.8.2#Deviation Score Method#Ex13.8_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH13/EX13.8.2/Ex13.8_2.R#S##5545
+13# Analysis of Variance#13.8.1#One Way Anova#Ex13.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH13/EX13.8.1/Ex13.8_1.R#S##5544
+12# Testing the Difference Between Two Group Means #12.9.3.9#Students t Test Uncorrelated Small Sample #Ex12.9.3_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.9/Ex12.9.3_9.R#S##5543
+12# Testing the Difference Between Two Group Means #12.9.3.8#Students t Test Uncorrelated Small Sample #Ex12.9.3_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.8/Ex12.9.3_8.R#S##5542
+12# Testing the Difference Between Two Group Means #12.9.3.7#Students t Test Uncorrelated Small Sample #Ex12.9.3_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.7/Ex12.9.3_7.R#S##5541
+12# Testing the Difference Between Two Group Means #12.9.3.6#Students t Test Uncorrelated Large Sample #Ex12.9.3_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.6/Ex12.9.3_6.R#S##5539
+12# Testing the Difference Between Two Group Means #12.9.3.5#Students t Test Uncorrelated Large Sample #Ex12.9.3_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.5/Ex12.9.3_5.R#S##5538
+12# Testing the Difference Between Two Group Means #12.9.3.4#Students t Test Correlated Small Sample #Ex12.9.3_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.4/Ex12.9.3_4.R#S##5537
+12# Testing the Difference Between Two Group Means #12.9.3.3#Students t Test Correlated Small Sample #Ex12.9.3_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.3/Ex12.9.3_3.R#S##5536
+12# Testing the Difference Between Two Group Means #12.9.3.2#Students t Test Correlated Large Sample #Ex12.9.3_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.2/Ex12.9.3_2.R#S##5535
+12# Testing the Difference Between Two Group Means #12.9.3.1#Students t Test Correlated Large Sample #Ex12.9.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH12/EX12.9.3.1/Ex12.9.3_1.R#S##5534
+11# Chi Square#11.4.8#chi Square of 2 by 2 Table#Ex11.4_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH11/EX11.4.8/Ex11.4_8.R#S##5532
+11# Chi Square#11.4.7#Chi Square of Independence#Ex11.4_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH11/EX11.4.7/Ex11.4_7.R#S##5531
+11# Chi Square#11.4.4#Chi Square Testing Equal Probability Cases#Ex11.4_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH11/EX11.4.4/Ex11.4_4.R#S##5528
+11# Chi Square#11.4.3#Chi Square Testing#Ex11.4_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH11/EX11.4.3/Ex11.4_3.R#S##5527
+11# Chi Square#11.4.2#Chi Square Testing#Ex11.4_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH11/EX11.4.2/Ex11.4_2.R#S##5526
+11# Chi Square#11.4.1#Chi Square Testing#Ex11.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH11/EX11.4.1/Ex11.4_1.R#S##5525
+10# Interpretation of Scores#10.7.1#H score#Ex10.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH10/EX10.7.1/Ex10.7_1.R#S##5524
+10# Interpretation of Scores#10.6.1#T Score#Ex10.6_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH10/EX10.6.1/Ex10.6_1.R#S##5523
+10# Interpretation of Scores#10.5.3#Standard Score#Ex10.5_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH10/EX10.5.3/Ex10.5_3.R#S##5522
+10# Interpretation of Scores#10.5.2#Standard Score#Ex10.5_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH10/EX10.5.2/Ex10.5_2.R#S##5521
+10# Interpretation of Scores#10.5.1#Standard Score#Ex10.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH10/EX10.5.1/Ex10.5_1.R#S##5520
+9# Normal Distribution#9.7.8#Uses of Normal Curve#Ex9.7_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.8/Ex9.7_8.R#S##5519
+9# Normal Distribution#9.7.7#Percentage of Cases#Ex9.7_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.7/Ex9.7_7.R#S##5518
+9# Normal Distribution#9.7.6#Relative difficulty value#Ex9.7_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.6/Ex9.7_6.R#S##5517
+9# Normal Distribution#9.7.5#Uses of Normal Curve#Ex9.7_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.5/Ex9.7_5.R#S##5516
+9# Normal Distribution#9.7.4#Uses of Normal Curve#Ex9.7_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.4/Ex9.7_4.R#S##5515
+9# Normal Distribution#9.7.3#Uses of Normal Curve#Ex9.7_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.3/Ex9.7_3.R#S##5514
+9# Normal Distribution#9.7.2#Uses of Normal Curve#Ex9.7_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.2/Ex9.7_2.R#S##5513
+9# Normal Distribution#9.7.1#Uses of Normal Curve#Ex9.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH9/EX9.7.1/Ex9.7_1.R#S##5512
+8#Testing Relationship and Associations Correlation#8.9.4#Pearson s Product Moment Coefficient of Correlation#Ex8.9_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.9.4/Ex8.9_4.R#S##5496
+8#Testing Relationship and Associations Correlation#8.9.3#Pearson s Product Moment Coefficient of Correlation#Ex8.9_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.9.3/Ex8.9_3.R#S##5495
+8#Testing Relationship and Associations Correlation#8.9.2#Pearson s Product Moment Coefficient of Correlation#Ex8.9_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.9.2/Ex8.9_2.R#S##5494
+8#Testing Relationship and Associations Correlation#8.9.1#Pearson s Product Moment Coefficient of Correlation#Ex8.9_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.9.1/Ex8.9_1.R#S##5493
+8#Testing Relationship and Associations Correlation#8.8.9#Spearman s Rank Difference Method#Ex8.8_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.9/Ex8.8_9.R#S##5490
+8#Testing Relationship and Associations Correlation#8.8.8#Spearman s Rank Difference Method#Ex8.8_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.8/Ex8.8_8.R#S##5489
+8#Testing Relationship and Associations Correlation#8.8.7#Spearman s Rank Difference Method#Ex8.8_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.7/Ex8.8_7.R#S##5488
+8#Testing Relationship and Associations Correlation#8.8.6#Spearman s Rank Difference Method#Ex8.8_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.6/Ex8.8_6.R#S##5487
+8#Testing Relationship and Associations Correlation#8.8.5#Spearman s Rank Difference Method#Ex8.8_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.5/Ex8.8_5.R#S##5486
+8#Testing Relationship and Associations Correlation#8.8.4#Spearman s Rank Difference Method#Ex8.8_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.4/Ex8.8_4.R#S##5485
+8#Testing Relationship and Associations Correlation#8.8.3#Spearman s Rank Difference Method#Ex8.8_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.3/Ex8.8_3.R#S##5484
+8#Testing Relationship and Associations Correlation#8.8.2#Spearman s Rank Difference Method#Ex8.8_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.2/Ex8.8_2.R#S##5483
+8#Testing Relationship and Associations Correlation#8.8.11#Spearman s Rank Difference Method#Ex8.8_11.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.11/Ex8.8_11.R#S##5492
+8#Testing Relationship and Associations Correlation#8.8.10#Spearman s Rank Difference Method#Ex8.8_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.10/Ex8.8_10.R#S##5491
+8#Testing Relationship and Associations Correlation#8.8.1#Spearman s Rank Difference Method#Ex8.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.8.1/Ex8.8_1.R#S##5482
+8#Testing Relationship and Associations Correlation#8.15.2#Phi Coefficient#Ex8.15_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.15.2/Ex8.15_2.R#S##5511
+8#Testing Relationship and Associations Correlation#8.15.1#Phi Coefficient#Ex8.15_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.15.1/Ex8.15_1.R#S##5510
+8#Testing Relationship and Associations Correlation#8.14.2#Tetrachoric Correlation#Ex8.14_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.14.2/Ex8.14_2.R#S##5509
+8#Testing Relationship and Associations Correlation#8.14.1#Tetrachoric Correlation#Ex8.14_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.14.1/Ex8.14_1.R#S##5508
+8#Testing Relationship and Associations Correlation#8.13.2#Partial Correlation#Ex8.13_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.13.2/Ex8.13_2.R#S##5507
+8#Testing Relationship and Associations Correlation#8.13.1#Partial Correlation#Ex8.13_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.13.1/Ex8.13_1.R#S##5506
+8#Testing Relationship and Associations Correlation#8.12.2#Point Biserial Correlation#Ex8.12_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.12.2/Ex8.12_2.R#S##5505
+8#Testing Relationship and Associations Correlation#8.12.1#Point Biserial Correlation#Ex8.12_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.12.1/Ex8.12_1.R#S##5504
+8#Testing Relationship and Associations Correlation#8.11.3#Biserial Correlation#Ex8.11_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.11.3/Ex8.11_3.R#S##5503
+8#Testing Relationship and Associations Correlation#8.11.2#Biserial Correlation#Ex8.11_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.11.2/Ex8.11_2.R#S##5502
+8#Testing Relationship and Associations Correlation#8.11.1#Biserial Correlation#Ex8.11_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.11.1/Ex8.11_1.R#S##5501
+8#Testing Relationship and Associations Correlation#8.10.4#Raw Score Method #Ex8.10_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.10.4/Ex8.10_4.R#S##6108
+8#Testing Relationship and Associations Correlation#8.10.3#Raw Score Method #Ex8.10_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.10.3/Ex8.10_3.R#S##5499
+8#Testing Relationship and Associations Correlation#8.10.2#Raw Score Method #Ex8.10_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.10.2/Ex8.10_2.R#S##5498
+8#Testing Relationship and Associations Correlation#8.10.1#Product Mement Method from Group Data#Ex8.10_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH8/EX8.10.1/Ex8.10_1.R#S##5497
+7# Measures of Dispersion#7.8.9#Effects upon Std Deviation#Ex7.8_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.8.9/Ex7.8_9.R#S##5476
+7# Measures of Dispersion#7.8.6#Standard Deviation from Grouped data#Ex7.8_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.8.6/Ex7.8_6.R#S##5473
+7# Measures of Dispersion#7.8.5#Standard Deviation from Grouped data#Ex7.8_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.8.5/Ex7.8_5.R#S##5472
+7# Measures of Dispersion#7.8.2#Standard Deviation#Ex7.8_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.8.2/Ex7.8_2.R#S##5469
+7# Measures of Dispersion#7.8.10#Effects upon Std Deviation#Ex7.8_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.8.10/Ex7.8_10.R#S##5477
+7# Measures of Dispersion#7.8.1#Standard Deviation#Ex7.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.8.1/Ex7.8_1.R#S##5468
+7# Measures of Dispersion#7.7.7#Average Deviation from Grouped data#Ex7.7_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.7.7/Ex7.7_7.R#S##5466
+7# Measures of Dispersion#7.7.6#Average Deviation from Grouped data#Ex7.7_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.7.6/Ex7.7_6.R#S##5465
+7# Measures of Dispersion#7.7.5#Average Deviation from Grouped data#Ex7.7_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.7.5/Ex7.7_5.R#S##5464
+7# Measures of Dispersion#7.7.3#Average Deviation#Ex7.7_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.7.3/Ex7.7_3.R#S##5462
+7# Measures of Dispersion#7.7.2#Average Deviation#Ex7.7_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.7.2/Ex7.7_2.R#S##5461
+7# Measures of Dispersion#7.6.3#Quartile Deviation#Ex7.6_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.6.3/Ex7.6_3.R#S##5459
+7# Measures of Dispersion#7.6.2#Quartile Deviation#Ex7.6_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.6.2/Ex7.6_2.R#S##5458
+7# Measures of Dispersion#7.6.1#Quartile Deviation#Ex7.6_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.6.1/Ex7.6_1.R#S##5457
+7# Measures of Dispersion#7.5.6#Coefficient of Range for Grouped Data#Ex7.5_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.5.6/Ex7.5_6.R#S##5456
+7# Measures of Dispersion#7.5.5#Coefficient of Range for Grouped Data#Ex7.5_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.5.5/Ex7.5_5.R#S##5455
+7# Measures of Dispersion#7.5.4#Coefficient of Range for Grouped Data#Ex7.5_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.5.4/Ex7.5_4.R#S##5454
+7# Measures of Dispersion#7.5.3#Coefficient of Range#Ex7.5_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.5.3/Ex7.5_3.R#S##5453
+7# Measures of Dispersion#7.5.2#Range#Ex7.5_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.5.2/Ex7.5_2.R#S##5452
+7# Measures of Dispersion#7.5.1#Range#Ex7.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH7/EX7.5.1/Ex7.5_1.R#S##5451
+6# Percentile and Percentile Rank #6.5.1#Graphical Representation of Percentile#Ex6.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.5.1/Ex6.5_1.R#S##7240
+6# Percentile and Percentile Rank #6.4.1#Percentile Problems#Ex6.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.4.1/Ex6.4_1.R#S##7087
+6# Percentile and Percentile Rank #6.3.4#Percentile rank#Ex6.3_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.3.4/Ex6.3_4.R#S##7099
+6# Percentile and Percentile Rank #6.3.3#Percentile rank#Ex6.3_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.3.3/Ex6.3_3.R#S##7098
+6# Percentile and Percentile Rank #6.3.2#Percentile rank#Ex6.3_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.3.2/Ex6.3_2.R#S##7083
+6# Percentile and Percentile Rank #6.3.1#Percentile rank#Ex6.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.3.1/Ex6.3_1.R#S##7082
+6# Percentile and Percentile Rank #6.2.1#Percentile#Ex6.2_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH6/EX6.2.1/Ex6.2_1.R#S##7079
+5# Measures of Central Tendency#5.7.2#Calculation of Mean Median Mode from Grouped Data#Ex5.7_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.7.2/Ex5.7_2.R#S##6107
+5# Measures of Central Tendency#5.7.1#Calculation of Mean Median Mode from Grouped Data#Ex5.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.7.1/Ex5.7_1.R#S##6106
+5# Measures of Central Tendency#5.5.9#Calculation of Mode from Grouped Data#Ex5.5_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.9/Ex5.5_9.R#S##6103
+5# Measures of Central Tendency#5.5.8#Bi modal#Ex5.5_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.8/Ex5.5_8.R#S##6102
+5# Measures of Central Tendency#5.5.7#Calculation of Mode from Grouped Data#Ex5.5_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.7/Ex5.5_7.R#S##6101
+5# Measures of Central Tendency#5.5.6#Bi modal#Ex5.5_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.6/Ex5.5_6.R#S##6100
+5# Measures of Central Tendency#5.5.4#Mode#Ex5.5_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.4/Ex5.5_4.R#S##6098
+5# Measures of Central Tendency#5.5.3#Mode#Ex5.5_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.3/Ex5.5_3.R#S##6097
+5# Measures of Central Tendency#5.5.2#Mode#Ex5.5_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.2/Ex5.5_2.R#S##6096
+5# Measures of Central Tendency#5.5.11#Calculation of Mode from Grouped Data#Ex5.5_11.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.11/Ex5.5_11.R#S##6105
+5# Measures of Central Tendency#5.5.10#Calculation of Mode from Grouped Data#Ex5.5_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.10/Ex5.5_10.R#S##6104
+5# Measures of Central Tendency#5.5.1#Mode#Ex5.5_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.5.1/Ex5.5_1.R#S##6095
+5# Measures of Central Tendency#5.4.9#Calculation of Median from Grouped Data#Ex5.4_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.4.9/Ex5.4_9.R#S##6087
+5# Measures of Central Tendency#5.4.8#Calculation of Median from Grouped Data#Ex5.4_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.4.8/Ex5.4_8.R#S##6086
+5# Measures of Central Tendency#5.4.7#Calculation of Median from Grouped Data#Ex5.4_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.4.7/Ex5.4_7.R#S##6085
+5# Measures of Central Tendency#5.4.3#Calculation of Median #Ex5.4_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.4.3/Ex5.4_3.R#S##6081
+5# Measures of Central Tendency#5.4.2#Calculation of Median #EX5.4_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.4.2/EX5.4_2.R#S##6079
+5# Measures of Central Tendency#5.4.1#Calculation of Median #Ex5.4_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.4.1/Ex5.4_1.R#S##6078
+5# Measures of Central Tendency#5.3.9#Combined Mean#Ex5.3_9.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.9/Ex5.3_9.R#S##6071
+5# Measures of Central Tendency#5.3.8#Combined Mean#Ex5.3_8.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.8/Ex5.3_8.R#S##6070
+5# Measures of Central Tendency#5.3.7#Combined Mean#Ex5.3_7.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.7/Ex5.3_7.R#S##6069
+5# Measures of Central Tendency#5.3.6#Calculation of Mean from Grouped Data#Ex5.3_6.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.6/Ex5.3_6.R#S##6068
+5# Measures of Central Tendency#5.3.5#Calculation of Mean from Grouped Data#Ex5.3_5.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.5/Ex5.3_5.R#S##6067
+5# Measures of Central Tendency#5.3.4#Calculation of Mean from Grouped Data#Ex5.3_4.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.4/Ex5.3_4.R#S##6066
+5# Measures of Central Tendency#5.3.3#Mean#Ex5.3_3.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.3/Ex5.3_3.R#S##6065
+5# Measures of Central Tendency#5.3.2#Mean#Ex5.3_2.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.2/Ex5.3_2.R#S##6064
+5# Measures of Central Tendency#5.3.12#Properties of Mean#Ex5.3_12.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.12/Ex5.3_12.R#S##6074
+5# Measures of Central Tendency#5.3.11#Properties of Mean#Ex5.3_11.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.11/Ex5.3_11.R#S##6073
+5# Measures of Central Tendency#5.3.10#Properties of Mean#Ex5.3_10.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.10/Ex5.3_10.R#S##6072
+5# Measures of Central Tendency#5.3.1#Mean#Ex5.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH5/EX5.3.1/Ex5.3_1.R#S##6063
+4# Graphic Presentation#4.9.1#Ogive#Ex4.9_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH4/EX4.9.1/Ex4.9_1.R#S##6061
+4# Graphic Presentation#4.8.1#Frequency Polygon#Ex4.8_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH4/EX4.8.1/Ex4.8_1.R#S##6060
+4# Graphic Presentation#4.7.1#Histogram#Ex4.7_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH4/EX4.7.1/Ex4.7_1.R#S##6059
+4# Graphic Presentation#4.10.1#Pie Diagram#Ex4.10_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH4/EX4.10.1/Ex4.10_1.R#S##6062
+3# Frequency Distribution#3.3.1#Procedure #Ex3.3_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH3/EX3.3.1/Ex3.3_1.R#S##6058
+2# Some Fundamentals of Statistics in Education and Psychology#2.6.1#Class Interval#Ex2.6_1.R#Statistics_In_Education_And_Psychology_by_P._C._Dash_And_Bhabagrahi_Biswal/CH2/EX2.6.1/Ex2.6_1.R#S##6057

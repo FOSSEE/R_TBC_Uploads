@@ -1,5 +1,4 @@
 #!/bin/bash
-export PATH=$PATH:/usr/local/texlive/2016/bin/x86_64-linux
 clear
 CBk_details=$1
 CContrib_details=$2

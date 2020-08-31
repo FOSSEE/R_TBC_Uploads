@@ -22,19 +22,19 @@ te = re * Cje
 te = te * 10 ^ 12
 cat(te, "ps\n")
 
-th = xB ^ 2 / (2 * Dn)
-th = th * 10 ^ 12
-cat(th, "ps\n")
+Tb = xB ^ 2 / (2 * Dn)
+Tb = Tb * 10 ^ 12
+cat(Tb, "ps\n")
 
 tb = xdc / vs * 10 ^ 12
 cat(tb, "ps\n")
 
 
-tc = rc * (Cu + Cs)
-tc = tc * 10 ^ 12
-cat(tc, "ps\n")
+Tc = rc * (Cu + Cs)
+Tc = Tc * 10 ^ 12
+cat(Tc, "ps\n")
 
-tec = te + th + tb + tc
+tec = te + Tb + tb + Tc
 cat(tec, "ps\n")
 
 ft = 1 / (2 * pi * tec * (10 ^ -12))
