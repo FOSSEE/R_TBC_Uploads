@@ -4,7 +4,7 @@ T = 25;
 p=1/T
 n=12
 Q =(1-p)^n;
-Rsk = 1-Q;
+Rk = 1-Q;
 print(p);
 print(Q)
-print(Rsk);
+print(Rk);

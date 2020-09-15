@@ -4,13 +4,13 @@ r = 5.7;
 S = 1/5000;
 N = 0.0225;
 m = 1;
-D = 1.7;
-B = r*D;
-V = 0.55*m*(D)^0.64;
-A = B*D+D^2/2;
+y = 1.7;
+x = r*y;
+V = 0.55*m*(y)^0.64;
+A = x*y+y^2/2;
 Q = A*V;
-print(B);
-print(D);
+print(x);
+print(y);
 print(Q);
 
-# The answer may slightly vary due to rounding off values
+# The answer may slightly vary yue to rounying off values

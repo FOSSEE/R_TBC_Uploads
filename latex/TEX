@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Modern Physical Chemistry: A Molecular Approach\\by George H. Duffey\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Ojas Singh\\12th (Senior Secondary)\\PCMB (Physics, Chemistry, Mathematics \& Biology)\\Apeejay School - Noida\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Modern Physical Chemistry: A Molecular Approach
-\item [Author:] George H. Duffey
-\item [Publisher:] Springer US
-\item [Edition:] 1
-\item [Year:] 2000
-\item [ISBN:] 978-0-306-46395-2
+\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
+\item [Author:] Paolo Brandimarte
+\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
+\item [Edition:] 2
+\item [Year:] 2006
+\item [ISBN:] 0471745030
 \end{description}
 
 \newpage
@@ -26,692 +26,555 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 \tableofcontents
 \listofcode
 
-\chapter{Structure in Solids }
+
+\setcounter{chapter}{1}
+\chapter{ Financial Theory}
 
 \vspace*{10mm}
-\curlable{Exa~1.1}
+\curlable{Exa~2.7}
 \begin{code}
-\tcaption{Finding angle phi}{Finding angle phi}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH1/EX1.1/Ex1_1.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.2}
+\curlable{Exa~2.8}
 \begin{code}
-\tcaption{Finding interplanar spacing}{Finding interplanar spacing}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH1/EX1.2/Ex1_2.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.6}
+\curlable{Exa~2.9}
 \begin{code}
-\tcaption{Calculating Avogadros number}{Calculating Avogadros number}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH1/EX1.6/Ex1_6.R}
-\end{code}
-
-\chapter{ Structure in Molecules and Atoms}
-
-\vspace*{10mm}
-\curlable{Exa~2.1}
-\begin{code}
-\tcaption{Relation of homogeneous electron beam to the voltage accelerating the electrons}{Relation of homogeneous electron beam to the voltage accelerating the electrons}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH2/EX2.1/Ex2_1.R}
+\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.3}
+\curlable{Exa~2.10}
 \begin{code}
-\tcaption{Calculating cross section presented by cadmium atom to beam}{Calculating cross section presented by cadmium atom to beam}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH2/EX2.3/Ex2_3.R}
+\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
 \end{code}
 
-\chapter{Gases and Collective Properties }
+\vspace*{10mm}
+\curlable{Exa~2.24}
+\begin{code}
+\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
+\end{code}
+
+\chapter{Basics of Numerical Analysis}
 
 \vspace*{10mm}
 \curlable{Exa~3.2}
 \begin{code}
-\tcaption{Finding newtons per square meter in 1 atmosphere}{Finding newtons per square meter in 1 atmosphere}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.2/Ex3_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.3}
-\begin{code}
-\tcaption{Calculating joules in 1 liter atmosphere}{Calculating joules in 1 liter atmosphere}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.3/Ex3_3.R}
+\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.4}
 \begin{code}
-\tcaption{Changing the energy unit in R }{Changing the energy unit in R }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.4/Ex3_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.5}
-\begin{code}
-\tcaption{Calculating root mean square velocity of helium molecule }{Calculating root mean square velocity of helium molecule }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.5/Ex3_5.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.6}
 \begin{code}
-\tcaption{Calculating the partial pressure}{Calculating the partial pressure}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.6/Ex3_6.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.7}
 \begin{code}
-\tcaption{Estimating energy associated with thermal agitation in 1 mole water vapour}{Estimating energy associated with thermal agitation in 1 mole water vapour}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.7/Ex3_7.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.8}
 \begin{code}
-\tcaption{Calculating radius of helium atom}{Calculating radius of helium atom}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.8/Ex3_8.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.9}
+\curlable{Exa~3.11}
 \begin{code}
-\tcaption{Calculating number of particles in 32 layers of gold sol}{Calculating number of particles in 32 layers of gold sol}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.9/Ex3_9.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.12}
+\begin{code}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.13}
 \begin{code}
-\tcaption{Calculating cross section and mean relative speed and collision rate density for molecular oxygen}{Calculating cross section and mean relative speed and collision rate density for molecular oxygen}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.13/Ex3_13.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.14}
 \begin{code}
-\tcaption{Calculating hypothetical maximum specific reaction rate}{Calculating hypothetical maximum specific reaction rate}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH3/EX3.14/Ex3_14.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
 \end{code}
 
-\chapter{ The First Law for Energy}
+\vspace*{10mm}
+\curlable{Exa~3.15}
+\begin{code}
+\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.16}
+\begin{code}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.17}
+\begin{code}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.18}
+\begin{code}
+\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.22}
+\begin{code}
+\tcaption{Bisection method}{Bisection method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.23}
+\begin{code}
+\tcaption{Newtons method}{Newtons method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.24}
+\begin{code}
+\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
+\end{code}
+
+\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
+
+\vspace*{10mm}
+\curlable{Exa~4.1}
+\begin{code}
+\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.2}
+\begin{code}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
+\end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.3}
 \begin{code}
-\tcaption{Calculating delta E and delta H for vaporization of 1 mole water}{Calculating delta E and delta H for vaporization of 1 mole water}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH4/EX4.3/Ex4_3.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.4}
+\begin{code}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.5}
 \begin{code}
-\tcaption{Calculating w and delta E and q for the overall process}{Calculating w and delta E and q for the overall process}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH4/EX4.5/Ex4_5.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.6}
 \begin{code}
-\tcaption{ Estimating translational and rotational and vibrational contributions}{ Estimating translational and rotational and vibrational contributions}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH4/EX4.6/Ex4_6.R}
+\tcaption{Inverse transform method}{Inverse transform method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
 \end{code}
 
-\chapter{ Entropy and the Second Law}
+\vspace*{10mm}
+\curlable{Exa~4.8}
+\begin{code}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.9}
+\begin{code}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.10}
+\begin{code}
+\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.11}
+\begin{code}
+\tcaption{Antithetic sampling}{Antithetic sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.12}
+\begin{code}
+\tcaption{BlsMCAV}{BlsMCAV}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.14}
+\begin{code}
+\tcaption{Importance sampling}{Importance sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.15}
+\begin{code}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.16}
+\begin{code}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.17}
+\begin{code}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.18}
+\begin{code}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.19}
+\begin{code}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.20}
+\begin{code}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
+\end{code}
+
+\chapter{ Finite Difference Methods for Partial Differential Equations}
 
 \vspace*{10mm}
 \curlable{Exa~5.1}
 \begin{code}
-\tcaption{Calculating entropy change }{Calculating entropy change }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.1/Ex5_1.R}
+\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.2}
+\curlable{Exa~5.3}
 \begin{code}
-\tcaption{Calculating entropy change }{Calculating entropy change }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.2/Ex5_2.R}
+\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.4}
 \begin{code}
-\tcaption{Calculating entropy change}{Calculating entropy change}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.4/Ex5_4.R}
+\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~5.5}
-\begin{code}
-\tcaption{Finding delta A and G for vaporization of 1 mole water}{Finding delta A and G for vaporization of 1 mole water}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.5/Ex5_5.R}
-\end{code}
+\chapter{ Convex Optimization}
 
 \vspace*{10mm}
-\curlable{Exa~5.8}
+\curlable{Exa~6.1}
 \begin{code}
-\tcaption{Calculating the thermodynamic force acting on a solute}{Calculating the thermodynamic force acting on a solute}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.8/Ex5_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.9}
-\begin{code}
-\tcaption{Determining the gravitational force}{Determining the gravitational force}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH5/EX5.9/Ex5_9.R}
-\end{code}
-
-\chapter{ Relationships between Phases}
-
-\vspace*{10mm}
-\curlable{Exa~6.2}
-\begin{code}
-\tcaption{Determining endothermicity which causes a solution to separate into two phases}{Determining endothermicity which causes a solution to separate into two phases}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.2/Ex6_2.R}
+\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.3}
 \begin{code}
-\tcaption{Calculating the change in melting point of ice}{Calculating the change in melting point of ice}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.3/Ex6_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.4}
-\begin{code}
-\tcaption{Calculating the vapour pressure of benzene}{Calculating the vapour pressure of benzene}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.4/Ex6_4.R}
+\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.5}
 \begin{code}
-\tcaption{ Determining partial pressure of water in saturated gas}{ Determining partial pressure of water in saturated gas}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.5/Ex6_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.6}
-\begin{code}
-\tcaption{Finding initial concentration of methanol in vaporu}{Finding initial concentration of methanol in vaporu}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.6/Ex6_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.7}
-\begin{code}
-\tcaption{Calculating the molal elevation constant for water}{Calculating the molal elevation constant for water}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.7/Ex6_7.R}
+\tcaption{Penalty function approach}{Penalty function approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.8}
 \begin{code}
-\tcaption{Calculating osmotic pressure for a sucrose solution}{Calculating osmotic pressure for a sucrose solution}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH6/EX6.8/Ex6_8.R}
+\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
-\chapter{ Relationships among Reactants }
+\vspace*{10mm}
+\curlable{Exa~6.12}
+\begin{code}
+\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
+\end{code}
+
+\chapter{ Option Pricing by Binomial and Trinomial Lattices}
+
+\vspace*{10mm}
+\curlable{Exa~7.1}
+\begin{code}
+\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
+\end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.2}
 \begin{code}
-\tcaption{Determining delta H for a reaction}{Determining delta H for a reaction}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.2/Ex7_2.R}
+\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.3}
+\begin{code}
+\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.4}
+\begin{code}
+\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.5}
 \begin{code}
-\tcaption{Calculating entropy correction for gas imperfection}{Calculating entropy correction for gas imperfection}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.5/Ex7_5.R}
+\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.6}
 \begin{code}
-\tcaption{Calculating delta S and G and H}{Calculating delta S and G and H}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.6/Ex7_6.R}
+\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.7}
 \begin{code}
-\tcaption{Calculating Gibbs energy change}{Calculating Gibbs energy change}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.7/Ex7_7.R}
+\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~7.8}
-\begin{code}
-\tcaption{Determining the equilibrium constant}{Determining the equilibrium constant}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.8/Ex7_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.9}
-\begin{code}
-\tcaption{Calculating Kp and Kc}{Calculating Kp and Kc}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.9/Ex7_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.11}
-\begin{code}
-\tcaption{Calculating Kp}{Calculating Kp}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.11/Ex7_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.12}
-\begin{code}
-\tcaption{Calculating the density of an equilibrium mixture}{Calculating the density of an equilibrium mixture}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.12/Ex7_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.13}
-\begin{code}
-\tcaption{Calculating final pressure after equilibrium}{Calculating final pressure after equilibrium}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH7/EX7.13/Ex7_13.R}
-\end{code}
-
-\chapter{ Equilibria in Condensed Phases}
+\chapter{Option Pricing by Monte Carlo Methods }
 
 \vspace*{10mm}
 \curlable{Exa~8.1}
 \begin{code}
-\tcaption{Calculating amount of I2 in equilibrium}{Calculating amount of I2 in equilibrium}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.1/Ex8_1.R}
+\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.2}
 \begin{code}
-\tcaption{Calculating hydrogen ion concentration in a solution}{Calculating hydrogen ion concentration in a solution}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.2/Ex8_2.R}
+\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.3}
 \begin{code}
-\tcaption{Calculating hydrogen ion concentration}{Calculating hydrogen ion concentration}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.3/Ex8_3.R}
+\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.4}
 \begin{code}
-\tcaption{Calculate the hydroxide ion concentration}{Calculate the hydroxide ion concentration}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.4/Ex8_4.R}
+\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.5}
 \begin{code}
-\tcaption{Calculating mH}{Calculating mH}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.5/Ex8_5.R}
+\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.6}
 \begin{code}
-\tcaption{Calculating mH}{Calculating mH}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.6/Ex8_6.R}
+\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.7}
+\begin{code}
+\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.8}
 \begin{code}
-\tcaption{Finding delta H and delta S and K}{Finding delta H and delta S and K}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.8/Ex8_8.R}
+\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.9}
 \begin{code}
-\tcaption{Calculating hydrogen ion concentration}{Calculating hydrogen ion concentration}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.9/Ex8_9.R}
+\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.10}
 \begin{code}
-\tcaption{Calculating hydrogen ion concentration}{Calculating hydrogen ion concentration}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.10/Ex8_10.R}
+\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.11}
 \begin{code}
-\tcaption{Calculating the solubility of AgCI}{Calculating the solubility of AgCI}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.11/Ex8_11.R}
+\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.12}
 \begin{code}
-\tcaption{Calculating the equilibrium concentrations}{Calculating the equilibrium concentrations}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH8/EX8.12/Ex8_12.R}
-\end{code}
-
-\chapter{Electrochemistry}
-
-\vspace*{10mm}
-\curlable{Exa~9.1}
-\begin{code}
-\tcaption{Finding weight of copper plating on cathode and anode}{Finding weight of copper plating on cathode and anode}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.1/Ex9_1.R}
+\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.2}
+\curlable{Exa~8.13}
 \begin{code}
-\tcaption{Calculating transference numbers}{Calculating transference numbers}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.2/Ex9_2.R}
+\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
 \end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.14}
+\begin{code}
+\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.15}
+\begin{code}
+\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.16}
+\begin{code}
+\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.17}
+\begin{code}
+\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.18}
+\begin{code}
+\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
+\end{code}
+
+\chapter{ Option Pricing by Finite Difference Methods}
 
 \vspace*{10mm}
 \curlable{Exa~9.3}
 \begin{code}
-\tcaption{Calculating equivalent conductance}{Calculating equivalent conductance}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.3/Ex9_3.R}
+\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.4}
 \begin{code}
-\tcaption{Calculating equivalent conductance}{Calculating equivalent conductance}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.4/Ex9_4.R}
+\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.5}
 \begin{code}
-\tcaption{Finding specific conductance}{Finding specific conductance}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.5/Ex9_5.R}
+\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~9.6}
-\begin{code}
-\tcaption{Finding E of cell}{Finding E of cell}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.6/Ex9_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.7}
-\begin{code}
-\tcaption{Calculating emf of the cell}{Calculating emf of the cell}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.7/Ex9_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.8}
-\begin{code}
-\tcaption{Finding actual decomposition potential}{Finding actual decomposition potential}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH9/EX9.8/Ex9_8.R}
-\end{code}
-
-\chapter{ Basic Quantum Mechanics}
+\chapter{ Dynamic Programming}
 
 \vspace*{10mm}
 \curlable{Exa~10.4}
 \begin{code}
-\tcaption{Finding coefficient h squared divided 2m}{Finding coefficient h squared divided 2m}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.4/Ex10_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.6}
-\begin{code}
-\tcaption{Calculating Fermi energy}{Calculating Fermi energy}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.6/Ex10_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.7}
-\begin{code}
-\tcaption{Calculating coefficient h squared divided by 8m}{Calculating coefficient h squared divided by 8m}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.7/Ex10_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.8}
-\begin{code}
-\tcaption{Calculating kinetic energy}{Calculating kinetic energy}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH10/EX10.8/Ex10_8.R}
-\end{code}
-
-\chapter{ Free Rotational and Angular Motion}
-
-\vspace*{10mm}
-\curlable{Exa~11.4}
-\begin{code}
-\tcaption{Evaluating a constant h divided by 4pi and c}{Evaluating a constant h divided by 4pi and c}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.4/Ex11_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.5}
-\begin{code}
-\tcaption{Calculating corresponding moment of inertia}{Calculating corresponding moment of inertia}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.5/Ex11_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.6}
-\begin{code}
-\tcaption{determining bond length in HCl}{determining bond length in HCl}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.6/Ex11_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.7}
-\begin{code}
-\tcaption{Expressing the Boltzmann constant in the reciprocal centimeter energy unit}{Expressing the Boltzmann constant in the reciprocal centimeter energy unit}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH11/EX11.7/Ex11_7.R}
-\end{code}
-
-\chapter{ Vibrational and Radial Motion}
-
-\vspace*{10mm}
-\curlable{Exa~12.6}
-\begin{code}
-\tcaption{Determining the force constant for a molecule}{Determining the force constant for a molecule}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.6/Ex12_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.7}
-\begin{code}
-\tcaption{Calculating force constant of a spring}{Calculating force constant of a spring}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.7/Ex12_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.9}
-\begin{code}
-\tcaption{ Calculating the harmonic oscillator wave number}{ Calculating the harmonic oscillator wave number}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.9/Ex12_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.10}
-\begin{code}
-\tcaption{Determining the dissociation energy of a diatomic molecule}{Determining the dissociation energy of a diatomic molecule}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.10/Ex12_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.11}
-\begin{code}
-\tcaption{Evaluating Bohr radius}{Evaluating Bohr radius}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.11/Ex12_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.13}
-\begin{code}
-\tcaption{Expressing the electronic energy of a hydrogenlike system in reciprocal centimeters}{Expressing the electronic energy of a hydrogenlike system in reciprocal centimeters}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH12/EX12.13/Ex12_13.R}
-\end{code}
-
-\chapter{ Analyzing Organized Structures}
-
-\vspace*{10mm}
-\curlable{Exa~13.16}
-\begin{code}
-\tcaption{Showing primitive symmetry species F2 occurs three times in the atomic motions}{Showing primitive symmetry species F2 occurs three times in the atomic motions}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH13/EX13.16/Ex13_16.R}
-\end{code}
-
-\chapter{ States of Molecular Electrons}
-
-\vspace*{10mm}
-\curlable{Exa~14.3}
-\begin{code}
-\tcaption{estimating energies of molecular orbitals of HF }{estimating energies of molecular orbitals of HF }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH14/EX14.3/Ex14_3.R}
-\end{code}
-
-\chapter{Phenomenological Chemical Kinetics }
-
-\vspace*{10mm}
-\curlable{Exa~15.3}
-\begin{code}
-\tcaption{Estimating the order of the reaction}{Estimating the order of the reaction}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.3/Ex15_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.4}
-\begin{code}
-\tcaption{Calculating the reaction order}{Calculating the reaction order}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.4/Ex15_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.7}
-\begin{code}
-\tcaption{Calculating the Arrhenius parameters}{Calculating the Arrhenius parameters}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.7/Ex15_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.8}
-\begin{code}
-\tcaption{Calculating the rate constants}{Calculating the rate constants}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.8/Ex15_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.9}
-\begin{code}
-\tcaption{Calculating the diffusion limited rate constant}{Calculating the diffusion limited rate constant}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.9/Ex15_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.10}
-\begin{code}
-\tcaption{Calculating the zero activation energy rate constant}{Calculating the zero activation energy rate constant}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH15/EX15.10/Ex15_10.R}
-\end{code}
-
-\chapter{ Explanatory Mechanisms}
-
-\vspace*{10mm}
-\curlable{Exa~16.2}
-\begin{code}
-\tcaption{Calculating coefficient k}{Calculating coefficient k}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH16/EX16.2/Ex16_2.R}
-\end{code}
-
-\chapter{Statistical Thermodynamics }
-
-\vspace*{10mm}
-\curlable{Exa~17.12}
-\begin{code}
-\tcaption{Formulating Kc and Kp}{Formulating Kc and Kp}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.12/Ex17_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.13}
-\begin{code}
-\tcaption{Calculating the constant products }{Calculating the constant products }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.13/Ex17_13.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.14}
-\begin{code}
-\tcaption{Calculating electromagnetic energy}{Calculating electromagnetic energy}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.14/Ex17_14.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.15}
-\begin{code}
-\tcaption{Evaluating coefficient of integral in formula}{Evaluating coefficient of integral in formula}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH17/EX17.15/Ex17_15.R}
-\end{code}
-
-\chapter{Reaction Rate Theory }
-
-\vspace*{10mm}
-\curlable{Exa~18.6}
-\begin{code}
-\tcaption{Estimating the maximum kinetic isotope effect}{Estimating the maximum kinetic isotope effect}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH18/EX18.6/Ex18_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~18.8}
-\begin{code}
-\tcaption{Calculating the thermodynamic properties M and S and G }{Calculating the thermodynamic properties M and S and G }
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH18/EX18.8/Ex18_8.R}
-\end{code}
-
-\chapter{ Photochemistry}
-
-\vspace*{10mm}
-\curlable{Exa~19.1}
-\begin{code}
-\tcaption{Calculating the transmittance at the same wavelength of two filters in combination}{Calculating the transmittance at the same wavelength of two filters in combination}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.1/Ex19_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.3}
-\begin{code}
-\tcaption{Calculating the photon energy}{Calculating the photon energy}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.3/Ex19_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.4}
-\begin{code}
-\tcaption{Calculating the absorbance A and the molar absorption coefficient E}{Calculating the absorbance A and the molar absorption coefficient E}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.4/Ex19_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.5}
-\begin{code}
-\tcaption{Evaluate the product N X h X c}{Evaluate the product N X h X c}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.5/Ex19_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.6}
-\begin{code}
-\tcaption{Calculating oscillator strength}{Calculating oscillator strength}
-\lstinputlisting{../Modern_Physical_Chemistry:_A_Molecular_Approach_by_George_H._Duffey/CH19/EX19.6/Ex19_6.R}
+\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
 \end{code}
 

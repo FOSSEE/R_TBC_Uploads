@@ -1,8 +1,8 @@
 # page no: 336
 
-asi = 3.6;
-gamma_s = 12;
-vs = asi/12;
+As = 3.6;
+Ga_s = 12;
+vs = As/12;
 ir = 30;
 fr = 60;
 r = ir/fr;

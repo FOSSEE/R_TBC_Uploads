@@ -4,20 +4,20 @@ pB = 74;
 pC = 88;
 pD = 71;
 pE = 80;
-Bx = 9;By = 6;
-Cx = 12;Cy = -9;
-Dx = -11;Dy = -6;
-Ex = -7;Ey = 7;
-Ax = 0;Ay = 0;
-Db = (Bx^2+By^2);
-Dc = (Cx^2+Cy^2);
-Dd = (Dx^2+Dy^2);
-De = (Ex^2+Ey^2);
-Wb=1/Db
-Wc=1/Dc
-Wd=1/Dd
-We=1/De
-s = pB*Wb+pC*Wc+pD*Wd+pE*We;
-pA = s/(Wb+Wc+Wd+We);
+By = 9;By = 6;
+Cy = 12;Cy = -9;
+Dy = -11;Dy = -6;
+Ey = -7;Ey = 7;
+Ay = 0;Ay = 0;
+Db = (By^2+By^2);
+Dc = (Cy^2+Cy^2);
+Dd = (Dy^2+Dy^2);
+De = (Ey^2+Ey^2);
+Xb=1/Db
+Xc=1/Dc
+Xd=1/Dd
+Xe=1/De
+s = pB*Xb+pC*Xc+pD*Xd+pE*Xe;
+pA = s/(Xb+Xc+Xd+Xe);
 pA = round(pA*10)/10;
 print(pA);

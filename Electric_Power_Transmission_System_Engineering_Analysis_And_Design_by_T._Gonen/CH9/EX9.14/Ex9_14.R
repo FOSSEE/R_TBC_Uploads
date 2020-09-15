@@ -1,25 +1,25 @@
 # page no: 501
 
 library(pracma)
-VG_1 = 1*exp(1i*0*pi/180) ;
-VG_2 = 1*exp(1i*0*pi/180) ;
-I_1 = 1*exp(1i*0*pi/180) ;
-I_2 = 1*exp(1i*0*pi/180) ;
-V_1 = 0.4522*exp(1i*90*pi/180) ;
-V_2 = 0.4782*exp(1i*90*pi/180) ;
-Y_11 = I_1/V_1 ;
-Y_21 = (-0.1087)*Y_11 ;
-Y_22 = I_2/V_2 ;
-Y_12 = Y_21 ;
-Y = matrix(c(Y_11, Y_12,  Y_21, Y_22), nrow=2, byrow=TRUE) ;
-I_S1_12 = 2.0193*exp(1i*90*pi/180) ;
-I_S1_10 = 0.2884*exp(1i*90*pi/180) ;
-I_S2_12 = 0.4326*exp(1i*90*pi/180) ;
-I_S2_10 = 1.4904*exp(1i*90*pi/180) ;
-I_S1 = I_S1_12 + I_S1_10 ;
-I_S2 = I_S2_12 + I_S2_10 ;
+Vg1 = 1*exp(1i*0*pi/180) ;
+Vg2 = 1*exp(1i*0*pi/180) ;
+I1 = 1*exp(1i*0*pi/180) ;
+I2 = 1*exp(1i*0*pi/180) ;
+V1 = 0.4522*exp(1i*90*pi/180) ;
+V2 = 0.4782*exp(1i*90*pi/180) ;
+Y11 = I1/V1 ;
+Y21 = (-0.1087)*Y11 ;
+Y22 = I2/V2 ;
+Y12 = Y21 ;
+Y = matrix(c(Y11, Y12,  Y21, Y22), nrow=2, byrow=TRUE) ;
+IS1_12 = 2.0193*exp(1i*90*pi/180) ;
+IS1_10 = 0.2884*exp(1i*90*pi/180) ;
+IS2_12 = 0.4326*exp(1i*90*pi/180) ;
+IS2_10 = 1.4904*exp(1i*90*pi/180) ;
+IS1 = IS1_12 + IS1_10 ;
+IS2 = IS2_12 + IS2_10 ;
 print(Y) ;
-cat(abs(I_S1),atan2d( Im(I_S1),Re(I_S1) ),'\n') ;
-cat(abs(I_S2),atan2d( Im(I_S2),Re(I_S2) )) ;
+cat(abs(IS1),atan2d( Im(IS1),Re(IS1) ),'\n') ;
+cat(abs(IS2),atan2d( Im(IS2),Re(IS2) )) ;
 
 #           "The answer may slightly vary due to rounding off values."   

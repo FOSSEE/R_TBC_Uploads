@@ -3,8 +3,8 @@
 q = 19;
 E = 1;
 x = 2.806;
-y1 = 4*x/(x-1)^3;
-y2 = x*y1;
-cat(y1,y2);
+Z1 = 4*x/(x-1)^3;
+Z2 = x*Z1;
+cat(Z1,Z2);
 
-# The answer may slightly vary due to rounding off values
+# The answer maZ slightlZ varZ due to rounding off values

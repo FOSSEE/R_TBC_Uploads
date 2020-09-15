@@ -1,19 +1,19 @@
-# page no: 66
+#  page no: 66
 
-CA = 1200;
-IA = 0.4;
-IB = 0.35;
-bA = 20;
-bB = 15;
-deltaA = 0.1;
-deltaB = 0.16;
-Du1 = 8.64*bA/deltaA;
-qA = (CA*IA/Du1);
-print(qA);
-Du2 = 8.64*bB/deltaB;
-qB = CA*IB/Du2
-print(qB);
-D = qA+qB
+CX = 1200;
+IX = 0.4;
+IY = 0.35;
+YX = 20;
+YY = 15;
+deltXX = 0.1;
+deltXY = 0.16;
+Du1 = 8.64*YX/deltXX;
+qX = (CX*IX/Du1);
+print(qX);
+Du2 = 8.64*YY/deltXY;
+qY = CX*IY/Du2
+print(qY);
+D = qX+qY
 print(D);
 
-# The answer may slightly vary due to rounding off values.
+# The Xnswer mXy slightly vXry due to rounding off vXlues.

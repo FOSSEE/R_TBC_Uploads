@@ -1,13 +1,13 @@
 #page no: 220
 
-C_a = 2 * 10^-6 ;
+Ca = 2 * 10^-6 ;
 l = 2 ;
 f = 60 ;
-V_L_L = 34.5 * 10^3 ;
-C_a1 = C_a * l ;
-C_N = 2 * C_a1 ;
-V_L_N = V_L_L/sqrt(3) ;
-I_c = 2 * pi * f * C_N * (V_L_N) ;
-print(I_c) ;
+Vl  = 34.5 * 10^3 ;
+Ca1 = Ca * l ;
+Cn = 2 * Ca1 ;
+Vln = Vl /sqrt(3) ;
+IC = 2 * pi * f * Cn * (Vln) ;
+print(IC) ;
 
 # The answer may slightly vary due to rounding off values

@@ -6,6 +6,6 @@ P = 15;
 t = 8
 R = 8.7;
 W = (P-R)/t;
-tre = 6;
-fi = ((P-R)-r[1]-r[8])/tre;
-print(fi);
+Tr = 6;
+Fd = ((P-R)-r[1]-r[8])/Tr;
+print(Fd);

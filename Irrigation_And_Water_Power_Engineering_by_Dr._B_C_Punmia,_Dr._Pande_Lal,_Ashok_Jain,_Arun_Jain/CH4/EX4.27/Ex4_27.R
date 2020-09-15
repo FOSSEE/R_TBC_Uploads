@@ -11,5 +11,5 @@ Or[i] = O[i]-B;
 Oh[i] = Or[i]/6.477;
 }
 s = sum(Or)
-re = s*60*60*t/(A*10000);
-print(re);
+Rs = s*60*60*t/(A*10000);
+print(Rs);

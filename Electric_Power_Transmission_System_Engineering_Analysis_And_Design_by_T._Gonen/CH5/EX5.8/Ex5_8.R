@@ -2,12 +2,12 @@
 
 l = 3 ;
 f = 60 ;
-R_dc = 0.00539 ;
-R_dc1 = (R_dc/1000) * 5280 * 3 ;
-s_e = 1.233 ;
-R_eff = s_e * R_dc1 ;
-percentage  = ( (R_eff - R_dc1)/(R_dc1) ) * 100 ;
-print(R_dc1) ;
-print(R_eff) ;
+Rdc = 0.00539 ;
+Rdc1 = (Rdc/1000) * 5280 * 3 ;
+Se = 1.233 ;
+rf = Se * Rdc1 ;
+percentage  = ( (rf - Rdc1)/(Rdc1) ) * 100 ;
+print(Rdc1) ;
+print(rf) ;
 print(percentage) ;
 

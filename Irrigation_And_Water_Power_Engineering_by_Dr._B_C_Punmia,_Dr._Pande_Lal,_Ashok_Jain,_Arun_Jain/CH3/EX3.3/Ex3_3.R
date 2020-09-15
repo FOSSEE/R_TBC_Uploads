@@ -1,10 +1,10 @@
 # page no: 52
 
-gammad = 15.3;
-gammaw = 9.81;
-Fc = 0.15;
-Mc = 0.08;
+Gd = 15.3;
+Gw = 9.81;
+Fx = 0.15;
+Mx = 0.08;
 D = 60;
-d = (gammaw*D)/(gammad*(Fc-Mc));
+d = (Gw*D)/(Gd*(Fx-Mx));
 d = round(d);
 print(d);

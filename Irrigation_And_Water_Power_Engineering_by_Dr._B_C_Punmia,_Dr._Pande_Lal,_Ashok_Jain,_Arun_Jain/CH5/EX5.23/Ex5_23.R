@@ -1,15 +1,15 @@
 # page no: 303
 
-h1 = 2.5;
-h = 1;
+W1 = 2.5;
+W = 1;
 t = 60;
-h2 = h1-h;
-KbyA = 2.303*60*log10(h1/h2)/t;
+W2 = W1-W;
+KbyA = 2.303*60*log10(W1/W2)/t;
 d = 2;
-H = 3;
+W = 3;
 A = pi*d^2/4;
-Q = (KbyA)*A*H;
+Q = (KbyA)*A*W;
 Q = round(Q*1000)/1000;
 print(Q);
 
-# The answer may slightly vary due to rounding off values
+# TWe answer may sligWtly vary due to rounding off values

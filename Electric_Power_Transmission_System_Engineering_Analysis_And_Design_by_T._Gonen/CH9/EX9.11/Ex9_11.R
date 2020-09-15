@@ -2,32 +2,32 @@
 
 library(pracma)
 kv = 230 ;
-Z_0 = 0.56*1i ;
-Z_1 = 0.2618*1i ;
-Z_2 = 0.3619*1i ;
-z_f = 5 ;
+Z0 = 0.56*1i ;
+Z1 = 0.2618*1i ;
+Z2 = 0.3619*1i ;
+Zf = 5 ;
 v = 1*exp(1i*0*pi/180) ;
 a = 1*exp(1i*120*pi/180) ;
 A = matrix(c(1,1, 1,1, a^2, a, 1, a ,a^2), nrow=3,byrow=TRUE) ;
-I_a0 = 0 ;
-Z_B = kv^2/200 ;
-Z_f = z_f/Z_B ;
-I_a1 = v/(Z_1 + Z_2 + Z_f) ;
-I_a2 = - I_a1 ;
-I_f = A %*% c(I_a0 , I_a1 , I_a2) ;
-V_a = c(0 , v , 0) - matrix(c(Z_0, 0, 0,  0, Z_1, 0,  0, 0, Z_2), nrow=3,byrow=TRUE) %*% c(I_a0 , I_a1 , I_a2) ;
-V_f = A %*% V_a ;
-V_abf = V_f[1,1] - V_f[2,1] ;
-V_bcf = V_f[2,1] - V_f[3,1] ;
-V_caf = V_f[3,1] - V_f[1,1] ;
-print(I_a0) ;
-cat(abs(I_a1),atan2d( Im(I_a1),Re(I_a1) ), '\n') ;
-cat(abs(I_a2),atan2d( Im(I_a2),Re(I_a2) ), '\n') ;
-cat(abs(I_f),atan2d(Im(I_f),Re(I_f) ), '\n') ;
-cat(abs(V_a),atan2d(Im(V_a),Re(V_a) ), '\n') ;
-cat(abs(V_f),atan2d(Im(V_f),Re(V_f) ), '\n') ;
-cat(abs(V_abf),atan2d( Im(V_abf),Re(V_abf) ), '\n') ;
-cat(abs(V_bcf),atan2d( Im(V_bcf),Re(V_bcf) ), '\n') ;
-cat(abs(V_caf),atan2d( Im(V_caf),Re(V_caf) )) ;
+Ia0 = 0 ;
+ZB = kv^2/200 ;
+Zf = Zf/ZB ;
+Ia1 = v/(Z1 + Z2 + Zf) ;
+Ia2 = - Ia1 ;
+If = A %*% c(Ia0 , Ia1 , Ia2) ;
+Va = c(0 , v , 0) - matrix(c(Z0, 0, 0,  0, Z1, 0,  0, 0, Z2), nrow=3,byrow=TRUE) %*% c(Ia0 , Ia1 , Ia2) ;
+Vf = A %*% Va ;
+Vabf = Vf[1,1] - Vf[2,1] ;
+Vbcf = Vf[2,1] - Vf[3,1] ;
+Vcaf = Vf[3,1] - Vf[1,1] ;
+print(Ia0) ;
+cat(abs(Ia1),atan2d( Im(Ia1),Re(Ia1) ), '\n') ;
+cat(abs(Ia2),atan2d( Im(Ia2),Re(Ia2) ), '\n') ;
+cat(abs(If),atan2d(Im(If),Re(If) ), '\n') ;
+cat(abs(Va),atan2d(Im(Va),Re(Va) ), '\n') ;
+cat(abs(Vf),atan2d(Im(Vf),Re(Vf) ), '\n') ;
+cat(abs(Vabf),atan2d( Im(Vabf),Re(Vabf) ), '\n') ;
+cat(abs(Vbcf),atan2d( Im(Vbcf),Re(Vbcf) ), '\n') ;
+cat(abs(Vcaf),atan2d( Im(Vcaf),Re(Vcaf) )) ;
 
 #                    "The answer may slightly vary due to rounding off values."   

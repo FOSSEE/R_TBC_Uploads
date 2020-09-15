@@ -1,16 +1,16 @@
 # page no: 707
 
 A = 100000.;            				
-IR = 0.4;              				
-IK = 0.3;              				
-OR = 1800.;             				
-OK = 800.;              				
+xR = 0.4;              				
+xK = 0.3;              				
+yR = 1800.;             				
+yK = 800.;              				
 l = 0.1;              				
 md = 0.328;            				
-AR = A*IR;           				
-AK = A*IK;           				
-Qr = AR/OR;
-Qk = AK/OK;
+AR = A*xR;           				
+AK = A*xK;           				
+Qr = AR/yR;
+Qk = AK/yK;
 Q = 1.1*Qk;
 f = 1.76*(md)**0.5;
 V = (Q*f**2/144)**(1./6);

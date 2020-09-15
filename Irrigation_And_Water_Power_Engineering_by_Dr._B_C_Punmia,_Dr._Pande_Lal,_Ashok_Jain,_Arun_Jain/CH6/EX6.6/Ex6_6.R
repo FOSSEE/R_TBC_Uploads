@@ -37,13 +37,13 @@ for ( i in  1:3){
 ac[i] = sp[i]-s[i];
 w = w+ac[i];
 }
-ajc = vector(length = 3)
+Aj = vector(length = 3)
 ta = vector(length = 3)
 pr = vector(length = 3)
 y=0
 for ( i in  1:3){
-  ajc[i] = tj*ac[i]/w;
-ta[i] = s[i]+ajc[i];
+  Aj[i] = tj*ac[i]/w;
+ta[i] = s[i]+Aj[i];
 y = y+ta[i];
 }
 for ( i in  1:3){

@@ -1,14 +1,14 @@
 # page no: 764
 
 library(pracma)
-Q = 100;
+qe = 100;
 S = 25/100000;
 N = 0.016;
 s = 1.5;
 V = 1.5;
 R = (V*N/(S^0.5))^(1.5);
-theta = acot(1.5);
-A = Q/V;
+Th = acot(1.5);
+A = qe/V;
 P = A/R;
 y = rev(c(31.9,-17.1,1));
 d = roots(y)[2];

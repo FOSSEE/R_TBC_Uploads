@@ -1,16 +1,16 @@
 # page no: 542
 
-I_f = 7.1428571 ;
-V_pf = 13800 ;
+If = 7.1428571 ;
+Vpf = 13800 ;
 zeta = 1.4 ;
-I_f1 = 7471 ;
-I_fdc_max = sqrt(2)*I_f ;
-I_f_max = 2*I_fdc_max ;
-I_momt = 1.6*I_f ;
-S_int = sqrt(3)*(V_pf)*I_f1*zeta*10^-6 ;
-S_momt = sqrt(3)*(V_pf)*I_f1*1.6*10^-6 ;
-print(I_fdc_max) ;
-print(I_f_max) ;
-print(I_momt) ;
-print(S_int) ;
-print(S_momt) ;
+If1 = 7471 ;
+Ifdc_max = sqrt(2)*If ;
+If_max = 2*Ifdc_max ;
+Imomt = 1.6*If ;
+Sint = sqrt(3)*(Vpf)*If1*zeta*10^-6 ;
+Smomt = sqrt(3)*(Vpf)*If1*1.6*10^-6 ;
+print(Ifdc_max) ;
+print(If_max) ;
+print(Imomt) ;
+print(Sint) ;
+print(Smomt) ;

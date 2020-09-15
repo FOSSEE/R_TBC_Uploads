@@ -8,6 +8,6 @@ for (i in 1:7){
 s = s+A[i]*I[i];
 t = t+A[i];
 }
-Pavg = s/t;
-Pavg = round(Pavg*10)/10;
-print(Pavg);
+Paxg = s/t;
+Paxg = round(Paxg*10)/10;
+print(Paxg);

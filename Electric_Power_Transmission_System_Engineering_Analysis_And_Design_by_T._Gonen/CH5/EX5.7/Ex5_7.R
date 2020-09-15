@@ -1,6 +1,6 @@
 #page no: 228
 
-V_L_N = 7.2 ;
+Vln = 7.2 ;
 d = 0.814 ;
 D = 2.442 ;
 K = 3.5 ;
@@ -10,21 +10,21 @@ f = 60 ;
 u = 1.3 * 10^7 ;
 r = d * 2.54/2 ;
 R = D * 2.54/2 ;
-E_max = V_L_N/( r * log(R/r) ) ;
+Emax = Vln/( r * log(R/r) ) ;
 C = 0.0388 * K/( log10 (R/r) ) ;
-C_1 = C * l ;
-V_L_N1 = 7.2 * 10^3 ;
-C_2 = C_1 * 10^-6 ;
-I_c = 2 * pi * f * C_2 * (V_L_N1) ;
-l_1 = l * 5280 * 12 * 2.54 ;
-R_i = u * log(R/r)/( 2 * pi * l_1) ;
-P_lc = V_L_N^2/R_i ;
-P_dl = 2 * pi * f * C_1 * V_L_N^2 * pf ;
-P_dh = P_dl - P_lc ;
-print(E_max) ;
-print(C) ;
-print(I_c) ;
-print(R_i) ;
-print(P_lc) ;
-print(P_dl) ;
-print(P_dh) ;
+C1 = C * l ;
+Vln1 = 7.2 * 10^3 ;
+C2 = C1 * 10^-6 ;
+
+L1 = l * 5280 * 12 * 2.54 ;
+IC = 2 * pi * f * C2 * (Vln1) ;  Ri = u * log(R/r)/( 2 * pi * L1) ;
+Plc = Vln^2/ Ri ;
+Pdl = 2 * pi * f * C1 * Vln^2 * pf ;
+Pdh = Pdl - Plc ;
+print(Emax) ;
+print(C) ; 
+print(IC) ;
+print( Ri) ;
+print(Plc) ;
+print(Pdl) ;
+print(Pdh) ;

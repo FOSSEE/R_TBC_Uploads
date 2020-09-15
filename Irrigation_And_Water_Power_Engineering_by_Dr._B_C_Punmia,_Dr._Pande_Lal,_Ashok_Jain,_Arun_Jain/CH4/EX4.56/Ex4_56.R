@@ -4,7 +4,7 @@ Q = 470;
 B = 15;
 l = 0.25;
 d = 8;
-re = Q-B
+Rs = Q-B
 x=d-l*(6)
-y=re/x
+y=Rs/x
 print(y);

@@ -2,14 +2,14 @@
 
 c = 10000;
 n = 3;
-l1 = 12000;
-l2 = 26000;
+Le1 = 12000;
+Le2 = 26000;
 tc = n*c;
 print(tc);
-avg = (l1+l2)/2;
-pk = l2;
-lf = avg*100/pk;
-print(lf);
+avg = (Le1+Le2)/2;
+pk = Le2;
+Lef = avg*100/pk;
+print(Lef);
 pf = avg*100/tc;
 print(pf);
 uf = pk*100/tc;

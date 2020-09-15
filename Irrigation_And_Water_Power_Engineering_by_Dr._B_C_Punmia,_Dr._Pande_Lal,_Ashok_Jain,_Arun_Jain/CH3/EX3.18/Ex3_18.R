@@ -16,13 +16,13 @@ s = s+f[i];
 }
 C = k*s;
 R = RD+RJ;
-CIR = C-R;
-FIR = CIR/eita;
+Cr = C-R;
+Fr = Cr/eita;
 C = round(10*C)/10;
-CIR = round(CIR*10)/10;
-FIR = round(FIR*10)/10;
+Cr = round(Cr*10)/10;
+Fr = round(Fr*10)/10;
 print(C);
-print(CIR);
-print(FIR);
+print(Cr);
+print(Fr);
 
 # The answer may slightly vary due to rounding off values

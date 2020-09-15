@@ -1,14 +1,14 @@
 # page no: 301
 
-X_C = 12.649731 ;
+xc = 12.649731 ;
 alpha = 0 ;
-I_d = 1600 ;
-E_LN = 53.4188 * 10^3 ;
-V_d0 = 125 * 10^3 ;
-E_m = sqrt(2) * E_LN ;
-u = acosd(1 - (2 * X_C * I_d)/(sqrt(3) * E_m)) ;
-R_C = (3/pi) * X_C ;
-V_dr = ( V_d0 * cosd(alpha) ) - (R_C*I_d) ;
-print(V_dr) ;
+Id = 1600 ;
+Eln = 53.4188 * 10^3 ;
+Vd0 = 125 * 10^3 ;
+Em = sqrt(2) * Eln ;
+u = acosd(1 - (2 * xc * Id)/(sqrt(3) * Em)) ;
+Rc = (3/pi) * xc ;
+Vdr = ( Vd0 * cosd(alpha) ) - (Rc*Id) ;
+print(Vdr) ;
 
 # The answer may slightly vary due to rounding off values

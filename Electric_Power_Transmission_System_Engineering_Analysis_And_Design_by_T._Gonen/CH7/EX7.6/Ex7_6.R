@@ -1,11 +1,11 @@
 # page no: 366
 
 v = 1000 ;
-Z_s = 0 ;
-Z_c = 40 ;
-Z_r = 60 ;
-r_s = (Z_s - Z_c)/(Z_s + Z_c) ;
-r_r = (Z_r - Z_c)/(Z_r + Z_c) ;
+zs = 0 ;
+zc = 40 ;
+zr = 60 ;
+Rs = (zs - zc)/(zs + zc) ;
+Rr = (zr - zc)/(zr + zc) ;
 T = seq(0,10.6, by=0.001) ;
 x = vector(length = length(T))
 for (i in 1:length(T)){
@@ -37,16 +37,16 @@ for (i in 1:length(T)){
 par(mfrow=c(2,1))
 plot(T,x, type='l', xlab = 'Time', ylab = 'Distance') ;
 q1 = v ;
-q2 = r_r * v ;
-q3 = r_s * r_r * v ;
-q4 = r_s * r_r^2 * v ;
-q5 = r_s^2 * r_r^2 * v ;
-q6 = r_s^2 * r_r^3 * v ;
-q7 = r_s^3 * r_r^3 * v ;
-q8 = r_s^3 * r_r^4 * v ;
-q9 = r_s^4 * r_r^4 * v ;
-q10 = r_s^4 * r_r^5 * v ;
-q11 = r_s^5 * r_r^5 * v ;
+q2 = Rr * v ;
+q3 = Rs * Rr * v ;
+q4 = Rs * Rr^2 * v ;
+q5 = Rs^2 * Rr^2 * v ;
+q6 = Rs^2 * Rr^3 * v ;
+q7 = Rs^3 * Rr^3 * v ;
+q8 = Rs^3 * Rr^4 * v ;
+q9 = Rs^4 * Rr^4 * v ;
+q10 = Rs^4 * Rr^5 * v ;
+q11 = Rs^5 * Rr^5 * v ;
 V_1 = v - q1 ;
 V_2 = v - q3 ;
 V_3 = v - q5 ;
@@ -69,6 +69,6 @@ for (i in 1:length(t)){
 }
 
 plot(t,y, xlab = 'Time', type='l', ylab = 'Distance') ;
-print(r_s) ;
-print(r_r)
+print(Rs) ;
+print(Rr)
 print(V_4) ;

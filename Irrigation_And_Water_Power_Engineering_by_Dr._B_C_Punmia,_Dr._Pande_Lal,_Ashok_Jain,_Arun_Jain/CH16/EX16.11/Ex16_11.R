@@ -1,8 +1,8 @@
 # page no: 776
 
-Eci = 1.4;
-Ece = 11;
+ei = 1.4; 
+Ee = 11;
 Dc = 85;
-Lr = Eci/(2*Ece);
+Lr =  ei/(2*Ee);
 Di = Dc/(1-Lr);
 print(Di);

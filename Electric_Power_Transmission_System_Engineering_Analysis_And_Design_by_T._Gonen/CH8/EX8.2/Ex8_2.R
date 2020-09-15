@@ -13,9 +13,9 @@ r = d/2 ;
 delta = 3.9211 * p/( 273 + t ) ;
 V_0 = 21.1 * delta * m_0 * r * log(D/r) ;
 V =V1/sqrt(3) ;
-P_c = (390/delta)*(f+25)*sqrt(r/D)*(V - V_0)^2 * 10^-5 ;
-P_cT = P_c * L ;
-T_P_c = 3 * P_cT ;
-print(T_P_c) ;
+Pc = (390/delta)*(f+25)*sqrt(r/D)*(V - V_0)^2 * 10^-5 ;
+PcT = Pc * L ;
+Tpc = 3 * PcT ;
+print(Tpc) ;
 
 # The answer may slightly vary due to rounding off values

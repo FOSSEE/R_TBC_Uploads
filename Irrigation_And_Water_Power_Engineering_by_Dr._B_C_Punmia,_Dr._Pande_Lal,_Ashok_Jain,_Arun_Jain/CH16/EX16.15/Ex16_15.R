@@ -17,5 +17,3 @@ V = Q*k*24*3600;
 A = V*10/(d*10000);
 print(Q);
 print(A*100);
-
-#           "The answer may slightly vary due to rounding off values."   

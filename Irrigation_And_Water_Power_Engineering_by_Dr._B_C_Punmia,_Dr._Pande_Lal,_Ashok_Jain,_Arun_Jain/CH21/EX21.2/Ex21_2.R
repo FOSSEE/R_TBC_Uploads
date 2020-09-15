@@ -2,12 +2,12 @@
 
 Q = 40;
 H = 30;
-lf = 0.73;
-eita = 0.6;
-P = 9.81*Q*H*eita;
-pk = P/lf;
+Le = 0.73;
+Et = 0.6;
+P = 9.81*Q*H*Et;
+pk = P/Le;
 print(pk);
 pp = pk-P;
-Q = pp/(9.81*H*eita);
+Q = pp/(9.81*H*Et);
 pr = Q*4*3600/10000;
 print(pr);

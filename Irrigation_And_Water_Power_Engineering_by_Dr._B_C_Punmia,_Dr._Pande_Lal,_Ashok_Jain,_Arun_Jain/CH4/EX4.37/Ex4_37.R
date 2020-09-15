@@ -1,9 +1,9 @@
-# page no: 215
+#  Page no: 215
 
 T = 40.;            			
-P = 1./T;
+X = 1./T;
 n = 10;
-Rsk = 1-(1-P)**n;
+Rsk = 1-(1-X)**n;
 s= 1;
 t =1;
 for (i in 1:n){
@@ -11,9 +11,9 @@ for (i in 1:n){
 }
 for (i in 1:(n-2)){
   t = t*i;}
-P2n = s*P^2*(1-P)^8/(t*2);
-P1n = n*P*(1-P)^(n-1);
-print(P);
+X2n = s*X^2*(1-X)^8/(t*2);
+X1n = n*X*(1-X)^(n-1);
+print(X);
 print(Rsk);
-print(P2n);
-print(P1n);
+print(X2n);
+print(X1n);

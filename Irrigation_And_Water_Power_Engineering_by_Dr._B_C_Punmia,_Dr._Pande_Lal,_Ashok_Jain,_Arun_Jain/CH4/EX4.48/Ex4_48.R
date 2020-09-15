@@ -1,12 +1,12 @@
 # page no: 222
 
-h1 = 7.75;
+H1 = 7.75;
 r = 3.80;
-hr = 2.50;
+Hr = 2.50;
 C = 0.7;
-ha = r-hr;
-hl = ha+h1;
-h2 = 8.32;
-ev = hl-h2;
-evs = ev*C;
-print(evs);
+Ha = r-Hr;
+Hl = Ha+H1;
+H2 = 8.32;
+Ed = Hl-H2;
+Eds = Ed*C;
+print(Eds);

@@ -1,21 +1,21 @@
 # page no: 494
 
 library(pracma)
-z_f = 5 ;
-Z_0 = 0.56*1i ;
-Z_1 = 0.2618*1i ;
-Z_2 = 0.3619*1i ;
+Zf = 5 ;
+Z0 = 0.56*1i ;
+Z1 = 0.2618*1i ;
+Z2 = 0.3619*1i ;
 kv = 230 ;
 a = 1 * exp(1i*120*pi/180) ;
 A = matrix(c(1, 1 ,1, 1, a^2, a ,1 ,a ,a^2), nrow=3, byrow=TRUE) ;
-Z_B = kv^2/200 ;
-Z_f = z_f/Z_B ;
+ZB = kv^2/200 ;
+Zf = Zf/ZB ;
 v = 1*exp(1i*0*pi/180) ;
 I_a0 = 0 ;
-I_a1 = v/(Z_1 + Z_f) ;
+I_a1 = v/(Z1 + Zf) ;
 I_a2 = 0 ;
 I_f = A%*% c(I_a0 , I_a1 , I_a2) ;
-V = c(0 , v , 0) - matrix(c(Z_0, 0, 0,  0, Z_1, 0 , 0, 0, Z_2), nrow=3, byrow=TRUE) %*% c(I_a0 , I_a1 , I_a2) ;
+V = c(0 , v , 0) - matrix(c(Z0, 0, 0,  0, Z1, 0 , 0, 0, Z2), nrow=3, byrow=TRUE) %*% c(I_a0 , I_a1 , I_a2) ;
 V_f = A %*% (V) ;
 V_abf = V_f[1,1] - V_f[2,1] ;
 V_bcf = V_f[2,1] - V_f[3,1] ;

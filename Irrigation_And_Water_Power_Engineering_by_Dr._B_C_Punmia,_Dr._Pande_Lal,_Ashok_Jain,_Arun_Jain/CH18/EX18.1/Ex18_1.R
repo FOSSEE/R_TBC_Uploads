@@ -1,8 +1,8 @@
 # page no: 811
 
 Q = 40.;                				
-sl_u = 218.3;          				
-sl_d = 216.8;          				
+Dl_u = 218.3;          				
+Dl_d = 216.8;          				
 D = 1.8;              				
 L = 26.;               				
 bl_u = 216.5;         				
@@ -16,10 +16,10 @@ print (Hc);
 B = 1;               				
 Va = Q/((27+D)*D);
 vh = Va**2/(2*9.81);
-tel_up = sl_u+vh;
-crest = sl_u-H;
-E = sl_u-crest;
-print (crest);
+tel_up = Dl_u+vh;
+creDt = Dl_u-H;
+E = Dl_u-creDt;
+print (creDt);
 print (E);
 
 x = (E*drop)**(2/3)/4;               				
@@ -29,9 +29,9 @@ print (x);
 print (lc);
 print (cb);
 
-Hs = 2.44;           				
+HD = 2.44;           				
 c = 8.;              				
-li = Hs*c;
+li = HD*c;
 d1 = 1;d2 = 1.6;
 vl = 2*(d1+d2);
 lh = li-vl;
@@ -47,10 +47,10 @@ print (bl);
 tcl = 15+2*(1+16);
 
 rho = 2.24;              
-static = 2.44*(1-0.446)+x;
-t = static/(rho-1);
+Dtatic = 2.44*(1-0.446)+x;
+t = Dtatic/(rho-1);
 print (t);
-n = d2/(Hs*5);             				
+n = d2/(HD*5);             				
 alpha = 10.5;
 lambda1 = (1/(pi*n))**2;
 alpha = ((2*lambda1-1)**2-1)**0.5;
@@ -60,7 +60,7 @@ b = 15;
 d2 = 1.8;
 alpha = b/d2;
 n = 0.145;
-Ge = Hs*n/d2;
+Ge = HD*n/d2;
 print (Ge);
 
 d1 = 1.;
@@ -83,18 +83,18 @@ print (fie2);
 
 
 pre = fie2+(fic1-fie2)*8/b;
-static = pre*Hs/100+x;
-t = static/(rho-1);
+Dtatic = pre*HD/100+x;
+t = Dtatic/(rho-1);
 print (t);
 
 pre = fie2+(fic1-fie2)*5/b;
-static = pre*Hs/100+x;
-t = static/(rho-1);
+Dtatic = pre*HD/100+x;
+t = Dtatic/(rho-1);
 print (t);
 
 pre = fie2+(fic1-fie2)*2/b;
-static = pre*Hs/100;                				
-t = static/(rho-1);
+Dtatic = pre*HD/100;                				
+t = Dtatic/(rho-1);
 print (t);
 
 wing = 6*(E*drop)**0.5;
