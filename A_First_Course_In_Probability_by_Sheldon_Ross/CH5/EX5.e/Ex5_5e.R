@@ -1,6 +1,6 @@
 # Page No. 212
 
-library(rmutil)
+suppressMessages(library(rmutil))
 
 P_EgOne = plaplace(-1.5)
 P_EgZero = plaplace(-2.5)
