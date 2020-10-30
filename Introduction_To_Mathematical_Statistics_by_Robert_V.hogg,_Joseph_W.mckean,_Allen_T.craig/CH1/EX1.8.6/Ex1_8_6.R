@@ -22,3 +22,4 @@ ex<-integrate(f2,lower = 0,upper = 5)
 ex$value
 ex<-integrate(f3,lower = 0,upper = 5)
 ex$value
+#The answer may vary due to difference in representation

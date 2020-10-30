@@ -6,3 +6,4 @@ p2=f1(0)-0
 plot(f1,type="l",ylab="f(x)",xlim=c(0,3),ylim=c(0,2))
 p1
 p2
+#The answer may vary due to difference in representation

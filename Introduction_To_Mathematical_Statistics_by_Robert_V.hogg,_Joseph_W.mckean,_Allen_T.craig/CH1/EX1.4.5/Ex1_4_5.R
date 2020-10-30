@@ -12,3 +12,4 @@ PC1givenC<-PC1*PCgivenC1/((PC1*PCgivenC1)+(PC2*PCgivenC2))
 PC2givenC<-1-PC1givenC
 PC1givenC
 PC2givenC
+#The answer may vary due to difference in representation

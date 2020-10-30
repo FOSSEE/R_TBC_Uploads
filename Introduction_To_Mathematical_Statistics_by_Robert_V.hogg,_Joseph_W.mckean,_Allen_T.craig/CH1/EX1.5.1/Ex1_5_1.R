@@ -11,3 +11,4 @@ p1<-prob[6]+prob[10]
 p1
 p2<-prob[1]+prob[2]+prob[11]
 p2
+#The answer may vary due to difference in representation

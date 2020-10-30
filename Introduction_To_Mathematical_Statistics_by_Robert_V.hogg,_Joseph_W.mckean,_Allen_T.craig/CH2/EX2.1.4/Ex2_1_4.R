@@ -11,3 +11,4 @@ P1$Q
 ymax<-function(x1){1-x1}
 P2<-integral2(f,0,1,0,ymax)
 P2$Q
+#The answer may vary due to difference in representation

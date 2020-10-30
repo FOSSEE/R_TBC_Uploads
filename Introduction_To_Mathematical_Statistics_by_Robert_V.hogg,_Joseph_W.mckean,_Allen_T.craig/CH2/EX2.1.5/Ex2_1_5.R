@@ -17,3 +17,4 @@ integral(ex2,0,1)
 
 E3<-(7*E1$Q)+(5*E2$Q)
 E3
+#The answer may vary due to difference in representation

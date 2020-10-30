@@ -6,3 +6,4 @@ count<-n1+n2
 sum<-as.data.frame(table(count))
 prob<-sum$Freq/length(n1)
 prob
+#The answer may vary due to difference in representation

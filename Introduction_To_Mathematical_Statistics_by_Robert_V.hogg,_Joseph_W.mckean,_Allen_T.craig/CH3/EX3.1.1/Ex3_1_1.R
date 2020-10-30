@@ -5,3 +5,4 @@ p1<-pbinom(1,n,1/2,lower.tail = T)
 p2<-dbinom(5,n,1/2)
 p1
 p2
+#The answer may vary due to difference in representation

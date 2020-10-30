@@ -7,3 +7,4 @@ mean<-n*p
 var<-n*p*q
 mean
 var
+#The answer may vary due to difference in representation

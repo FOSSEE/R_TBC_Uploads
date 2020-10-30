@@ -8,3 +8,4 @@ ex$value
 ex2$value
 ans<-6*ex$value+3*ex2$value
 ans
+#The answer may vary due to difference in representation

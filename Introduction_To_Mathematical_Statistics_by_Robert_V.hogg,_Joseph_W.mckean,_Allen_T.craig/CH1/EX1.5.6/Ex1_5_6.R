@@ -8,3 +8,4 @@ p1<-f(1/2)-f(-1)
 p1
 p2<-f(1)-f(0.99999999)
 p2
+#The answer may vary due to difference in representation

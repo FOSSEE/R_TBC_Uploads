@@ -19,3 +19,4 @@ num
 den<-sqrt(vary*varx)
 corr<-num/den
 corr
+#The answer may vary due to difference in representation

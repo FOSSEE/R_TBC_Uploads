@@ -8,3 +8,4 @@ k<-3/2
 i<-integrate(f,lower = -k,upper = k)
 p<-1-i$value
 p
+#The answer may vary due to difference in representation

@@ -11,3 +11,4 @@ e2<-function(x2,x1){(x1/x2)*f(x2,x1)}
 ymax<-function(x2){x2}
 E2<-integral2(e2,0,1,0,ymax)
 E2$Q
+#The answer may vary due to difference in representation

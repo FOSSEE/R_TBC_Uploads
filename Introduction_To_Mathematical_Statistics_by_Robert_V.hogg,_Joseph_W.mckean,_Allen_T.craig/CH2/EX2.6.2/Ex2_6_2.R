@@ -9,3 +9,4 @@ E
 
 p<-integral3(f,0,1/2,0,1/2,0,1/2)
 p
+#The answer may vary due to difference in representation

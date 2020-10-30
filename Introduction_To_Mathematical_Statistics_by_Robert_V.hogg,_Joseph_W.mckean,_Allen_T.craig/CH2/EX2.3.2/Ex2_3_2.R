@@ -8,3 +8,4 @@ ey2<-function(y){y^2*g(y)}
 Ey2<-integral(ey2,0,2/3)
 var<-Ey2-(Ey)^2
 var
+#The answer may vary due to difference in representation

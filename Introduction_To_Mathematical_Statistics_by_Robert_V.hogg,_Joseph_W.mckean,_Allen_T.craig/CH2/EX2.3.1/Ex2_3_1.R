@@ -9,3 +9,4 @@ p1
 
 p2<-integral(f1,0,1/2)
 p2
+#The answer may vary due to difference in representation

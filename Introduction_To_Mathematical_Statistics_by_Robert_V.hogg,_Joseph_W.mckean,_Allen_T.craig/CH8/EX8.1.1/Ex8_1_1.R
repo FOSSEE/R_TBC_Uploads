@@ -9,3 +9,4 @@ df<-data.frame(r1,r2,r3)
 df
 P<-df$r2[5]+df$r2[6]
 P
+#The answer may vary due to difference in representation

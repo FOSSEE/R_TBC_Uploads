@@ -8,3 +8,4 @@ P3<-1-(T*T*T*T)
 P1
 P2
 P3
+#The answer may vary due to difference in representation
