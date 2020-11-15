@@ -54,20 +54,20 @@
 \makeatother
 
 \newcommand{\coderef}[1]{Exa~\ref{#1}}
-\newcommand{\figref}[1]{Fig.~\ref{#1}}\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
+\newcommand{\figref}[1]{Fig.~\ref{#1}}\title{R Textbook Companion for \\Introductory Linear Algebra: An Applied First Course\\by Bernard Kolman \& David R. Hill\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Ashiq Mehmood Asharaf\\R programming\\Electrical \& Electronics Engineering\\Government Engineering College Barton Hill\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
-\item [Author:] Paolo Brandimarte
-\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
-\item [Edition:] 2
-\item [Year:] 2006
-\item [ISBN:] 0471745030
+\item [Title:] Introductory Linear Algebra: An Applied First Course
+\item [Author:] Bernard Kolman \& David R. Hill
+\item [Publisher:] Dorling Kindersley, India
+\item [Edition:] 8
+\item [Year:] 2008
+\item [ISBN:] 978-8131723227
 \end{description}
 
 \newpage
@@ -82,556 +82,654 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 \tableofcontents
 \listofcode
 
+\chapter{ Linear Equations and Matrices}
 
-\setcounter{chapter}{1}
-\chapter{ Financial Theory}
+\vspace*{10mm}
+\curlable{Exa~1.1.1}
+\begin{code}
+\tcaption{Linear Systems}{Linear Systems}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.1/Ex1_1_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.1.3}
+\begin{code}
+\tcaption{Linear Systems}{Linear Systems}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.3/Ex1_1_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.1.4}
+\begin{code}
+\tcaption{Linear Systems}{Linear Systems}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.4/Ex1_1_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.1.5}
+\begin{code}
+\tcaption{Linear Systems}{Linear Systems}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.5/Ex1_1_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.1.6}
+\begin{code}
+\tcaption{Linear Systems}{Linear Systems}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.6/Ex1_1_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.2.3}
+\begin{code}
+\tcaption{Matrices}{Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.3/Ex1_2_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.2.10}
+\begin{code}
+\tcaption{Matrices}{Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.10/Ex1_2_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.2.12}
+\begin{code}
+\tcaption{Matrices}{Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.12/Ex1_2_12.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.7}
+\curlable{Exa~1.2.14}
 \begin{code}
-\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
+\tcaption{Matrices}{Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.14/Ex1_2_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.8}
+\curlable{Exa~1.2.15}
 \begin{code}
-\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
+\tcaption{Matrices}{Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.15/Ex1_2_15.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.9}
+\curlable{Exa~1.3.1}
 \begin{code}
-\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
+\tcaption{Dot Product and Matrix Multiplication}{Dot Product and Matrix Multiplication}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.1/Ex1_3_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.10}
+\curlable{Exa~1.3.4}
 \begin{code}
-\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
+\tcaption{Dot Product and Matrix Multiplication}{Dot Product and Matrix Multiplication}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.4/Ex1_3_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.24}
+\curlable{Exa~1.3.5}
 \begin{code}
-\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
+\tcaption{Dot Product and Matrix Multiplication}{Dot Product and Matrix Multiplication}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.5/Ex1_3_5.R}
 \end{code}
 
-\chapter{Basics of Numerical Analysis}
+\vspace*{10mm}
+\curlable{Exa~1.3.10}
+\begin{code}
+\tcaption{Dot Product and Matrix Multiplication}{Dot Product and Matrix Multiplication}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.10/Ex1_3_10.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.2}
+\curlable{Exa~1.3.21}
 \begin{code}
-\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
+\tcaption{Dot Product and Matrix Multiplication}{Dot Product and Matrix Multiplication}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.21/Ex1_3_21.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4}
+\curlable{Exa~1.3.23}
 \begin{code}
-\tcaption{Vector and matrix norms}{Vector and matrix norms}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
+\tcaption{Dot Product and Matrix Multiplication}{Dot Product and Matrix Multiplication}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.23/Ex1_3_23.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.6}
+\curlable{Exa~1.4.2}
 \begin{code}
-\tcaption{Vector and matrix norms}{Vector and matrix norms}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
+\tcaption{Properties of Matrix operations}{Properties of Matrix operations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.2/Ex1_4_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.7}
+\curlable{Exa~1.4.5}
 \begin{code}
-\tcaption{Condition number for a matrix}{Condition number for a matrix}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
+\tcaption{Properties of Matrix operations}{Properties of Matrix operations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.5/Ex1_4_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.8}
+\curlable{Exa~1.4.10}
 \begin{code}
-\tcaption{Condition number for a matrix}{Condition number for a matrix}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
+\tcaption{Properties of Matrix Operations}{Properties of Matrix Operations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.10/Ex1_4_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.11}
+\curlable{Exa~1.4.11}
 \begin{code}
-\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
+\tcaption{Properties of Matrix Operations}{Properties of Matrix Operations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.11/Ex1_4_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.12}
+\curlable{Exa~1.5.3}
 \begin{code}
-\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
+\tcaption{Matrix Transformations}{Matrix Transformations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.5.3/Ex1_5_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.13}
+\curlable{Exa~1.6.4}
 \begin{code}
-\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
+\tcaption{Solutions of Linear Systems of Equations}{Solutions of Linear Systems of Equations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.6.4/Ex1_6_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.14}
+\curlable{Exa~1.6.5}
 \begin{code}
-\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
+\tcaption{Solutions of Linear Systems of Equations}{Solutions of Linear Systems of Equations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.6.5/Ex1_6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.15}
+\curlable{Exa~1.7.4}
 \begin{code}
-\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
+\tcaption{The Inverse of a Matrix}{The Inverse of a Matrix}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.7.4/Ex1_7_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.16}
+\curlable{Exa~1.7.5}
 \begin{code}
-\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
+\tcaption{The Inverse of a Matrix}{The Inverse of a Matrix}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.7.5/Ex1_7_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.17}
+\curlable{Exa~1.7.6}
 \begin{code}
-\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
+\tcaption{The Inverse of a Matrix}{The Inverse of a Matrix}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.7.6/Ex1_7_6.R}
 \end{code}
+
+\chapter{Applications of Linear Equations and Matrices}
 
 \vspace*{10mm}
-\curlable{Exa~3.18}
+\curlable{Exa~2.2.5}
 \begin{code}
-\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
+\tcaption{Graph Theory}{Graph Theory}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.2.5/Ex2_2_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.22}
+\curlable{Exa~2.2.6}
 \begin{code}
-\tcaption{Bisection method}{Bisection method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
+\tcaption{Graph Theory}{Graph Theory}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.2.6/Ex2_2_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.23}
+\curlable{Exa~2.2.14}
 \begin{code}
-\tcaption{Newtons method}{Newtons method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
+\tcaption{Graph Theory}{Graph Theory}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.2.14/Ex2_2_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.24}
+\curlable{Exa~2.4.1}
 \begin{code}
-\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
+\tcaption{Electrical Circuits}{Electrical Circuits}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.4.1/Ex2_4_1.R}
 \end{code}
 
-\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
+\vspace*{10mm}
+\curlable{Exa~2.5.1}
+\begin{code}
+\tcaption{Markov Chains}{Markov Chains}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.5.1/Ex2_5_1.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.1}
+\curlable{Exa~2.5.3}
 \begin{code}
-\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
+\tcaption{Markov Chains}{Markov Chains}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.5.3/Ex2_5_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.2}
+\curlable{Exa~2.5.7}
 \begin{code}
-\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
+\tcaption{Markov Chains}{Markov Chains}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.5.7/Ex2_5_7.R}
 \end{code}
 
+\chapter{ Determinants}
+
 \vspace*{10mm}
-\curlable{Exa~4.3}
+\curlable{Exa~3.1.5}
 \begin{code}
-\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.5/Ex3_1_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.4}
+\curlable{Exa~3.1.7}
 \begin{code}
-\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.7/Ex3_1_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.5}
+\curlable{Exa~3.1.9}
 \begin{code}
-\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.9/Ex3_1_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.6}
+\curlable{Exa~3.1.10}
 \begin{code}
-\tcaption{Inverse transform method}{Inverse transform method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.10/Ex3_1_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.8}
+\curlable{Exa~3.1.11}
 \begin{code}
-\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.11/Ex3_1_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.9}
+\curlable{Exa~3.1.14}
 \begin{code}
-\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.14/Ex3_1_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.10}
+\curlable{Exa~3.1.18}
 \begin{code}
-\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.18/Ex3_1_18.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.11}
+\curlable{Exa~3.1.19}
 \begin{code}
-\tcaption{Antithetic sampling}{Antithetic sampling}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
+\tcaption{Definition and Properties}{Definition and Properties}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.19/Ex3_1_19.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.12}
+\curlable{Exa~3.2.1}
 \begin{code}
-\tcaption{BlsMCAV}{BlsMCAV}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
+\tcaption{Cofactor Expansion and Applications}{Cofactor Expansion and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.1/Ex3_2_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.14}
+\curlable{Exa~3.2.2}
 \begin{code}
-\tcaption{Importance sampling}{Importance sampling}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
+\tcaption{Cofactor Expansion and Applications}{Cofactor Expansion and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.2/Ex3_2_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.15}
+\curlable{Exa~3.2.5}
 \begin{code}
-\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
+\tcaption{Cofactor Expansion and Applications}{Cofactor Expansion and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.5/Ex3_2_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.16}
+\curlable{Exa~3.2.7}
 \begin{code}
-\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
+\tcaption{Cofactor Expansion and Applications}{Cofactor Expansion and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.7/Ex3_2_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.17}
+\curlable{Exa~3.2.9}
 \begin{code}
-\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
+\tcaption{Cofactor Expansion and Applications}{Cofactor Expansion and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.9/Ex3_2_9.R}
 \end{code}
+
+\chapter{ Vectors in Rn}
 
 \vspace*{10mm}
-\curlable{Exa~4.18}
+\curlable{Exa~4.1.3}
 \begin{code}
-\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.3/Ex4_1_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.19}
+\curlable{Exa~4.1.6}
 \begin{code}
-\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.6/Ex4_1_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.20}
+\curlable{Exa~4.1.7}
 \begin{code}
-\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.7/Ex4_1_7.R}
 \end{code}
 
-\chapter{ Finite Difference Methods for Partial Differential Equations}
+\vspace*{10mm}
+\curlable{Exa~4.1.8}
+\begin{code}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.8/Ex4_1_8.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.1}
+\curlable{Exa~4.1.9}
 \begin{code}
-\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.9/Ex4_1_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3}
+\curlable{Exa~4.1.14}
 \begin{code}
-\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.14/Ex4_1_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.4}
+\curlable{Exa~4.1.15}
 \begin{code}
-\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.15/Ex4_1_15.R}
 \end{code}
 
-\chapter{ Convex Optimization}
+\vspace*{10mm}
+\curlable{Exa~4.1.16}
+\begin{code}
+\tcaption{Vectors in the Plane}{Vectors in the Plane}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.16/Ex4_1_16.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.1}
+\curlable{Exa~4.2.2}
 \begin{code}
-\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
+\tcaption{n Vectors}{n Vectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.2/Ex4_2_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3}
+\curlable{Exa~4.2.3}
 \begin{code}
-\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
+\tcaption{n Vectors}{n Vectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.3/Ex4_2_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.5}
+\curlable{Exa~4.2.10}
 \begin{code}
-\tcaption{Penalty function approach}{Penalty function approach}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
+\tcaption{n Vectors}{n Vectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.10/Ex4_2_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.8}
+\curlable{Exa~4.2.13}
 \begin{code}
-\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
+\tcaption{n Vectors}{n Vectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.13/Ex4_2_13.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.12}
+\curlable{Exa~4.3.2}
 \begin{code}
-\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
+\tcaption{Linear Transformations}{Linear Transformations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.3.2/Ex4_3_2.R}
 \end{code}
 
-\chapter{ Option Pricing by Binomial and Trinomial Lattices}
+\chapter{ Applications of Vectors in R2 and R3}
 
 \vspace*{10mm}
-\curlable{Exa~7.1}
+\curlable{Exa~5.1.1}
 \begin{code}
-\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
+\tcaption{Cross Product in R3}{Cross Product in R3}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH5/EX5.1.1/Ex5_1_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.2}
+\curlable{Exa~5.1.4}
 \begin{code}
-\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
+\tcaption{Cross Product in R3}{Cross Product in R3}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH5/EX5.1.4/Ex5_1_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3}
+\curlable{Exa~5.1.6}
 \begin{code}
-\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
+\tcaption{Cross Product in R3}{Cross Product in R3}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH5/EX5.1.6/Ex5_1_6.R}
 \end{code}
+
+\chapter{ Real Vector Spaces}
 
 \vspace*{10mm}
-\curlable{Exa~7.4}
+\curlable{Exa~6.1.7}
 \begin{code}
-\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
+\tcaption{Vector Spaces}{Vector Spaces}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.1.7/Ex6_1_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.5}
+\curlable{Exa~6.2.11}
 \begin{code}
-\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
+\tcaption{Subspaces}{Subspaces}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.2.11/Ex6_2_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.6}
+\curlable{Exa~6.2.12}
 \begin{code}
-\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
+\tcaption{Subspaces}{Subspaces}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.2.12/Ex6_2_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.7}
+\curlable{Exa~6.3.2}
 \begin{code}
-\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
+\tcaption{Linear Independence}{Linear Independence}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.3.2/Ex6_3_2.R}
 \end{code}
 
-\chapter{Option Pricing by Monte Carlo Methods }
+\vspace*{10mm}
+\curlable{Exa~6.3.8}
+\begin{code}
+\tcaption{Linear Independence}{Linear Independence}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.3.8/Ex6_3_8.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.1}
+\curlable{Exa~6.4.2}
 \begin{code}
-\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
+\tcaption{Basis and Dimension}{Basis and Dimension}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.4.2/Ex6_4_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.2}
+\curlable{Exa~6.4.5}
 \begin{code}
-\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
+\tcaption{Basis and Dimension}{Basis and Dimension}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.4.5/Ex6_4_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.3}
+\curlable{Exa~6.5.3}
 \begin{code}
-\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
+\tcaption{Homogeneous Systems}{Homogeneous Systems}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.5.3/Ex6_5_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.4}
+\curlable{Exa~6.6.5}
 \begin{code}
-\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
+\tcaption{The Rank of a Matrix and Applications}{The Rank of a Matrix and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.6.5/Ex6_6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.5}
+\curlable{Exa~6.6.8}
 \begin{code}
-\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
+\tcaption{The Rank of a Matrix and Applications}{The Rank of a Matrix and Applications}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.6.8/Ex6_6_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.6}
+\curlable{Exa~6.7.1}
 \begin{code}
-\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
+\tcaption{Coordinates and Changes of Basis}{Coordinates and Changes of Basis}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.7.1/Ex6_7_1.R}
 \end{code}
 
+\chapter{ Applications of Real vector Spaces}
+
 \vspace*{10mm}
-\curlable{Exa~8.7}
+\curlable{Exa~7.2.1}
 \begin{code}
-\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
+\tcaption{Least Squares}{Least Squares}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH7/EX7.2.1/Ex7_2_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.8}
+\curlable{Exa~7.2.2}
 \begin{code}
-\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
+\tcaption{Least Squares}{Least Squares}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH7/EX7.2.2/Ex7_2_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.9}
+\curlable{Exa~7.2.4}
 \begin{code}
-\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
+\tcaption{Least Squares}{Least Squares}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH7/EX7.2.4/Ex7_2_4.R}
 \end{code}
+
+\chapter{Eigenvalues Eigenvectors and Diagonalization }
 
 \vspace*{10mm}
-\curlable{Exa~8.10}
+\curlable{Exa~8.1.2}
 \begin{code}
-\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
+\tcaption{Eigenvalues and Eigenvectors}{Eigenvalues and Eigenvectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.2/Ex8_1_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.11}
+\curlable{Exa~8.1.3}
 \begin{code}
-\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
+\tcaption{Eigenvalues and Eigenvectors}{Eigenvalues and Eigenvectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.3/Ex8_1_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.12}
+\curlable{Exa~8.1.5}
 \begin{code}
-\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
+\tcaption{Eigenvalues and Eigenvectors}{Eigenvalues and Eigenvectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.5/Ex8_1_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.13}
+\curlable{Exa~8.1.6}
 \begin{code}
-\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
+\tcaption{Eigenvalues and Eigenvectors}{Eigenvalues and Eigenvectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.6/Ex8_1_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.14}
+\curlable{Exa~8.1.8}
 \begin{code}
-\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
+\tcaption{Eigenvalues and Eigenvectors}{Eigenvalues and Eigenvectors}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.8/Ex8_1_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.15}
+\curlable{Exa~8.2.1}
 \begin{code}
-\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
+\tcaption{Diagonalization}{Diagonalization}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.2.1/Ex8_2_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.16}
+\curlable{Exa~8.2.3}
 \begin{code}
-\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
+\tcaption{Diagonalization}{Diagonalization}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.2.3/Ex8_2_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.17}
+\curlable{Exa~8.3.1}
 \begin{code}
-\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
+\tcaption{Diagonalization of Symmetric Matrices}{Diagonalization of Symmetric Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.3.1/Ex8_3_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.18}
+\curlable{Exa~8.3.5}
 \begin{code}
-\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
+\tcaption{Diagonalization of Symmetric Matrices}{Diagonalization of Symmetric Matrices}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.3.5/Ex8_3_5.R}
 \end{code}
 
-\chapter{ Option Pricing by Finite Difference Methods}
+\chapter{ Applications of Eigenvalues and Eigenvectors}
 
 \vspace*{10mm}
-\curlable{Exa~9.3}
+\curlable{Exa~9.2.5}
 \begin{code}
-\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
+\tcaption{Differential Equations}{Differential Equations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH9/EX9.2.5/Ex9_2_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.4}
+\curlable{Exa~9.2.6}
 \begin{code}
-\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
+\tcaption{Differential Equations}{Differential Equations}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH9/EX9.2.6/Ex9_2_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.5}
+\curlable{Exa~9.4.7}
 \begin{code}
-\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
+\tcaption{Quadratic Forms}{Quadratic Forms}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH9/EX9.4.7/Ex9_4_7.R}
 \end{code}
 
-\chapter{ Dynamic Programming}
+\chapter{ Linear Transformations and Matrices}
+
+\vspace*{10mm}
+\curlable{Exa~10.1.2}
+\begin{code}
+\tcaption{Definition and Examples}{Definition and Examples}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH10/EX10.1.2/Ex10_1_2.R}
+\end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.4}
+\curlable{Exa~10.2.12}
 \begin{code}
-\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
-\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
+\tcaption{The Kernel and Range of a Linear Transformation}{The Kernel and Range of a Linear Transformation}
+\lstinputlisting{../Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH10/EX10.2.12/Ex10_2_12.R}
 \end{code}
 
 \end{document}

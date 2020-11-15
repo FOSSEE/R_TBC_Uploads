@@ -1,0 +1,90 @@
+10# Linear Transformations and Matrices#10.2.12#The Kernel and Range of a Linear Transformation#Ex10_2_12.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH10/EX10.2.12/Ex10_2_12.R#S##12875
+10# Linear Transformations and Matrices#10.1.2#Definition and Examples#Ex10_1_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH10/EX10.1.2/Ex10_1_2.R#S##13259
+9# Applications of Eigenvalues and Eigenvectors#9.4.7#Quadratic Forms#Ex9_4_7.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH9/EX9.4.7/Ex9_4_7.R#S##13258
+9# Applications of Eigenvalues and Eigenvectors#9.2.6#Differential Equations#Ex9_2_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH9/EX9.2.6/Ex9_2_6.R#S##13256
+9# Applications of Eigenvalues and Eigenvectors#9.2.5#Differential Equations#Ex9_2_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH9/EX9.2.5/Ex9_2_5.R#S##13257
+8#Eigenvalues Eigenvectors and Diagonalization #8.3.5#Diagonalization of Symmetric Matrices#Ex8_3_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.3.5/Ex8_3_5.R#S##12870
+8#Eigenvalues Eigenvectors and Diagonalization #8.3.1#Diagonalization of Symmetric Matrices#Ex8_3_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.3.1/Ex8_3_1.R#S##13250
+8#Eigenvalues Eigenvectors and Diagonalization #8.2.3#Diagonalization#Ex8_2_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.2.3/Ex8_2_3.R#S##12868
+8#Eigenvalues Eigenvectors and Diagonalization #8.2.1#Diagonalization#Ex8_2_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.2.1/Ex8_2_1.R#S##12871
+8#Eigenvalues Eigenvectors and Diagonalization #8.1.8#Eigenvalues and Eigenvectors#Ex8_1_8.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.8/Ex8_1_8.R#S##13255
+8#Eigenvalues Eigenvectors and Diagonalization #8.1.6#Eigenvalues and Eigenvectors#Ex8_1_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.6/Ex8_1_6.R#S##13251
+8#Eigenvalues Eigenvectors and Diagonalization #8.1.5#Eigenvalues and Eigenvectors#Ex8_1_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.5/Ex8_1_5.R#S##13254
+8#Eigenvalues Eigenvectors and Diagonalization #8.1.3#Eigenvalues and Eigenvectors#Ex8_1_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.3/Ex8_1_3.R#S##13253
+8#Eigenvalues Eigenvectors and Diagonalization #8.1.2#Eigenvalues and Eigenvectors#Ex8_1_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH8/EX8.1.2/Ex8_1_2.R#S##13252
+7# Applications of Real vector Spaces#7.2.4#Least Squares#Ex7_2_4.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH7/EX7.2.4/Ex7_2_4.R#S##13247
+7# Applications of Real vector Spaces#7.2.2#Least Squares#Ex7_2_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH7/EX7.2.2/Ex7_2_2.R#S##13249
+7# Applications of Real vector Spaces#7.2.1#Least Squares#Ex7_2_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH7/EX7.2.1/Ex7_2_1.R#S##13248
+6# Real Vector Spaces#6.7.1#Coordinates and Changes of Basis#Ex6_7_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.7.1/Ex6_7_1.R#S##12858
+6# Real Vector Spaces#6.6.8#The Rank of a Matrix and Applications#Ex6_6_8.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.6.8/Ex6_6_8.R#S##13236
+6# Real Vector Spaces#6.6.5#The Rank of a Matrix and Applications#Ex6_6_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.6.5/Ex6_6_5.R#S##13241
+6# Real Vector Spaces#6.5.3#Homogeneous Systems#Ex6_5_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.5.3/Ex6_5_3.R#S##12853
+6# Real Vector Spaces#6.4.5#Basis and Dimension#Ex6_4_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.4.5/Ex6_4_5.R#S##13239
+6# Real Vector Spaces#6.4.2#Basis and Dimension#Ex6_4_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.4.2/Ex6_4_2.R#S##13237
+6# Real Vector Spaces#6.3.8#Linear Independence#Ex6_3_8.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.3.8/Ex6_3_8.R#S##13238
+6# Real Vector Spaces#6.3.2#Linear Independence#Ex6_3_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.3.2/Ex6_3_2.R#S##13243
+6# Real Vector Spaces#6.2.12#Subspaces#Ex6_2_12.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.2.12/Ex6_2_12.R#S##13240
+6# Real Vector Spaces#6.2.11#Subspaces#Ex6_2_11.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.2.11/Ex6_2_11.R#S##13242
+6# Real Vector Spaces#6.1.7#Vector Spaces#Ex6_1_7.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH6/EX6.1.7/Ex6_1_7.R#S##12856
+5# Applications of Vectors in R2 and R3#5.1.6#Cross Product in R3#Ex5_1_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH5/EX5.1.6/Ex5_1_6.R#S##13246
+5# Applications of Vectors in R2 and R3#5.1.4#Cross Product in R3#Ex5_1_4.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH5/EX5.1.4/Ex5_1_4.R#S##13244
+5# Applications of Vectors in R2 and R3#5.1.1#Cross Product in R3#Ex5_1_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH5/EX5.1.1/Ex5_1_1.R#S##13245
+4# Vectors in Rn#4.3.2#Linear Transformations#Ex4_3_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.3.2/Ex4_3_2.R#S##13226
+4# Vectors in Rn#4.2.3#n Vectors#Ex4_2_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.3/Ex4_2_3.R#S##13229
+4# Vectors in Rn#4.2.2#n Vectors#Ex4_2_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.2/Ex4_2_2.R#S##13227
+4# Vectors in Rn#4.2.13#n Vectors#Ex4_2_13.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.13/Ex4_2_13.R#S##13231
+4# Vectors in Rn#4.2.10#n Vectors#Ex4_2_10.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.2.10/Ex4_2_10.R#S##13224
+4# Vectors in Rn#4.1.9#Vectors in the Plane#Ex4_1_9.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.9/Ex4_1_9.R#S##13228
+4# Vectors in Rn#4.1.8#Vectors in the Plane#Ex4_1_8.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.8/Ex4_1_8.R#S##13234
+4# Vectors in Rn#4.1.7#Vectors in the Plane#Ex4_1_7.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.7/Ex4_1_7.R#S##13225
+4# Vectors in Rn#4.1.6#Vectors in the Plane#Ex4_1_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.6/Ex4_1_6.R#S##13233
+4# Vectors in Rn#4.1.3#Vectors in the Plane#Ex4_1_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.3/Ex4_1_3.R#S##12841
+4# Vectors in Rn#4.1.16#Vectors in the Plane#Ex4_1_16.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.16/Ex4_1_16.R#S##13232
+4# Vectors in Rn#4.1.15#Vectors in the Plane#Ex4_1_15.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.15/Ex4_1_15.R#S##13235
+4# Vectors in Rn#4.1.14#Vectors in the Plane#Ex4_1_14.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH4/EX4.1.14/Ex4_1_14.R#S##13230
+3# Determinants#3.2.9#Cofactor Expansion and Applications#Ex3_2_9.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.9/Ex3_2_9.R#S##13214
+3# Determinants#3.2.7#Cofactor Expansion and Applications#Ex3_2_7.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.7/Ex3_2_7.R#S##13212
+3# Determinants#3.2.5#Cofactor Expansion and Applications#Ex3_2_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.5/Ex3_2_5.R#S##13216
+3# Determinants#3.2.2#Cofactor Expansion and Applications#Ex3_2_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.2/Ex3_2_2.R#S##13213
+3# Determinants#3.2.1#Cofactor Expansion and Applications#Ex3_2_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.2.1/Ex3_2_1.R#S##13222
+3# Determinants#3.1.9#Definition and Properties#Ex3_1_9.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.9/Ex3_1_9.R#S##13220
+3# Determinants#3.1.7#Definition and Properties#Ex3_1_7.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.7/Ex3_1_7.R#S##13221
+3# Determinants#3.1.5#Definition and Properties#Ex3_1_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.5/Ex3_1_5.R#S##13218
+3# Determinants#3.1.19#Definition and Properties#Ex3_1_19.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.19/Ex3_1_19.R#S##13223
+3# Determinants#3.1.18#Definition and Properties#Ex3_1_18.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.18/Ex3_1_18.R#S##13219
+3# Determinants#3.1.14#Definition and Properties#Ex3_1_14.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.14/Ex3_1_14.R#S##13215
+3# Determinants#3.1.11#Definition and Properties#Ex3_1_11.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.11/Ex3_1_11.R#S##13211
+3# Determinants#3.1.10#Definition and Properties#Ex3_1_10.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH3/EX3.1.10/Ex3_1_10.R#S##13217
+2#Applications of Linear Equations and Matrices#2.5.7#Markov Chains#Ex2_5_7.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.5.7/Ex2_5_7.R#S##13206
+2#Applications of Linear Equations and Matrices#2.5.3#Markov Chains#Ex2_5_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.5.3/Ex2_5_3.R#S##13204
+2#Applications of Linear Equations and Matrices#2.5.1#Markov Chains#Ex2_5_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.5.1/Ex2_5_1.R#S##13207
+2#Applications of Linear Equations and Matrices#2.4.1#Electrical Circuits#Ex2_4_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.4.1/Ex2_4_1.R#S##13205
+2#Applications of Linear Equations and Matrices#2.2.6#Graph Theory#Ex2_2_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.2.6/Ex2_2_6.R#S##13209
+2#Applications of Linear Equations and Matrices#2.2.5#Graph Theory#Ex2_2_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.2.5/Ex2_2_5.R#S##13210
+2#Applications of Linear Equations and Matrices#2.2.14#Graph Theory#Ex2_2_14.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH2/EX2.2.14/Ex2_2_14.R#S##13208
+1# Linear Equations and Matrices#1.7.6#The Inverse of a Matrix#Ex1_7_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.7.6/Ex1_7_6.R#S##12879
+1# Linear Equations and Matrices#1.7.5#The Inverse of a Matrix#Ex1_7_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.7.5/Ex1_7_5.R#S##13260
+1# Linear Equations and Matrices#1.7.4#The Inverse of a Matrix#Ex1_7_4.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.7.4/Ex1_7_4.R#S##13266
+1# Linear Equations and Matrices#1.6.5#Solutions of Linear Systems of Equations#Ex1_6_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.6.5/Ex1_6_5.R#S##13267
+1# Linear Equations and Matrices#1.6.4#Solutions of Linear Systems of Equations#Ex1_6_4.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.6.4/Ex1_6_4.R#S##12895
+1# Linear Equations and Matrices#1.5.3#Matrix Transformations#Ex1_5_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.5.3/Ex1_5_3.R#S##13268
+1# Linear Equations and Matrices#1.4.5#Properties of Matrix operations#Ex1_4_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.5/Ex1_4_5.R#S##13270
+1# Linear Equations and Matrices#1.4.2#Properties of Matrix operations#Ex1_4_2.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.2/Ex1_4_2.R#S##13265
+1# Linear Equations and Matrices#1.4.11#Properties of Matrix Operations#Ex1_4_11.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.11/Ex1_4_11.R#S##12889
+1# Linear Equations and Matrices#1.4.10#Properties of Matrix Operations#Ex1_4_10.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.4.10/Ex1_4_10.R#S##12890
+1# Linear Equations and Matrices#1.3.5#Dot Product and Matrix Multiplication#Ex1_3_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.5/Ex1_3_5.R#S##12811
+1# Linear Equations and Matrices#1.3.4#Dot Product and Matrix Multiplication#Ex1_3_4.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.4/Ex1_3_4.R#S##12896
+1# Linear Equations and Matrices#1.3.23#Dot Product and Matrix Multiplication#Ex1_3_23.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.23/Ex1_3_23.R#S##12886
+1# Linear Equations and Matrices#1.3.21#Dot Product and Matrix Multiplication#Ex1_3_21.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.21/Ex1_3_21.R#S##12884
+1# Linear Equations and Matrices#1.3.10#Dot Product and Matrix Multiplication#Ex1_3_10.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.10/Ex1_3_10.R#S##13264
+1# Linear Equations and Matrices#1.3.1#Dot Product and Matrix Multiplication#Ex1_3_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.3.1/Ex1_3_1.R#S##12877
+1# Linear Equations and Matrices#1.2.3#Matrices#Ex1_2_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.3/Ex1_2_3.R#S##13261
+1# Linear Equations and Matrices#1.2.15#Matrices#Ex1_2_15.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.15/Ex1_2_15.R#S##12892
+1# Linear Equations and Matrices#1.2.14#Matrices#Ex1_2_14.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.14/Ex1_2_14.R#S##13271
+1# Linear Equations and Matrices#1.2.12#Matrices#Ex1_2_12.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.12/Ex1_2_12.R#S##12808
+1# Linear Equations and Matrices#1.2.10#Matrices#Ex1_2_10.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.2.10/Ex1_2_10.R#S##12893
+1# Linear Equations and Matrices#1.1.6#Linear Systems#Ex1_1_6.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.6/Ex1_1_6.R#S##13262
+1# Linear Equations and Matrices#1.1.5#Linear Systems#Ex1_1_5.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.5/Ex1_1_5.R#S##13263
+1# Linear Equations and Matrices#1.1.4#Linear Systems#Ex1_1_4.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.4/Ex1_1_4.R#S##13269
+1# Linear Equations and Matrices#1.1.3#Linear Systems#Ex1_1_3.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.3/Ex1_1_3.R#S##12807
+1# Linear Equations and Matrices#1.1.1#Linear Systems#Ex1_1_1.R#Introductory_Linear_Algebra_An_Applied_First_Course_by_Bernard_Kolman__David_R_Hill/CH1/EX1.1.1/Ex1_1_1.R#S##12883
