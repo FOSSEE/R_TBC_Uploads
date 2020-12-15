@@ -69,5 +69,5 @@ y1
 
 plot(yr,y)
 yr1=c(1975,1976,1977,1978,1979,1980,1981)
-plot(yr,y,type = 'l',col='grey',xlim=c(1973,1983),ylim = c(6.5,10))
+plot(yr,y,type = 'l',col='grey',xlim=c(1973,1983),ylim = c(6.5,10),xlab='Year',ylab='U.S. farm population')
 lines(yr1,a,xlim=c(1975,1981))

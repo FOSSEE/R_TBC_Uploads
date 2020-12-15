@@ -1,0 +1,85 @@
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.9#determine the inversion carrier mobility#Ex11_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.9/Ex11_9.R#S##8744
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.8#design the width#Ex11_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.8/Ex11_8.R#S##8743
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.7#Calculate Cox#Ex11_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.7/Ex11_7.R#S##8742
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.6#design the semiconductor doping concentration#Ex11_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.6/Ex11_6.R#S##8741
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.5#calculate the threshold voltage#Ex11_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.5/Ex11_5.R#S##8740
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.4#design the oxide thickness#Ex11_4 .R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.4/Ex11_4 .R#S##8739
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.3#calculate the flat band voltage#Ex11_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.3/Ex11_3.R#S##8738
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.2#calculate the metal semiconductor work function difference#Ex11_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.2/Ex11_2.R#S##8737
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.11#calculate the cutoff frequency#Ex11_11.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.11/Ex11_11.R#S##8746
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.10#calculate the change in the threshold voltage#Ex11_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.10/Ex11_10.R#S##8745
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.1#calculate the maximum space charge width#Ex11_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.1/Ex11_1.R#S##8736
+10# The Bipolar Transistor#10.9#design a bipolar transistor#Ex10_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.9/Ex10_9.R#S##8733
+10# The Bipolar Transistor#10.8#design the collector doping#Ex10_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.8/Ex10_8.R#S##8732
+10# The Bipolar Transistor#10.7#determine the increase in pE0#Ex10_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.7/Ex10_7.R#S##8731
+10# The Bipolar Transistor#10.6#to calculate the change in collector current#Ex10_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.6/Ex10_6.R#S##13183
+10# The Bipolar Transistor#10.5#calculate the change in the neutral base width#Ex10_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.5/Ex10_5.R#S##11989
+10# The Bipolar Transistor#10.4#calculate the common emitter current gain#Ex10_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.4/Ex10_4.R#S##8729
+10# The Bipolar Transistor#10.3#calculate the forward biased#Ex10_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.3/Ex10_3.R#S##8728
+10# The Bipolar Transistor#10.2#design the base width#Ex10_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.2/Ex10_2.R#S##8727
+10# The Bipolar Transistor#10.12#calculate the emitter to collector transmit time#Ex10_12.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.12/Ex10_12.R#S##13182
+10# The Bipolar Transistor#10.10#calculate the collector emitter saturation voltage#Ex10_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.10/Ex10_10.R#S##8734
+10# The Bipolar Transistor#10.1#design the ratio of emitter doping#Ex10_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.1/Ex10_1.R#S##8726
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.8#determine Ae At and Vbi#Ex9_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.8/Ex9_8.R#S##8725
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.7#calculate the space charge width#Ex9_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.7/Ex9_7.R#S##11988
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.6#calculate the forward bias voltage#Ex9_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.6/Ex9_6.R#S##8723
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.5#calculate the reverse saturation current densities#Ex9_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.5/Ex9_5.R#S##8722
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.4#calculate the effective Richardson constant#Ex9_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.4/Ex9_4.R#S##8721
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.3#calculate the Schottky barrier lowering#Ex9_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.3/Ex9_3.R#S##11987
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.2#calculate the semiconductor doping#Ex9_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.2/Ex9_2.R#S##8719
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.1#calculate the theoretical harrier  height#Ex9_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.1/Ex9_1.R#S##8718
+8# The pn Junction Diode#8.7#determine the relative magnitudes#Ex8_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.7/Ex8_7.R#S##8717
+8# The pn Junction Diode#8.6#calculate the small signal admittance#Ex8_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.6/Ex8_6.R#S##8716
+8# The pn Junction Diode#8.5#determine the change in the forward bias voltage#Ex8_5 .R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R#S##8715
+8# The pn Junction Diode#8.4#calculate the electric field#Ex8_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.4/Ex8_4.R#S##8714
+8# The pn Junction Diode#8.3#design a pn junction diode#Ex8_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.3/Ex8_3.R#S##8713
+8# The pn Junction Diode#8.2#ideal reverse saturation current density#Ex8_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.2/Ex8_2.R#S##11983
+8# The pn Junction Diode#8.1#calculate the minority carrier hole concentration#Ex8_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.1/Ex8_1.R#S##8711
+7# The pn Junction#7.6#determine the impurity doping concentrations#Ex7_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.6/Ex7_6.R#S##8710
+7# The pn Junction#7.5#calculate the junction capacitance#Ex7_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.5/Ex7_5.R#S##8709
+7# The pn Junction#7.4#design a pn junction#Ex7_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.4/Ex7_4.R#S##8708
+7# The pn Junction#7.3#calculate the width of the space charge region#Ex7_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.3/Ex7_3.R#S##11982
+7# The pn Junction#7.2#calculate the space charge width#Ex7_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.2/Ex7_2.R#S##8706
+7# The pn Junction#7.1#calculate the built in potential barrier#Ex7_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.1/Ex7_1.R#S##8705
+6# Nonequilibrium Excess Carriers in Semiconductors#6.8#determine the steady state excess carriers concentration#Ex6_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.8/Ex6_8.R#S##11981
+6# Nonequilibrium Excess Carriers in Semiconductors#6.6#calculate the quasi fermi energy levels#Ex6_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.6/Ex6_6.R#S##8073
+6# Nonequilibrium Excess Carriers in Semiconductors#6.5#Dielectric relaxation time constant#Ex6_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.5/Ex6_5.R#S##8072
+6# Nonequilibrium Excess Carriers in Semiconductors#6.3#To determine the steady state spatial dependence#Ex6_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.3/Ex6_3.R#S##8748
+6# Nonequilibrium Excess Carriers in Semiconductors#6.2#To determine the time dependence of excess carriers #Ex6_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.2/Ex6_2.R#S##8747
+6# Nonequilibrium Excess Carriers in Semiconductors#6.10#determine the value of surface recombination velocity#Ex6_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.10/Ex6_10.R#S##8075
+6# Nonequilibrium Excess Carriers in Semiconductors#6.1#To determine the time behavior of excess carriers#Ex6_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.1/Ex6_1.R#S##13202
+5# Carrier Transport Phenomena#5.7#Determine majority carrier #Ex5_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.7/Ex5_7.R#S##11980
+5# Carrier Transport Phenomena#5.6#Determine diffusion coefficient#Ex5_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.6/Ex5_6.R#S##8070
+5# Carrier Transport Phenomena#5.5#Determine induced electric field#Ex5_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.5/Ex5_5.R#S##11986
+5# Carrier Transport Phenomena#5.4#Diffusion current density#Ex5_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.4/Ex5_4.R#S##8068
+5# Carrier Transport Phenomena#5.3#design semiconductor resistor#Ex5_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.3/Ex5_3.R#S##8067
+5# Carrier Transport Phenomena#5.2#doping concentration#Ex5_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.2/Ex5_2.R#S##11979
+5# Carrier Transport Phenomena#5.1#Drift current density#Ex5_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.1/Ex5_1.R#S##8065
+4# The Semiconductor in Equilibrium#4.9#Calculate thermal equilibrium#Ex4_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.9/Ex4_9.R#S##8046
+4# The Semiconductor in Equilibrium#4.8#To detemine the temperature at which 90 percent of acceptor atoms are ionized#Ex4_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.8/Ex4_8.R#S##13203
+4# The Semiconductor in Equilibrium#4.7#Determine fraction of total electron#Ex4_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.7/Ex4_7.R#S##11978
+4# The Semiconductor in Equilibrium#4.6#Calculate electron concentration#Ex4_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.6/Ex4_6.R#S##8042
+4# The Semiconductor in Equilibrium#4.5#Calculate thermal equilibrium#Ex4_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.5/Ex4_5.R#S##8040
+4# The Semiconductor in Equilibrium#4.4#Calculate position#Ex4_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.4/Ex4_4.R#S##11985
+4# The Semiconductor in Equilibrium#4.3#Calculate intrinsic carrier#Ex4_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.3/Ex4_3.R#S##8037
+4# The Semiconductor in Equilibrium#4.2#Calculate thermal equilibrium#Ex4_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.2/Ex4_2.R#S##8033
+4# The Semiconductor in Equilibrium#4.14#Determine fermi level position#Ex4_14.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.14/Ex4_14.R#S##8059
+4# The Semiconductor in Equilibrium#4.13#Determine impurity concentration#Ex4_13.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.13/Ex4_13.R#S##8057
+4# The Semiconductor in Equilibrium#4.12#Determine impurity concentration#Ex4_12.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.12/Ex4_12.R#S##8054
+4# The Semiconductor in Equilibrium#4.11#Calculate thermal equilibrium#Ex4_11.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.11/Ex4_11.R#S##8051
+4# The Semiconductor in Equilibrium#4.10#Calculate thermal equilibrium#Ex4_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.10/Ex4_10.R#S##8049
+4# The Semiconductor in Equilibrium#4.1#Calculate probability#Ex4_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.1/Ex4_1.R#S##8031
+3# Introduction to the Quantum Theory of Solids#3.7#Determine temp#Ex3_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.7/Ex3_7.R#S##8005
+3# Introduction to the Quantum Theory of Solids#3.6#Calculate probability#Ex3_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.6/Ex3_6.R#S##11977
+3# Introduction to the Quantum Theory of Solids#3.5#Determine possible no of ways#Ex3_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.5/Ex3_5.R#S##8003
+3# Introduction to the Quantum Theory of Solids#3.4#Determine possible no of ways#Ex3_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.4/Ex3_4.R#S##8002
+3# Introduction to the Quantum Theory of Solids#3.3#Calculate density of states#Ex3_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.3/Ex3_3.R#S##8001
+3# Introduction to the Quantum Theory of Solids#3.2#Determine lowest energy bandwidth#Ex3_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.2/Ex3_2.R#S##11976
+3# Introduction to the Quantum Theory of Solids#3.1#Calculate change in KE#Ex3_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.1/Ex3_1.R#S##7999
+2# Introduction to Quantum Mechanics#2.5#Calculate probability#Ex2_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.5/Ex2_5.R#S##7998
+2# Introduction to Quantum Mechanics#2.4#Calculate penetration depth#Ex2_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.4/Ex2_4.R#S##7997
+2# Introduction to Quantum Mechanics#2.3#Calculate first three energy levels#Ex2_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.3/Ex2_3.R#S##7996
+2# Introduction to Quantum Mechanics#2.2#Calculate de broglie wavelength#Ex2_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.2/Ex2_2.R#S##11984
+2# Introduction to Quantum Mechanics#2.1#Calculate photon energy#Ex2_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.1/Ex2_1.R#S##7994
+1# The Crystal Structure Of Solids#1.3#Calculate surface density#Ex1_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.3/Ex1_3.R#S##8077
+1# The Crystal Structure Of Solids#1.1#find volume density of atoms#Ex1_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.1/Ex1_1.R#S##8076

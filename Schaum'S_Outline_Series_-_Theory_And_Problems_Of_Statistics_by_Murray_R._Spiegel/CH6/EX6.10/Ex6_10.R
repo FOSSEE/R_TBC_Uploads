@@ -1,0 +1,9 @@
+#PAGE=126
+n=3
+m=5
+a=factorial(m)
+cat(a)
+b=factorial(m-1)
+c=factorial(n)
+d=b*c
+cat(d)

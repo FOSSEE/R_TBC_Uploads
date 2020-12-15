@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  26 NOV 2020 05:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  14 DEC 2020 06:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,13 +301,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 62.
+
+Overfull \hbox (22.40999pt too wide) in paragraph at lines 62--62
+ [][] 
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 62.
-
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
@@ -331,158 +335,199 @@ l.73 \newpage
  [4
 
 ]
-Chapter 2.
+Chapter 1.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 93.
+nput line 91.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R) [5
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
+1/Ex1_1.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
+3/Ex1_3.R) [5
 
 ]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R [6])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R [7] [8]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
+Chapter 2.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
+1/Ex2_1.R
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
- [9] [10])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R) [11]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
+2/Ex2_2.R [6
+
+])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
+3/Ex2_3.R) [7]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
+4/Ex2_4.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
+5/Ex2_5.R [8]) [9]
 Chapter 3.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R) [12
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+1/Ex3_1.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+2/Ex3_2.R [10
 
-]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R [13])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R) [14]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R [15])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R [16])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R) [17]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R [18])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R [19])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R [20])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R [21]) [22]
+])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+3/Ex3_3.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+4/Ex3_4.R [11])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+5/Ex3_5.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+6/Ex3_6.R) [12]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
+7/Ex3_7.R) [13]
 Chapter 4.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R [23
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+1/Ex4_1.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+2/Ex4_2.R [14
 
 ])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R [24])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R [25])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R [26])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R [27])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R [28])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R [29])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R [30] [31] [32])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R [33])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R [34] [35])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R [36] [37])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R [38] [39])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R [40])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R) [41]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R [42]) [43]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+3/Ex4_3.R) [15]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+4/Ex4_4.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+5/Ex4_5.R [16])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+6/Ex4_6.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+7/Ex4_7.R) [17]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+8/Ex4_8.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+9/Ex4_9.R [18])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+10/Ex4_10.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+11/Ex4_11.R [19])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+12/Ex4_12.R) [20]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+13/Ex4_13.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
+14/Ex4_14.R) [21]
 Chapter 5.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R [44
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+1/Ex5_1.R [22
 
-] [45])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R [46])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R [47]) [48]
+])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+2/Ex5_2.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+3/Ex5_3.R [23])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+4/Ex5_4.R [24])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+5/Ex5_5.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+6/Ex5_6.R [25])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
+7/Ex5_7.R) [26]
 Chapter 6.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R [49
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+1/Ex6_1.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+2/Ex6_2.R) [27
 
-])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 4.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
-File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
-)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R) [50]
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R)
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R) [51]
+]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+3/Ex6_3.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+5/Ex6_5.R) [28]
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+6/Ex6_6.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+8/Ex6_8.R [29])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
+10/Ex6_10.R) [30]
 Chapter 7.
 
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R [52
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
+1/Ex7_1.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
+2/Ex7_2.R [31
 
 ])
-(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
-Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R [53])
-! Missing $ inserted.
-<inserted text> 
-                $
-l.446 ..._Luenberger_Investment Science_Ex13_11.R}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
+3/Ex7_3.R
+Overfull \hbox (143.52466pt too wide) in paragraph at lines 12--14
+[][][][][][] 
+ []
 
 
-! Package Listings Error: File `../Numerical_Methods_In_Finance_And_Economics:_
-A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_
-Investment Science_Ex13_11(.R)' not found.
+Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (170.93472pt too wide) in paragraph at lines 12--14
+[][] 
+ []
+
+
+Overfull \hbox (148.70453pt too wide) in paragraph at lines 12--14
+[]  
+ []
+
+[32])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
+4/Ex7_4.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
+5/Ex7_5.R [33])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
+6/Ex7_6.R) [34] [35]
+Chapter 8.
+
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
+1/Ex8_1.R)
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
+2/Ex8_2.R [36
+
+])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
+3/Ex8_3.R [37])
+(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
+4/Ex8_4.R) [38]
+
+! Package Listings Error: File `../Semiconductor_Physics_And_Devices_-_Basic_Pr
+inciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 (.R)' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: R)
@@ -491,17 +536,17 @@ Enter file name:
 ! Emergency stop.
 <read *> 
          
-l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+l.469 ...nciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R}
                                                   ^^M
 *** (cannot \read from terminal in nonstop modes)
 
  
 Here is how much of TeX's memory you used:
- 9615 strings out of 493013
- 150948 string characters out of 6133328
- 338647 words of memory out of 5000000
- 11445 multiletter control sequences out of 15000+600000
+ 8617 strings out of 493013
+ 134032 string characters out of 6133328
+ 314647 words of memory out of 5000000
+ 10984 multiletter control sequences out of 15000+600000
  10548 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,40p,539b,1728s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,40p,515b,1722s stack positions out of 5000i,500n,10000p,200000b,80000s
 !  ==> Fatal error occurred, no output PDF file produced!
