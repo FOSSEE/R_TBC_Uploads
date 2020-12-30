@@ -23,4 +23,4 @@ sprintf(
   sgf
 )
 
-#"The answer provided in the textbook is wrong."
+#"The answer may slightly vary due to rounding off values."

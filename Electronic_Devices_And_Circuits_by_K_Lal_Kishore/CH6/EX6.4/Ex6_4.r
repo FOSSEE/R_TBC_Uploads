@@ -21,4 +21,4 @@ sprintf("Av = %d", Av * 100)
 Ri = Rl1 * 1000 / (Rl1 + 1000)
 sprintf("Ri=%.0f Ohm", Ri)
 
-#"The answer provided in the textbook is wrong."
+#"The answer may slightly vary due to rounding off values."

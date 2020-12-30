@@ -10,4 +10,4 @@ r = (n ^ 2 * h ^ 2 * eps) / (pi * m * e ^ 2)
 sprintf("r=%.2f A°", r * 10 ^
           10)
 
-#"The answer may provided in textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

@@ -21,4 +21,4 @@ v = sqrt(2 * e * Va / m)
 vr = v / cos(theta * pi / 180)
 sprintf("Vr=%.2f *10^6 m/sec", vr / 10 ^ 6)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

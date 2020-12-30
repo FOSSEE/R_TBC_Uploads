@@ -14,4 +14,4 @@ sprintf("Vce =%.2f V", vce)
 s = (B + 1) / (1 + (B * rc / (rc + rb)))
 sprintf("S = %.1f", s)
 
-#"The answer provided in the textbook is wrong."
+#"The answer may slightly vary due to rounding off values."

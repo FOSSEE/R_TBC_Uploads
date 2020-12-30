@@ -1,0 +1,10 @@
+n, s, t, a, p, num, sq, d, index, index2, x, y, ans, ans2
+
+gcd()
+x, y, temp
+
+convergents()
+cf, l, ss, n, s, t
+
+cont_frac()
+i, n, x, a, k

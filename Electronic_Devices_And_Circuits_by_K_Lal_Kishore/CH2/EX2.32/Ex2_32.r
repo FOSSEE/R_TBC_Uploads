@@ -12,4 +12,4 @@ sprintf("r_DC=%.1f Ohm", r_DC)
 r_AC = i0 * (e ^ (v / Vt)) / Vt
 sprintf("r_AC = %.1f Ohm", 1 / r_AC)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

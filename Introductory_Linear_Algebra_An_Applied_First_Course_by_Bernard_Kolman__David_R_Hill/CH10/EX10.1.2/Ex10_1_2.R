@@ -16,7 +16,7 @@ check =function(methodX,methodY)
        
        }else
      {
-       print("linear transformation")
+       print("Linear transformation")
      }
     
 }

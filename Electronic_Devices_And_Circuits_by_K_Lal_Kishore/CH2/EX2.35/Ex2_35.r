@@ -8,4 +8,4 @@ sige = 1 / 45
 Vz = ceiling(V) / sige
 sprintf("V = %d V", Vz)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

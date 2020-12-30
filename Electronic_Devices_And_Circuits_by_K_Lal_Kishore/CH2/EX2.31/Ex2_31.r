@@ -13,4 +13,4 @@ v2 = 0.3
 i2 = 10 * (e ^ (v2 / Vt) - 1)
 sprintf(" V=0.3, I=%.2f A", i2 / 1000000)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

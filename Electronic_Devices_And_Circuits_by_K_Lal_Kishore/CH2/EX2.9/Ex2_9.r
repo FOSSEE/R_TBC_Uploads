@@ -13,4 +13,4 @@ sprintf("JS1=%d A/m^2 , JS2=%d A/m^2", js1, js2)
 p = (js2 - js1) / js1 *100
 sprintf("Percentage Increase=%.2f%%", p)
 
-#"The answer provided in the textbook is wrong."
+#"The answer may slightly vary due to rounding off values."

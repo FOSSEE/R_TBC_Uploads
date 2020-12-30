@@ -9,4 +9,4 @@ sigma = (mun + mup) * e * n
 sprintf("sigma=%.2f *10^-6 ", sigma * 10 ^ 6)
 sprintf("rho= %.0f Ohm-cm", 1 / sigma)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

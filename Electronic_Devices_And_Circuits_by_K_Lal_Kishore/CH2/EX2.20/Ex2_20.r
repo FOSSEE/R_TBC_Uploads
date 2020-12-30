@@ -6,7 +6,7 @@ ni = 2.5 * 10 ^ 13
 
 k = na - nd
 n = (-k + sqrt(k ^ 2 + 4 * ni ^ 2)) / 2
-sprintf("n=%.1f*10^18 electrons/m^3 , p=%.2f*10^19 holes/m^3",
+sprintf("n=%.1f*10^18/cm^3 , p=%.2f*10^19/m^3",
         n / 10 ^ 12,
         ni ^ 2 / n * 10 ^ -13)
 

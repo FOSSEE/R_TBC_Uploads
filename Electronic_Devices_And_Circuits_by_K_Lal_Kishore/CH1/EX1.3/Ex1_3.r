@@ -16,4 +16,4 @@ sprintf(" y=%f m", y)
 pd = eps * 100  * y
 sprintf("Potential Drop=%.1f Volts", pd)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

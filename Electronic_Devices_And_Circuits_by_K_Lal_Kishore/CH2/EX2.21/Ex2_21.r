@@ -15,4 +15,4 @@ mun = 0.17
 sig = e * ni * (mup + mun)
 sprintf(" Sigma=%.3f Mho/m", sig)
 
-#"The answer provided in the textbook is wrong."
+# "The answer may slightly vary due to rounding off values."

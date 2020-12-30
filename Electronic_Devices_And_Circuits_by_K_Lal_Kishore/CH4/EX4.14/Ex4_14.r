@@ -16,4 +16,4 @@ sprintf("Rs = %.0f K-Ohm", rs)
 sprintf("gm = %.3f mA/V", gm)
 sprintf("Av = %.2f", Av)
 
-#"The answer provided in the textbook is wrong."
+#"The answer may slightly vary due to rounding off values."

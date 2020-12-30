@@ -1,4 +1,4 @@
-# page no - 170
+# page no - 171
 
 
 Vdc = (100 / (2 *  pi))*(-cos(5* pi / 6) + cos(pi / 6))
