@@ -10,7 +10,7 @@ x1=3
 p_3=1-(e^(-m*x1))
 print(paste("P(x<3)=",round(p_3,4)))
 p_gt_3=1-p_3
-print(paste("solution P(x>3)=",round(p_gt_3,4)))
+print(paste("The Probability that a customer spends with postal clerk more than 3 minutes P(x>3)=",round(p_gt_3,4)))
 qplot(x,y,data=df,geom="line")+
   geom_ribbon(data=subset(df,x>3),aes(ymax=y),ymin=0,
               fill="red",colour=NA,alpha=0.5)+
