@@ -1,202 +1,202 @@
-11#Heat transfer#11.9#Determine the Heat loss#Ex11_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.9/Ex11_9.R#S##8589
-11#Heat transfer#11.8#Determine the heat loss#Ex11_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.8/Ex11_8.R#S##10677
-11#Heat transfer#11.7#Determine the temperature#Ex11_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.7/Ex11_7.R#S##8587
-11#Heat transfer#11.6#Determine the heat transferred#Ex11_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.6/Ex11_6.R#S##8586
-11#Heat transfer#11.5#Calculate the temprature#Ex11_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.5/Ex11_5.R#S##8585
-11#Heat transfer#11.4#Determine the heat transferred#Ex11_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.4/Ex11_4.R#S##8584
-11#Heat transfer#11.3#Determine the heat transferred#Ex11_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.3/Ex11_3.R#S##8583
-11#Heat transfer#11.27#Determine the temprature#Ex11_27.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.27/Ex11_27.R#S##8605
-11#Heat transfer#11.26#Calculate the surface required#Ex11_26.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.26/Ex11_26.R#S##10682
-11#Heat transfer#11.25#Determine the outside tube surfaced#Ex11_25.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.25/Ex11_25.R#S##8603
-11#Heat transfer#11.24#Determine the outside tube surfaced#Ex11_24.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.24/Ex11_24.R#S##8602
-11#Heat transfer#11.23#Determine the heat transferred#Ex11_23.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.23/Ex11_23.R#S##8601
-11#Heat transfer#11.22#Determine the over all heat transfer#Ex11_22.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.22/Ex11_22.R#S##10681
-11#Heat transfer#11.21#solve the problem#Ex11_21.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.21/Ex11_21.R#S##8599
-11#Heat transfer#11.20#Determine the heat transferred#Ex11_20.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.20/Ex11_20.R#S##8598
-11#Heat transfer#11.2#Determine the heat transfer#Ex11_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.2/Ex11_2.R#S##10676
-11#Heat transfer#11.19#Determine the Heat loss#Ex11_19.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.19/Ex11_19.R#S##8597
-11#Heat transfer#11.18#Determine the inside film coefficient#Ex11_18.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.18/Ex11_18.R#S##8596
-11#Heat transfer#11.17#Determine the heat transferred#Ex11_17.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.17/Ex11_17.R#S##8595
-11#Heat transfer#11.16#Determine the heat transfer#Ex11_16.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.16/Ex11_16.R#S##10680
-11#Heat transfer#11.15#Determine the Heat loss#Ex11_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.15/Ex11_15.R#S##8593
-11#Heat transfer#11.12#Determine the heat transfer#Ex11_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.12/Ex11_12.R#S##10679
-11#Heat transfer#11.11#Determine the heat loss#Ex11_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.11/Ex11_11.R#S##10678
-11#Heat transfer#11.10#Determine the Heat loss#Ex11_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.10/Ex11_10.R#S##8590
-11#Heat transfer#11.1#Determine the heat transferred#Ex11_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH11/EX11.1/Ex11_1.R#S##8581
-10#Refrigeration#10.9#solve the problem#Ex10_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.9/Ex10_9.R#S##8573
-10#Refrigeration#10.8#Determine the COP of the Cycle#Ex10_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.8/Ex10_8.R#S##8572
-10#Refrigeration#10.7#solve the problem#Ex10_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.7/Ex10_7.R#S##8571
-10#Refrigeration#10.6#Compute the problem#Ex10_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.6/Ex10_6.R#S##8570
-10#Refrigeration#10.5#Determine the power required#Ex10_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.5/Ex10_5.R#S##8569
-10#Refrigeration#10.4#Determine the power required#Ex10_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.4/Ex10_4.R#S##10675
-10#Refrigeration#10.3#Determine the maximum COP for the cycle#Ex10_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.3/Ex10_3.R#S##8567
-10#Refrigeration#10.2#Determine the COP of the Cycle#Ex10_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.2/Ex10_2.R#S##8566
-10#Refrigeration#10.16#determine the work#Ex10_16.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.16/Ex10_16.R#S##8580
-10#Refrigeration#10.15#Determine the COP #Ex10_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.15/Ex10_15.R#S##8579
-10#Refrigeration#10.14#solve the problem#Ex10_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.14/Ex10_14.R#S##8578
-10#Refrigeration#10.13#Calculate the mass of water#Ex10_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.13/Ex10_13.R#S##8577
-10#Refrigeration#10.12#Determine the airflow required#Ex10_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.12/Ex10_12.R#S##8576
-10#Refrigeration#10.11#solve the problem#Ex10_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.11/Ex10_11.R#S##8575
-10#Refrigeration#10.10#Find the horse power required#Ex10_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.10/Ex10_10.R#S##8574
-10#Refrigeration#10.1#Calculate the heat removal#Ex10_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH10/EX10.1/Ex10_1.R#S##8565
-9#Gas power Cycles#9.9#What is its compression ratio#Ex9_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.9/Ex9_9.R#S##8559
-9#Gas power Cycles#9.7#Determine the horsepower#Ex9_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.7/Ex9_7.R#S##8558
-9#Gas power Cycles#9.4#Calculate the Efficiency#Ex9_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.4/Ex9_4.R#S##8557
-9#Gas power Cycles#9.3#Determine the peak temprature#Ex9_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.3/Ex9_3.R#S##8556
-9#Gas power Cycles#9.2#Determine the efficiency#Ex9_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.2/Ex9_2.R#S##10672
-9#Gas power Cycles#9.14#Determine the heat in#Ex9_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.14/Ex9_14.R#S##10674
-9#Gas power Cycles#9.13#Determine the network per pound#Ex9_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.13/Ex9_13.R#S##8563
-9#Gas power Cycles#9.12#Find the efficiency#Ex9_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.12/Ex9_12.R#S##10673
-9#Gas power Cycles#9.11#Determine the mean Effective pressure#Ex9_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.11/Ex9_11.R#S##8561
-9#Gas power Cycles#9.10#Determine the mean Effective pressure#Ex9_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.10/Ex9_10.R#S##8560
-9#Gas power Cycles#9.1#Compare the Results#Ex9_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH9/EX9.1/Ex9_1.R#S##8554
-8# Vapor Power Cycles#8.9#Determine the Efficiency#Ex8_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.9/Ex8_9.R#S##8548
-8# Vapor Power Cycles#8.8#Determine the Heat Rate#Ex8_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.8/Ex8_8.R#S##8547
-8# Vapor Power Cycles#8.7#What is the thermal Efficiency of this cycle#Ex8_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.7/Ex8_7.R#S##8546
-8# Vapor Power Cycles#8.6#Calculate the type Efficiency#Ex8_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.6/Ex8_6.R#S##8545
-8# Vapor Power Cycles#8.5#what is the type of efficiency#Ex8_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.5/Ex8_5.R#S##8544
-8# Vapor Power Cycles#8.4#solve the problem#Ex8_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.4/Ex8_4.R#S##8543
-8# Vapor Power Cycles#8.3#Sketch the cycle#Ex8_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.3/Ex8_3.R#S##8542
-8# Vapor Power Cycles#8.2#solve the problem#Ex8_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.2/Ex8_2.R#S##8541
-8# Vapor Power Cycles#8.14#Determine the conventional thermal efficiency#Ex8_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.14/Ex8_14.R#S##8553
-8# Vapor Power Cycles#8.13#Compare the Results#Ex8_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.13/Ex8_13.R#S##8552
-8# Vapor Power Cycles#8.12#Compare the Results#Ex8_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.12/Ex8_12.R#S##8551
-8# Vapor Power Cycles#8.11#Determine the Efficiency#Ex8_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.11/Ex8_11.R#S##8550
-8# Vapor Power Cycles#8.10#solve the problem#Ex8_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.10/Ex8_10.R#S##8549
-8# Vapor Power Cycles#8.1#Determine the thermal Efficiency#Ex8_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH8/EX8.1/Ex8_1.R#S##8540
-7#Mixture of Ideal Gases#7.9#Determine the final Temperature#Ex7_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.9/Ex7_9.R#S##10800
-7#Mixture of Ideal Gases#7.8#Determine the volumetric analysis#Ex7_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.8/Ex7_8.R#S##10664
-7#Mixture of Ideal Gases#7.7#Determine the fraction by volume#Ex7_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.7/Ex7_7.R#S##10663
-7#Mixture of Ideal Gases#7.6#Determine the mass fraction#Ex7_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.6/Ex7_6.R#S##8527
-7#Mixture of Ideal Gases#7.5#Determine the mixture volume#Ex7_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.5/Ex7_5.R#S##8526
-7#Mixture of Ideal Gases#7.4#Determine the mixture volume#Ex7_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.4/Ex7_4.R#S##8525
-7#Mixture of Ideal Gases#7.3#Determine the moles#Ex7_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.3/Ex7_3.R#S##8524
-7#Mixture of Ideal Gases#7.23#Determine the amount of water#Ex7_23.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.23/Ex7_23.R#S##8539
-7#Mixture of Ideal Gases#7.20#how much heat is required#Ex7_20.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.20/Ex7_20.R#S##10671
-7#Mixture of Ideal Gases#7.2#what is the mole fraction#Ex7_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.2/Ex7_2.R#S##8523
-7#Mixture of Ideal Gases#7.19#Solve the problem#Ex7_19.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.19/Ex7_19.R#S##10670
-7#Mixture of Ideal Gases#7.18#Solve the problem#Ex7_18.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.18/Ex7_18.R#S##10669
-7#Mixture of Ideal Gases#7.16#how much water was removed#Ex7_16.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.16/Ex7_16.R#S##8535
-7#Mixture of Ideal Gases#7.15#solve the problem#Ex7_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.15/Ex7_15.R#S##8534
-7#Mixture of Ideal Gases#7.14#Determine the partial pressure#Ex7_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.14/Ex7_14.R#S##10668
-7#Mixture of Ideal Gases#7.12#Determine the change in entropy#Ex7_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.12/Ex7_12.R#S##10667
-7#Mixture of Ideal Gases#7.10#Determine the final temprature#Ex7_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.10/Ex7_10.R#S##10666
-7#Mixture of Ideal Gases#7.1#Determine the number of moles#Ex7_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH7/EX7.1/Ex7_1.R#S##8522
-6#The Ideal Gas#6.9#Determine the mean specific heat#Ex6_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.9/Ex6_9.R#S##8489
-6#The Ideal Gas#6.8#Determine the mass of gas#Ex6_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.8/Ex6_8.R#S##8488
-6#The Ideal Gas#6.7#what is the pressure#Ex6_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.7/Ex6_7.R#S##8487
-6#The Ideal Gas#6.6#How much gas is there in container#Ex6_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.6/Ex6_6.R#S##8486
-6#The Ideal Gas#6.5#Determine the volume#Ex6_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.5/Ex6_5.R#S##8485
-6#The Ideal Gas#6.41#Determine the specific Volume#Ex6_41.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.41/Ex6_41.R#S##8521
-6#The Ideal Gas#6.40#Determine the Temprature#Ex6_40.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.40/Ex6_40.R#S##8608
-6#The Ideal Gas#6.39#Calculate the pressure#Ex6_39.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.39/Ex6_39.R#S##8519
-6#The Ideal Gas#6.38#Determine its total enthalpy#Ex6_38.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.38/Ex6_38.R#S##8518
-6#The Ideal Gas#6.37#what is the mach number#Ex6_37.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.37/Ex6_37.R#S##8517
-6#The Ideal Gas#6.36#Determine the Velocity#Ex6_36.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.36/Ex6_36.R#S##8516
-6#The Ideal Gas#6.35#solve the problem#Ex6_35.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.35/Ex6_35.R#S##8515
-6#The Ideal Gas#6.34#Determine the change#Ex6_34.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.34/Ex6_34.R#S##8514
-6#The Ideal Gas#6.33#Determine the ratio inlet#Ex6_33.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.33/Ex6_33.R#S##8513
-6#The Ideal Gas#6.32#Determine the heat transferred#Ex6_32.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.32/Ex6_32.R#S##8512
-6#The Ideal Gas#6.31#Determine k ofr this gas#Ex6_31.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.31/Ex6_31.R#S##10662
-6#The Ideal Gas#6.30#Determine the final state#Ex6_30.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.30/Ex6_30.R#S##8510
-6#The Ideal Gas#6.3#Determine the volume#Ex6_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.3/Ex6_3.R#S##8484
-6#The Ideal Gas#6.29#Determine the final state#Ex6_29.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.29/Ex6_29.R#S##8509
-6#The Ideal Gas#6.28#Determine the change#Ex6_28.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.28/Ex6_28.R#S##8508
-6#The Ideal Gas#6.27#Determine the Heat added#Ex6_27.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.27/Ex6_27.R#S##8507
-6#The Ideal Gas#6.26#Determine the Heat added#Ex6_26.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.26/Ex6_26.R#S##8506
-6#The Ideal Gas#6.25#Determine the heat transferred#Ex6_25.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.25/Ex6_25.R#S##8505
-6#The Ideal Gas#6.24#Determine the heat transferred#Ex6_24.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.24/Ex6_24.R#S##8504
-6#The Ideal Gas#6.23#Determine the initial tmeprature#Ex6_23.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.23/Ex6_23.R#S##8503
-6#The Ideal Gas#6.22#Determine the higher temprature#Ex6_22.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.22/Ex6_22.R#S##8502
-6#The Ideal Gas#6.21#Determine the change#Ex6_21.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.21/Ex6_21.R#S##8501
-6#The Ideal Gas#6.20#Determine the change#Ex6_20.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.20/Ex6_20.R#S##8500
-6#The Ideal Gas#6.2#What volume will gas occupy#Ex6_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.2/Ex6_2.R#S##8483
-6#The Ideal Gas#6.19#what was the increase in pressure#Ex6_19.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.19/Ex6_19.R#S##8499
-6#The Ideal Gas#6.18#Determine the change#Ex6_18.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.18/Ex6_18.R#S##8498
-6#The Ideal Gas#6.17#solve the problem#Ex6_17.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.17/Ex6_17.R#S##8497
-6#The Ideal Gas#6.16#Determine the change#Ex6_16.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.16/Ex6_16.R#S##8496
-6#The Ideal Gas#6.15#find the specific heat#Ex6_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.15/Ex6_15.R#S##8495
-6#The Ideal Gas#6.14#Determine k cv and cp#Ex6_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.14/Ex6_14.R#S##8494
-6#The Ideal Gas#6.13#Determine the cp#Ex6_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.13/Ex6_13.R#S##8493
-6#The Ideal Gas#6.12#Determine cu#Ex6_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.12/Ex6_12.R#S##8492
-6#The Ideal Gas#6.11#Determine the heat#Ex6_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.11/Ex6_11.R#S##8491
-6#The Ideal Gas#6.10#Solve the answer#Ex6_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.10/Ex6_10.R#S##8490
-6#The Ideal Gas#6.1#What volume will gas occupy#Ex6_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH6/EX6.1/Ex6_1.R#S##8482
-5#Properties of liquids and Gases#5.9#What is its quality#Ex5_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.9/Ex5_9.R#S##8468
-5#Properties of liquids and Gases#5.8#Determine its entropy#Ex5_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.8/Ex5_8.R#S##8467
-5#Properties of liquids and Gases#5.7#Determine its entropy#Ex5_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.7/Ex5_7.R#S##8466
-5#Properties of liquids and Gases#5.6#Determine Hfg#Ex5_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.6/Ex5_6.R#S##10660
-5#Properties of liquids and Gases#5.5#Determine the hfg#Ex5_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.5/Ex5_5.R#S##8464
-5#Properties of liquids and Gases#5.44#how much heat removed#Ex5_44.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.44/Ex5_44.R#S##10684
-5#Properties of liquids and Gases#5.43#How much Heat per pound#Ex5_43.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.43/Ex5_43.R#S##8481
-5#Properties of liquids and Gases#5.42#Determine the Velocity#Ex5_42.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.42/Ex5_42.R#S##8480
-5#Properties of liquids and Gases#5.41#Determine the change#Ex5_41.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.41/Ex5_41.R#S##8479
-5#Properties of liquids and Gases#5.40#Determine the change#Ex5_40.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.40/Ex5_40.R#S##8478
-5#Properties of liquids and Gases#5.4#Determine Hfg#Ex5_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.4/Ex5_4.R#S##10659
-5#Properties of liquids and Gases#5.39#Determine the final state of steam#Ex5_39.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.39/Ex5_39.R#S##8477
-5#Properties of liquids and Gases#5.38#Determine the change#Ex5_38.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.38/Ex5_38.R#S##8476
-5#Properties of liquids and Gases#5.37#Determine the Heat added#Ex5_37.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.37/Ex5_37.R#S##8475
-5#Properties of liquids and Gases#5.36#Determine the pressure#Ex5_36.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.36/Ex5_36.R#S##8474
-5#Properties of liquids and Gases#5.35#Determine the moisture#Ex5_35.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.35/Ex5_35.R#S##8473
-5#Properties of liquids and Gases#5.3#Compare the Results#Ex5_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.3/Ex5_3.R#S##8462
-5#Properties of liquids and Gases#5.27#Compare he result#Ex5_27.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.27/Ex5_27.R#S##10661
-5#Properties of liquids and Gases#5.2#Compare your answer#Ex5_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.2/Ex5_2.R#S##8461
-5#Properties of liquids and Gases#5.16#Determine the enthalpy#Ex5_16.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.16/Ex5_16.R#S##8471
-5#Properties of liquids and Gases#5.14#Determine the Specific Volume#Ex5_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.14/Ex5_14.R#S##10683
-5#Properties of liquids and Gases#5.13#Determine the Specific Volume#Ex5_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.13/Ex5_13.R#S##8470
-5#Properties of liquids and Gases#5.10#Determine its quality#Ex5_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.10/Ex5_10.R#S##8469
-5#Properties of liquids and Gases#5.1#Compare your answer#Ex5_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH5/EX5.1/Ex5_1.R#S##8460
-4#The second law of Thermodynamics#4.9#How much work is done#Ex4_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.9/Ex4_9.R#S##10658
-4#The second law of Thermodynamics#4.8#What is the change#Ex4_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.8/Ex4_8.R#S##8452
-4#The second law of Thermodynamics#4.7#Determine the Temprature#Ex4_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.7/Ex4_7.R#S##8451
-4#The second law of Thermodynamics#4.5#Determine the heat supplied#Ex4_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.5/Ex4_5.R#S##8449
-4#The second law of Thermodynamics#4.4#Determine the heat supplied#Ex4_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.4/Ex4_4.R#S##8450
-4#The second law of Thermodynamics#4.3#what is the minimum horsepower input#Ex4_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.3/Ex4_3.R#S##8607
-4#The second law of Thermodynamics#4.2#Determine The amount of Work#Ex4_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.2/Ex4_2.R#S##8448
-4#The second law of Thermodynamics#4.15#answer in F#Ex4_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.15/Ex4_15.R#S##8459
-4#The second law of Thermodynamics#4.14#specific heat #Ex4_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.14/Ex4_14.R#S##8458
-4#The second law of Thermodynamics#4.13#Determine the temprature#Ex4_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.13/Ex4_13.R#S##8457
-4#The second law of Thermodynamics#4.12#How much energy #Ex4_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.12/Ex4_12.R#S##8456
-4#The second law of Thermodynamics#4.11#how much of this energy unavailable#Ex4_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.11/Ex4_11.R#S##8455
-4#The second law of Thermodynamics#4.10#Compare your answer#Ex4_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.10/Ex4_10.R#S##8454
-4#The second law of Thermodynamics#4.1#What is the Efficiency of the cycle#Ex4_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH4/EX4.1/Ex4_1.R#S##8447
-3#The first law of Thermodynamics#3.9#Determine the inlet#Ex3_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.9/Ex3_9.R#S##8435
-3#The first law of Thermodynamics#3.8#Determine the Velocity#Ex3_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.8/Ex3_8.R#S##8434
-3#The first law of Thermodynamics#3.7#Determine the mass flow rate#Ex3_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.7/Ex3_7.R#S##8433
-3#The first law of Thermodynamics#3.6#Determine the mass flow rate#Ex3_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.6/Ex3_6.R#S##8432
-3#The first law of Thermodynamics#3.5#Determine the mass flow rate#Ex3_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.5/Ex3_5.R#S##8431
-3#The first law of Thermodynamics#3.4#Determine the change#Ex3_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.4/Ex3_4.R#S##8430
-3#The first law of Thermodynamics#3.21#Determine the Flow rate#Ex3_21.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.21/Ex3_21.R#S##8446
-3#The first law of Thermodynamics#3.19#Determine the Velocity#Ex3_19.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.19/Ex3_19.R#S##8445
-3#The first law of Thermodynamics#3.18#Determine the Velocity#Ex3_18.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.18/Ex3_18.R#S##8444
-3#The first law of Thermodynamics#3.17#How much energy has been added #Ex3_17.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.17/Ex3_17.R#S##8443
-3#The first law of Thermodynamics#3.16#Determine the direction and magnitude#Ex3_16.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.16/Ex3_16.R#S##10657
-3#The first law of Thermodynamics#3.15#Determine the magnitude and Direction#Ex3_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.15/Ex3_15.R#S##8441
-3#The first law of Thermodynamics#3.14#Determine the work output#Ex3_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.14/Ex3_14.R#S##8440
-3#The first law of Thermodynamics#3.13#Determine the work output#Ex3_13.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.13/Ex3_13.R#S##8439
-3#The first law of Thermodynamics#3.12#Determine the work output#Ex3_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.12/Ex3_12.R#S##8438
-3#The first law of Thermodynamics#3.11#Determine the Power produced#Ex3_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.11/Ex3_11.R#S##8437
-3#The first law of Thermodynamics#3.10#Determine the final gas Temprature#Ex3_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH3/EX3.10/Ex3_10.R#S##8436
-2# Work Energy and Heat#2.9#Determine the change#Ex2_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.9/Ex2_9.R#S##8424
-2# Work Energy and Heat#2.8#Determine the change#Ex2_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.8/Ex2_8.R#S##8423
-2# Work Energy and Heat#2.7#Determine the horsepower#Ex2_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.7/Ex2_7.R#S##8422
-2# Work Energy and Heat#2.6#Determine the change#Ex2_6.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.6/Ex2_6.R#S##8421
-2# Work Energy and Heat#2.5#Determine the change#Ex2_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.5/Ex2_5.R#S##8420
-2# Work Energy and Heat#2.4#How much work done#Ex2_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.4/Ex2_4.R#S##8419
-2# Work Energy and Heat#2.3#How much work done#Ex2_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.3/Ex2_3.R#S##8418
-2# Work Energy and Heat#2.2#How much work done#Ex2_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.2/Ex2_2.R#S##8606
-2# Work Energy and Heat#2.15#Determine the work done#Ex2_15.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.15/Ex2_15.R#S##8429
-2# Work Energy and Heat#2.14#How much work done#Ex2_14.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.14/Ex2_14.R#S##8428
-2# Work Energy and Heat#2.12#Determine the Flow work #Ex2_12.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.12/Ex2_12.R#S##8427
-2# Work Energy and Heat#2.11#Determine the Flow work term #Ex2_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.11/Ex2_11.R#S##8426
-2# Work Energy and Heat#2.10#what will kinetic Energy#Ex2_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH2/EX2.10/Ex2_10.R#S##8425
-1#Fundamental Concepts#1.9#Determine the pressure#Ex1_9.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.9/Ex1_9.R#S##8415
-1#Fundamental Concepts#1.8#Determine the pressure#Ex1_8.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.8/Ex1_8.R#S##10656
-1#Fundamental Concepts#1.7#Determine the Pressure#Ex1_7.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.7/Ex1_7.R#S##8413
-1#Fundamental Concepts#1.5#Derive the convesion Factor#Ex1_5.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.5/Ex1_5.R#S##10655
-1#Fundamental Concepts#1.4#Determine its Weight and horizontal acceleration#Ex1_4.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.4/Ex1_4.R#S##8412
-1#Fundamental Concepts#1.3#Weight on Earth#Ex1_3.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.3/Ex1_3.R#S##8411
-1#Fundamental Concepts#1.2#Weight on Moon#Ex1_2.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.2/Ex1_2.R#S##8410
-1#Fundamental Concepts#1.11#Determine the pressure#Ex1_11.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.11/Ex1_11.R#S##8417
-1#Fundamental Concepts#1.10#Determine the pressure#Ex1_10.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.10/Ex1_10.R#S##8416
-1#Fundamental Concepts#1.1#Determine the Temprature#Ex1_1.R#Thermodynamics_And_Heat_Power_by_I._Granet_And_M._Bluestein/CH1/EX1.1/Ex1_1.R#S##8409
+11#Heat transfer#11.9#Determine the Heat loss#Ex11_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.9/Ex11_9.R#S##8589
+11#Heat transfer#11.8#Determine the heat loss#Ex11_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.8/Ex11_8.R#S##10677
+11#Heat transfer#11.7#Determine the temperature#Ex11_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.7/Ex11_7.R#S##8587
+11#Heat transfer#11.6#Determine the heat transferred#Ex11_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.6/Ex11_6.R#S##8586
+11#Heat transfer#11.5#Calculate the temprature#Ex11_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.5/Ex11_5.R#S##8585
+11#Heat transfer#11.4#Determine the heat transferred#Ex11_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.4/Ex11_4.R#S##8584
+11#Heat transfer#11.3#Determine the heat transferred#Ex11_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.3/Ex11_3.R#S##8583
+11#Heat transfer#11.27#Determine the temprature#Ex11_27.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.27/Ex11_27.R#S##8605
+11#Heat transfer#11.26#Calculate the surface required#Ex11_26.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.26/Ex11_26.R#S##10682
+11#Heat transfer#11.25#Determine the outside tube surfaced#Ex11_25.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.25/Ex11_25.R#S##8603
+11#Heat transfer#11.24#Determine the outside tube surfaced#Ex11_24.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.24/Ex11_24.R#S##8602
+11#Heat transfer#11.23#Determine the heat transferred#Ex11_23.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.23/Ex11_23.R#S##8601
+11#Heat transfer#11.22#Determine the over all heat transfer#Ex11_22.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.22/Ex11_22.R#S##10681
+11#Heat transfer#11.21#solve the problem#Ex11_21.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.21/Ex11_21.R#S##8599
+11#Heat transfer#11.20#Determine the heat transferred#Ex11_20.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.20/Ex11_20.R#S##8598
+11#Heat transfer#11.2#Determine the heat transfer#Ex11_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.2/Ex11_2.R#S##10676
+11#Heat transfer#11.19#Determine the Heat loss#Ex11_19.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.19/Ex11_19.R#S##8597
+11#Heat transfer#11.18#Determine the inside film coefficient#Ex11_18.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.18/Ex11_18.R#S##8596
+11#Heat transfer#11.17#Determine the heat transferred#Ex11_17.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.17/Ex11_17.R#S##8595
+11#Heat transfer#11.16#Determine the heat transfer#Ex11_16.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.16/Ex11_16.R#S##10680
+11#Heat transfer#11.15#Determine the Heat loss#Ex11_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.15/Ex11_15.R#S##8593
+11#Heat transfer#11.12#Determine the heat transfer#Ex11_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.12/Ex11_12.R#S##10679
+11#Heat transfer#11.11#Determine the heat loss#Ex11_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.11/Ex11_11.R#S##10678
+11#Heat transfer#11.10#Determine the Heat loss#Ex11_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.10/Ex11_10.R#S##8590
+11#Heat transfer#11.1#Determine the heat transferred#Ex11_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH11/EX11.1/Ex11_1.R#S##8581
+10#Refrigeration#10.9#solve the problem#Ex10_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.9/Ex10_9.R#S##8573
+10#Refrigeration#10.8#Determine the COP of the Cycle#Ex10_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.8/Ex10_8.R#S##8572
+10#Refrigeration#10.7#solve the problem#Ex10_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.7/Ex10_7.R#S##8571
+10#Refrigeration#10.6#Compute the problem#Ex10_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.6/Ex10_6.R#S##8570
+10#Refrigeration#10.5#Determine the power required#Ex10_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.5/Ex10_5.R#S##8569
+10#Refrigeration#10.4#Determine the power required#Ex10_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.4/Ex10_4.R#S##10675
+10#Refrigeration#10.3#Determine the maximum COP for the cycle#Ex10_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.3/Ex10_3.R#S##8567
+10#Refrigeration#10.2#Determine the COP of the Cycle#Ex10_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.2/Ex10_2.R#S##8566
+10#Refrigeration#10.16#determine the work#Ex10_16.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.16/Ex10_16.R#S##8580
+10#Refrigeration#10.15#Determine the COP #Ex10_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.15/Ex10_15.R#S##8579
+10#Refrigeration#10.14#solve the problem#Ex10_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.14/Ex10_14.R#S##8578
+10#Refrigeration#10.13#Calculate the mass of water#Ex10_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.13/Ex10_13.R#S##8577
+10#Refrigeration#10.12#Determine the airflow required#Ex10_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.12/Ex10_12.R#S##8576
+10#Refrigeration#10.11#solve the problem#Ex10_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.11/Ex10_11.R#S##8575
+10#Refrigeration#10.10#Find the horse power required#Ex10_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.10/Ex10_10.R#S##8574
+10#Refrigeration#10.1#Calculate the heat removal#Ex10_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH10/EX10.1/Ex10_1.R#S##8565
+9#Gas power Cycles#9.9#What is its compression ratio#Ex9_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.9/Ex9_9.R#S##8559
+9#Gas power Cycles#9.7#Determine the horsepower#Ex9_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.7/Ex9_7.R#S##8558
+9#Gas power Cycles#9.4#Calculate the Efficiency#Ex9_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.4/Ex9_4.R#S##8557
+9#Gas power Cycles#9.3#Determine the peak temprature#Ex9_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.3/Ex9_3.R#S##8556
+9#Gas power Cycles#9.2#Determine the efficiency#Ex9_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.2/Ex9_2.R#S##10672
+9#Gas power Cycles#9.14#Determine the heat in#Ex9_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.14/Ex9_14.R#S##10674
+9#Gas power Cycles#9.13#Determine the network per pound#Ex9_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.13/Ex9_13.R#S##8563
+9#Gas power Cycles#9.12#Find the efficiency#Ex9_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.12/Ex9_12.R#S##10673
+9#Gas power Cycles#9.11#Determine the mean Effective pressure#Ex9_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.11/Ex9_11.R#S##8561
+9#Gas power Cycles#9.10#Determine the mean Effective pressure#Ex9_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.10/Ex9_10.R#S##8560
+9#Gas power Cycles#9.1#Compare the Results#Ex9_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH9/EX9.1/Ex9_1.R#S##8554
+8# Vapor Power Cycles#8.9#Determine the Efficiency#Ex8_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.9/Ex8_9.R#S##8548
+8# Vapor Power Cycles#8.8#Determine the Heat Rate#Ex8_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.8/Ex8_8.R#S##8547
+8# Vapor Power Cycles#8.7#What is the thermal Efficiency of this cycle#Ex8_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.7/Ex8_7.R#S##8546
+8# Vapor Power Cycles#8.6#Calculate the type Efficiency#Ex8_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.6/Ex8_6.R#S##8545
+8# Vapor Power Cycles#8.5#what is the type of efficiency#Ex8_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.5/Ex8_5.R#S##8544
+8# Vapor Power Cycles#8.4#solve the problem#Ex8_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.4/Ex8_4.R#S##8543
+8# Vapor Power Cycles#8.3#Sketch the cycle#Ex8_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.3/Ex8_3.R#S##8542
+8# Vapor Power Cycles#8.2#solve the problem#Ex8_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.2/Ex8_2.R#S##8541
+8# Vapor Power Cycles#8.14#Determine the conventional thermal efficiency#Ex8_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.14/Ex8_14.R#S##8553
+8# Vapor Power Cycles#8.13#Compare the Results#Ex8_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.13/Ex8_13.R#S##8552
+8# Vapor Power Cycles#8.12#Compare the Results#Ex8_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.12/Ex8_12.R#S##8551
+8# Vapor Power Cycles#8.11#Determine the Efficiency#Ex8_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.11/Ex8_11.R#S##8550
+8# Vapor Power Cycles#8.10#solve the problem#Ex8_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.10/Ex8_10.R#S##8549
+8# Vapor Power Cycles#8.1#Determine the thermal Efficiency#Ex8_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH8/EX8.1/Ex8_1.R#S##8540
+7#Mixture of Ideal Gases#7.9#Determine the final Temperature#Ex7_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.9/Ex7_9.R#S##10800
+7#Mixture of Ideal Gases#7.8#Determine the volumetric analysis#Ex7_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.8/Ex7_8.R#S##10664
+7#Mixture of Ideal Gases#7.7#Determine the fraction by volume#Ex7_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.7/Ex7_7.R#S##10663
+7#Mixture of Ideal Gases#7.6#Determine the mass fraction#Ex7_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.6/Ex7_6.R#S##8527
+7#Mixture of Ideal Gases#7.5#Determine the mixture volume#Ex7_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.5/Ex7_5.R#S##8526
+7#Mixture of Ideal Gases#7.4#Determine the mixture volume#Ex7_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.4/Ex7_4.R#S##8525
+7#Mixture of Ideal Gases#7.3#Determine the moles#Ex7_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.3/Ex7_3.R#S##8524
+7#Mixture of Ideal Gases#7.23#Determine the amount of water#Ex7_23.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.23/Ex7_23.R#S##8539
+7#Mixture of Ideal Gases#7.20#how much heat is required#Ex7_20.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.20/Ex7_20.R#S##10671
+7#Mixture of Ideal Gases#7.2#what is the mole fraction#Ex7_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.2/Ex7_2.R#S##8523
+7#Mixture of Ideal Gases#7.19#Solve the problem#Ex7_19.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.19/Ex7_19.R#S##10670
+7#Mixture of Ideal Gases#7.18#Solve the problem#Ex7_18.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.18/Ex7_18.R#S##10669
+7#Mixture of Ideal Gases#7.16#how much water was removed#Ex7_16.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.16/Ex7_16.R#S##8535
+7#Mixture of Ideal Gases#7.15#solve the problem#Ex7_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.15/Ex7_15.R#S##8534
+7#Mixture of Ideal Gases#7.14#Determine the partial pressure#Ex7_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.14/Ex7_14.R#S##10668
+7#Mixture of Ideal Gases#7.12#Determine the change in entropy#Ex7_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.12/Ex7_12.R#S##10667
+7#Mixture of Ideal Gases#7.10#Determine the final temprature#Ex7_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.10/Ex7_10.R#S##10666
+7#Mixture of Ideal Gases#7.1#Determine the number of moles#Ex7_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH7/EX7.1/Ex7_1.R#S##8522
+6#The Ideal Gas#6.9#Determine the mean specific heat#Ex6_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.9/Ex6_9.R#S##8489
+6#The Ideal Gas#6.8#Determine the mass of gas#Ex6_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.8/Ex6_8.R#S##8488
+6#The Ideal Gas#6.7#what is the pressure#Ex6_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.7/Ex6_7.R#S##8487
+6#The Ideal Gas#6.6#How much gas is there in container#Ex6_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.6/Ex6_6.R#S##8486
+6#The Ideal Gas#6.5#Determine the volume#Ex6_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.5/Ex6_5.R#S##8485
+6#The Ideal Gas#6.41#Determine the specific Volume#Ex6_41.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.41/Ex6_41.R#S##8521
+6#The Ideal Gas#6.40#Determine the Temprature#Ex6_40.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.40/Ex6_40.R#S##8608
+6#The Ideal Gas#6.39#Calculate the pressure#Ex6_39.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.39/Ex6_39.R#S##8519
+6#The Ideal Gas#6.38#Determine its total enthalpy#Ex6_38.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.38/Ex6_38.R#S##8518
+6#The Ideal Gas#6.37#what is the mach number#Ex6_37.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.37/Ex6_37.R#S##8517
+6#The Ideal Gas#6.36#Determine the Velocity#Ex6_36.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.36/Ex6_36.R#S##8516
+6#The Ideal Gas#6.35#solve the problem#Ex6_35.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.35/Ex6_35.R#S##8515
+6#The Ideal Gas#6.34#Determine the change#Ex6_34.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.34/Ex6_34.R#S##8514
+6#The Ideal Gas#6.33#Determine the ratio inlet#Ex6_33.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.33/Ex6_33.R#S##8513
+6#The Ideal Gas#6.32#Determine the heat transferred#Ex6_32.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.32/Ex6_32.R#S##8512
+6#The Ideal Gas#6.31#Determine k ofr this gas#Ex6_31.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.31/Ex6_31.R#S##10662
+6#The Ideal Gas#6.30#Determine the final state#Ex6_30.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.30/Ex6_30.R#S##8510
+6#The Ideal Gas#6.3#Determine the volume#Ex6_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.3/Ex6_3.R#S##8484
+6#The Ideal Gas#6.29#Determine the final state#Ex6_29.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.29/Ex6_29.R#S##8509
+6#The Ideal Gas#6.28#Determine the change#Ex6_28.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.28/Ex6_28.R#S##8508
+6#The Ideal Gas#6.27#Determine the Heat added#Ex6_27.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.27/Ex6_27.R#S##8507
+6#The Ideal Gas#6.26#Determine the Heat added#Ex6_26.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.26/Ex6_26.R#S##8506
+6#The Ideal Gas#6.25#Determine the heat transferred#Ex6_25.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.25/Ex6_25.R#S##8505
+6#The Ideal Gas#6.24#Determine the heat transferred#Ex6_24.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.24/Ex6_24.R#S##8504
+6#The Ideal Gas#6.23#Determine the initial tmeprature#Ex6_23.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.23/Ex6_23.R#S##8503
+6#The Ideal Gas#6.22#Determine the higher temprature#Ex6_22.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.22/Ex6_22.R#S##8502
+6#The Ideal Gas#6.21#Determine the change#Ex6_21.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.21/Ex6_21.R#S##8501
+6#The Ideal Gas#6.20#Determine the change#Ex6_20.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.20/Ex6_20.R#S##8500
+6#The Ideal Gas#6.2#What volume will gas occupy#Ex6_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.2/Ex6_2.R#S##8483
+6#The Ideal Gas#6.19#what was the increase in pressure#Ex6_19.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.19/Ex6_19.R#S##8499
+6#The Ideal Gas#6.18#Determine the change#Ex6_18.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.18/Ex6_18.R#S##8498
+6#The Ideal Gas#6.17#solve the problem#Ex6_17.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.17/Ex6_17.R#S##8497
+6#The Ideal Gas#6.16#Determine the change#Ex6_16.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.16/Ex6_16.R#S##8496
+6#The Ideal Gas#6.15#find the specific heat#Ex6_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.15/Ex6_15.R#S##8495
+6#The Ideal Gas#6.14#Determine k cv and cp#Ex6_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.14/Ex6_14.R#S##8494
+6#The Ideal Gas#6.13#Determine the cp#Ex6_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.13/Ex6_13.R#S##8493
+6#The Ideal Gas#6.12#Determine cu#Ex6_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.12/Ex6_12.R#S##8492
+6#The Ideal Gas#6.11#Determine the heat#Ex6_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.11/Ex6_11.R#S##8491
+6#The Ideal Gas#6.10#Solve the answer#Ex6_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.10/Ex6_10.R#S##8490
+6#The Ideal Gas#6.1#What volume will gas occupy#Ex6_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH6/EX6.1/Ex6_1.R#S##8482
+5#Properties of liquids and Gases#5.9#What is its quality#Ex5_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.9/Ex5_9.R#S##8468
+5#Properties of liquids and Gases#5.8#Determine its entropy#Ex5_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.8/Ex5_8.R#S##8467
+5#Properties of liquids and Gases#5.7#Determine its entropy#Ex5_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.7/Ex5_7.R#S##8466
+5#Properties of liquids and Gases#5.6#Determine Hfg#Ex5_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.6/Ex5_6.R#S##10660
+5#Properties of liquids and Gases#5.5#Determine the hfg#Ex5_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.5/Ex5_5.R#S##8464
+5#Properties of liquids and Gases#5.44#how much heat removed#Ex5_44.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.44/Ex5_44.R#S##10684
+5#Properties of liquids and Gases#5.43#How much Heat per pound#Ex5_43.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.43/Ex5_43.R#S##8481
+5#Properties of liquids and Gases#5.42#Determine the Velocity#Ex5_42.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.42/Ex5_42.R#S##8480
+5#Properties of liquids and Gases#5.41#Determine the change#Ex5_41.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.41/Ex5_41.R#S##8479
+5#Properties of liquids and Gases#5.40#Determine the change#Ex5_40.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.40/Ex5_40.R#S##8478
+5#Properties of liquids and Gases#5.4#Determine Hfg#Ex5_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.4/Ex5_4.R#S##10659
+5#Properties of liquids and Gases#5.39#Determine the final state of steam#Ex5_39.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.39/Ex5_39.R#S##8477
+5#Properties of liquids and Gases#5.38#Determine the change#Ex5_38.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.38/Ex5_38.R#S##8476
+5#Properties of liquids and Gases#5.37#Determine the Heat added#Ex5_37.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.37/Ex5_37.R#S##8475
+5#Properties of liquids and Gases#5.36#Determine the pressure#Ex5_36.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.36/Ex5_36.R#S##8474
+5#Properties of liquids and Gases#5.35#Determine the moisture#Ex5_35.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.35/Ex5_35.R#S##8473
+5#Properties of liquids and Gases#5.3#Compare the Results#Ex5_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.3/Ex5_3.R#S##8462
+5#Properties of liquids and Gases#5.27#Compare he result#Ex5_27.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.27/Ex5_27.R#S##10661
+5#Properties of liquids and Gases#5.2#Compare your answer#Ex5_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.2/Ex5_2.R#S##8461
+5#Properties of liquids and Gases#5.16#Determine the enthalpy#Ex5_16.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.16/Ex5_16.R#S##8471
+5#Properties of liquids and Gases#5.14#Determine the Specific Volume#Ex5_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.14/Ex5_14.R#S##10683
+5#Properties of liquids and Gases#5.13#Determine the Specific Volume#Ex5_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.13/Ex5_13.R#S##8470
+5#Properties of liquids and Gases#5.10#Determine its quality#Ex5_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.10/Ex5_10.R#S##8469
+5#Properties of liquids and Gases#5.1#Compare your answer#Ex5_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH5/EX5.1/Ex5_1.R#S##8460
+4#The second law of Thermodynamics#4.9#How much work is done#Ex4_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.9/Ex4_9.R#S##10658
+4#The second law of Thermodynamics#4.8#What is the change#Ex4_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.8/Ex4_8.R#S##8452
+4#The second law of Thermodynamics#4.7#Determine the Temprature#Ex4_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.7/Ex4_7.R#S##8451
+4#The second law of Thermodynamics#4.5#Determine the heat supplied#Ex4_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.5/Ex4_5.R#S##8449
+4#The second law of Thermodynamics#4.4#Determine the heat supplied#Ex4_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.4/Ex4_4.R#S##8450
+4#The second law of Thermodynamics#4.3#what is the minimum horsepower input#Ex4_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.3/Ex4_3.R#S##8607
+4#The second law of Thermodynamics#4.2#Determine The amount of Work#Ex4_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.2/Ex4_2.R#S##8448
+4#The second law of Thermodynamics#4.15#answer in F#Ex4_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.15/Ex4_15.R#S##8459
+4#The second law of Thermodynamics#4.14#specific heat #Ex4_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.14/Ex4_14.R#S##8458
+4#The second law of Thermodynamics#4.13#Determine the temprature#Ex4_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.13/Ex4_13.R#S##8457
+4#The second law of Thermodynamics#4.12#How much energy #Ex4_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.12/Ex4_12.R#S##8456
+4#The second law of Thermodynamics#4.11#how much of this energy unavailable#Ex4_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.11/Ex4_11.R#S##8455
+4#The second law of Thermodynamics#4.10#Compare your answer#Ex4_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.10/Ex4_10.R#S##8454
+4#The second law of Thermodynamics#4.1#What is the Efficiency of the cycle#Ex4_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH4/EX4.1/Ex4_1.R#S##8447
+3#The first law of Thermodynamics#3.9#Determine the inlet#Ex3_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.9/Ex3_9.R#S##8435
+3#The first law of Thermodynamics#3.8#Determine the Velocity#Ex3_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.8/Ex3_8.R#S##8434
+3#The first law of Thermodynamics#3.7#Determine the mass flow rate#Ex3_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.7/Ex3_7.R#S##8433
+3#The first law of Thermodynamics#3.6#Determine the mass flow rate#Ex3_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.6/Ex3_6.R#S##8432
+3#The first law of Thermodynamics#3.5#Determine the mass flow rate#Ex3_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.5/Ex3_5.R#S##8431
+3#The first law of Thermodynamics#3.4#Determine the change#Ex3_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.4/Ex3_4.R#S##8430
+3#The first law of Thermodynamics#3.21#Determine the Flow rate#Ex3_21.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.21/Ex3_21.R#S##8446
+3#The first law of Thermodynamics#3.19#Determine the Velocity#Ex3_19.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.19/Ex3_19.R#S##8445
+3#The first law of Thermodynamics#3.18#Determine the Velocity#Ex3_18.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.18/Ex3_18.R#S##8444
+3#The first law of Thermodynamics#3.17#How much energy has been added #Ex3_17.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.17/Ex3_17.R#S##8443
+3#The first law of Thermodynamics#3.16#Determine the direction and magnitude#Ex3_16.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.16/Ex3_16.R#S##10657
+3#The first law of Thermodynamics#3.15#Determine the magnitude and Direction#Ex3_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.15/Ex3_15.R#S##8441
+3#The first law of Thermodynamics#3.14#Determine the work output#Ex3_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.14/Ex3_14.R#S##8440
+3#The first law of Thermodynamics#3.13#Determine the work output#Ex3_13.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.13/Ex3_13.R#S##8439
+3#The first law of Thermodynamics#3.12#Determine the work output#Ex3_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.12/Ex3_12.R#S##8438
+3#The first law of Thermodynamics#3.11#Determine the Power produced#Ex3_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.11/Ex3_11.R#S##8437
+3#The first law of Thermodynamics#3.10#Determine the final gas Temprature#Ex3_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH3/EX3.10/Ex3_10.R#S##8436
+2# Work Energy and Heat#2.9#Determine the change#Ex2_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.9/Ex2_9.R#S##8424
+2# Work Energy and Heat#2.8#Determine the change#Ex2_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.8/Ex2_8.R#S##8423
+2# Work Energy and Heat#2.7#Determine the horsepower#Ex2_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.7/Ex2_7.R#S##8422
+2# Work Energy and Heat#2.6#Determine the change#Ex2_6.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.6/Ex2_6.R#S##8421
+2# Work Energy and Heat#2.5#Determine the change#Ex2_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.5/Ex2_5.R#S##8420
+2# Work Energy and Heat#2.4#How much work done#Ex2_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.4/Ex2_4.R#S##8419
+2# Work Energy and Heat#2.3#How much work done#Ex2_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.3/Ex2_3.R#S##8418
+2# Work Energy and Heat#2.2#How much work done#Ex2_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.2/Ex2_2.R#S##8606
+2# Work Energy and Heat#2.15#Determine the work done#Ex2_15.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.15/Ex2_15.R#S##8429
+2# Work Energy and Heat#2.14#How much work done#Ex2_14.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.14/Ex2_14.R#S##8428
+2# Work Energy and Heat#2.12#Determine the Flow work #Ex2_12.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.12/Ex2_12.R#S##8427
+2# Work Energy and Heat#2.11#Determine the Flow work term #Ex2_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.11/Ex2_11.R#S##8426
+2# Work Energy and Heat#2.10#what will kinetic Energy#Ex2_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH2/EX2.10/Ex2_10.R#S##8425
+1#Fundamental Concepts#1.9#Determine the pressure#Ex1_9.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.9/Ex1_9.R#S##8415
+1#Fundamental Concepts#1.8#Determine the pressure#Ex1_8.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.8/Ex1_8.R#S##10656
+1#Fundamental Concepts#1.7#Determine the Pressure#Ex1_7.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.7/Ex1_7.R#S##8413
+1#Fundamental Concepts#1.5#Derive the convesion Factor#Ex1_5.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.5/Ex1_5.R#S##10655
+1#Fundamental Concepts#1.4#Determine its Weight and horizontal acceleration#Ex1_4.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.4/Ex1_4.R#S##8412
+1#Fundamental Concepts#1.3#Weight on Earth#Ex1_3.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.3/Ex1_3.R#S##8411
+1#Fundamental Concepts#1.2#Weight on Moon#Ex1_2.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.2/Ex1_2.R#S##8410
+1#Fundamental Concepts#1.11#Determine the pressure#Ex1_11.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.11/Ex1_11.R#S##8417
+1#Fundamental Concepts#1.10#Determine the pressure#Ex1_10.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.10/Ex1_10.R#S##8416
+1#Fundamental Concepts#1.1#Determine the Temprature#Ex1_1.R#Thermodynamics_And_Heat_Power_by_I_Granet_And_M_Bluestein/CH1/EX1.1/Ex1_1.R#S##8409
