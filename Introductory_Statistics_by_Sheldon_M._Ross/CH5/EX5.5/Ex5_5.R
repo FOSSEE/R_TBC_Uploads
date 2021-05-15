@@ -1,10 +1,11 @@
 # Page No. 219
-ex=1
+library(prob)
+ex=0
 sample_space<-(rolldie(1))
-print(rolldie(1))
-p <- rep(1/6, times = 6)
-for (i in seq(from=1, to=5, by=1)){
-  ex<-ex+i*p
+print(sample_space)
+len<-(sum(table(sample_space)))
+p =1/6
+for (i in 1:len){
+  ex=(i*p)+ex
 }
-
-cat("E[X]=",ex)
+print(ex)

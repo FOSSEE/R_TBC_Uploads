@@ -24,4 +24,4 @@ p10=fractions(p[10]/total_balls)
 print(p10)
 p11=fractions(p[11]/total_balls)
 print(p11)
-# The answer may slightly vary due to rounding off values.
+# The answer may vary due to difference in representation
