@@ -1,9 +1,0 @@
-#page=9
-a<-24380000
-b<-0.000009851
-c<-7300000000
-d<-0.00018400
-formatC(a,format='e',digits=3)
-formatC(b,format='e',digits=3)
-formatC(c,format='e',digits=4)
-formatC(d,format='e',digits=4)
