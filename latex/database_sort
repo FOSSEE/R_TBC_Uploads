@@ -1,183 +1,76 @@
-2# Describing Data Sets#2.1#Sick Leave#Ex2_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.1/Ex2_1.R#S##9117
-2# Describing Data Sets#2.2#Golf Tournament#Ex2_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.2/Ex2_2.R#S##9118
-2# Describing Data Sets#2.3#Birth Rate#Ex2_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.3/Ex2_3.R#S##9119
-2# Describing Data Sets#2.4#Blood Pressure#Ex2_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.4/Ex2_4.R#S##11753
-2# Describing Data Sets#2.5#Income#Ex2_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.5/Ex2_5.R#S##9121
-2# Describing Data Sets#2.6#Minority#Ex2_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.6/Ex2_6.R#S##11752
-2# Describing Data Sets#2.7#Sporting Convention#Ex2_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.7/Ex2_7.R#S##13888
-3# Using Statistics to Summarize Data Sets#3.1#Fuel Efficiency#Ex3_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.1/Ex3_1.R#S##9123
-3# Using Statistics to Summarize Data Sets#3.2#Masters Golf Tournament#Ex3_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.2/Ex3_2.R#S##9124
-3# Using Statistics to Summarize Data Sets#3.3#Suits#Ex3_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.3/Ex3_3.R#S##9125
-3# Using Statistics to Summarize Data Sets#3.4#Motorcycle Accidents#Ex3_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.4/Ex3_4.R#S##11754
-3# Using Statistics to Summarize Data Sets#3.5#Deviations#Ex3_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.5/Ex3_5.R#S##9127
-3# Using Statistics to Summarize Data Sets#3.6#Drivers License#Ex3_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.6/Ex3_6.R#S##9128
-3# Using Statistics to Summarize Data Sets#3.7#Smoking#Ex3_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.7/Ex3_7.R#S##9129
-3# Using Statistics to Summarize Data Sets#3.8#NBA#Ex3_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.8/Ex3_8.R#S##9130
-3# Using Statistics to Summarize Data Sets#3.9#Percentile#Ex3_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.9/Ex3_9.R#S##9131
-3# Using Statistics to Summarize Data Sets#3.10#Assets#Ex3_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.10/Ex3_10.R#S##9132
-3# Using Statistics to Summarize Data Sets#3.11#Bowling Tournament#Ex3_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.11/Ex3_11.R#S##9133
-3# Using Statistics to Summarize Data Sets#3.12#Dresses#Ex3_12.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.12/Ex3_12.R#S##9134
-3# Using Statistics to Summarize Data Sets#3.13#Day Care#Ex3_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.13/Ex3_13.R#S##9135
-3# Using Statistics to Summarize Data Sets#3.14#Dice#Ex3_14.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.14/Ex3_14.R#S##9136
-3# Using Statistics to Summarize Data Sets#3.15#Variance of Data#Ex3_15.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.15/Ex3_15.R#S##9137
-3# Using Statistics to Summarize Data Sets#3.16#Variance#Ex3_16.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.16/Ex3_16.R#S##9138
-3# Using Statistics to Summarize Data Sets#3.17#Identity#Ex3_17.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.17/Ex3_17.R#S##13889
-3# Using Statistics to Summarize Data Sets#3.18#Law Enforcement Officers#Ex3_18.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.18/Ex3_18.R#S##13890
-3# Using Statistics to Summarize Data Sets#3.19#Miller Analogies Test#Ex3_19.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.19/Ex3_19.R#S##9141
-3# Using Statistics to Summarize Data Sets#3.20#History Exam#Ex3_20.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.20/Ex3_20.R#S##11756
-3# Using Statistics to Summarize Data Sets#3.21#Stem and Leaf#Ex3_21.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.21/Ex3_21.R#S##11757
-3# Using Statistics to Summarize Data Sets#3.22#Milk#Ex3_22.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.22/Ex3_22.R#S##11758
-3# Using Statistics to Summarize Data Sets#3.23#Correlation Coefficient#Ex3_23.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.23/Ex3_23.R#S##9143
-3# Using Statistics to Summarize Data Sets#3.24#Sample Correlation Coefficient#Ex3_24.R#Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.24/Ex3_24.R#S##9144
-4# Probability #4.1#Probability#Ex4_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.1/Ex4_1.R#S##13891
-4# Probability #4.2#Boy Girl#Ex4_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.2/Ex4_2.R#S##13991
-4# Probability #4.3#AE VISA#Ex4_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.3/Ex4_3.R#S##9259
-4# Probability #4.4#Retirement Centre#Ex4_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.4/Ex4_4.R#S##11791
-4# Probability #4.5#Two Dice#Ex4_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.5/Ex4_5.R#S##11792
-4# Probability #4.6#Married Couples#Ex4_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.6/Ex4_6.R#S##11793
-4# Probability #4.7#Spanish or French#Ex4_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.7/Ex4_7.R#S##11794
-4# Probability #4.8#Earnings#Ex4_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.8/Ex4_8.R#S##11795
-4# Probability #4.9#Conditional Probability#Ex4_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.9/Ex4_9.R#S##11796
-4# Probability #4.10#Parent Daughter Dinner#Ex4_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.10/Ex4_10.R#S##11797
-4# Probability #4.11#California State College#Ex4_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.11/Ex4_11.R#S##11798
-4# Probability #4.12#Man or Woman#Ex4_12.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.12/Ex4_12.R#S##11799
-4# Probability #4.13#Dice#Ex4_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.13/Ex4_13.R#S##9269
-4# Probability #4.14#Female Student#Ex4_14.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.14/Ex4_14.R#S##11806
-4# Probability #4.15#Children#Ex4_15.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.15/Ex4_15.R#S##11805
-4# Probability #4.16#Insurance Company#Ex4_16.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.16/Ex4_16.R#S##11800
-4# Probability #4.17#Blood Test#Ex4_17.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.17/Ex4_17.R#S##11804
-4# Probability #4.18#Different Choices#Ex4_18.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.18/Ex4_18.R#S##9274
-4# Probability #4.19#Group of Married Couples#Ex4_19.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.19/Ex4_19.R#S##11803
-4# Probability #4.20#Four People in a Room#Ex4_20.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.20/Ex4_20.R#S##13892
-4# Probability #4.21#Probability#Ex4_21.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.21/Ex4_21.R#S##13893
-4# Probability #4.22#Random Sample#Ex4_22.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.22/Ex4_22.R#S##13894
-4# Probability #4.23#Committee#Ex4_23.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.23/Ex4_23.R#S##13895
-4# Probability #4.24#Compare#Ex4_24.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.24/Ex4_24.R#S##13896
-4# Probability #4.25#Possible Arrangements#Ex4_25.R#Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.25/Ex4_25.R#S##13897
-5# Discrete Random Variables #5.1#NBA#Ex5_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.1/Ex5_1.R#S##13974
-5# Discrete Random Variables #5.2#Sexes of 3 Children#Ex5_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.2/Ex5_2.R#S##13929
-5# Discrete Random Variables #5.3#Random Variable#Ex5_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.3/Ex5_3.R#S##9241
-5# Discrete Random Variables #5.4#Saleswoman#Ex5_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.4/Ex5_4.R#S##9242
-5# Discrete Random Variables #5.5#Die#Ex5_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.5/Ex5_5.R#S##13975
-5# Discrete Random Variables #5.6#Variable#Ex5_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.6/Ex5_6.R#S##13194
-5# Discrete Random Variables #5.7#Insurance Company#Ex5_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.7/Ex5_7.R#S##13195
-5# Discrete Random Variables #5.8#Christmas Bonus#Ex5_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.8/Ex5_8.R#S##9244
-5# Discrete Random Variables #5.9#Annual Incomes#Ex5_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.9/Ex5_9.R#S##11856
-5# Discrete Random Variables #5.10#Law Enforcement Employees#Ex5_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.10/Ex5_10.R#S##11864
-5# Discrete Random Variables #5.11#Bids#Ex5_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.11/Ex5_11.R#S##9247
-5# Discrete Random Variables #5.12#VarX#Ex5_12.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.12/Ex5_12.R#S##13196
-5# Discrete Random Variables #5.13#Investment#Ex5_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.13/Ex5_13.R#S##9248
-5# Discrete Random Variables #5.14#Dice#Ex5_14.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.14/Ex5_14.R#S##11857
-5# Discrete Random Variables #5.15#Gross Earnings#Ex5_15.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.15/Ex5_15.R#S##9250
-5# Discrete Random Variables #5.16#Coins#Ex5_16.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.16/Ex5_16.R#S##11858
-5# Discrete Random Variables #5.17#Genes#Ex5_17.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.17/Ex5_17.R#S##11859
-5# Discrete Random Variables #5.18#Binomial Random Variable#Ex5_18.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.18/Ex5_18.R#S##11860
-5# Discrete Random Variables #5.19#Screws#Ex5_19.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.19/Ex5_19.R#S##9254
-5# Discrete Random Variables #5.20#Hypergeometric Random Variable#Ex5_20.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.20/Ex5_20.R#S##11861
-5# Discrete Random Variables #5.21#Poisson Random Variable#Ex5_21.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.21/Ex5_21.R#S##11862
-5# Discrete Random Variables #5.22#Items#Ex5_22.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.22/Ex5_22.R#S##11863
-5# Discrete Random Variables #5.23#Accidents#Ex5_23.R#Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.23/Ex5_23.R#S##11855
-6# Normal Random Variables#6.1#SAT#Ex6_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.1/Ex6_1.R#S##13934
-6# Normal Random Variables#6.2#P#Ex6_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.2/Ex6_2.R#S##11762
-6# Normal Random Variables#6.3#P Value#Ex6_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.3/Ex6_3.R#S##11763
-6# Normal Random Variables#6.4#PZ#Ex6_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.4/Ex6_4.R#S##11764
-6# Normal Random Variables#6.5#Determine P#Ex6_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.5/Ex6_5.R#S##11765
-6# Normal Random Variables#6.6#IQ#Ex6_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.6/Ex6_6.R#S##11766
-6# Normal Random Variables#6.7#Standard Deviation#Ex6_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.7/Ex6_7.R#S##11767
-6# Normal Random Variables#6.8#Light Bulb#Ex6_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.8/Ex6_8.R#S##11770
-6# Normal Random Variables#6.9#US Department of Agriculture#Ex6_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.9/Ex6_9.R#S##13931
-6# Normal Random Variables#6.10#Normal Random Variables#Ex6_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.10/Ex6_10.R#S##13983
-6# Normal Random Variables#6.11#IQ Test#Ex6_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.11/Ex6_11.R#S##13904
-7# Distributions of Sampling Statistics#7.1#Population#Ex7_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.1/Ex7_1.R#S##13902
-7# Distributions of Sampling Statistics#7.2#Insurance Company#Ex7_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.2/Ex7_2.R#S##11773
-7# Distributions of Sampling Statistics#7.3#Blood Cholesterol Levels#Ex7_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.3/Ex7_3.R#S##11774
-7# Distributions of Sampling Statistics#7.4#Astronomer#Ex7_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.4/Ex7_4.R#S##11775
-7# Distributions of Sampling Statistics#7.5#Students#Ex7_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.5/Ex7_5.R#S##13198
-7# Distributions of Sampling Statistics#7.6#Election#Ex7_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.6/Ex7_6.R#S##13903
-7# Distributions of Sampling Statistics#7.7#Candidates#Ex7_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.7/Ex7_7.R#S##11776
-8# Estimation#8.1#Amount of Damages#Ex8_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.1/Ex8_1.R#S##9222
-8# Estimation#8.2#Level of Potassium#Ex8_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.2/Ex8_2.R#S##9223
-8# Estimation#8.3#Dress Code#Ex8_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.3/Ex8_3.R#S##11841
-8# Estimation#8.4#Nine Electronic Components#Ex8_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.4/Ex8_4.R#S##11842
-8# Estimation#8.5#Signal#Ex8_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.5/Ex8_5.R#S##11844
-8# Estimation#8.6#Confidence Interval Estimate#Ex8_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.6/Ex8_6.R#S##11845
-8# Estimation#8.7#Population Standard Deviation#Ex8_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.7/Ex8_7.R#S##11846
-8# Estimation#8.8#Weights of Salmon#Ex8_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.8/Ex8_8.R#S##11847
-8# Estimation#8.9#Average Nicotine Content#Ex8_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.9/Ex8_9.R#S##11848
-8# Estimation#8.10#Salmon#Ex8_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.10/Ex8_10.R#S##11849
-8# Estimation#8.11#Upper Confidence Bound#Ex8_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.11/Ex8_11.R#S##11850
-8# Estimation#8.13#EPA#Ex8_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.13/Ex8_13.R#S##11851
-8# Estimation#8.14#PCB#Ex8_14.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.14/Ex8_14.R#S##11852
-8# Estimation#8.15#Nonsmokers#Ex8_15.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.15/Ex8_15.R#S##9235
-8# Estimation#8.16#The New York Times#Ex8_16.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.16/Ex8_16.R#S##11853
-8# Estimation#8.17#Confidence Interval Estimate#Ex8_17.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.17/Ex8_17.R#S##9237
-8# Estimation#8.18#Working Conditions#Ex8_18.R#Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.18/Ex8_18.R#S##11854
-9# Testing Statistical Hypotheses#9.1#Star#Ex9_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.1/Ex9_1.R#S##11783
-9# Testing Statistical Hypotheses#9.2#Absolute Value#Ex9_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.2/Ex9_2.R#S##11790
-9# Testing Statistical Hypotheses#9.3#Null Hypothesis#Ex9_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.3/Ex9_3.R#S##13977
-9# Testing Statistical Hypotheses#9.4#Cigarettes#Ex9_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.4/Ex9_4.R#S##11784
-9# Testing Statistical Hypotheses#9.5#Clinic Patients#Ex9_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.5/Ex9_5.R#S##13989
-9# Testing Statistical Hypotheses#9.6#pH#Ex9_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.6/Ex9_6.R#S##11786
-9# Testing Statistical Hypotheses#9.7#Fiberglass Tire#Ex9_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.7/Ex9_7.R#S##11787
-9# Testing Statistical Hypotheses#9.8#US Population#Ex9_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.8/Ex9_8.R#S##9180
-9# Testing Statistical Hypotheses#9.9#Computer Chip Manufacturer#Ex9_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.9/Ex9_9.R#S##11788
-9# Testing Statistical Hypotheses#9.10#Manufacturing Facility#Ex9_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.10/Ex9_10.R#S##9182
-9# Testing Statistical Hypotheses#9.11#DNA#Ex9_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.11/Ex9_11.R#S##11789
-10#Hypothesis Tests Concerning Two Populations #10.1#Tire#Ex10_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.1/Ex10_1.R#S##11835
-10#Hypothesis Tests Concerning Two Populations #10.2#Set of Tires#Ex10_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.2/Ex10_2.R#S##11836
-10#Hypothesis Tests Concerning Two Populations #10.3#New Cholesterol Lowering Medication#Ex10_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.3/Ex10_3.R#S##11837
-10#Hypothesis Tests Concerning Two Populations #10.4#Placebo Effect#Ex10_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.4/Ex10_4.R#S##11838
-10#Hypothesis Tests Concerning Two Populations #10.5#H0#Ex10_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.5/Ex10_5.R#S##11865
-10#Hypothesis Tests Concerning Two Populations #10.6#Cold Research Institute#Ex10_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.6/Ex10_6.R#S##11866
-10#Hypothesis Tests Concerning Two Populations #10.8#Gasoline#Ex10_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.8/Ex10_8.R#S##11867
-10#Hypothesis Tests Concerning Two Populations #10.9#Management#Ex10_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.9/Ex10_9.R#S##11868
-10#Hypothesis Tests Concerning Two Populations #10.10#Criminal Proceedings#Ex10_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.10/Ex10_10.R#S##13899
-10#Hypothesis Tests Concerning Two Populations #10.11#Gender of Future Children#Ex10_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.11/Ex10_11.R#S##11873
-10#Hypothesis Tests Concerning Two Populations #10.13#Computer Chips#Ex10_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.13/Ex10_13.R#S##11839
-11# Analysis of Variance#11.1#Consumer Cooperative#Ex11_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH11/EX11.1/Ex11_1.R#S##13900
-11# Analysis of Variance#11.4#Reading Tests#Ex11_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH11/EX11.4/Ex11_4.R#S##13901
-11# Analysis of Variance#11.5#Defective Items#Ex11_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH11/EX11.5/Ex11_5.R#S##11781
-12# Linear Regression#12.1#Washing Machine#Ex12_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.1/Ex12_1.R#S##9184
-12# Linear Regression#12.2#Midwestern Bank#Ex12_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.2/Ex12_2.R#S##9185
-12# Linear Regression#12.3#Additional Statistics#Ex12_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.3/Ex12_3.R#S##11807
-12# Linear Regression#12.4#Fuel Consumption#Ex12_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.4/Ex12_4.R#S##11808
-12# Linear Regression#12.5#Galtons Thesis#Ex12_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.5/Ex12_5.R#S##11809
-12# Linear Regression#12.6#Motor Vehicle Deaths#Ex12_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.6/Ex12_6.R#S##9189
-12# Linear Regression#12.7#Adult Height#Ex12_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.7/Ex12_7.R#S##13933
-12# Linear Regression#12.8#Hamburger Concession#Ex12_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.8/Ex12_8.R#S##9191
-12# Linear Regression#12.9#Height#Ex12_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.9/Ex12_9.R#S##11810
-12# Linear Regression#12.10#Football Game#Ex12_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.10/Ex12_10.R#S##11811
-12# Linear Regression#12.13#Suicide Rate#Ex12_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.13/Ex12_13.R#S##11812
-13# Chi Squared Goodness of Fit Tests#13.2#Stomach Cancer Patients#Ex13_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.2/Ex13_2.R#S##11815
-13# Chi Squared Goodness of Fit Tests#13.3#Accidents#Ex13_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.3/Ex13_3.R#S##13978
-13# Chi Squared Goodness of Fit Tests#13.4#Gregor Mendel#Ex13_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.4/Ex13_4.R#S##13935
-13# Chi Squared Goodness of Fit Tests#13.8#Level of Significance#Ex13_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.8/Ex13_8.R#S##13976
-13# Chi Squared Goodness of Fit Tests#13.9#Public Health Scientist#Ex13_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.9/Ex13_9.R#S##11817
-13# Chi Squared Goodness of Fit Tests#13.10#Lung Cancer#Ex13_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.10/Ex13_10.R#S##9165
-13# Chi Squared Goodness of Fit Tests#13.11#Female Office Workers#Ex13_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.11/Ex13_11.R#S##11819
-14# Nonparametric Hypotheses Tests #14.1#Shoe Store#Ex14_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.1/Ex14_1.R#S##11822
-14# Nonparametric Hypotheses Tests #14.2#Sunscreen Lotions#Ex14_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.2/Ex14_2.R#S##11823
-14# Nonparametric Hypotheses Tests #14.3#Bank#Ex14_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.3/Ex14_3.R#S##11824
-14# Nonparametric Hypotheses Tests #14.4#Four Paired Sample Values#Ex14_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.4/Ex14_4.R#S##13925
-14# Nonparametric Hypotheses Tests #14.5#Psychology#Ex14_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.5/Ex14_5.R#S##13926
-14# Nonparametric Hypotheses Tests #14.6#Normal Approximation#Ex14_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.6/Ex14_6.R#S##11825
-14# Nonparametric Hypotheses Tests #14.7#Symmetric#Ex14_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.7/Ex14_7.R#S##11826
-14# Nonparametric Hypotheses Tests #14.8#Reflex Reaction Time#Ex14_8.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.8/Ex14_8.R#S##13927
-14# Nonparametric Hypotheses Tests #14.9#Sum of the Ranks#Ex14_9.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.9/Ex14_9.R#S##11827
-14# Nonparametric Hypotheses Tests #14.10#Vocabulary#Ex14_10.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.10/Ex14_10.R#S##13898
-14# Nonparametric Hypotheses Tests #14.11#Like ex 9#Ex14_11.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.11/Ex14_11.R#S##13199
-14# Nonparametric Hypotheses Tests #14.12#Softball#Ex14_12.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.12/Ex14_12.R#S##13988
-14# Nonparametric Hypotheses Tests #14.13#Approximate p value#Ex14_13.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.13/Ex14_13.R#S##11829
-14# Nonparametric Hypotheses Tests #14.14#Normal Approximation#Ex14_14.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.14/Ex14_14.R#S##11830
-14# Nonparametric Hypotheses Tests #14.15#Fahrenheit#Ex14_15.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.15/Ex14_15.R#S##11831
-14# Nonparametric Hypotheses Tests #14.16#Basketball Team#Ex14_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.16/Ex14_6.R#S##13937
-14# Nonparametric Hypotheses Tests #14.17#Wines#Ex14_17.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.17/Ex14_17.R#S##11832
-14# Nonparametric Hypotheses Tests #14.18#Null Hypothesis#Ex14_18.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.18/Ex14_18.R#S##11833
-14# Nonparametric Hypotheses Tests #14.19#DVD Players#Ex14_19.R#Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.19/Ex14_19.R#S##11834
-15# Quality Control #15.1#Computer Servicing Firm#Ex15_1.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.1/Ex15_1.R#S##11759
-15# Quality Control #15.2#Video Rental Store#Ex15_2.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.2/Ex15_2.R#S##9168
-15# Quality Control #15.3#Automobile Air Conditioners#Ex15_3.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.3/Ex15_3.R#S##9169
-15# Quality Control #15.4#Steel Shafts#Ex15_4.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.4/Ex15_4.R#S##11761
-15# Quality Control #15.5#Automatic Screw Machine#Ex15_5.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.5/Ex15_5.R#S##11760
-15# Quality Control #15.6#Repair Shop#Ex15_6.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.6/Ex15_6.R#S##9172
-15# Quality Control #15.7#Subgroup Average#Ex15_7.R#Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.7/Ex15_7.R#S##13201
+2# Financial Theory#2.7#Basic theory of interest rates#Ex2_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R#S##399
+2# Financial Theory#2.8#Basic theory of interest rates#Ex2_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R#S##400
+2# Financial Theory#2.9#Basic pricing of fixed income securities#Ex2_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R#S##401
+2# Financial Theory#2.10#Interest rate sensitivity and bond portfolio immunization#Ex2_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R#S##402
+2# Financial Theory#2.24#Black Scholes model in MATLAB#Ex2_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R#S##403
+3#Basics of Numerical Analysis#3.2#Error propagation conditioning and instability#Ex3_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R#S##404
+3#Basics of Numerical Analysis#3.4#Vector and matrix norms#Ex3_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R#S##405
+3#Basics of Numerical Analysis#3.6#Vector and matrix norms#Ex3_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R#S##406
+3#Basics of Numerical Analysis#3.7#Condition number for a matrix#Ex3_7.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R#S##407
+3#Basics of Numerical Analysis#3.8#Condition number for a matrix#Ex3_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R#S##408
+3#Basics of Numerical Analysis#3.11#Direct methods for solving systems of linear equations#Ex3_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R#S##409
+3#Basics of Numerical Analysis#3.12#Direct methods for solving systems of linear equations#Ex3_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R#S##410
+3#Basics of Numerical Analysis#3.13#Iterative methods for solving systems of linear equations#Ex3_13.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R#S##411
+3#Basics of Numerical Analysis#3.14#Iterative methods for solving systems of linear equations#Ex3_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R#S##412
+3#Basics of Numerical Analysis#3.15#FUNCTION APPROXIMATION AND INTERPOLATION#Ex3_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R#S##413
+3#Basics of Numerical Analysis#3.16#Elementary polynomial interpolation#Ex3_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R#S##414
+3#Basics of Numerical Analysis#3.17#Elementary polynomial interpolation#Ex3_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R#S##415
+3#Basics of Numerical Analysis#3.18#Interpolation by cubic splines#Ex3_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R#S##416
+3#Basics of Numerical Analysis#3.22#Bisection method#Ex3_22.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R#S##417
+3#Basics of Numerical Analysis#3.23#Newtons method#Ex3_23.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R#S##418
+3#Basics of Numerical Analysis#3.24#Optimization based solution of non linear equations#Ex3_24.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R#S##419
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.1#Numerical integration in MATLAB#Ex4_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R#S##420
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.2#MONTE CARLO INTEGRATION#Ex4_2.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R#S##421
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.3#MONTE CARLO INTEGRATION#Ex4_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R#S##422
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.4#Generating pseudorandom numbers#Ex4_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R#S##423
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.5#Generating pseudorandom numbers#Ex4_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R#S##424
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.6#Inverse transform method#Ex4_6.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R#S##425
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.8#Generating normal variates by the polar approach#Ex4_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R#S##426
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.9#Generating normal variates by the polar approach#Ex4_9.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R#S##427
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.10#SETTING THE NUMBER OF REPLICATIONS#Ex4_10.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R#S##428
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.11#Antithetic sampling#Ex4_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R#S##429
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.12#BlsMCAV#Ex4_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R#S##430
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.14#Importance sampling#Ex4_14.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R#S##431
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.15#Generating Halton low discrepancy sequences#Ex4_15.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R#S##432
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.16#Generating Halton low discrepancy sequences#Ex4_16.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R#S##433
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.17#Generating Halton low discrepancy sequences#Ex4_17.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R#S##434
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.18#Generating Sobol low discrepancy sequences#Ex4_18.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R#S##435
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.19#Generating Sobol low discrepancy sequences#Ex4_19.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R#S##436
+4# Numerical Integration Deterministic and Monte Carlo Methods#4.20#Generating Sobol low discrepancy sequences#Ex4_20.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R#S##437
+5# Finite Difference Methods for Partial Differential Equations#5.1#Instability in a finite difference scheme#Ex5_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R#S##438
+5# Finite Difference Methods for Partial Differential Equations#5.3#Solving the heat equation by an explicit method#Ex5_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R#S##439
+5# Finite Difference Methods for Partial Differential Equations#5.4#Solving the heat equation by a fully implicit method#Ex5_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R#S##440
+6# Convex Optimization#6.1#Finite vs infinite dimensional problems#Ex6_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R#S##441
+6# Convex Optimization#6.3#Linear vs non linear problems#Ex6_3.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R#S##442
+6# Convex Optimization#6.5#Penalty function approach#Ex6_5.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R#S##443
+6# Convex Optimization#6.8#Kuhn Tucker conditions#Ex6_8.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R#S##444
+6# Convex Optimization#6.12#Geometric and algebraic features of linear programming#Ex6_12.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R#S##445
+7# Option Pricing by Binomial and Trinomial Lattices#7.1#Calibrating a binomial lattice#Ex7_1.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R#S##446
+7# Option Pricing by Binomial and Trinomial Lattices#7.2#Accuracy of the binomial lattice for decreasing deltaT#Page_409_CompLatticeBLS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R#S##447
+7# Option Pricing by Binomial and Trinomial Lattices#7.3#Price a pay later option by a binomial lattice#Page_411_Luenberger_Investment Science_Ex13_11.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R#S##448
+7# Option Pricing by Binomial and Trinomial Lattices#7.4#Pricing an European call by a binomial lattice#Page_413_SmartEurLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R#S##449
+7# Option Pricing by Binomial and Trinomial Lattices#7.5#Pricing an American put by a binomial lattice#Page_416_AmPutLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R#S##450
+7# Option Pricing by Binomial and Trinomial Lattices#7.6#Pricing an American spread option by a bidimensional binomial lattice#Page_420_AmSpreadLattice.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R#S##451
+7# Option Pricing by Binomial and Trinomial Lattices#7.7#Pricing an European call by a trinomial lattice#Page_424_EuCallTrinomial.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R#S##452
+8#Option Pricing by Monte Carlo Methods #8.1#Generate asset price paths by Monte Carlo simulation#Page_433_AssetPaths.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R#S##453
+8#Option Pricing by Monte Carlo Methods #8.2#Vectorized code to generate asset price paths#Page_434_AssetPathsV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R#S##454
+8#Option Pricing by Monte Carlo Methods #8.3#Evaluating the cost of a stop loss hedging strategy#Page_436_StopLoss.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R#S##455
+8#Option Pricing by Monte Carlo Methods #8.4#Vectorized code for the stop loss hedging strategy#Page_437_StopLossV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R#S##456
+8#Option Pricing by Monte Carlo Methods #8.5#Evaluating the performance of delta hedging#Page_438_DeltaHedging.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R#S##457
+8#Option Pricing by Monte Carlo Methods #8.6#Implementing and checking path generation for the standard Wiener process by a Brownian bridge#Page_442_WienerBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R#S##458
+8#Option Pricing by Monte Carlo Methods #8.7#Code to price an exchange option analytically#Page_444_Exchange.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R#S##459
+8#Option Pricing by Monte Carlo Methods #8.8#Code to price an exchange option by Monte Carlo simulation#Page_445_ExchangeMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R#S##460
+8#Option Pricing by Monte Carlo Methods #8.9#Crude Monte Carlo simulation for a discrete barrier option#Page_446_DOPutMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R#S##461
+8#Option Pricing by Monte Carlo Methods #8.10#Conditional Monte Carlo simulation for a discrete barrier option#Page_449_D0PutMCCond.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R#S##462
+8#Option Pricing by Monte Carlo Methods #8.11#Using conditional Monte Carlo and importance sampling for a discrete barrier option#Page_453_DOPutMCCondIS.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R#S##463
+8#Option Pricing by Monte Carlo Methods #8.12#Monte Carlo simulation for an Asian option#Page_455_AsianMC.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R#S##464
+8#Option Pricing by Monte Carlo Methods #8.13#Monte Carlo simulation with control variates for an Asian option#Page_456_AsianMCCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R#S##465
+8#Option Pricing by Monte Carlo Methods #8.14#Using the geometric average Asian option as a control variate#Page_459_AsianMCGeoCV.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R#S##466
+8#Option Pricing by Monte Carlo Methods #8.15#Pricing an Asian option by Halton sequences#Page_460_AsianHalton.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R#S##467
+8#Option Pricing by Monte Carlo Methods #8.16#Simulating geometric Brownian motion by Halton sequences and the Brownian bridge#Page_464_GBMHaltonBridge.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R#S##468
+8#Option Pricing by Monte Carlo Methods #8.17#Improving the estimate of the option Delta by Common Random Numbers#Page_470_BlsDeltaMCNaive.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R#S##469
+8#Option Pricing by Monte Carlo Methods #8.18#Estimating the option Delta by a pathwise estimator#Page_472_BlsDeltaMCPath.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R#S##470
+9# Option Pricing by Finite Difference Methods#9.3#price a European vanilla put by a straightforward explicit scheme#Page_479_EuPutExpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R#S##471
+9# Option Pricing by Finite Difference Methods#9.4#price a vanilla European option by a fully implicit method#Page_484_EuPutImpl.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R#S##472
+9# Option Pricing by Finite Difference Methods#9.5#price a down and out put option by the Crank Nicolson method#Page_487_DOPutCK.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R#S##473
+10# Dynamic Programming#10.4#Simple asset allocation problem under uncertainty Monte Carlo sampling#Ex10_4.R#Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R#S##475

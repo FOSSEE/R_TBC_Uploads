@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Introductory Statistics\\by Sheldon M. Ross\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Jasleen Sondhi\\BSc. Physics, Mathematics and Computer Science\\Computer Science and Engineering\\Mount Carmel College\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Introductory Statistics
-\item [Author:] Sheldon M. Ross
-\item [Publisher:] Elservier Inc., Uk.
-\item [Edition:] 3
-\item [Year:] 2010
-\item [ISBN:] 978-0-12-374388-6
+\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
+\item [Author:] Paolo Brandimarte
+\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
+\item [Edition:] 2
+\item [Year:] 2006
+\item [ISBN:] 0471745030
 \end{description}
 
 \newpage
@@ -28,1312 +28,553 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 
 
 \setcounter{chapter}{1}
-\chapter{ Describing Data Sets}
-
-\vspace*{10mm}
-\curlable{Exa~2.1}
-\begin{code}
-\tcaption{Sick Leave}{Sick Leave}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.1/Ex2_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.2}
-\begin{code}
-\tcaption{Golf Tournament}{Golf Tournament}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.2/Ex2_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.3}
-\begin{code}
-\tcaption{Birth Rate}{Birth Rate}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.3/Ex2_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.4}
-\begin{code}
-\tcaption{Blood Pressure}{Blood Pressure}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.4/Ex2_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.5}
-\begin{code}
-\tcaption{Income}{Income}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.5/Ex2_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~2.6}
-\begin{code}
-\tcaption{Minority}{Minority}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.6/Ex2_6.R}
-\end{code}
+\chapter{ Financial Theory}
 
 \vspace*{10mm}
 \curlable{Exa~2.7}
 \begin{code}
-\tcaption{Sporting Convention}{Sporting Convention}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH2/EX2.7/Ex2_7.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
 \end{code}
-
-\chapter{ Using Statistics to Summarize Data Sets}
 
 \vspace*{10mm}
-\curlable{Exa~3.1}
+\curlable{Exa~2.8}
 \begin{code}
-\tcaption{Fuel Efficiency}{Fuel Efficiency}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.1/Ex3_1.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
 \end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.9}
+\begin{code}
+\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.10}
+\begin{code}
+\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.24}
+\begin{code}
+\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
+\end{code}
+
+\chapter{Basics of Numerical Analysis}
 
 \vspace*{10mm}
 \curlable{Exa~3.2}
 \begin{code}
-\tcaption{Masters Golf Tournament}{Masters Golf Tournament}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.2/Ex3_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.3}
-\begin{code}
-\tcaption{Suits}{Suits}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.3/Ex3_3.R}
+\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.4}
 \begin{code}
-\tcaption{Motorcycle Accidents}{Motorcycle Accidents}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.4/Ex3_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.5}
-\begin{code}
-\tcaption{Deviations}{Deviations}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.5/Ex3_5.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.6}
 \begin{code}
-\tcaption{Drivers License}{Drivers License}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.6/Ex3_6.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.7}
 \begin{code}
-\tcaption{Smoking}{Smoking}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.7/Ex3_7.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.8}
 \begin{code}
-\tcaption{NBA}{NBA}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.8/Ex3_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.9}
-\begin{code}
-\tcaption{Percentile}{Percentile}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.9/Ex3_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.10}
-\begin{code}
-\tcaption{Assets}{Assets}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.10/Ex3_10.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.11}
 \begin{code}
-\tcaption{Bowling Tournament}{Bowling Tournament}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.11/Ex3_11.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.12}
 \begin{code}
-\tcaption{Dresses}{Dresses}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.12/Ex3_12.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.13}
 \begin{code}
-\tcaption{Day Care}{Day Care}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.13/Ex3_13.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.14}
 \begin{code}
-\tcaption{Dice}{Dice}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.14/Ex3_14.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.15}
 \begin{code}
-\tcaption{Variance of Data}{Variance of Data}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.15/Ex3_15.R}
+\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.16}
 \begin{code}
-\tcaption{Variance}{Variance}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.16/Ex3_16.R}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.17}
 \begin{code}
-\tcaption{Identity}{Identity}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.17/Ex3_17.R}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.18}
 \begin{code}
-\tcaption{Law Enforcement Officers}{Law Enforcement Officers}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.18/Ex3_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.19}
-\begin{code}
-\tcaption{Miller Analogies Test}{Miller Analogies Test}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.19/Ex3_19.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.20}
-\begin{code}
-\tcaption{History Exam}{History Exam}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.20/Ex3_20.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.21}
-\begin{code}
-\tcaption{Stem and Leaf}{Stem and Leaf}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.21/Ex3_21.R}
+\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.22}
 \begin{code}
-\tcaption{Milk}{Milk}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.22/Ex3_22.R}
+\tcaption{Bisection method}{Bisection method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.23}
 \begin{code}
-\tcaption{Correlation Coefficient}{Correlation Coefficient}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.23/Ex3_23.R}
+\tcaption{Newtons method}{Newtons method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.24}
 \begin{code}
-\tcaption{Sample Correlation Coefficient}{Sample Correlation Coefficient}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH3/EX3.24/Ex3_24.R}
+\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
 \end{code}
 
-\chapter{ Probability }
+\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
 
 \vspace*{10mm}
 \curlable{Exa~4.1}
 \begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.1/Ex4_1.R}
+\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.2}
 \begin{code}
-\tcaption{Boy Girl}{Boy Girl}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.2/Ex4_2.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.3}
 \begin{code}
-\tcaption{AE VISA}{AE VISA}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.3/Ex4_3.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.4}
 \begin{code}
-\tcaption{Retirement Centre}{Retirement Centre}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.4/Ex4_4.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.5}
 \begin{code}
-\tcaption{Two Dice}{Two Dice}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.5/Ex4_5.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.6}
 \begin{code}
-\tcaption{Married Couples}{Married Couples}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.6/Ex4_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.7}
-\begin{code}
-\tcaption{Spanish or French}{Spanish or French}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.7/Ex4_7.R}
+\tcaption{Inverse transform method}{Inverse transform method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.8}
 \begin{code}
-\tcaption{Earnings}{Earnings}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.8/Ex4_8.R}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.9}
 \begin{code}
-\tcaption{Conditional Probability}{Conditional Probability}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.9/Ex4_9.R}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.10}
 \begin{code}
-\tcaption{Parent Daughter Dinner}{Parent Daughter Dinner}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.10/Ex4_10.R}
+\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.11}
 \begin{code}
-\tcaption{California State College}{California State College}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.11/Ex4_11.R}
+\tcaption{Antithetic sampling}{Antithetic sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.12}
 \begin{code}
-\tcaption{Man or Woman}{Man or Woman}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.12/Ex4_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.13}
-\begin{code}
-\tcaption{Dice}{Dice}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.13/Ex4_13.R}
+\tcaption{BlsMCAV}{BlsMCAV}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.14}
 \begin{code}
-\tcaption{Female Student}{Female Student}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.14/Ex4_14.R}
+\tcaption{Importance sampling}{Importance sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.15}
 \begin{code}
-\tcaption{Children}{Children}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.15/Ex4_15.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.16}
 \begin{code}
-\tcaption{Insurance Company}{Insurance Company}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.16/Ex4_16.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.17}
 \begin{code}
-\tcaption{Blood Test}{Blood Test}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.17/Ex4_17.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.18}
 \begin{code}
-\tcaption{Different Choices}{Different Choices}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.18/Ex4_18.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.19}
 \begin{code}
-\tcaption{Group of Married Couples}{Group of Married Couples}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.19/Ex4_19.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.20}
 \begin{code}
-\tcaption{Four People in a Room}{Four People in a Room}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.20/Ex4_20.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~4.21}
-\begin{code}
-\tcaption{Probability}{Probability}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.21/Ex4_21.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.22}
-\begin{code}
-\tcaption{Random Sample}{Random Sample}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.22/Ex4_22.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.23}
-\begin{code}
-\tcaption{Committee}{Committee}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.23/Ex4_23.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.24}
-\begin{code}
-\tcaption{Compare}{Compare}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.24/Ex4_24.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.25}
-\begin{code}
-\tcaption{Possible Arrangements}{Possible Arrangements}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH4/EX4.25/Ex4_25.R}
-\end{code}
-
-\chapter{ Discrete Random Variables }
+\chapter{ Finite Difference Methods for Partial Differential Equations}
 
 \vspace*{10mm}
 \curlable{Exa~5.1}
 \begin{code}
-\tcaption{NBA}{NBA}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.1/Ex5_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.2}
-\begin{code}
-\tcaption{Sexes of 3 Children}{Sexes of 3 Children}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.2/Ex5_2.R}
+\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.3}
 \begin{code}
-\tcaption{Random Variable}{Random Variable}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.3/Ex5_3.R}
+\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.4}
 \begin{code}
-\tcaption{Saleswoman}{Saleswoman}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.4/Ex5_4.R}
+\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~5.5}
-\begin{code}
-\tcaption{Die}{Die}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.5/Ex5_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.6}
-\begin{code}
-\tcaption{Variable}{Variable}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.6/Ex5_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.7}
-\begin{code}
-\tcaption{Insurance Company}{Insurance Company}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.7/Ex5_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.8}
-\begin{code}
-\tcaption{Christmas Bonus}{Christmas Bonus}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.8/Ex5_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.9}
-\begin{code}
-\tcaption{Annual Incomes}{Annual Incomes}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.9/Ex5_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.10}
-\begin{code}
-\tcaption{Law Enforcement Employees}{Law Enforcement Employees}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.10/Ex5_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.11}
-\begin{code}
-\tcaption{Bids}{Bids}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.11/Ex5_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.12}
-\begin{code}
-\tcaption{VarX}{VarX}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.12/Ex5_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.13}
-\begin{code}
-\tcaption{Investment}{Investment}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.13/Ex5_13.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.14}
-\begin{code}
-\tcaption{Dice}{Dice}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.14/Ex5_14.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.15}
-\begin{code}
-\tcaption{Gross Earnings}{Gross Earnings}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.15/Ex5_15.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.16}
-\begin{code}
-\tcaption{Coins}{Coins}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.16/Ex5_16.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.17}
-\begin{code}
-\tcaption{Genes}{Genes}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.17/Ex5_17.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.18}
-\begin{code}
-\tcaption{Binomial Random Variable}{Binomial Random Variable}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.18/Ex5_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.19}
-\begin{code}
-\tcaption{Screws}{Screws}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.19/Ex5_19.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.20}
-\begin{code}
-\tcaption{Hypergeometric Random Variable}{Hypergeometric Random Variable}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.20/Ex5_20.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.21}
-\begin{code}
-\tcaption{Poisson Random Variable}{Poisson Random Variable}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.21/Ex5_21.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.22}
-\begin{code}
-\tcaption{Items}{Items}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.22/Ex5_22.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~5.23}
-\begin{code}
-\tcaption{Accidents}{Accidents}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH5/EX5.23/Ex5_23.R}
-\end{code}
-
-\chapter{ Normal Random Variables}
+\chapter{ Convex Optimization}
 
 \vspace*{10mm}
 \curlable{Exa~6.1}
 \begin{code}
-\tcaption{SAT}{SAT}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.1/Ex6_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.2}
-\begin{code}
-\tcaption{P}{P}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.2/Ex6_2.R}
+\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.3}
 \begin{code}
-\tcaption{P Value}{P Value}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.3/Ex6_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.4}
-\begin{code}
-\tcaption{PZ}{PZ}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.4/Ex6_4.R}
+\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.5}
 \begin{code}
-\tcaption{Determine P}{Determine P}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.5/Ex6_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.6}
-\begin{code}
-\tcaption{IQ}{IQ}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.6/Ex6_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.7}
-\begin{code}
-\tcaption{Standard Deviation}{Standard Deviation}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.7/Ex6_7.R}
+\tcaption{Penalty function approach}{Penalty function approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.8}
 \begin{code}
-\tcaption{Light Bulb}{Light Bulb}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.8/Ex6_8.R}
+\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.9}
+\curlable{Exa~6.12}
 \begin{code}
-\tcaption{US Department of Agriculture}{US Department of Agriculture}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.9/Ex6_9.R}
+\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~6.10}
-\begin{code}
-\tcaption{Normal Random Variables}{Normal Random Variables}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.10/Ex6_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.11}
-\begin{code}
-\tcaption{IQ Test}{IQ Test}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH6/EX6.11/Ex6_11.R}
-\end{code}
-
-\chapter{ Distributions of Sampling Statistics}
+\chapter{ Option Pricing by Binomial and Trinomial Lattices}
 
 \vspace*{10mm}
 \curlable{Exa~7.1}
 \begin{code}
-\tcaption{Population}{Population}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.1/Ex7_1.R}
+\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.2}
 \begin{code}
-\tcaption{Insurance Company}{Insurance Company}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.2/Ex7_2.R}
+\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.3}
 \begin{code}
-\tcaption{Blood Cholesterol Levels}{Blood Cholesterol Levels}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.3/Ex7_3.R}
+\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.4}
 \begin{code}
-\tcaption{Astronomer}{Astronomer}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.4/Ex7_4.R}
+\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.5}
 \begin{code}
-\tcaption{Students}{Students}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.5/Ex7_5.R}
+\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.6}
 \begin{code}
-\tcaption{Election}{Election}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.6/Ex7_6.R}
+\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.7}
 \begin{code}
-\tcaption{Candidates}{Candidates}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH7/EX7.7/Ex7_7.R}
+\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
 \end{code}
 
-\chapter{ Estimation}
+\chapter{Option Pricing by Monte Carlo Methods }
 
 \vspace*{10mm}
 \curlable{Exa~8.1}
 \begin{code}
-\tcaption{Amount of Damages}{Amount of Damages}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.1/Ex8_1.R}
+\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.2}
 \begin{code}
-\tcaption{Level of Potassium}{Level of Potassium}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.2/Ex8_2.R}
+\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.3}
 \begin{code}
-\tcaption{Dress Code}{Dress Code}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.3/Ex8_3.R}
+\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.4}
 \begin{code}
-\tcaption{Nine Electronic Components}{Nine Electronic Components}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.4/Ex8_4.R}
+\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.5}
 \begin{code}
-\tcaption{Signal}{Signal}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.5/Ex8_5.R}
+\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.6}
 \begin{code}
-\tcaption{Confidence Interval Estimate}{Confidence Interval Estimate}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.6/Ex8_6.R}
+\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.7}
 \begin{code}
-\tcaption{Population Standard Deviation}{Population Standard Deviation}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.7/Ex8_7.R}
+\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.8}
 \begin{code}
-\tcaption{Weights of Salmon}{Weights of Salmon}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.8/Ex8_8.R}
+\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.9}
 \begin{code}
-\tcaption{Average Nicotine Content}{Average Nicotine Content}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.9/Ex8_9.R}
+\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.10}
 \begin{code}
-\tcaption{Salmon}{Salmon}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.10/Ex8_10.R}
+\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.11}
 \begin{code}
-\tcaption{Upper Confidence Bound}{Upper Confidence Bound}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.11/Ex8_11.R}
+\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.12}
+\begin{code}
+\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.13}
 \begin{code}
-\tcaption{EPA}{EPA}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.13/Ex8_13.R}
+\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.14}
 \begin{code}
-\tcaption{PCB}{PCB}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.14/Ex8_14.R}
+\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.15}
 \begin{code}
-\tcaption{Nonsmokers}{Nonsmokers}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.15/Ex8_15.R}
+\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.16}
 \begin{code}
-\tcaption{The New York Times}{The New York Times}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.16/Ex8_16.R}
+\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.17}
 \begin{code}
-\tcaption{Confidence Interval Estimate}{Confidence Interval Estimate}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.17/Ex8_17.R}
+\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.18}
 \begin{code}
-\tcaption{Working Conditions}{Working Conditions}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH8/EX8.18/Ex8_18.R}
+\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
 \end{code}
 
-\chapter{ Testing Statistical Hypotheses}
-
-\vspace*{10mm}
-\curlable{Exa~9.1}
-\begin{code}
-\tcaption{Star}{Star}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.1/Ex9_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.2}
-\begin{code}
-\tcaption{Absolute Value}{Absolute Value}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.2/Ex9_2.R}
-\end{code}
+\chapter{ Option Pricing by Finite Difference Methods}
 
 \vspace*{10mm}
 \curlable{Exa~9.3}
 \begin{code}
-\tcaption{Null Hypothesis}{Null Hypothesis}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.3/Ex9_3.R}
+\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.4}
 \begin{code}
-\tcaption{Cigarettes}{Cigarettes}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.4/Ex9_4.R}
+\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.5}
 \begin{code}
-\tcaption{Clinic Patients}{Clinic Patients}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.5/Ex9_5.R}
+\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~9.6}
-\begin{code}
-\tcaption{pH}{pH}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.6/Ex9_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.7}
-\begin{code}
-\tcaption{Fiberglass Tire}{Fiberglass Tire}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.7/Ex9_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.8}
-\begin{code}
-\tcaption{US Population}{US Population}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.8/Ex9_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.9}
-\begin{code}
-\tcaption{Computer Chip Manufacturer}{Computer Chip Manufacturer}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.9/Ex9_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.10}
-\begin{code}
-\tcaption{Manufacturing Facility}{Manufacturing Facility}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.10/Ex9_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.11}
-\begin{code}
-\tcaption{DNA}{DNA}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH9/EX9.11/Ex9_11.R}
-\end{code}
-
-\chapter{Hypothesis Tests Concerning Two Populations }
-
-\vspace*{10mm}
-\curlable{Exa~10.1}
-\begin{code}
-\tcaption{Tire}{Tire}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.1/Ex10_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.2}
-\begin{code}
-\tcaption{Set of Tires}{Set of Tires}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.2/Ex10_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.3}
-\begin{code}
-\tcaption{New Cholesterol Lowering Medication}{New Cholesterol Lowering Medication}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.3/Ex10_3.R}
-\end{code}
+\chapter{ Dynamic Programming}
 
 \vspace*{10mm}
 \curlable{Exa~10.4}
 \begin{code}
-\tcaption{Placebo Effect}{Placebo Effect}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.4/Ex10_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.5}
-\begin{code}
-\tcaption{H0}{H0}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.5/Ex10_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.6}
-\begin{code}
-\tcaption{Cold Research Institute}{Cold Research Institute}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.6/Ex10_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.8}
-\begin{code}
-\tcaption{Gasoline}{Gasoline}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.8/Ex10_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.9}
-\begin{code}
-\tcaption{Management}{Management}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.9/Ex10_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.10}
-\begin{code}
-\tcaption{Criminal Proceedings}{Criminal Proceedings}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.10/Ex10_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.11}
-\begin{code}
-\tcaption{Gender of Future Children}{Gender of Future Children}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.11/Ex10_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.13}
-\begin{code}
-\tcaption{Computer Chips}{Computer Chips}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH10/EX10.13/Ex10_13.R}
-\end{code}
-
-\chapter{ Analysis of Variance}
-
-\vspace*{10mm}
-\curlable{Exa~11.1}
-\begin{code}
-\tcaption{Consumer Cooperative}{Consumer Cooperative}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH11/EX11.1/Ex11_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.4}
-\begin{code}
-\tcaption{Reading Tests}{Reading Tests}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH11/EX11.4/Ex11_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.5}
-\begin{code}
-\tcaption{Defective Items}{Defective Items}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH11/EX11.5/Ex11_5.R}
-\end{code}
-
-\chapter{ Linear Regression}
-
-\vspace*{10mm}
-\curlable{Exa~12.1}
-\begin{code}
-\tcaption{Washing Machine}{Washing Machine}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.1/Ex12_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.2}
-\begin{code}
-\tcaption{Midwestern Bank}{Midwestern Bank}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.2/Ex12_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.3}
-\begin{code}
-\tcaption{Additional Statistics}{Additional Statistics}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.3/Ex12_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.4}
-\begin{code}
-\tcaption{Fuel Consumption}{Fuel Consumption}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.4/Ex12_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.5}
-\begin{code}
-\tcaption{Galtons Thesis}{Galtons Thesis}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.5/Ex12_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.6}
-\begin{code}
-\tcaption{Motor Vehicle Deaths}{Motor Vehicle Deaths}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.6/Ex12_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.7}
-\begin{code}
-\tcaption{Adult Height}{Adult Height}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.7/Ex12_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.8}
-\begin{code}
-\tcaption{Hamburger Concession}{Hamburger Concession}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.8/Ex12_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.9}
-\begin{code}
-\tcaption{Height}{Height}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.9/Ex12_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.10}
-\begin{code}
-\tcaption{Football Game}{Football Game}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.10/Ex12_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.13}
-\begin{code}
-\tcaption{Suicide Rate}{Suicide Rate}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH12/EX12.13/Ex12_13.R}
-\end{code}
-
-\chapter{ Chi Squared Goodness of Fit Tests}
-
-\vspace*{10mm}
-\curlable{Exa~13.2}
-\begin{code}
-\tcaption{Stomach Cancer Patients}{Stomach Cancer Patients}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.2/Ex13_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.3}
-\begin{code}
-\tcaption{Accidents}{Accidents}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.3/Ex13_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.4}
-\begin{code}
-\tcaption{Gregor Mendel}{Gregor Mendel}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.4/Ex13_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.8}
-\begin{code}
-\tcaption{Level of Significance}{Level of Significance}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.8/Ex13_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.9}
-\begin{code}
-\tcaption{Public Health Scientist}{Public Health Scientist}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.9/Ex13_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.10}
-\begin{code}
-\tcaption{Lung Cancer}{Lung Cancer}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.10/Ex13_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.11}
-\begin{code}
-\tcaption{Female Office Workers}{Female Office Workers}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH13/EX13.11/Ex13_11.R}
-\end{code}
-
-\chapter{ Nonparametric Hypotheses Tests }
-
-\vspace*{10mm}
-\curlable{Exa~14.1}
-\begin{code}
-\tcaption{Shoe Store}{Shoe Store}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.1/Ex14_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.2}
-\begin{code}
-\tcaption{Sunscreen Lotions}{Sunscreen Lotions}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.2/Ex14_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.3}
-\begin{code}
-\tcaption{Bank}{Bank}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.3/Ex14_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.4}
-\begin{code}
-\tcaption{Four Paired Sample Values}{Four Paired Sample Values}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.4/Ex14_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.5}
-\begin{code}
-\tcaption{Psychology}{Psychology}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.5/Ex14_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.6}
-\begin{code}
-\tcaption{Normal Approximation}{Normal Approximation}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.6/Ex14_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.7}
-\begin{code}
-\tcaption{Symmetric}{Symmetric}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.7/Ex14_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.8}
-\begin{code}
-\tcaption{Reflex Reaction Time}{Reflex Reaction Time}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.8/Ex14_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.9}
-\begin{code}
-\tcaption{Sum of the Ranks}{Sum of the Ranks}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.9/Ex14_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.10}
-\begin{code}
-\tcaption{Vocabulary}{Vocabulary}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.10/Ex14_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.11}
-\begin{code}
-\tcaption{Like ex 9}{Like ex 9}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.11/Ex14_11.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.12}
-\begin{code}
-\tcaption{Softball}{Softball}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.12/Ex14_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.13}
-\begin{code}
-\tcaption{Approximate p value}{Approximate p value}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.13/Ex14_13.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.14}
-\begin{code}
-\tcaption{Normal Approximation}{Normal Approximation}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.14/Ex14_14.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.15}
-\begin{code}
-\tcaption{Fahrenheit}{Fahrenheit}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.15/Ex14_15.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.16}
-\begin{code}
-\tcaption{Basketball Team}{Basketball Team}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.16/Ex14_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.17}
-\begin{code}
-\tcaption{Wines}{Wines}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.17/Ex14_17.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.18}
-\begin{code}
-\tcaption{Null Hypothesis}{Null Hypothesis}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.18/Ex14_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.19}
-\begin{code}
-\tcaption{DVD Players}{DVD Players}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH14/EX14.19/Ex14_19.R}
-\end{code}
-
-\chapter{ Quality Control }
-
-\vspace*{10mm}
-\curlable{Exa~15.1}
-\begin{code}
-\tcaption{Computer Servicing Firm}{Computer Servicing Firm}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.1/Ex15_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.2}
-\begin{code}
-\tcaption{Video Rental Store}{Video Rental Store}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.2/Ex15_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.3}
-\begin{code}
-\tcaption{Automobile Air Conditioners}{Automobile Air Conditioners}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.3/Ex15_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.4}
-\begin{code}
-\tcaption{Steel Shafts}{Steel Shafts}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.4/Ex15_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.5}
-\begin{code}
-\tcaption{Automatic Screw Machine}{Automatic Screw Machine}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.5/Ex15_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.6}
-\begin{code}
-\tcaption{Repair Shop}{Repair Shop}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.6/Ex15_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.7}
-\begin{code}
-\tcaption{Subgroup Average}{Subgroup Average}
-\lstinputlisting{../Introductory_Statistics_by_Sheldon_M._Ross/CH15/EX15.7/Ex15_7.R}
+\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
 \end{code}
 
