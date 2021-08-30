@@ -1,7 +1,0 @@
-n, x, val, fn, k, nu1, d1, nu2, d2, u, v, ans
-
-gcd()
-x, y, temp
-
-farey_seq()
-i, f, m, g

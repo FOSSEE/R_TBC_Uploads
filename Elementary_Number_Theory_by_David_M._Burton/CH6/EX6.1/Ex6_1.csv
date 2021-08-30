@@ -1,8 +1,0 @@
-solve()
-n, p, k, i, num, tau, sigma
-
-sum_of_divisors()
-p, k, sum, c, x
-
-no_of_divisors()
-k, no, x

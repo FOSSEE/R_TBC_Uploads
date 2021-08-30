@@ -1,9 +1,0 @@
-#Pg.no.336
-mu=1.03
-sd=4.16
-x1=1.5
-x2=5.5
-list(p1=round((pnorm(5.5,1.03,4.16)-pnorm(1.5,1.03,4.16)),4),
-p2=round(pnorm((0-mu)/sd),4),
-p3=round(pnorm(-0.524),2),
-x=round(mu+(sd*(-.524)),3))

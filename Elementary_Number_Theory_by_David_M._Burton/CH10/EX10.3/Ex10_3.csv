@@ -1,4 +1,0 @@
-message, p, k, char, plain_text, plain_text_number, encrypted_message, ch, block1, block2, block3, block4, block5, i, n, recovery_n
-
-encipher()
-b, p, two, four, eight, sixteen, nineteen

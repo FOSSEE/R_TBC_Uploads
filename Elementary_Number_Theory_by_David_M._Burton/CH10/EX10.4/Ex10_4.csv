@@ -1,7 +1,0 @@
-message, n, k, plain_text_number, encrypted_message, plaintext, p_split, ch, block1, block2, block3, block4, block5, block6, i, phi, j
-
-phi()
-n, num, p, q
-
-encipher()
-b, n, two, four, eight, sixteen, thirty_two, forty_seven

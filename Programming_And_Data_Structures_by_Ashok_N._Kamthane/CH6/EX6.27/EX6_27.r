@@ -1,7 +1,0 @@
-#BOOK PAGE NO : 141
-
-for(i in 1:3){
-    for(j in 1:2){
-        print(i*j)
-        }
-    }
