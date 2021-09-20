@@ -1,6 +1,6 @@
 #Probabity that it Rating is
 vp=0.07#Very Poor
-P=0.12#Poor
+p=0.12#Poor
 fair=0.17
 good=0.32
 vgood=0.21

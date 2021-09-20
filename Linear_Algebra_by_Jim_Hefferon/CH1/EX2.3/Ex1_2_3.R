@@ -5,7 +5,7 @@
 
 #installation and loading library
 #install.packages("matlib")
-library("matlib")
+suppressWarnings(library("matlib"))
 
 #program 
 A <- matrix(c(1,0,3,0,1,1,0,-1,1,-1,6,1,-1,1,-6,-1),ncol = 4)

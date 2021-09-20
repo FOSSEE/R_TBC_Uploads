@@ -5,7 +5,7 @@
 
 #installing and loading library
 #install.packages("matlib")
-library("matlib")
+suppressWarnings(library("matlib"))
 
 #program 
 A <- matrix(c(1,2,2,3,1,2),ncol = 2)
@@ -14,4 +14,4 @@ b <- c(1,-3,-2)
 #so we use gaussian elimination technique.
 gaussianElimination(A, b, tol = sqrt(.Machine$double.eps), verbose = FALSE,
                     latex = FALSE, fractions = FALSE)
-# result shows that one of the equations is redundant, here x=-2,y=1 
+# result shows that one of the equations is redundant, here x=-2,y=1
