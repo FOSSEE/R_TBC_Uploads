@@ -1,4 +1,4 @@
-#require(fBasics)
+suppressMessages(require(fBasics))
 norm.interval = function(data, variance = var(data), conf.level = 0.95) {
   z = qnorm((1 - conf.level)/2, lower.tail = FALSE)
   xbar = mean(data)
