@@ -1,0 +1,13 @@
+#PAGE=156
+n=2000
+c=4
+a=n*15/c^2
+cat(a)
+b=n*3/8
+cat(b)
+nn=1/4+3/8
+c=n*nn
+cat(c)
+c=4
+d=n/c^2
+cat(d)

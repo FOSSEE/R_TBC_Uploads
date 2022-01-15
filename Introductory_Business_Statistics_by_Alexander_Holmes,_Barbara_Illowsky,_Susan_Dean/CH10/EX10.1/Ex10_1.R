@@ -55,4 +55,4 @@ text(3.0,0.1,expression(frac(alpha,2)))
 text(3.6,0.1,alpha/2)
 text(-3.6,0.1,expression(frac(alpha,2)))
 text(-3.0,0.1,alpha/2)
-#Answers may slightly vary due to rounding of values
+#The answer may slightly vary due to rounding off values

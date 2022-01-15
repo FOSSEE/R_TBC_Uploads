@@ -5,11 +5,16 @@ na=200
 nb=200
 pc=round(((xa+xb)/(na+nb)),3)
 p=1-pc
+print(paste('pc =',p))
 p_dash_a=xa/na
 p_dash_b=xb/nb
 ediff=p_dash_a-p_dash_b
-deno1=sqrt((pc*p*((1/na)+(1/nb))))
-t_stat=(ediff/deno1)
+print(paste('P\'A =',p_dash_a))
+print(paste('P\'B =',p_dash_b))
+print(paste('P\'A - P\'B =',ediff))
+deno1=(pc*p*((1/na)+(1/nb)))
+t_stat=(ediff/sqrt(deno1))
+print(paste('Zc =',round(t_stat,3)))
 alpha=.1/2
 df=na+nb-2
 t_critical=qnorm(1-alpha)
@@ -35,3 +40,4 @@ text(3.0,0.1,expression(frac(alpha,2)))
 text(3.6,0.1,alpha)
 text(-3.6,0.1,expression(frac(alpha,2)))
 text(-3.0,0.1,alpha)
+#The answer provided in the textbook is wrong

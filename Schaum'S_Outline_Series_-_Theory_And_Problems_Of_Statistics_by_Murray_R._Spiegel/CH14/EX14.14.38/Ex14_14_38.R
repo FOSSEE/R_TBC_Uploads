@@ -1,0 +1,24 @@
+#PAGE=319
+l=12
+g=qt(0.975,df=l-2)
+g=round(g,digits = 2)
+a1=65
+y1=35.82+0.476*a1
+y1
+x0=65
+m=800/l
+a=((x0-m)/l)**2
+ans1=y1+(g*1.28/sqrt(l-2))*sqrt(l+1+a/(2.66^2))
+ans1=round(ans1,1)
+ans2=y1-(g*1.28/sqrt(l-2))*sqrt(l+1+a/(2.66^2))
+ans2=round(ans2,1)
+cat(ans2,'-',ans1,'kg')
+y2=69.14
+x0=70
+m=800/l
+a=(x0-m)**2
+ans1=y2+(g*1.28/sqrt(l-2))*sqrt(l+1+a/(2.66^2))
+ans1=round(ans1,1)
+ans2=y2-(g*1.28/sqrt(l-2))*sqrt(l+1+a/(2.66^2))
+ans2=round(ans2,1)
+cat(ans2,'-',ans1,'kg')

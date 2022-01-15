@@ -7,10 +7,12 @@ n=20
 mdiff=x1-x2
 sd=sqrt((psd1^2/n)+(psd2^2/n))
 t_stat=(mdiff/sd)
+print(paste("mean diff= ",x1-x2))
 print(paste("t stat= ",round(t_stat,1)))
 alpha=.05
 df=n+n-2
-t_critical=qnorm(1-alpha)
+t_critical=round(qnorm(1-alpha),3)
+print(paste("t critical= ",t_critical))
 if(t_stat>t_critical)
 {
    print("Reject H0")
@@ -33,3 +35,4 @@ text(3.0,0.1,expression(alpha))
 text(3.6,0.1,alpha)
 text(-3.6,0.1,expression(alpha))
 text(-3.0,0.1,alpha)
+#The answer provided in the textbook is wrong

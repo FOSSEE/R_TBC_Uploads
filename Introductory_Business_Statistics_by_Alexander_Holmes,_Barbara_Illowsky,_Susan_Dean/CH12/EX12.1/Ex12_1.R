@@ -28,7 +28,6 @@ abline(v=0)
 abline(v=t_critical,lwd=2,col='red')
 abline(v=f_stat,lwd=2,col='green')
 polygon(c(x[x>=t_critical],t_critical ),c(y[x>=t_critical],0),col="blue")
-text(10,0.1,expression(alpha ==0.01))
+text(9,0.1,expression(alpha ==0.01))
 mtext((expression(F[c]==1.719)),side=1,at=f_stat,cex=1)
 mtext(round(t_critical,2),side=1,at=t_critical,cex=1)
-#The answer provided in the textbook is wrong.
