@@ -1,0 +1,14 @@
+\contentsline {chapter}{\numberline {List of R Codes}}{4}{chapter*.3}
+\contentsline {chapter}{\numberline {1} Sampling and Data}{8}{chapter.1}
+\contentsline {chapter}{\numberline {2} Descriptive Statistics}{13}{chapter.2}
+\contentsline {chapter}{\numberline {3} Probability Topics}{37}{chapter.3}
+\contentsline {chapter}{\numberline {4} Discrete Random Variables}{65}{chapter.4}
+\contentsline {chapter}{\numberline {5} Continuous Random Variables}{72}{chapter.5}
+\contentsline {chapter}{\numberline {6} The Normal Distribution}{80}{chapter.6}
+\contentsline {chapter}{\numberline {7} The Central Limit Theorem}{88}{chapter.7}
+\contentsline {chapter}{\numberline {8} Confidence Intervals}{90}{chapter.8}
+\contentsline {chapter}{\numberline {9} Hypothesis Testing with One Sample}{98}{chapter.9}
+\contentsline {chapter}{\numberline {10} Hypothesis Testing with Two Samples}{110}{chapter.10}
+\contentsline {chapter}{\numberline {11} The Chi Square Distribution}{125}{chapter.11}
+\contentsline {chapter}{\numberline {12} F Distribution and one way ANOVA}{137}{chapter.12}
+\contentsline {chapter}{\numberline {13} Linear Regression and Correlation}{145}{chapter.13}

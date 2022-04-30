@@ -47,7 +47,7 @@ No file TEX_final.aux.
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
-Overfull \hbox (22.40999pt too wide) in paragraph at lines 62--62
+Overfull \hbox (88.52753pt too wide) in paragraph at lines 62--62
  [][] 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX
  warning (ext4): destination with the same identifier (name{page.1}) has been a
@@ -58,163 +58,462 @@ l.73 \newpage
               [1] [2] [3] [4]
 Chapter 1.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
-1/Ex1_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
-3/Ex1_3.R) [5]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH1/EX1.14/Ex1_14.R
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 4--5
+[][][] 
+
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 5--6
+[][][] 
+) [5]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH1/EX1.15/Ex1_15.R
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 4--5
+[][][] 
+
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 5--6
+[][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH1/EX1.16/Ex1_16.R
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 4--5
+[][][] 
+
+Overfull \hbox (111.6542pt too wide) in paragraph at lines 5--6
+[][][] 
+[6])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH1/EX1.17/Ex1_17.R [7])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH1/EX1.18/Ex1_18.R
+Overfull \hbox (119.06427pt too wide) in paragraph at lines 3--4
+[][][] 
+
+Overfull \hbox (304.31589pt too wide) in paragraph at lines 4--5
+[][][] 
+[8]) [9]
 Chapter 2.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-1/Ex2_1.R (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd))
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-2/Ex2_2.R [6])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-3/Ex2_3.R) [7]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-4/Ex2_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-5/Ex2_5.R [8]) [9]
-Chapter 3.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-1/Ex3_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-2/Ex3_2.R [10])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-3/Ex3_3.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-4/Ex3_4.R [11])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-5/Ex3_5.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-6/Ex3_6.R) [12]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-7/Ex3_7.R) [13]
-Chapter 4.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-1/Ex4_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-2/Ex4_2.R [14])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-3/Ex4_3.R) [15]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-4/Ex4_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-5/Ex4_5.R [16])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-6/Ex4_6.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-7/Ex4_7.R) [17]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-8/Ex4_8.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-9/Ex4_9.R [18])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-10/Ex4_10.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-11/Ex4_11.R [19])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-12/Ex4_12.R) [20]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-13/Ex4_13.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-14/Ex4_14.R) [21]
-Chapter 5.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-1/Ex5_1.R [22])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-2/Ex5_2.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-3/Ex5_3.R [23])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-4/Ex5_4.R [24])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-5/Ex5_5.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-6/Ex5_6.R [25])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-7/Ex5_7.R) [26]
-Chapter 6.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-1/Ex6_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-2/Ex6_2.R) [27]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-3/Ex6_3.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-5/Ex6_5.R) [28]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-6/Ex6_6.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-8/Ex6_8.R [29])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-10/Ex6_10.R) [30]
-Chapter 7.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-1/Ex7_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-2/Ex7_2.R [31])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-3/Ex7_3.R
-Overfull \hbox (143.52466pt too wide) in paragraph at lines 12--14
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.1/Ex2_1.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.2/Ex2_2.R
+Overfull \hbox (170.93472pt too wide) in paragraph at lines 2--3
+[][][] 
+) [10]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.3/Ex2_3.R
+Overfull \hbox (99.06427pt too wide) in paragraph at lines 4--5
 [][][][][][] 
 
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (76.83408pt too wide) in paragraph at lines 5--6
+[][][][][][] 
 
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (106.47433pt too wide) in paragraph at lines 7--8
+[][][][][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.4/Ex2_4.R) [11]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.5/Ex2_5.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.6/Ex2_6.R) [12]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.7/Ex2_7.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.8/Ex2_8.R
+Overfull \hbox (89.42401pt too wide) in paragraph at lines 3--4
+[][][] 
 
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (84.24414pt too wide) in paragraph at lines 6--7
+[][][][][][] 
+[13])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.9/Ex2_9.R
+Overfull \hbox (47.19382pt too wide) in paragraph at lines 5--6
+[][][][][][] 
+[14])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.10/Ex2_10.R [15])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.11/Ex2_11.R
+Overfull \hbox (15.32336pt too wide) in paragraph at lines 4--5
+[][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.12/Ex2_12.R
+Overfull \hbox (15.32336pt too wide) in paragraph at lines 4--5
+[][][] 
+[16]
+Overfull \hbox (15.32336pt too wide) in paragraph at lines 10--11
+[][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.13/Ex2_13.R
+Overfull \hbox (7.9133pt too wide) in paragraph at lines 3--4
+[][][] 
+[17]
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 4--5
+[][][] 
 
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 5--6
+[][][] 
 
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 6--7
+[][][] 
 
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (215.39511pt too wide) in paragraph at lines 7--8
+[][][] 
 
-Overfull \hbox (170.93472pt too wide) in paragraph at lines 12--14
-[][] 
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 8--9
+[][][] 
 
-Overfull \hbox (148.70453pt too wide) in paragraph at lines 12--14
-[]  
-[32])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-4/Ex7_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-5/Ex7_5.R [33])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-6/Ex7_6.R) [34] [35]
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 9--10
+[][][] 
+
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 10--11
+[][][] 
+
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 11--12
+[][][] 
+
+Overfull \hbox (230.21524pt too wide) in paragraph at lines 12--13
+[][][] 
+
+Overfull \hbox (222.80518pt too wide) in paragraph at lines 13--14
+[][][] 
+
+Overfull \hbox (207.98505pt too wide) in paragraph at lines 14--15
+[][][] 
+
+Overfull \hbox (237.6253pt too wide) in paragraph at lines 15--16
+[][][] 
+
+Overfull \hbox (222.80518pt too wide) in paragraph at lines 16--17
+[][][] 
+[18])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.14/Ex2_14.R
+Overfull \hbox (222.80518pt too wide) in paragraph at lines 5--6
+[][][] 
+[19])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.15/Ex2_15.R [20]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd) [21])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.16/Ex2_16.R
+Overfull \hbox (230.21524pt too wide) in paragraph at lines 3--4
+[][][] 
+[22])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.17/Ex2_17.R
+Overfull \hbox (230.21524pt too wide) in paragraph at lines 3--4
+[][][] 
+[23])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.18/Ex2_18.R
+Overfull \hbox (148.70453pt too wide) in paragraph at lines 3--4
+[][][] 
+) [24]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.19/Ex2_19.R
+Overfull \hbox (148.70453pt too wide) in paragraph at lines 3--4
+[][][] 
+[25])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.23/Ex2_23.R
+Overfull \hbox (30.1435pt too wide) in paragraph at lines 4--5
+[][][] 
+[26]) [27]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.24/Ex2_24.R
+Overfull \hbox (141.29446pt too wide) in paragraph at lines 3--4
+[][][] 
+
+Overfull \hbox (24.96362pt too wide) in paragraph at lines 4--5
+[][][][][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.25/Ex2_25.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.26/Ex2_26.R [28]
+Overfull \hbox (74.60388pt too wide) in paragraph at lines 3--4
+[][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.28/Ex2_28.R
+Overfull \hbox (15.32336pt too wide) in paragraph at lines 3--4
+[][][] 
+
+Overfull \hbox (30.1435pt too wide) in paragraph at lines 4--5
+[][][] 
+) [29]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.29/Ex2_29.R
+Overfull \hbox (62.01395pt too wide) in paragraph at lines 4--5
+[][][][][][] 
+)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.30/Ex2_30.R [30]
+Overfull \hbox (37.55356pt too wide) in paragraph at lines 3--4
+[][][] 
+[31])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.31/Ex2_31.R) [32]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH2/EX2.32/Ex2_32.R) [33]
+Chapter 3.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.1/Ex3_1.R [34]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd))
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.2/Ex3_2.R [35])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.3/Ex3_3.R [36])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.6/Ex3_6.R [37])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.7/Ex3_7.R [38])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.8/Ex3_8.R [39])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.9/Ex3_9.R [40])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.10/Ex3_10.R [41])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.11/Ex3_11.R [42])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.12/Ex3_12.R [43])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.13/Ex3_13.R [44])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.14/Ex3_14.R) [45]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.15/Ex3_15.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.16/Ex3_16.R [46])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.17/Ex3_17.R [47])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.18/Ex3_18.R [48])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.19/Ex3_19.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.20/Ex3_20.R [49])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.21/Ex3_21.R [50])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.22/Ex3_22.R [51])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.23/Ex3_23.R [52])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.24/Ex3_24.R [53])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.25/Ex3_25.R [54])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.26/Ex3_26.R [55])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.28/Ex3_28.R [56])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.30/Ex3_30.R [57])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.31/Ex3_31.R) [58]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.32/Ex3_32.R [59])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH3/EX3.33/Ex3_33.R [60]) [61]
+Chapter 4.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.1/Ex4_1.R [62])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.8/Ex4_8.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.9/Ex4_9.R [63])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.10/Ex4_10.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.11/Ex4_11.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.14/Ex4_14.R [64])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.15/Ex4_15.R [65])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.16/Ex4_16.R [66])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.17/Ex4_17.R) [67]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH4/EX4.18/Ex4_18.R) [68]
+Chapter 5.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.1/Ex5_1.R [69])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.2/Ex5_2.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.3/Ex5_3.R [70])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.4/Ex5_4.R [71])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.5/Ex5_5.R [72])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.6/Ex5_6.R) [73]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.7/Ex5_7.R [74])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH5/EX5.8/Ex5_8.R) [75] [76]
+Chapter 6.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.1/Ex6_1.R) [77]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.2/Ex6_2.R) [78]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.3/Ex6_3.R [79])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.4/Ex6_4.R [80])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.5/Ex6_5.R [81])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.6/Ex6_6.R [82])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH6/EX6.7/Ex6_7.R [83]) [84]
+Chapter 7.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH7/EX7.1/Ex7_1.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH7/EX7.2/Ex7_2.R [85]) [86]
 Chapter 8.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-1/Ex8_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-2/Ex8_2.R [36])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-3/Ex8_3.R [37])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-4/Ex8_4.R) [38]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.1/Ex8_1.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.2/Ex8_2.R [87] [88])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.3/Ex8_3.R) [89]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.4/Ex8_4.R [90])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.5/Ex8_5.R [91])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.6/Ex8_6.R [92])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.7/Ex8_7.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.8/Ex8_8.R [93])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH8/EX8.9/Ex8_9.R) [94]
+Chapter 9.
 
-! Package Listings Error: File `../Semiconductor_Physics_And_Devices_-_Basic_Pr
-inciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 (.R)' not found.
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.8/Ex9_8.R [95])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.9/Ex9_9.R [96] [97])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.10/Ex9_10.R [98])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.11/Ex9_11.R [99] [100])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.12/Ex9_12.R [101]) [102]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.13/Ex9_13.R
+Overfull \hbox (44.96362pt too wide) in paragraph at lines 3--4
+[][][] 
+[103])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH9/EX9.14/Ex9_14.R [104] [105]) [106]
+Chapter 10.
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.1/Ex10_1.R [107] [108])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.2/Ex10_2.R [109])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.3/Ex10_3.R [110])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.4/Ex10_4.R [111])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.5/Ex10_5.R [112])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.6/Ex10_6.R [113])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.7/Ex10_7.R [114]) [115]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.8/Ex10_8.R [116])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.9/Ex10_9.R [117])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.10/Ex10_10.R
+Overfull \hbox (30.1435pt too wide) in paragraph at lines 3--4
+[][][] 
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.469 ...nciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R}
-                                                  ^^M
-!  ==> Fatal error occurred, no output PDF file produced!
+Overfull \hbox (7.9133pt too wide) in paragraph at lines 4--5
+[][][] 
+[118])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH10/EX10.11/Ex10_11.R [119] [120]) [121]
+Chapter 11.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.2/Ex11_2.R [122])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.3/Ex11_3.R [123]) [124]
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.4/Ex11_4.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.5/Ex11_5.R [125])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.6/Ex11_6.R [126])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.7/Ex11_7.R [127])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.8/Ex11_8.R [128])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.9/Ex11_9.R
+Overfull \hbox (74.60388pt too wide) in paragraph at lines 6--7
+[][][] 
+[129])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.10/Ex11_10.R [130] [131])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH11/EX11.11/Ex11_11.R [132]) [133]
+Chapter 12.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH12/EX12.1/Ex12_1.R [134])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH12/EX12.2/Ex12_2.R [135])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH12/EX12.3/Ex12_3.R [136] [137])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH12/EX12.4/Ex12_4.R [138] [139])
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH12/EX12.5/Ex12_5.R [140]) [141]
+Chapter 13.
+
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH13/EX13.2/Ex13_2.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH13/EX13.5/Ex13_5.R)
+(../Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susa
+n_Dean/CH13/EX13.6/Ex13_6.R [142]) [143] (./TEX_final.aux)
+
+Package rerunfilecheck Warning: File `TEX_final.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+ )
+(see the transcript file for additional information)</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on TEX_final.pdf (144 pages, 463680 bytes).
 Transcript written on TEX_final.log.
+'TEX_final.pdf' -> 'book_Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean.pdf'
