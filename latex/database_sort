@@ -1,134 +1,85 @@
-1# Sampling and Data#1.14#Finding percentage of heights#Ex1_14.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH1/EX1.14/Ex1_14.R#S##12966
-1# Sampling and Data#1.15#Finding percentage of heights within a range#Ex1_15.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH1/EX1.15/Ex1_15.R#S##12967
-1# Sampling and Data#1.16#Finding percentage of heights within a range#Ex1_16.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH1/EX1.16/Ex1_16.R#S##12968
-1# Sampling and Data#1.17#Frequency table generation#Ex1_17.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH1/EX1.17/Ex1_17.R#S##12969
-1# Sampling and Data#1.18#Frequency table#Ex1_18.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH1/EX1.18/Ex1_18.R#S##12970
-2# Descriptive Statistics#2.1#Stem and leaf graph example1#Ex2_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.1/Ex2_1.R#S##12971
-2# Descriptive Statistics#2.2#Stem and leaf graph example2#Ex2_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.2/Ex2_2.R#S##12972
-2# Descriptive Statistics#2.3#Stem and Leaf plot#Ex2_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.3/Ex2_3.R#S##14012
-2# Descriptive Statistics#2.4#Frequency curve example1#Ex2_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.4/Ex2_4.R#S##14013
-2# Descriptive Statistics#2.5#Bar graph example1#Ex2_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.5/Ex2_5.R#S##14014
-2# Descriptive Statistics#2.6#bar graph example2#Ex2_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.6/Ex2_6.R#S##12976
-2# Descriptive Statistics#2.7#Two way table#Ex2_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.7/Ex2_7.R#S##12977
-2# Descriptive Statistics#2.8#Historgram graph example1#Ex2_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.8/Ex2_8.R#S##14015
-2# Descriptive Statistics#2.9#Historgram graph example2#Ex2_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.9/Ex2_9.R#S##14232
-2# Descriptive Statistics#2.10#Historgram graph example3#Ex2_10.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.10/Ex2_10.R#S##14233
-2# Descriptive Statistics#2.11#Frequency curve example2#Ex2_11.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.11/Ex2_11.R#S##14234
-2# Descriptive Statistics#2.12#Frequency curve example3#Ex2_12.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.12/Ex2_12.R#S##14235
-2# Descriptive Statistics#2.13#Time series graph#Ex2_13.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.13/Ex2_13.R#S##14020
-2# Descriptive Statistics#2.14#Measures of Location of Data Example1#Ex2_14.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.14/Ex2_14.R#S##12984
-2# Descriptive Statistics#2.15#Measures of Location of Data example2#Ex2_15.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.15/Ex2_15.R#S##12985
-2# Descriptive Statistics#2.16#Measures of Location of Data example3#Ex2_16.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.16/Ex2_16.R#S##14021
-2# Descriptive Statistics#2.17#Measures of Location of Data example4#Ex2_17.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.17/Ex2_17.R#S##12987
-2# Descriptive Statistics#2.18#Measures of Location of Data example5#Ex2_18.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.18/Ex2_18.R#S##12988
-2# Descriptive Statistics#2.19#Measures of Location of Data example6#Ex2_19.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.19/Ex2_19.R#S##12989
-2# Descriptive Statistics#2.23#survey for buying gym#Ex2_23.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.23/Ex2_23.R#S##14236
-2# Descriptive Statistics#2.24#Measure of Centre #Ex2_24.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.24/Ex2_24.R#S##14101
-2# Descriptive Statistics#2.25#Measures of the Center of the Data example2#Ex2_25.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.25/Ex2_25.R#S##14023
-2# Descriptive Statistics#2.26#Measures of the Center of the Data example3#Ex2_26.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.26/Ex2_26.R#S##12992
-2# Descriptive Statistics#2.28#Calculating the Arithmetic Mean of Grouped Frequecy Tables example1#Ex2_28.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.28/Ex2_28.R#S##12993
-2# Descriptive Statistics#2.29#Measures of the Spread of the Data Example1#Ex2_29.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.29/Ex2_29.R#S##12994
-2# Descriptive Statistics#2.30#Measures of the Spread of the Data example2#Ex2_30.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.30/Ex2_30.R#S##12995
-2# Descriptive Statistics#2.31#Standard deviation of grouped frequency tables#Ex2_31.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.31/Ex2_31.R#S##14024
-2# Descriptive Statistics#2.32#Comparing values from different data sets#Ex2_32.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH2/EX2.32/Ex2_32.R#S##14025
-3# Probability Topics#3.1#Finding probabilities example1#Ex3_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.1/Ex3_1.R#S##12998
-3# Probability Topics#3.2#Finding probabilities example2#Ex3_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.2/Ex3_2.R#S##14026
-3# Probability Topics#3.3#Finding probabilities example3#Ex3_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.3/Ex3_3.R#S##13000
-3# Probability Topics#3.6#Mutually Exclusive Events of coins#Ex3_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.6/Ex3_6.R#S##14027
-3# Probability Topics#3.7#Fliping of two coins and finding the probability#Ex3_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.7/Ex3_7.R#S##14028
-3# Probability Topics#3.8#Rolling of six sided dice#Ex3_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.8/Ex3_8.R#S##14029
-3# Probability Topics#3.9#Mutually Exclusive Events example1#Ex3_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.9/Ex3_9.R#S##13001
-3# Probability Topics#3.10#Mutually Exclusive Events example2#Ex3_10.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.10/Ex3_10.R#S##14030
-3# Probability Topics#3.11#Drawing of red and blue cards from a box#Ex3_11.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.11/Ex3_11.R#S##14031
-3# Probability Topics#3.12#Mutually Exclusive Events example3#Ex3_12.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.12/Ex3_12.R#S##14032
-3# Probability Topics#3.13#Tossing of fair coin#Ex3_13.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.13/Ex3_13.R#S##14033
-3# Probability Topics#3.14#Two basic rules of Probability example1#Ex3_14.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.14/Ex3_14.R#S##14034
-3# Probability Topics#3.15#Two basic rules of Probability example2#Ex3_15.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.15/Ex3_15.R#S##14035
-3# Probability Topics#3.16#Two basic rules of Probability example3#Ex3_16.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.16/Ex3_16.R#S##13006
-3# Probability Topics#3.17#Finding probabilities example4#Ex3_17.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.17/Ex3_17.R#S##13007
-3# Probability Topics#3.18#Finding probabilities example5#Ex3_18.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.18/Ex3_18.R#S##13008
-3# Probability Topics#3.19#Finding probabilities example6#Ex3_19.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.19/Ex3_19.R#S##13009
-3# Probability Topics#3.20#Contingency tables example1#Ex3_20.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.20/Ex3_20.R#S##13010
-3# Probability Topics#3.21#Contingency tables example2#Ex3_21.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.21/Ex3_21.R#S##14237
-3# Probability Topics#3.22#Contingency tables example4#Ex3_22.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.22/Ex3_22.R#S##14238
-3# Probability Topics#3.23#Contingency tables example3#Ex3_23.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.23/Ex3_23.R#S##13012
-3# Probability Topics#3.24#drawing of three colored balls from urn#Ex3_24.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.24/Ex3_24.R#S##14239
-3# Probability Topics#3.25#drawing of marbles without replacement#Ex3_25.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.25/Ex3_25.R#S##14240
-3# Probability Topics#3.26#adoptiong of Tabby kittens and black kittens#Ex3_26.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.26/Ex3_26.R#S##14040
-3# Probability Topics#3.28#drawing venn diagram for flipping of two fair coins#Ex3_28.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.28/Ex3_28.R#S##13880
-3# Probability Topics#3.30#Venn diagram for selection of dogs #Ex3_30.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.30/Ex3_30.R#S##14046
-3# Probability Topics#3.31#venn diagram for selection of dogs2#Ex3_31.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.31/Ex3_31.R#S##14241
-3# Probability Topics#3.32#probability of selecting student as fresher or earning B grade#Ex3_32.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.32/Ex3_32.R#S##14044
-3# Probability Topics#3.33#Two basic rules of Probability example4#Ex3_33.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH3/EX3.33/Ex3_33.R#S##13013
-4# Discrete Random Variables#4.1#hypergeometric Distribution#Ex4_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.1/Ex4_1.R#S##13086
-4# Discrete Random Variables#4.8#Geometric probability distribution function example1#Ex4_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.8/Ex4_8.R#S##14047
-4# Discrete Random Variables#4.9#Geometric probability distribution function example2#Ex4_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.9/Ex4_9.R#S##13015
-4# Discrete Random Variables#4.10#Geometric probability distribution function example3#Ex4_10.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.10/Ex4_10.R#S##13016
-4# Discrete Random Variables#4.11#Geometric probability distribution function example4#Ex4_11.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.11/Ex4_11.R#S##13017
-4# Discrete Random Variables#4.14#Poison Probability distribution example1#Ex4_14.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.14/Ex4_14.R#S##14242
-4# Discrete Random Variables#4.15#Poison Probability distribution example2#Ex4_15.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.15/Ex4_15.R#S##14049
-4# Discrete Random Variables#4.16#Poison Probability distribution example3#Ex4_16.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.16/Ex4_16.R#S##14050
-4# Discrete Random Variables#4.17#Poison Probability distribution example4#Ex4_17.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.17/Ex4_17.R#S##13021
-4# Discrete Random Variables#4.18#Poison Probability distribution example5#Ex4_18.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH4/EX4.18/Ex4_18.R#S##13022
-5# Continuous Random Variables#5.1#Continuous Probability Density functions example1#Ex5_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.1/Ex5_1.R#S##13023
-5# Continuous Random Variables#5.2#Uniform Distribution example1#Ex5_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.2/Ex5_2.R#S##13024
-5# Continuous Random Variables#5.3#The Exponential Distribution example1#Ex5_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.3/Ex5_3.R#S##14051
-5# Continuous Random Variables#5.4#The Exponential Distribution example2#Ex5_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.4/Ex5_4.R#S##14052
-5# Continuous Random Variables#5.5#The Exponential Distribution example3#Ex5_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.5/Ex5_5.R#S##14243
-5# Continuous Random Variables#5.6#The Exponential Distribution example4#Ex5_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.6/Ex5_6.R#S##13028
-5# Continuous Random Variables#5.7#The Exponential Distribution example5#Ex5_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.7/Ex5_7.R#S##14054
-5# Continuous Random Variables#5.8#Exponential probability#Ex5_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH5/EX5.8/Ex5_8.R#S##14055
-6# The Normal Distribution#6.1#The Standard Normal Distribution example1#Ex6_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.1/Ex6_1.R#S##13031
-6# The Normal Distribution#6.2#Finding z scores for given mean and standard deviation#Ex6_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.2/Ex6_2.R#S##13885
-6# The Normal Distribution#6.3#Using the Normal Distribution example1#Ex6_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.3/Ex6_3.R#S##14056
-6# The Normal Distribution#6.4#Using the Normal Distribution example2#Ex6_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.4/Ex6_4.R#S##14057
-6# The Normal Distribution#6.5#Using the Normal Distribution example3#Ex6_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.5/Ex6_5.R#S##14058
-6# The Normal Distribution#6.6#Using the Normal Distribution example4#Ex6_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.6/Ex6_6.R#S##14059
-6# The Normal Distribution#6.7#Finding binomial and normal distribution#Ex6_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH6/EX6.7/Ex6_7.R#S##14060
-7# The Central Limit Theorem#7.1#Finite Population Correction Factor example1#Ex7_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH7/EX7.1/Ex7_1.R#S##14061
-7# The Central Limit Theorem#7.2#Finite Population Correction Factor example2#Ex7_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH7/EX7.2/Ex7_2.R#S##13037
-8# Confidence Intervals#8.1#Calculating the Confidence Intervals example1#Ex8_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.1/Ex8_1.R#S##13038
-8# Confidence Intervals#8.2#Calculating the Confidence Intervals example2#Ex8_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.2/Ex8_2.R#S##14062
-8# Confidence Intervals#8.3#Calculating the Confidence Intervals example3#Ex8_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.3/Ex8_3.R#S##14063
-8# Confidence Intervals#8.4#Calculating the Confidence Intervals example4#Ex8_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.4/Ex8_4.R#S##14064
-8# Confidence Intervals#8.5#Confidence interval for a small sample example1#Ex8_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.5/Ex8_5.R#S##14065
-8# Confidence Intervals#8.6#Confidence interval for a population proportion example1#Ex8_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.6/Ex8_6.R#S##14066
-8# Confidence Intervals#8.7#Confidence interval for a population proportion example2#Ex8_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.7/Ex8_7.R#S##13044
-8# Confidence Intervals#8.8#Confidence interval for a population proportion example3#Ex8_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.8/Ex8_8.R#S##14067
-8# Confidence Intervals#8.9#Calculating the sample size n continuous and binary random variables#Ex8_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH8/EX8.9/Ex8_9.R#S##13046
-9# Hypothesis Testing with One Sample#9.8#Full Hypothesis test example1#Ex9_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.8/Ex9_8.R#S##14244
-9# Hypothesis Testing with One Sample#9.9#Full Hypothesis test example2#Ex9_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.9/Ex9_9.R#S##14069
-9# Hypothesis Testing with One Sample#9.10#Full Hypothesis test example3#Ex9_10.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.10/Ex9_10.R#S##14245
-9# Hypothesis Testing with One Sample#9.11#Hypothesis test for proportions example1#Ex9_11.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.11/Ex9_11.R#S##14248
-9# Hypothesis Testing with One Sample#9.12#Hypothesis test for proportions example2#Ex9_12.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.12/Ex9_12.R#S##14246
-9# Hypothesis Testing with One Sample#9.13#Hypothesis test for proportions example3#Ex9_13.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.13/Ex9_13.R#S##14249
-9# Hypothesis Testing with One Sample#9.14#Hypothesis test for proportions example4#Ex9_14.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH9/EX9.14/Ex9_14.R#S##14247
-10# Hypothesis Testing with Two Samples#10.1#Comparing two independent population means example1#Ex10_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.1/Ex10_1.R#S##14250
-10# Hypothesis Testing with Two Samples#10.2#Comparing two independent population means example2#Ex10_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.2/Ex10_2.R#S##14251
-10# Hypothesis Testing with Two Samples#10.3#Comparing two independent population means example3#Ex10_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.3/Ex10_3.R#S##14077
-10# Hypothesis Testing with Two Samples#10.4#Cohens standards for small medium and large effect sizes#Ex10_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.4/Ex10_4.R#S##14078
-10# Hypothesis Testing with Two Samples#10.5#Test for differences in means#Ex10_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.5/Ex10_5.R#S##14079
-10# Hypothesis Testing with Two Samples#10.6#Comparing two independent population proportions example1#Ex10_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.6/Ex10_6.R#S##14252
-10# Hypothesis Testing with Two Samples#10.7#Two population means with known standard deviations example1#Ex10_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.7/Ex10_7.R#S##14253
-10# Hypothesis Testing with Two Samples#10.8#Two population means with known standard deviations example2#Ex10_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.8/Ex10_8.R#S##14254
-10# Hypothesis Testing with Two Samples#10.9#Matched or Paired Samples#Ex10_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.9/Ex10_9.R#S##14083
-10# Hypothesis Testing with Two Samples#10.10#Matched or Paired Samples example2#Ex10_10.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.10/Ex10_10.R#S##14084
-10# Hypothesis Testing with Two Samples#10.11#Matched or Paired Samples example3#Ex10_11.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH10/EX10.11/Ex10_11.R#S##14085
-11# The Chi Square Distribution#11.2#Test of single variance example1#Ex11_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.2/Ex11_2.R#S##14255
-11# The Chi Square Distribution#11.3#Test of single variance example2#Ex11_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.3/Ex11_3.R#S##14087
-11# The Chi Square Distribution#11.4#Goodness of Fit test example1#Ex11_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.4/Ex11_4.R#S##14088
-11# The Chi Square Distribution#11.5#Goodness of Fit test example2#Ex11_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.5/Ex11_5.R#S##14089
-11# The Chi Square Distribution#11.6#Goodness of Fit test example3#Ex11_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.6/Ex11_6.R#S##14090
-11# The Chi Square Distribution#11.7#Goodness of Fit test example4#Ex11_7.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.7/Ex11_7.R#S##14091
-11# The Chi Square Distribution#11.8#Goodness of Fit test example5#Ex11_8.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.8/Ex11_8.R#S##14092
-11# The Chi Square Distribution#11.9#Test of Independence example1#Ex11_9.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.9/Ex11_9.R#S##14093
-11# The Chi Square Distribution#11.10#Test of Independence example2#Ex11_10.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.10/Ex11_10.R#S##14094
-11# The Chi Square Distribution#11.11#Test of Homogeneity#Ex11_11.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH11/EX11.11/Ex11_11.R#S##14095
-12# F Distribution and one way ANOVA#12.1#Test of two variances#Ex12_1.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH12/EX12.1/Ex12_1.R#S##14260
-12# F Distribution and one way ANOVA#12.2#The F distribution and the F Ratio example1#Ex12_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH12/EX12.2/Ex12_2.R#S##13078
-12# F Distribution and one way ANOVA#12.3#The F distribution and the F Ratio example2#Ex12_3.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH12/EX12.3/Ex12_3.R#S##14257
-12# F Distribution and one way ANOVA#12.4#The F distribution and the F Ratio example3#Ex12_4.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH12/EX12.4/Ex12_4.R#S##14258
-12# F Distribution and one way ANOVA#12.5#The F distribution and the F Ratio example4#Ex12_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH12/EX12.5/Ex12_5.R#S##14259
-13# Linear Regression and Correlation#13.2#Linear Equations example1#Ex13_2.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH13/EX13.2/Ex13_2.R#S##13082
-13# Linear Regression and Correlation#13.5#The Regression Equations example1#Ex13_5.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH13/EX13.5/Ex13_5.R#S##13083
-13# Linear Regression and Correlation#13.6#The Regression Equations example2#Ex13_6.R#Introductory_Business_Statistics_by_Alexander_Holmes_Barbara_Illowsky__Susan_Dean/CH13/EX13.6/Ex13_6.R#S##14100
+1# The Crystal Structure Of Solids#1.1#find volume density of atoms#Ex1_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.1/Ex1_1.R#S##8076
+1# The Crystal Structure Of Solids#1.3#Calculate surface density#Ex1_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.3/Ex1_3.R#S##8077
+2# Introduction to Quantum Mechanics#2.1#Calculate photon energy#Ex2_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.1/Ex2_1.R#S##7994
+2# Introduction to Quantum Mechanics#2.2#Calculate de broglie wavelength#Ex2_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.2/Ex2_2.R#S##11984
+2# Introduction to Quantum Mechanics#2.3#Calculate first three energy levels#Ex2_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.3/Ex2_3.R#S##7996
+2# Introduction to Quantum Mechanics#2.4#Calculate penetration depth#Ex2_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.4/Ex2_4.R#S##7997
+2# Introduction to Quantum Mechanics#2.5#Calculate probability#Ex2_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.5/Ex2_5.R#S##7998
+3# Introduction to the Quantum Theory of Solids#3.1#Calculate change in KE#Ex3_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.1/Ex3_1.R#S##7999
+3# Introduction to the Quantum Theory of Solids#3.2#Determine lowest energy bandwidth#Ex3_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.2/Ex3_2.R#S##11976
+3# Introduction to the Quantum Theory of Solids#3.3#Calculate density of states#Ex3_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.3/Ex3_3.R#S##8001
+3# Introduction to the Quantum Theory of Solids#3.4#Determine possible no of ways#Ex3_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.4/Ex3_4.R#S##8002
+3# Introduction to the Quantum Theory of Solids#3.5#Determine possible no of ways#Ex3_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.5/Ex3_5.R#S##8003
+3# Introduction to the Quantum Theory of Solids#3.6#Calculate probability#Ex3_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.6/Ex3_6.R#S##11977
+3# Introduction to the Quantum Theory of Solids#3.7#Determine temp#Ex3_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.7/Ex3_7.R#S##8005
+4# The Semiconductor in Equilibrium#4.1#Calculate probability#Ex4_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.1/Ex4_1.R#S##8031
+4# The Semiconductor in Equilibrium#4.2#Calculate thermal equilibrium#Ex4_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.2/Ex4_2.R#S##8033
+4# The Semiconductor in Equilibrium#4.3#Calculate intrinsic carrier#Ex4_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.3/Ex4_3.R#S##8037
+4# The Semiconductor in Equilibrium#4.4#Calculate position#Ex4_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.4/Ex4_4.R#S##11985
+4# The Semiconductor in Equilibrium#4.5#Calculate thermal equilibrium#Ex4_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.5/Ex4_5.R#S##8040
+4# The Semiconductor in Equilibrium#4.6#Calculate electron concentration#Ex4_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.6/Ex4_6.R#S##8042
+4# The Semiconductor in Equilibrium#4.7#Determine fraction of total electron#Ex4_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.7/Ex4_7.R#S##11978
+4# The Semiconductor in Equilibrium#4.8#To detemine the temperature at which 90 percent of acceptor atoms are ionized#Ex4_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.8/Ex4_8.R#S##13203
+4# The Semiconductor in Equilibrium#4.9#Calculate thermal equilibrium#Ex4_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.9/Ex4_9.R#S##8046
+4# The Semiconductor in Equilibrium#4.10#Calculate thermal equilibrium#Ex4_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.10/Ex4_10.R#S##8049
+4# The Semiconductor in Equilibrium#4.11#Calculate thermal equilibrium#Ex4_11.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.11/Ex4_11.R#S##8051
+4# The Semiconductor in Equilibrium#4.12#Determine impurity concentration#Ex4_12.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.12/Ex4_12.R#S##8054
+4# The Semiconductor in Equilibrium#4.13#Determine impurity concentration#Ex4_13.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.13/Ex4_13.R#S##8057
+4# The Semiconductor in Equilibrium#4.14#Determine fermi level position#Ex4_14.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.14/Ex4_14.R#S##8059
+5# Carrier Transport Phenomena#5.1#Drift current density#Ex5_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.1/Ex5_1.R#S##8065
+5# Carrier Transport Phenomena#5.2#doping concentration#Ex5_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.2/Ex5_2.R#S##11979
+5# Carrier Transport Phenomena#5.3#design semiconductor resistor#Ex5_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.3/Ex5_3.R#S##8067
+5# Carrier Transport Phenomena#5.4#Diffusion current density#Ex5_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.4/Ex5_4.R#S##8068
+5# Carrier Transport Phenomena#5.5#Determine induced electric field#Ex5_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.5/Ex5_5.R#S##11986
+5# Carrier Transport Phenomena#5.6#Determine diffusion coefficient#Ex5_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.6/Ex5_6.R#S##8070
+5# Carrier Transport Phenomena#5.7#Determine majority carrier #Ex5_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.7/Ex5_7.R#S##11980
+6# Nonequilibrium Excess Carriers in Semiconductors#6.1#To determine the time behavior of excess carriers#Ex6_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.1/Ex6_1.R#S##13202
+6# Nonequilibrium Excess Carriers in Semiconductors#6.2#To determine the time dependence of excess carriers #Ex6_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.2/Ex6_2.R#S##8747
+6# Nonequilibrium Excess Carriers in Semiconductors#6.3#To determine the steady state spatial dependence#Ex6_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.3/Ex6_3.R#S##8748
+6# Nonequilibrium Excess Carriers in Semiconductors#6.5#Dielectric relaxation time constant#Ex6_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.5/Ex6_5.R#S##8072
+6# Nonequilibrium Excess Carriers in Semiconductors#6.6#calculate the quasi fermi energy levels#Ex6_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.6/Ex6_6.R#S##8073
+6# Nonequilibrium Excess Carriers in Semiconductors#6.8#determine the steady state excess carriers concentration#Ex6_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.8/Ex6_8.R#S##11981
+6# Nonequilibrium Excess Carriers in Semiconductors#6.10#determine the value of surface recombination velocity#Ex6_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.10/Ex6_10.R#S##8075
+7# The pn Junction#7.1#calculate the built in potential barrier#Ex7_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.1/Ex7_1.R#S##8705
+7# The pn Junction#7.2#calculate the space charge width#Ex7_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.2/Ex7_2.R#S##8706
+7# The pn Junction#7.3#calculate the width of the space charge region#Ex7_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.3/Ex7_3.R#S##11982
+7# The pn Junction#7.4#design a pn junction#Ex7_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.4/Ex7_4.R#S##8708
+7# The pn Junction#7.5#calculate the junction capacitance#Ex7_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.5/Ex7_5.R#S##8709
+7# The pn Junction#7.6#determine the impurity doping concentrations#Ex7_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.6/Ex7_6.R#S##8710
+8# The pn Junction Diode#8.1#calculate the minority carrier hole concentration#Ex8_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.1/Ex8_1.R#S##8711
+8# The pn Junction Diode#8.2#ideal reverse saturation current density#Ex8_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.2/Ex8_2.R#S##11983
+8# The pn Junction Diode#8.3#design a pn junction diode#Ex8_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.3/Ex8_3.R#S##8713
+8# The pn Junction Diode#8.4#calculate the electric field#Ex8_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.4/Ex8_4.R#S##8714
+8# The pn Junction Diode#8.5#determine the change in the forward bias voltage#Ex8_5 .R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R#S##8715
+8# The pn Junction Diode#8.6#calculate the small signal admittance#Ex8_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.6/Ex8_6.R#S##8716
+8# The pn Junction Diode#8.7#determine the relative magnitudes#Ex8_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.7/Ex8_7.R#S##8717
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.1#calculate the theoretical harrier  height#Ex9_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.1/Ex9_1.R#S##8718
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.2#calculate the semiconductor doping#Ex9_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.2/Ex9_2.R#S##8719
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.3#calculate the Schottky barrier lowering#Ex9_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.3/Ex9_3.R#S##11987
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.4#calculate the effective Richardson constant#Ex9_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.4/Ex9_4.R#S##8721
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.5#calculate the reverse saturation current densities#Ex9_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.5/Ex9_5.R#S##8722
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.6#calculate the forward bias voltage#Ex9_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.6/Ex9_6.R#S##8723
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.7#calculate the space charge width#Ex9_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.7/Ex9_7.R#S##11988
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.8#determine Ae At and Vbi#Ex9_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.8/Ex9_8.R#S##8725
+10# The Bipolar Transistor#10.1#design the ratio of emitter doping#Ex10_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.1/Ex10_1.R#S##8726
+10# The Bipolar Transistor#10.2#design the base width#Ex10_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.2/Ex10_2.R#S##8727
+10# The Bipolar Transistor#10.3#calculate the forward biased#Ex10_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.3/Ex10_3.R#S##8728
+10# The Bipolar Transistor#10.4#calculate the common emitter current gain#Ex10_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.4/Ex10_4.R#S##8729
+10# The Bipolar Transistor#10.5#calculate the change in the neutral base width#Ex10_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.5/Ex10_5.R#S##11989
+10# The Bipolar Transistor#10.6#to calculate the change in collector current#Ex10_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.6/Ex10_6.R#S##13183
+10# The Bipolar Transistor#10.7#determine the increase in pE0#Ex10_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.7/Ex10_7.R#S##8731
+10# The Bipolar Transistor#10.8#design the collector doping#Ex10_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.8/Ex10_8.R#S##8732
+10# The Bipolar Transistor#10.9#design a bipolar transistor#Ex10_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.9/Ex10_9.R#S##8733
+10# The Bipolar Transistor#10.10#calculate the collector emitter saturation voltage#Ex10_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.10/Ex10_10.R#S##8734
+10# The Bipolar Transistor#10.12#calculate the emitter to collector transmit time#Ex10_12.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.12/Ex10_12.R#S##13182
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.1#calculate the maximum space charge width#Ex11_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.1/Ex11_1.R#S##8736
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.2#calculate the metal semiconductor work function difference#Ex11_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.2/Ex11_2.R#S##8737
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.3#calculate the flat band voltage#Ex11_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.3/Ex11_3.R#S##8738
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.4#design the oxide thickness#Ex11_4 .R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.4/Ex11_4 .R#S##8739
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.5#calculate the threshold voltage#Ex11_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.5/Ex11_5.R#S##8740
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.6#design the semiconductor doping concentration#Ex11_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.6/Ex11_6.R#S##8741
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.7#Calculate Cox#Ex11_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.7/Ex11_7.R#S##8742
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.8#design the width#Ex11_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.8/Ex11_8.R#S##8743
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.9#determine the inversion carrier mobility#Ex11_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.9/Ex11_9.R#S##8744
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.10#calculate the change in the threshold voltage#Ex11_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.10/Ex11_10.R#S##8745
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.11#calculate the cutoff frequency#Ex11_11.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.11/Ex11_11.R#S##8746
