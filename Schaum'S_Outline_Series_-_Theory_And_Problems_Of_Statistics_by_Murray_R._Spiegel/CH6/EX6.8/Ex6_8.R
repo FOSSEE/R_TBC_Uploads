@@ -1,0 +1,12 @@
+#PAGE=124
+total_outcoms=36
+list=list()
+list[[1]]<-c(1,4)
+list[[2]]<-c(4,1)
+list[[3]]<-c(2,3)
+list[[4]]<-c(3,2)
+favourable_outcomes=length(list)
+n=900
+probability=favourable_outcomes/total_outcoms
+ans=probability*n
+ans
