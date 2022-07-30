@@ -3,7 +3,7 @@ About The Contributor
 Contributed By: Ojas Singh
 Course: 12th (senior Secondary)
 Branch: Pcmb (physics, Chemistry, Mathematics & Biology)
-College/Institute/Organization: Apeejay School - Noida
+College/Institute/Organization: Apeejay School, Noida
 
 About The Book
 
