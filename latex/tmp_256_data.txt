@@ -1,0 +1,117 @@
+11# Bayesian Statistics#11.4.2#Gibbs Sampler#Ex11_4_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH11/EX11.4.2/Ex11_4_2.R#S##13922
+11# Bayesian Statistics#11.2.6#Bayesian Testing Procedures#Ex11_2_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH11/EX11.2.6/Ex11_2_6.R#S##14265
+10# Nonparametric and Robust Statistics#10.8.2#Olympic Race Problem#Ex10_8_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.8.2/Ex10_8_2.R#S##14007
+10# Nonparametric and Robust Statistics#10.8.1# Olympic Race Problem#Ex10_8_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.8.1/Ex10_8_1.R#S##14006
+10# Nonparametric and Robust Statistics#10.7.2#Telephone Data Scores#Ex10_7_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.7.2/Ex10_7_2.R#S##8154
+10# Nonparametric and Robust Statistics#10.5.3#General Rank Scores#Ex10_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.5.3/Ex10_5_3.R#S##14324
+10# Nonparametric and Robust Statistics#10.4.2#MWW Estimate#Ex10_4_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.4.2/Ex10_4_2.R#S##14268
+10# Nonparametric and Robust Statistics#10.4.1#Water Wheel Problem#Ex10_4_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.4.1/Ex10_4_1.R#S##14003
+10# Nonparametric and Robust Statistics#10.3.4#Zea Mays Problem#Ex10_3_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.4/Ex10_3_4.R#S##14267
+10# Nonparametric and Robust Statistics#10.3.2#ARE at Normal Distribution#Ex10_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.2/Ex10_3_2.R#S##8153
+10# Nonparametric and Robust Statistics#10.3.1#Data of Darwin#Ex10_3_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.1/Ex10_3_1.R#S##8152
+10# Nonparametric and Robust Statistics#10.2.5#Golden Rectangle#Ex10_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.5/Ex10_2_5.R#S##13914
+10# Nonparametric and Robust Statistics#10.2.3#ARE Laplace Distribution#Ex10_2_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.3/Ex10_2_3.R#S##13870
+10# Nonparametric and Robust Statistics#10.2.2#ARE Normal Distribution#Ex10_2_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.2/Ex10_2_2.R#S##13869
+8# Optimal Tests of Hypotheses#8.2.1#PDF Hypothesis#Ex8_2_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.2.1/Ex8_2_1.R#S##13868
+8# Optimal Tests of Hypotheses#8.1.3#Simple Hypotheses#Ex8_1_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.3/Ex8_1_3.R#S##8149
+8# Optimal Tests of Hypotheses#8.1.2#Hypothesis#Ex8_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.2/Ex8_1_2.R#S##14001
+8# Optimal Tests of Hypotheses#8.1.1#Multivariate Random Variable Hypotheses#Ex8_1_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.1/Ex8_1_1.R#S##13646
+6# Maximum Likelihood Methods#6.2.5#ARE #Ex6_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH6/EX6.2.5/Ex6_2_5.R#S##13866
+5# Consistency and Limiting Distributions#5.3.4#Sample Probability#Ex5_3_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.4/Ex5_3_4.R#S##8147
+5# Consistency and Limiting Distributions#5.3.3#Normal Approximation To Binomial Distribution#Ex5_3_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.3/Ex5_3_3.R#S##8146
+5# Consistency and Limiting Distributions#5.3.2#Sample Probability#Ex5_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.2/Ex5_3_2.R#S##8145
+5# Consistency and Limiting Distributions#5.2.6#Distribution Comparison#Ex5_2_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.2.6/Ex5_2_6.R#S##8144
+4# Some Elementary Statistical Inferences#4.9.3#Bootstrap#Ex4_9_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.3/Ex4_9_3.R#S##13913
+4# Some Elementary Statistical Inferences#4.9.2#Bootstrap#Ex4_9_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.2/Ex4_9_2.R#S##14010
+4# Some Elementary Statistical Inferences#4.9.1#Bootstrap#Ex4_9_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.1/Ex4_9_1.R#S##13993
+4# Some Elementary Statistical Inferences#4.8.7#Probability Of Acceptance#Ex4_8_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.7/Ex4_8_7.R#S##13865
+4# Some Elementary Statistical Inferences#4.8.4#Pi Estimation By Monte Carlo Integration#Ex4_8_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.4/Ex4_8_4.R#S##13992
+4# Some Elementary Statistical Inferences#4.8.1#Pi Estimation#Ex4_8_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.1/Ex4_8_1.R#S##14009
+4# Some Elementary Statistical Inferences#4.7.2#Goodness Of Fit#Ex4_7_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.7.2/Ex4_7_2.R#S##8114
+4# Some Elementary Statistical Inferences#4.7.1#Goodness Of Fit#Ex4_7_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.7.1/Ex4_7_1.R#S##8113
+4# Some Elementary Statistical Inferences#4.6.5#P value of Normal Distribution#Ex4_6_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.6.5/Ex4_6_5.R#S##13862
+4# Some Elementary Statistical Inferences#4.6.4#Randomized Test#Ex4_6_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.6.4/Ex4_6_4.R#S##13615
+4# Some Elementary Statistical Inferences#4.5.5#Box And Quantile Plots#Ex4_5_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.5.5/Ex4_5_5.R#S##14263
+4# Some Elementary Statistical Inferences#4.5.2#Test for Binomial Proportion of Success#Ex4_5_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.5.2/Ex4_5_2.R#S##13910
+4# Some Elementary Statistical Inferences#4.4.5#Box And Quantile Plots#Ex4_4_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.5/Ex4_4_5.R#S##14262
+4# Some Elementary Statistical Inferences#4.4.4#Five Number Summary#Ex4_4_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.4/Ex4_4_4.R#S##14008
+4# Some Elementary Statistical Inferences#4.4.3#Order Statistics of Random Sample#Ex4_4_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.3/Ex4_4_3.R#S##13909
+4# Some Elementary Statistical Inferences#4.2.5#Confidence Intervals#Ex4_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.2.5/Ex4_2_5.R#S##13860
+4# Some Elementary Statistical Inferences#4.2.4#Two Sample Confidence Interval Problem#Ex4_2_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.2.4/Ex4_2_4.R#S##13859
+4# Some Elementary Statistical Inferences#4.10.1#Tolerance Interval#Ex4_10_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.10.1/Ex4_10_1.R#S##13616
+4# Some Elementary Statistical Inferences#4.1.7#Histogram For Normally Generated Data#Ex4_1_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.7/Ex4_1_7.R#S##13998
+4# Some Elementary Statistical Inferences#4.1.6#Simulated Poisson Variates#Ex4_1_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.6/Ex4_1_6.R#S##13997
+4# Some Elementary Statistical Inferences#4.1.5#Hair Colour Problem#Ex4_1_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.5/Ex4_1_5.R#S##13996
+3# Some Special Distributions#3.5.3#Population Normal Distribution Example#Ex3_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.5.3/Ex3_5_3.R#S##8107
+3# Some Special Distributions#3.4.5#Finding mu and sigma#Ex3_4_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.5/Ex3_4_5.R#S##13858
+3# Some Special Distributions#3.4.4#Normal Distribution#Ex3_4_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.4/Ex3_4_4.R#S##8106
+3# Some Special Distributions#3.4.3#Normal Distribution#Ex3_4_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.3/Ex3_4_3.R#S##8105
+3# Some Special Distributions#3.3.5#Chi Square Distribution#Ex3_3_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.3.5/Ex3_3_5.R#S##8104
+3# Some Special Distributions#3.2.4#Poisson Distribution#Ex3_2_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.4/Ex3_2_4.R#S##8158
+3# Some Special Distributions#3.2.3#Poisson Distribution#Ex3_2_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.3/Ex3_2_3.R#S##8064
+3# Some Special Distributions#3.2.2#Poisson Distribution#Ex3_2_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.2/Ex3_2_2.R#S##8063
+3# Some Special Distributions#3.2.1#Poisson Distribution#Ex3_2_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.1/Ex3_2_1.R#S##8062
+3# Some Special Distributions#3.1.2#Binomial Distribution#Ex3_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.1.2/Ex3_1_2.R#S##13645
+3# Some Special Distributions#3.1.1#Binomial Distribution#Ex3_1_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.1.1/Ex3_1_1.R#S##13644
+2# Multivariate Distributions#2.6.2#Several Random Variable Problem#Ex2_6_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.6.2/Ex2_6_2.R#S##13643
+2# Multivariate Distributions#2.5.3#Independent Random Variables#Ex2_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.5.3/Ex2_5_3.R#S##13642
+2# Multivariate Distributions#2.4.1#Correlation Coefficient#Ex2_4_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.4.1/Ex2_4_1.R#S##13641
+2# Multivariate Distributions#2.3.2#Mean And Variance#Ex2_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.3.2/Ex2_3_2.R#S##13640
+2# Multivariate Distributions#2.3.1#Mean Variance And Probability#Ex2_3_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.3.1/Ex2_3_1.R#S##13639
+2# Multivariate Distributions#2.1.6#Multivariate Expectation Problem#Ex2_1_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.6/Ex2_1_6.R#S##13638
+2# Multivariate Distributions#2.1.5#Multivariate Expectation Problem#Ex2_1_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.5/Ex2_1_5.R#S##13637
+2# Multivariate Distributions#2.1.4#Joint PDF Problem#Ex2_1_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.4/Ex2_1_4.R#S##13636
+2# Multivariate Distributions#2.1.3#Chips From Bowl Problem#Ex2_1_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.3/Ex2_1_3.R#S##13857
+2# Multivariate Distributions#2.1.2#Multivariate Random Variable#Ex2_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.2/Ex2_1_2.R#S##13635
+1# Probability And Distributions#1.9.1#Mean And Variance#Ex1_9_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.9.1/Ex1_9_1.R#S##13633
+1# Probability And Distributions#1.8.7#Expectation Chip Problem#Ex1_8_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.7/Ex1_8_7.R#S##13631
+1# Probability And Distributions#1.8.6#Expectation Problem#Ex1_8_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.6/Ex1_8_6.R#S##13632
+1# Probability And Distributions#1.8.5#Expectation Problem#Ex1_8_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.5/Ex1_8_5.R#S##13630
+1# Probability And Distributions#1.8.4#Expectation Problem#Ex1_8_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.4/Ex1_8_4.R#S##13629
+1# Probability And Distributions#1.8.3#Probability Density Function#Ex1_8_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.3/Ex1_8_3.R#S##13628
+1# Probability And Distributions#1.8.2#Random Variable#Ex1_8_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.2/Ex1_8_2.R#S##8050
+1# Probability And Distributions#1.7.7#Company Loss Problem#Ex1_7_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.7/Ex1_7_7.R#S##13856
+1# Probability And Distributions#1.7.6#Cumulative Distribution Function#Ex1_7_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.6/Ex1_7_6.R#S##13627
+1# Probability And Distributions#1.7.2#Telephone Probability Problem And Graph#Ex1_7_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.2/Ex1_7_2.R#S##8047
+1# Probability And Distributions#1.7.1#Circle Probability Problem#Ex1_7_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.1/Ex1_7_1.R#S##13626
+1# Probability And Distributions#1.6.2#Fuse Problem#Ex1_6_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.6.2/Ex1_6_2.R#S##8044
+1# Probability And Distributions#1.5.8#Probability Density Function#Ex1_5_8.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.8/Ex1_5_8.R#S##13994
+1# Probability And Distributions#1.5.7#Probability Mass Function#Ex1_5_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.7/Ex1_5_7.R#S##13855
+1# Probability And Distributions#1.5.6#Cumulative Distribution Function#Ex1_5_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.6/Ex1_5_6.R#S##13625
+1# Probability And Distributions#1.5.5#Mechanical Part CDF Problem#Ex1_5_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.5/Ex1_5_5.R#S##8036
+1# Probability And Distributions#1.5.4#Cumulative Distribution Function#Ex1_5_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.4/Ex1_5_4.R#S##8035
+1# Probability And Distributions#1.5.3#Step Function Plot#Ex1_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.3/Ex1_5_3.R#S##8034
+1# Probability And Distributions#1.5.2#Probability Density Function#Ex1_5_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.2/Ex1_5_2.R#S##13624
+1# Probability And Distributions#1.5.1#Random Variable Pmf#Ex1_5_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.1/Ex1_5_1.R#S##13623
+1# Probability And Distributions#1.4.9#Mutual Independence#Ex1_4_9.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.9/Ex1_4_9.R#S##13854
+1# Probability And Distributions#1.4.8#Sum of 2 Die#Ex1_4_8.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.8/Ex1_4_8.R#S##13621
+1# Probability And Distributions#1.4.7#Bayes Theorem Child Abuse Problem#Ex1_4_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.7/Ex1_4_7.R#S##8026
+1# Probability And Distributions#1.4.6#Plant Problem#Ex1_4_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.6/Ex1_4_6.R#S##13620
+1# Probability And Distributions#1.4.5#Bayes Theorem#Ex1_4_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.5/Ex1_4_5.R#S##13619
+1# Probability And Distributions#1.4.4#Cards In Order#Ex1_4_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.4/Ex1_4_4.R#S##8155
+1# Probability And Distributions#1.4.3#Conditional Probabilty Card Problem#Ex1_4_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.3/Ex1_4_3.R#S##8023
+1# Probability And Distributions#1.4.2#Conditional Probabilty Chip Problem#Ex1_4_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.2/Ex1_4_2.R#S##8022
+1# Probability And Distributions#1.4.11#Mutually Independent Events#Ex1_4_11.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.11/Ex1_4_11.R#S##8029
+1# Probability And Distributions#1.4.10#Coin Probability#Ex1_4_10.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.10/Ex1_4_10.R#S##13622
+1# Probability And Distributions#1.4.1#Conditional Probabilty#Ex1_4_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.1/Ex1_4_1.R#S##8021
+1# Probability And Distributions#1.3.4#Poker Question#Ex1_3_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.4/Ex1_3_4.R#S##8020
+1# Probability And Distributions#1.3.2#Set Probability#Ex1_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.2/Ex1_3_2.R#S##13618
+1# Probability And Distributions#1.3.1#Set Probability#Ex1_3_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.1/Ex1_3_1.R#S##13617
+1# Probability And Distributions#1.2.8#Intersection of Sets#Ex1_2_8.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.8/Ex1_2_8.R#S##8010
+1# Probability And Distributions#1.2.6#Union#Ex1_2_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.6/Ex1_2_6.R#S##8009
+1# Probability And Distributions#1.2.5#Union#Ex1_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.5/Ex1_2_5.R#S##8008
+1# Probability And Distributions#1.2.4#Union#Ex1_2_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.4/Ex1_2_4.R#S##8007
+1# Probability And Distributions#1.2.3#Union #Ex1_2_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.3/Ex1_2_3.R#S##8006
+1# Probability And Distributions#1.2.23#1D Set Integration#Ex1_2_23.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.23/Ex1_2_23.R#S##13853
+1# Probability And Distributions#1.2.21#Functions#Ex1_2_21.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.21/Ex1_2_21.R#S##8017
+1# Probability And Distributions#1.2.18#Set Functions#Ex1_2_18.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.18/Ex1_2_18.R#S##8016
+1# Probability And Distributions#1.2.17#De Morgans Law#Ex1_2_17.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.17/Ex1_2_17.R#S##8015
+1# Probability And Distributions#1.2.16#Set Operations#Ex1_2_16.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.16/Ex1_2_16.R#S##8014
+1# Probability And Distributions#1.2.15#Set Complement#Ex1_2_15.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.15/Ex1_2_15.R#S##8013
+1# Probability And Distributions#1.2.13#Coin Sample Space#Ex1_2_13.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.13/Ex1_2_13.R#S##13995
+1# Probability And Distributions#1.2.12#Venn Diagram#Ex1_2_12.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.12/Ex1_2_12.R#S##8012
+1# Probability And Distributions#1.2.10#Intersection of Sets#Ex1_2_10.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.10/Ex1_2_10.R#S##8011
+1# Probability And Distributions#1.10.1#Chebyshev Inequality#Ex1_10_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.10.1/Ex1_10_1.R#S##13634
+1# Probability And Distributions#1.1.3#Dice Relative Frequency#Ex1_1_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.3/Ex1_1_3.R#S##13850
+1# Probability And Distributions#1.1.2#Dice Sample Space#Ex1_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.2/Ex1_1_2.R#S##13849
+1# Probability And Distributions#1.1.1#Coin Toss#Ex1_1_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.1/Ex1_1_1.R#S##7984
