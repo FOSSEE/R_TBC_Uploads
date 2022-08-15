@@ -1,117 +1,85 @@
-1# Probability And Distributions#1.1.1#Coin Toss#Ex1_1_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.1/Ex1_1_1.R#S##7984
-1# Probability And Distributions#1.1.2#Dice Sample Space#Ex1_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.2/Ex1_1_2.R#S##13849
-1# Probability And Distributions#1.1.3#Dice Relative Frequency#Ex1_1_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.3/Ex1_1_3.R#S##13850
-1# Probability And Distributions#1.2.3#Union #Ex1_2_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.3/Ex1_2_3.R#S##8006
-1# Probability And Distributions#1.2.4#Union#Ex1_2_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.4/Ex1_2_4.R#S##8007
-1# Probability And Distributions#1.2.5#Union#Ex1_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.5/Ex1_2_5.R#S##8008
-1# Probability And Distributions#1.2.6#Union#Ex1_2_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.6/Ex1_2_6.R#S##8009
-1# Probability And Distributions#1.2.8#Intersection of Sets#Ex1_2_8.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.8/Ex1_2_8.R#S##8010
-1# Probability And Distributions#1.2.10#Intersection of Sets#Ex1_2_10.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.10/Ex1_2_10.R#S##8011
-1# Probability And Distributions#1.2.12#Venn Diagram#Ex1_2_12.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.12/Ex1_2_12.R#S##8012
-1# Probability And Distributions#1.2.13#Coin Sample Space#Ex1_2_13.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.13/Ex1_2_13.R#S##13995
-1# Probability And Distributions#1.2.15#Set Complement#Ex1_2_15.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.15/Ex1_2_15.R#S##8013
-1# Probability And Distributions#1.2.16#Set Operations#Ex1_2_16.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.16/Ex1_2_16.R#S##8014
-1# Probability And Distributions#1.2.17#De Morgans Law#Ex1_2_17.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.17/Ex1_2_17.R#S##8015
-1# Probability And Distributions#1.2.18#Set Functions#Ex1_2_18.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.18/Ex1_2_18.R#S##8016
-1# Probability And Distributions#1.2.21#Functions#Ex1_2_21.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.21/Ex1_2_21.R#S##8017
-1# Probability And Distributions#1.2.23#1D Set Integration#Ex1_2_23.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.23/Ex1_2_23.R#S##13853
-1# Probability And Distributions#1.3.1#Set Probability#Ex1_3_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.1/Ex1_3_1.R#S##13617
-1# Probability And Distributions#1.3.2#Set Probability#Ex1_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.2/Ex1_3_2.R#S##13618
-1# Probability And Distributions#1.3.4#Poker Question#Ex1_3_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.4/Ex1_3_4.R#S##8020
-1# Probability And Distributions#1.4.1#Conditional Probabilty#Ex1_4_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.1/Ex1_4_1.R#S##8021
-1# Probability And Distributions#1.4.2#Conditional Probabilty Chip Problem#Ex1_4_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.2/Ex1_4_2.R#S##8022
-1# Probability And Distributions#1.4.3#Conditional Probabilty Card Problem#Ex1_4_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.3/Ex1_4_3.R#S##8023
-1# Probability And Distributions#1.4.4#Cards In Order#Ex1_4_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.4/Ex1_4_4.R#S##8155
-1# Probability And Distributions#1.4.5#Bayes Theorem#Ex1_4_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.5/Ex1_4_5.R#S##13619
-1# Probability And Distributions#1.4.6#Plant Problem#Ex1_4_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.6/Ex1_4_6.R#S##13620
-1# Probability And Distributions#1.4.7#Bayes Theorem Child Abuse Problem#Ex1_4_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.7/Ex1_4_7.R#S##8026
-1# Probability And Distributions#1.4.8#Sum of 2 Die#Ex1_4_8.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.8/Ex1_4_8.R#S##13621
-1# Probability And Distributions#1.4.9#Mutual Independence#Ex1_4_9.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.9/Ex1_4_9.R#S##13854
-1# Probability And Distributions#1.4.10#Coin Probability#Ex1_4_10.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.10/Ex1_4_10.R#S##13622
-1# Probability And Distributions#1.4.11#Mutually Independent Events#Ex1_4_11.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.11/Ex1_4_11.R#S##8029
-1# Probability And Distributions#1.5.1#Random Variable Pmf#Ex1_5_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.1/Ex1_5_1.R#S##13623
-1# Probability And Distributions#1.5.2#Probability Density Function#Ex1_5_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.2/Ex1_5_2.R#S##13624
-1# Probability And Distributions#1.5.3#Step Function Plot#Ex1_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.3/Ex1_5_3.R#S##8034
-1# Probability And Distributions#1.5.4#Cumulative Distribution Function#Ex1_5_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.4/Ex1_5_4.R#S##8035
-1# Probability And Distributions#1.5.5#Mechanical Part CDF Problem#Ex1_5_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.5/Ex1_5_5.R#S##8036
-1# Probability And Distributions#1.5.6#Cumulative Distribution Function#Ex1_5_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.6/Ex1_5_6.R#S##13625
-1# Probability And Distributions#1.5.7#Probability Mass Function#Ex1_5_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.7/Ex1_5_7.R#S##13855
-1# Probability And Distributions#1.5.8#Probability Density Function#Ex1_5_8.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.8/Ex1_5_8.R#S##13994
-1# Probability And Distributions#1.6.2#Fuse Problem#Ex1_6_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.6.2/Ex1_6_2.R#S##8044
-1# Probability And Distributions#1.7.1#Circle Probability Problem#Ex1_7_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.1/Ex1_7_1.R#S##13626
-1# Probability And Distributions#1.7.2#Telephone Probability Problem And Graph#Ex1_7_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.2/Ex1_7_2.R#S##8047
-1# Probability And Distributions#1.7.6#Cumulative Distribution Function#Ex1_7_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.6/Ex1_7_6.R#S##13627
-1# Probability And Distributions#1.7.7#Company Loss Problem#Ex1_7_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.7/Ex1_7_7.R#S##13856
-1# Probability And Distributions#1.8.2#Random Variable#Ex1_8_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.2/Ex1_8_2.R#S##8050
-1# Probability And Distributions#1.8.3#Probability Density Function#Ex1_8_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.3/Ex1_8_3.R#S##13628
-1# Probability And Distributions#1.8.4#Expectation Problem#Ex1_8_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.4/Ex1_8_4.R#S##13629
-1# Probability And Distributions#1.8.5#Expectation Problem#Ex1_8_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.5/Ex1_8_5.R#S##13630
-1# Probability And Distributions#1.8.6#Expectation Problem#Ex1_8_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.6/Ex1_8_6.R#S##13632
-1# Probability And Distributions#1.8.7#Expectation Chip Problem#Ex1_8_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.7/Ex1_8_7.R#S##13631
-1# Probability And Distributions#1.9.1#Mean And Variance#Ex1_9_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.9.1/Ex1_9_1.R#S##13633
-1# Probability And Distributions#1.10.1#Chebyshev Inequality#Ex1_10_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.10.1/Ex1_10_1.R#S##13634
-2# Multivariate Distributions#2.1.2#Multivariate Random Variable#Ex2_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.2/Ex2_1_2.R#S##13635
-2# Multivariate Distributions#2.1.3#Chips From Bowl Problem#Ex2_1_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.3/Ex2_1_3.R#S##13857
-2# Multivariate Distributions#2.1.4#Joint PDF Problem#Ex2_1_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.4/Ex2_1_4.R#S##13636
-2# Multivariate Distributions#2.1.5#Multivariate Expectation Problem#Ex2_1_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.5/Ex2_1_5.R#S##13637
-2# Multivariate Distributions#2.1.6#Multivariate Expectation Problem#Ex2_1_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.6/Ex2_1_6.R#S##13638
-2# Multivariate Distributions#2.3.1#Mean Variance And Probability#Ex2_3_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.3.1/Ex2_3_1.R#S##13639
-2# Multivariate Distributions#2.3.2#Mean And Variance#Ex2_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.3.2/Ex2_3_2.R#S##13640
-2# Multivariate Distributions#2.4.1#Correlation Coefficient#Ex2_4_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.4.1/Ex2_4_1.R#S##13641
-2# Multivariate Distributions#2.5.3#Independent Random Variables#Ex2_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.5.3/Ex2_5_3.R#S##13642
-2# Multivariate Distributions#2.6.2#Several Random Variable Problem#Ex2_6_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.6.2/Ex2_6_2.R#S##13643
-3# Some Special Distributions#3.1.1#Binomial Distribution#Ex3_1_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.1.1/Ex3_1_1.R#S##13644
-3# Some Special Distributions#3.1.2#Binomial Distribution#Ex3_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.1.2/Ex3_1_2.R#S##13645
-3# Some Special Distributions#3.2.1#Poisson Distribution#Ex3_2_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.1/Ex3_2_1.R#S##8062
-3# Some Special Distributions#3.2.2#Poisson Distribution#Ex3_2_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.2/Ex3_2_2.R#S##8063
-3# Some Special Distributions#3.2.3#Poisson Distribution#Ex3_2_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.3/Ex3_2_3.R#S##8064
-3# Some Special Distributions#3.2.4#Poisson Distribution#Ex3_2_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.4/Ex3_2_4.R#S##8158
-3# Some Special Distributions#3.3.5#Chi Square Distribution#Ex3_3_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.3.5/Ex3_3_5.R#S##8104
-3# Some Special Distributions#3.4.3#Normal Distribution#Ex3_4_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.3/Ex3_4_3.R#S##8105
-3# Some Special Distributions#3.4.4#Normal Distribution#Ex3_4_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.4/Ex3_4_4.R#S##8106
-3# Some Special Distributions#3.4.5#Finding mu and sigma#Ex3_4_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.5/Ex3_4_5.R#S##13858
-3# Some Special Distributions#3.5.3#Population Normal Distribution Example#Ex3_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.5.3/Ex3_5_3.R#S##8107
-4# Some Elementary Statistical Inferences#4.1.5#Hair Colour Problem#Ex4_1_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.5/Ex4_1_5.R#S##13996
-4# Some Elementary Statistical Inferences#4.1.6#Simulated Poisson Variates#Ex4_1_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.6/Ex4_1_6.R#S##13997
-4# Some Elementary Statistical Inferences#4.1.7#Histogram For Normally Generated Data#Ex4_1_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.7/Ex4_1_7.R#S##13998
-4# Some Elementary Statistical Inferences#4.2.4#Two Sample Confidence Interval Problem#Ex4_2_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.2.4/Ex4_2_4.R#S##13859
-4# Some Elementary Statistical Inferences#4.2.5#Confidence Intervals#Ex4_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.2.5/Ex4_2_5.R#S##13860
-4# Some Elementary Statistical Inferences#4.4.3#Order Statistics of Random Sample#Ex4_4_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.3/Ex4_4_3.R#S##13909
-4# Some Elementary Statistical Inferences#4.4.4#Five Number Summary#Ex4_4_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.4/Ex4_4_4.R#S##14008
-4# Some Elementary Statistical Inferences#4.4.5#Box And Quantile Plots#Ex4_4_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.5/Ex4_4_5.R#S##14262
-4# Some Elementary Statistical Inferences#4.5.2#Test for Binomial Proportion of Success#Ex4_5_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.5.2/Ex4_5_2.R#S##13910
-4# Some Elementary Statistical Inferences#4.5.5#Box And Quantile Plots#Ex4_5_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.5.5/Ex4_5_5.R#S##14263
-4# Some Elementary Statistical Inferences#4.6.4#Randomized Test#Ex4_6_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.6.4/Ex4_6_4.R#S##13615
-4# Some Elementary Statistical Inferences#4.6.5#P value of Normal Distribution#Ex4_6_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.6.5/Ex4_6_5.R#S##13862
-4# Some Elementary Statistical Inferences#4.7.1#Goodness Of Fit#Ex4_7_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.7.1/Ex4_7_1.R#S##8113
-4# Some Elementary Statistical Inferences#4.7.2#Goodness Of Fit#Ex4_7_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.7.2/Ex4_7_2.R#S##8114
-4# Some Elementary Statistical Inferences#4.8.1#Pi Estimation#Ex4_8_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.1/Ex4_8_1.R#S##14009
-4# Some Elementary Statistical Inferences#4.8.4#Pi Estimation By Monte Carlo Integration#Ex4_8_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.4/Ex4_8_4.R#S##13992
-4# Some Elementary Statistical Inferences#4.8.7#Probability Of Acceptance#Ex4_8_7.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.7/Ex4_8_7.R#S##13865
-4# Some Elementary Statistical Inferences#4.9.1#Bootstrap#Ex4_9_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.1/Ex4_9_1.R#S##13993
-4# Some Elementary Statistical Inferences#4.9.2#Bootstrap#Ex4_9_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.2/Ex4_9_2.R#S##14010
-4# Some Elementary Statistical Inferences#4.9.3#Bootstrap#Ex4_9_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.3/Ex4_9_3.R#S##13913
-4# Some Elementary Statistical Inferences#4.10.1#Tolerance Interval#Ex4_10_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.10.1/Ex4_10_1.R#S##13616
-5# Consistency and Limiting Distributions#5.2.6#Distribution Comparison#Ex5_2_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.2.6/Ex5_2_6.R#S##8144
-5# Consistency and Limiting Distributions#5.3.2#Sample Probability#Ex5_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.2/Ex5_3_2.R#S##8145
-5# Consistency and Limiting Distributions#5.3.3#Normal Approximation To Binomial Distribution#Ex5_3_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.3/Ex5_3_3.R#S##8146
-5# Consistency and Limiting Distributions#5.3.4#Sample Probability#Ex5_3_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.4/Ex5_3_4.R#S##8147
-6# Maximum Likelihood Methods#6.2.5#ARE #Ex6_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH6/EX6.2.5/Ex6_2_5.R#S##13866
-8# Optimal Tests of Hypotheses#8.1.1#Multivariate Random Variable Hypotheses#Ex8_1_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.1/Ex8_1_1.R#S##13646
-8# Optimal Tests of Hypotheses#8.1.2#Hypothesis#Ex8_1_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.2/Ex8_1_2.R#S##14001
-8# Optimal Tests of Hypotheses#8.1.3#Simple Hypotheses#Ex8_1_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.3/Ex8_1_3.R#S##8149
-8# Optimal Tests of Hypotheses#8.2.1#PDF Hypothesis#Ex8_2_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.2.1/Ex8_2_1.R#S##13868
-10# Nonparametric and Robust Statistics#10.2.2#ARE Normal Distribution#Ex10_2_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.2/Ex10_2_2.R#S##13869
-10# Nonparametric and Robust Statistics#10.2.3#ARE Laplace Distribution#Ex10_2_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.3/Ex10_2_3.R#S##13870
-10# Nonparametric and Robust Statistics#10.2.5#Golden Rectangle#Ex10_2_5.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.5/Ex10_2_5.R#S##13914
-10# Nonparametric and Robust Statistics#10.3.1#Data of Darwin#Ex10_3_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.1/Ex10_3_1.R#S##8152
-10# Nonparametric and Robust Statistics#10.3.2#ARE at Normal Distribution#Ex10_3_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.2/Ex10_3_2.R#S##8153
-10# Nonparametric and Robust Statistics#10.3.4#Zea Mays Problem#Ex10_3_4.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.4/Ex10_3_4.R#S##14267
-10# Nonparametric and Robust Statistics#10.4.1#Water Wheel Problem#Ex10_4_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.4.1/Ex10_4_1.R#S##14003
-10# Nonparametric and Robust Statistics#10.4.2#MWW Estimate#Ex10_4_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.4.2/Ex10_4_2.R#S##14268
-10# Nonparametric and Robust Statistics#10.5.3#General Rank Scores#Ex10_5_3.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.5.3/Ex10_5_3.R#S##14324
-10# Nonparametric and Robust Statistics#10.7.2#Telephone Data Scores#Ex10_7_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.7.2/Ex10_7_2.R#S##8154
-10# Nonparametric and Robust Statistics#10.8.1# Olympic Race Problem#Ex10_8_1.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.8.1/Ex10_8_1.R#S##14006
-10# Nonparametric and Robust Statistics#10.8.2#Olympic Race Problem#Ex10_8_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.8.2/Ex10_8_2.R#S##14007
-11# Bayesian Statistics#11.2.6#Bayesian Testing Procedures#Ex11_2_6.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH11/EX11.2.6/Ex11_2_6.R#S##14265
-11# Bayesian Statistics#11.4.2#Gibbs Sampler#Ex11_4_2.R#Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH11/EX11.4.2/Ex11_4_2.R#S##13922
+1# The Crystal Structure Of Solids#1.1#find volume density of atoms#Ex1_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.1/Ex1_1.R#S##8076
+1# The Crystal Structure Of Solids#1.3#Calculate surface density#Ex1_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.3/Ex1_3.R#S##8077
+2# Introduction to Quantum Mechanics#2.1#Calculate photon energy#Ex2_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.1/Ex2_1.R#S##7994
+2# Introduction to Quantum Mechanics#2.2#Calculate de broglie wavelength#Ex2_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.2/Ex2_2.R#S##11984
+2# Introduction to Quantum Mechanics#2.3#Calculate first three energy levels#Ex2_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.3/Ex2_3.R#S##7996
+2# Introduction to Quantum Mechanics#2.4#Calculate penetration depth#Ex2_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.4/Ex2_4.R#S##7997
+2# Introduction to Quantum Mechanics#2.5#Calculate probability#Ex2_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.5/Ex2_5.R#S##7998
+3# Introduction to the Quantum Theory of Solids#3.1#Calculate change in KE#Ex3_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.1/Ex3_1.R#S##7999
+3# Introduction to the Quantum Theory of Solids#3.2#Determine lowest energy bandwidth#Ex3_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.2/Ex3_2.R#S##11976
+3# Introduction to the Quantum Theory of Solids#3.3#Calculate density of states#Ex3_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.3/Ex3_3.R#S##8001
+3# Introduction to the Quantum Theory of Solids#3.4#Determine possible no of ways#Ex3_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.4/Ex3_4.R#S##8002
+3# Introduction to the Quantum Theory of Solids#3.5#Determine possible no of ways#Ex3_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.5/Ex3_5.R#S##8003
+3# Introduction to the Quantum Theory of Solids#3.6#Calculate probability#Ex3_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.6/Ex3_6.R#S##11977
+3# Introduction to the Quantum Theory of Solids#3.7#Determine temp#Ex3_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.7/Ex3_7.R#S##8005
+4# The Semiconductor in Equilibrium#4.1#Calculate probability#Ex4_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.1/Ex4_1.R#S##8031
+4# The Semiconductor in Equilibrium#4.2#Calculate thermal equilibrium#Ex4_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.2/Ex4_2.R#S##8033
+4# The Semiconductor in Equilibrium#4.3#Calculate intrinsic carrier#Ex4_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.3/Ex4_3.R#S##8037
+4# The Semiconductor in Equilibrium#4.4#Calculate position#Ex4_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.4/Ex4_4.R#S##11985
+4# The Semiconductor in Equilibrium#4.5#Calculate thermal equilibrium#Ex4_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.5/Ex4_5.R#S##8040
+4# The Semiconductor in Equilibrium#4.6#Calculate electron concentration#Ex4_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.6/Ex4_6.R#S##8042
+4# The Semiconductor in Equilibrium#4.7#Determine fraction of total electron#Ex4_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.7/Ex4_7.R#S##11978
+4# The Semiconductor in Equilibrium#4.8#To detemine the temperature at which 90 percent of acceptor atoms are ionized#Ex4_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.8/Ex4_8.R#S##13203
+4# The Semiconductor in Equilibrium#4.9#Calculate thermal equilibrium#Ex4_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.9/Ex4_9.R#S##8046
+4# The Semiconductor in Equilibrium#4.10#Calculate thermal equilibrium#Ex4_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.10/Ex4_10.R#S##8049
+4# The Semiconductor in Equilibrium#4.11#Calculate thermal equilibrium#Ex4_11.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.11/Ex4_11.R#S##8051
+4# The Semiconductor in Equilibrium#4.12#Determine impurity concentration#Ex4_12.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.12/Ex4_12.R#S##8054
+4# The Semiconductor in Equilibrium#4.13#Determine impurity concentration#Ex4_13.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.13/Ex4_13.R#S##8057
+4# The Semiconductor in Equilibrium#4.14#Determine fermi level position#Ex4_14.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.14/Ex4_14.R#S##8059
+5# Carrier Transport Phenomena#5.1#Drift current density#Ex5_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.1/Ex5_1.R#S##8065
+5# Carrier Transport Phenomena#5.2#doping concentration#Ex5_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.2/Ex5_2.R#S##11979
+5# Carrier Transport Phenomena#5.3#design semiconductor resistor#Ex5_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.3/Ex5_3.R#S##8067
+5# Carrier Transport Phenomena#5.4#Diffusion current density#Ex5_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.4/Ex5_4.R#S##8068
+5# Carrier Transport Phenomena#5.5#Determine induced electric field#Ex5_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.5/Ex5_5.R#S##11986
+5# Carrier Transport Phenomena#5.6#Determine diffusion coefficient#Ex5_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.6/Ex5_6.R#S##8070
+5# Carrier Transport Phenomena#5.7#Determine majority carrier #Ex5_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.7/Ex5_7.R#S##11980
+6# Nonequilibrium Excess Carriers in Semiconductors#6.1#To determine the time behavior of excess carriers#Ex6_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.1/Ex6_1.R#S##13202
+6# Nonequilibrium Excess Carriers in Semiconductors#6.2#To determine the time dependence of excess carriers #Ex6_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.2/Ex6_2.R#S##8747
+6# Nonequilibrium Excess Carriers in Semiconductors#6.3#To determine the steady state spatial dependence#Ex6_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.3/Ex6_3.R#S##8748
+6# Nonequilibrium Excess Carriers in Semiconductors#6.5#Dielectric relaxation time constant#Ex6_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.5/Ex6_5.R#S##8072
+6# Nonequilibrium Excess Carriers in Semiconductors#6.6#calculate the quasi fermi energy levels#Ex6_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.6/Ex6_6.R#S##8073
+6# Nonequilibrium Excess Carriers in Semiconductors#6.8#determine the steady state excess carriers concentration#Ex6_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.8/Ex6_8.R#S##11981
+6# Nonequilibrium Excess Carriers in Semiconductors#6.10#determine the value of surface recombination velocity#Ex6_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.10/Ex6_10.R#S##8075
+7# The pn Junction#7.1#calculate the built in potential barrier#Ex7_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.1/Ex7_1.R#S##8705
+7# The pn Junction#7.2#calculate the space charge width#Ex7_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.2/Ex7_2.R#S##8706
+7# The pn Junction#7.3#calculate the width of the space charge region#Ex7_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.3/Ex7_3.R#S##11982
+7# The pn Junction#7.4#design a pn junction#Ex7_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.4/Ex7_4.R#S##8708
+7# The pn Junction#7.5#calculate the junction capacitance#Ex7_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.5/Ex7_5.R#S##8709
+7# The pn Junction#7.6#determine the impurity doping concentrations#Ex7_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.6/Ex7_6.R#S##8710
+8# The pn Junction Diode#8.1#calculate the minority carrier hole concentration#Ex8_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.1/Ex8_1.R#S##8711
+8# The pn Junction Diode#8.2#ideal reverse saturation current density#Ex8_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.2/Ex8_2.R#S##11983
+8# The pn Junction Diode#8.3#design a pn junction diode#Ex8_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.3/Ex8_3.R#S##8713
+8# The pn Junction Diode#8.4#calculate the electric field#Ex8_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.4/Ex8_4.R#S##8714
+8# The pn Junction Diode#8.5#determine the change in the forward bias voltage#Ex8_5 .R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R#S##8715
+8# The pn Junction Diode#8.6#calculate the small signal admittance#Ex8_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.6/Ex8_6.R#S##8716
+8# The pn Junction Diode#8.7#determine the relative magnitudes#Ex8_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.7/Ex8_7.R#S##8717
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.1#calculate the theoretical harrier  height#Ex9_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.1/Ex9_1.R#S##8718
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.2#calculate the semiconductor doping#Ex9_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.2/Ex9_2.R#S##8719
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.3#calculate the Schottky barrier lowering#Ex9_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.3/Ex9_3.R#S##11987
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.4#calculate the effective Richardson constant#Ex9_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.4/Ex9_4.R#S##8721
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.5#calculate the reverse saturation current densities#Ex9_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.5/Ex9_5.R#S##8722
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.6#calculate the forward bias voltage#Ex9_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.6/Ex9_6.R#S##8723
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.7#calculate the space charge width#Ex9_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.7/Ex9_7.R#S##11988
+9# Metal Semiconductor And Semiconductor Heterojunctions#9.8#determine Ae At and Vbi#Ex9_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.8/Ex9_8.R#S##8725
+10# The Bipolar Transistor#10.1#design the ratio of emitter doping#Ex10_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.1/Ex10_1.R#S##8726
+10# The Bipolar Transistor#10.2#design the base width#Ex10_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.2/Ex10_2.R#S##8727
+10# The Bipolar Transistor#10.3#calculate the forward biased#Ex10_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.3/Ex10_3.R#S##8728
+10# The Bipolar Transistor#10.4#calculate the common emitter current gain#Ex10_4.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.4/Ex10_4.R#S##8729
+10# The Bipolar Transistor#10.5#calculate the change in the neutral base width#Ex10_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.5/Ex10_5.R#S##11989
+10# The Bipolar Transistor#10.6#to calculate the change in collector current#Ex10_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.6/Ex10_6.R#S##13183
+10# The Bipolar Transistor#10.7#determine the increase in pE0#Ex10_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.7/Ex10_7.R#S##8731
+10# The Bipolar Transistor#10.8#design the collector doping#Ex10_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.8/Ex10_8.R#S##8732
+10# The Bipolar Transistor#10.9#design a bipolar transistor#Ex10_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.9/Ex10_9.R#S##8733
+10# The Bipolar Transistor#10.10#calculate the collector emitter saturation voltage#Ex10_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.10/Ex10_10.R#S##8734
+10# The Bipolar Transistor#10.12#calculate the emitter to collector transmit time#Ex10_12.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.12/Ex10_12.R#S##13182
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.1#calculate the maximum space charge width#Ex11_1.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.1/Ex11_1.R#S##8736
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.2#calculate the metal semiconductor work function difference#Ex11_2.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.2/Ex11_2.R#S##8737
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.3#calculate the flat band voltage#Ex11_3.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.3/Ex11_3.R#S##8738
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.4#design the oxide thickness#Ex11_4 .R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.4/Ex11_4 .R#S##8739
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.5#calculate the threshold voltage#Ex11_5.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.5/Ex11_5.R#S##8740
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.6#design the semiconductor doping concentration#Ex11_6.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.6/Ex11_6.R#S##8741
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.7#Calculate Cox#Ex11_7.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.7/Ex11_7.R#S##8742
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.8#design the width#Ex11_8.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.8/Ex11_8.R#S##8743
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.9#determine the inversion carrier mobility#Ex11_9.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.9/Ex11_9.R#S##8744
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.10#calculate the change in the threshold voltage#Ex11_10.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.10/Ex11_10.R#S##8745
+11# Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor#11.11#calculate the cutoff frequency#Ex11_11.R#Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.11/Ex11_11.R#S##8746

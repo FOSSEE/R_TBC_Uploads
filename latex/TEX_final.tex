@@ -54,20 +54,20 @@
 \makeatother
 
 \newcommand{\coderef}[1]{Exa~\ref{#1}}
-\newcommand{\figref}[1]{Fig.~\ref{#1}}\title{R Textbook Companion for \\Introduction to Mathematical Statistics\\by Robert V. Hogg, Joseph W. Mckean, Allen T. Craig\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Ashwin Guptha\\B.Tech\\Computer Science and Engineering\\Vellore Institute of Technology, Chennai\\ Cross-Checked by \\R TBC Team\\}
+\newcommand{\figref}[1]{Fig.~\ref{#1}}\title{R Textbook Companion for \\Semiconductor Physics And Devices - Basic Principles\\by D. A. Neamen\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Saurabh Sanjay Agrawal\\B.Tech\\Computer Science and Engineering\\Shri Vile Parle Kelavani Mandal's Institute Of Technology,Dhule\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Introduction to Mathematical Statistics
-\item [Author:] Robert V. Hogg, Joseph W. Mckean, Allen T. Craig
-\item [Publisher:] Pearson, USA
-\item [Edition:] 7
-\item [Year:] 2012
-\item [ISBN:] 9780321795434
+\item [Title:] Semiconductor Physics And Devices - Basic Principles
+\item [Author:] D. A. Neamen
+\item [Publisher:] Mcgraw-hill
+\item [Edition:] 3
+\item [Year:] 2003
+\item [ISBN:] 0-07-1-19862-8
 \end{description}
 
 \newpage
@@ -82,845 +82,621 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 \tableofcontents
 \listofcode
 
-\chapter{ Probability And Distributions}
+\chapter{ The Crystal Structure Of Solids}
 
 \vspace*{10mm}
-\curlable{Exa~1.1.1}
+\curlable{Exa~1.1}
 \begin{code}
-\tcaption{Coin Toss}{Coin Toss}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.1/Ex1_1_1.R}
+\tcaption{find volume density of atoms}{find volume density of atoms}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.1/Ex1_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.1.2}
+\curlable{Exa~1.3}
 \begin{code}
-\tcaption{Dice Sample Space}{Dice Sample Space}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.2/Ex1_1_2.R}
+\tcaption{Calculate surface density}{Calculate surface density}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.3/Ex1_3.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~1.1.3}
-\begin{code}
-\tcaption{Dice Relative Frequency}{Dice Relative Frequency}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.1.3/Ex1_1_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.3}
-\begin{code}
-\tcaption{Union }{Union }
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.3/Ex1_2_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.4}
-\begin{code}
-\tcaption{Union}{Union}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.4/Ex1_2_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.5}
-\begin{code}
-\tcaption{Union}{Union}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.5/Ex1_2_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.6}
-\begin{code}
-\tcaption{Union}{Union}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.6/Ex1_2_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.8}
-\begin{code}
-\tcaption{Intersection of Sets}{Intersection of Sets}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.8/Ex1_2_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.10}
-\begin{code}
-\tcaption{Intersection of Sets}{Intersection of Sets}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.10/Ex1_2_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.12}
-\begin{code}
-\tcaption{Venn Diagram}{Venn Diagram}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.12/Ex1_2_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.13}
-\begin{code}
-\tcaption{Coin Sample Space}{Coin Sample Space}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.13/Ex1_2_13.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.15}
-\begin{code}
-\tcaption{Set Complement}{Set Complement}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.15/Ex1_2_15.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.16}
-\begin{code}
-\tcaption{Set Operations}{Set Operations}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.16/Ex1_2_16.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.17}
-\begin{code}
-\tcaption{De Morgans Law}{De Morgans Law}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.17/Ex1_2_17.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.18}
-\begin{code}
-\tcaption{Set Functions}{Set Functions}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.18/Ex1_2_18.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.21}
-\begin{code}
-\tcaption{Functions}{Functions}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.21/Ex1_2_21.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.2.23}
-\begin{code}
-\tcaption{1D Set Integration}{1D Set Integration}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.2.23/Ex1_2_23.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.3.1}
-\begin{code}
-\tcaption{Set Probability}{Set Probability}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.1/Ex1_3_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.3.2}
-\begin{code}
-\tcaption{Set Probability}{Set Probability}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.2/Ex1_3_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.3.4}
-\begin{code}
-\tcaption{Poker Question}{Poker Question}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.3.4/Ex1_3_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.4.1}
-\begin{code}
-\tcaption{Conditional Probabilty}{Conditional Probabilty}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.1/Ex1_4_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.4.2}
-\begin{code}
-\tcaption{Conditional Probabilty Chip Problem}{Conditional Probabilty Chip Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.2/Ex1_4_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.4.3}
-\begin{code}
-\tcaption{Conditional Probabilty Card Problem}{Conditional Probabilty Card Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.3/Ex1_4_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.4.4}
-\begin{code}
-\tcaption{Cards In Order}{Cards In Order}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.4/Ex1_4_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.4.5}
-\begin{code}
-\tcaption{Bayes Theorem}{Bayes Theorem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.5/Ex1_4_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~1.4.6}
-\begin{code}
-\tcaption{Plant Problem}{Plant Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.6/Ex1_4_6.R}
-\end{code}
+\chapter{ Introduction to Quantum Mechanics}
 
 \vspace*{10mm}
-\curlable{Exa~1.4.7}
+\curlable{Exa~2.1}
 \begin{code}
-\tcaption{Bayes Theorem Child Abuse Problem}{Bayes Theorem Child Abuse Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.7/Ex1_4_7.R}
+\tcaption{Calculate photon energy}{Calculate photon energy}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.1/Ex2_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.4.8}
+\curlable{Exa~2.2}
 \begin{code}
-\tcaption{Sum of 2 Die}{Sum of 2 Die}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.8/Ex1_4_8.R}
+\tcaption{Calculate de broglie wavelength}{Calculate de broglie wavelength}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.2/Ex2_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.4.9}
+\curlable{Exa~2.3}
 \begin{code}
-\tcaption{Mutual Independence}{Mutual Independence}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.9/Ex1_4_9.R}
+\tcaption{Calculate first three energy levels}{Calculate first three energy levels}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.3/Ex2_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.4.10}
+\curlable{Exa~2.4}
 \begin{code}
-\tcaption{Coin Probability}{Coin Probability}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.10/Ex1_4_10.R}
+\tcaption{Calculate penetration depth}{Calculate penetration depth}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.4/Ex2_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.4.11}
+\curlable{Exa~2.5}
 \begin{code}
-\tcaption{Mutually Independent Events}{Mutually Independent Events}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.4.11/Ex1_4_11.R}
+\tcaption{Calculate probability}{Calculate probability}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.5/Ex2_5.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~1.5.1}
-\begin{code}
-\tcaption{Random Variable Pmf}{Random Variable Pmf}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.1/Ex1_5_1.R}
-\end{code}
+\chapter{ Introduction to the Quantum Theory of Solids}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.2}
+\curlable{Exa~3.1}
 \begin{code}
-\tcaption{Probability Density Function}{Probability Density Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.2/Ex1_5_2.R}
+\tcaption{Calculate change in KE}{Calculate change in KE}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.1/Ex3_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.3}
+\curlable{Exa~3.2}
 \begin{code}
-\tcaption{Step Function Plot}{Step Function Plot}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.3/Ex1_5_3.R}
+\tcaption{Determine lowest energy bandwidth}{Determine lowest energy bandwidth}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.2/Ex3_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.4}
+\curlable{Exa~3.3}
 \begin{code}
-\tcaption{Cumulative Distribution Function}{Cumulative Distribution Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.4/Ex1_5_4.R}
+\tcaption{Calculate density of states}{Calculate density of states}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.3/Ex3_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.5}
+\curlable{Exa~3.4}
 \begin{code}
-\tcaption{Mechanical Part CDF Problem}{Mechanical Part CDF Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.5/Ex1_5_5.R}
+\tcaption{Determine possible no of ways}{Determine possible no of ways}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.4/Ex3_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.6}
+\curlable{Exa~3.5}
 \begin{code}
-\tcaption{Cumulative Distribution Function}{Cumulative Distribution Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.6/Ex1_5_6.R}
+\tcaption{Determine possible no of ways}{Determine possible no of ways}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.5/Ex3_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.7}
+\curlable{Exa~3.6}
 \begin{code}
-\tcaption{Probability Mass Function}{Probability Mass Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.7/Ex1_5_7.R}
+\tcaption{Calculate probability}{Calculate probability}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.6/Ex3_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.5.8}
+\curlable{Exa~3.7}
 \begin{code}
-\tcaption{Probability Density Function}{Probability Density Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.5.8/Ex1_5_8.R}
+\tcaption{Determine temp}{Determine temp}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.7/Ex3_7.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~1.6.2}
-\begin{code}
-\tcaption{Fuse Problem}{Fuse Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.6.2/Ex1_6_2.R}
-\end{code}
+\chapter{ The Semiconductor in Equilibrium}
 
 \vspace*{10mm}
-\curlable{Exa~1.7.1}
+\curlable{Exa~4.1}
 \begin{code}
-\tcaption{Circle Probability Problem}{Circle Probability Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.1/Ex1_7_1.R}
+\tcaption{Calculate probability}{Calculate probability}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.1/Ex4_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.7.2}
+\curlable{Exa~4.2}
 \begin{code}
-\tcaption{Telephone Probability Problem And Graph}{Telephone Probability Problem And Graph}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.2/Ex1_7_2.R}
+\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.2/Ex4_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.7.6}
+\curlable{Exa~4.3}
 \begin{code}
-\tcaption{Cumulative Distribution Function}{Cumulative Distribution Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.6/Ex1_7_6.R}
+\tcaption{Calculate intrinsic carrier}{Calculate intrinsic carrier}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.3/Ex4_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.7.7}
+\curlable{Exa~4.4}
 \begin{code}
-\tcaption{Company Loss Problem}{Company Loss Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.7.7/Ex1_7_7.R}
+\tcaption{Calculate position}{Calculate position}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.4/Ex4_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.8.2}
+\curlable{Exa~4.5}
 \begin{code}
-\tcaption{Random Variable}{Random Variable}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.2/Ex1_8_2.R}
+\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.5/Ex4_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.8.3}
+\curlable{Exa~4.6}
 \begin{code}
-\tcaption{Probability Density Function}{Probability Density Function}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.3/Ex1_8_3.R}
+\tcaption{Calculate electron concentration}{Calculate electron concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.6/Ex4_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.8.4}
+\curlable{Exa~4.7}
 \begin{code}
-\tcaption{Expectation Problem}{Expectation Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.4/Ex1_8_4.R}
+\tcaption{Determine fraction of total electron}{Determine fraction of total electron}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.7/Ex4_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.8.5}
+\curlable{Exa~4.8}
 \begin{code}
-\tcaption{Expectation Problem}{Expectation Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.5/Ex1_8_5.R}
+\tcaption{To detemine the temperature at which 90 percent of acceptor atoms are ionized}{To detemine the temperature at which 90 percent of acceptor atoms are ionized}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.8/Ex4_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.8.6}
+\curlable{Exa~4.9}
 \begin{code}
-\tcaption{Expectation Problem}{Expectation Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.6/Ex1_8_6.R}
+\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.9/Ex4_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.8.7}
+\curlable{Exa~4.10}
 \begin{code}
-\tcaption{Expectation Chip Problem}{Expectation Chip Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.8.7/Ex1_8_7.R}
+\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.10/Ex4_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.9.1}
+\curlable{Exa~4.11}
 \begin{code}
-\tcaption{Mean And Variance}{Mean And Variance}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.9.1/Ex1_9_1.R}
+\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.11/Ex4_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~1.10.1}
+\curlable{Exa~4.12}
 \begin{code}
-\tcaption{Chebyshev Inequality}{Chebyshev Inequality}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH1/EX1.10.1/Ex1_10_1.R}
+\tcaption{Determine impurity concentration}{Determine impurity concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.12/Ex4_12.R}
 \end{code}
-
-\chapter{ Multivariate Distributions}
 
 \vspace*{10mm}
-\curlable{Exa~2.1.2}
+\curlable{Exa~4.13}
 \begin{code}
-\tcaption{Multivariate Random Variable}{Multivariate Random Variable}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.2/Ex2_1_2.R}
+\tcaption{Determine impurity concentration}{Determine impurity concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.13/Ex4_13.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.1.3}
+\curlable{Exa~4.14}
 \begin{code}
-\tcaption{Chips From Bowl Problem}{Chips From Bowl Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.3/Ex2_1_3.R}
+\tcaption{Determine fermi level position}{Determine fermi level position}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.14/Ex4_14.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~2.1.4}
-\begin{code}
-\tcaption{Joint PDF Problem}{Joint PDF Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.4/Ex2_1_4.R}
-\end{code}
+\chapter{ Carrier Transport Phenomena}
 
 \vspace*{10mm}
-\curlable{Exa~2.1.5}
+\curlable{Exa~5.1}
 \begin{code}
-\tcaption{Multivariate Expectation Problem}{Multivariate Expectation Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.5/Ex2_1_5.R}
+\tcaption{Drift current density}{Drift current density}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.1/Ex5_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.1.6}
+\curlable{Exa~5.2}
 \begin{code}
-\tcaption{Multivariate Expectation Problem}{Multivariate Expectation Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.1.6/Ex2_1_6.R}
+\tcaption{doping concentration}{doping concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.2/Ex5_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.3.1}
+\curlable{Exa~5.3}
 \begin{code}
-\tcaption{Mean Variance And Probability}{Mean Variance And Probability}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.3.1/Ex2_3_1.R}
+\tcaption{design semiconductor resistor}{design semiconductor resistor}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.3.2}
+\curlable{Exa~5.4}
 \begin{code}
-\tcaption{Mean And Variance}{Mean And Variance}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.3.2/Ex2_3_2.R}
+\tcaption{Diffusion current density}{Diffusion current density}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.4/Ex5_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.4.1}
+\curlable{Exa~5.5}
 \begin{code}
-\tcaption{Correlation Coefficient}{Correlation Coefficient}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.4.1/Ex2_4_1.R}
+\tcaption{Determine induced electric field}{Determine induced electric field}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.5/Ex5_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.5.3}
+\curlable{Exa~5.6}
 \begin{code}
-\tcaption{Independent Random Variables}{Independent Random Variables}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.5.3/Ex2_5_3.R}
+\tcaption{Determine diffusion coefficient}{Determine diffusion coefficient}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.6/Ex5_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.6.2}
+\curlable{Exa~5.7}
 \begin{code}
-\tcaption{Several Random Variable Problem}{Several Random Variable Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH2/EX2.6.2/Ex2_6_2.R}
+\tcaption{Determine majority carrier }{Determine majority carrier }
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.7/Ex5_7.R}
 \end{code}
-
-\chapter{ Some Special Distributions}
 
-\vspace*{10mm}
-\curlable{Exa~3.1.1}
-\begin{code}
-\tcaption{Binomial Distribution}{Binomial Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.1.1/Ex3_1_1.R}
-\end{code}
+\chapter{ Nonequilibrium Excess Carriers in Semiconductors}
 
 \vspace*{10mm}
-\curlable{Exa~3.1.2}
+\curlable{Exa~6.1}
 \begin{code}
-\tcaption{Binomial Distribution}{Binomial Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.1.2/Ex3_1_2.R}
+\tcaption{To determine the time behavior of excess carriers}{To determine the time behavior of excess carriers}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.2.1}
+\curlable{Exa~6.2}
 \begin{code}
-\tcaption{Poisson Distribution}{Poisson Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.1/Ex3_2_1.R}
+\tcaption{To determine the time dependence of excess carriers }{To determine the time dependence of excess carriers }
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.2/Ex6_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.2.2}
+\curlable{Exa~6.3}
 \begin{code}
-\tcaption{Poisson Distribution}{Poisson Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.2/Ex3_2_2.R}
+\tcaption{To determine the steady state spatial dependence}{To determine the steady state spatial dependence}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.3/Ex6_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.2.3}
+\curlable{Exa~6.5}
 \begin{code}
-\tcaption{Poisson Distribution}{Poisson Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.3/Ex3_2_3.R}
+\tcaption{Dielectric relaxation time constant}{Dielectric relaxation time constant}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.2.4}
+\curlable{Exa~6.6}
 \begin{code}
-\tcaption{Poisson Distribution}{Poisson Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.2.4/Ex3_2_4.R}
+\tcaption{calculate the quasi fermi energy levels}{calculate the quasi fermi energy levels}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.6/Ex6_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.3.5}
+\curlable{Exa~6.8}
 \begin{code}
-\tcaption{Chi Square Distribution}{Chi Square Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.3.5/Ex3_3_5.R}
+\tcaption{determine the steady state excess carriers concentration}{determine the steady state excess carriers concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.3}
+\curlable{Exa~6.10}
 \begin{code}
-\tcaption{Normal Distribution}{Normal Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.3/Ex3_4_3.R}
+\tcaption{determine the value of surface recombination velocity}{determine the value of surface recombination velocity}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.10/Ex6_10.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~3.4.4}
-\begin{code}
-\tcaption{Normal Distribution}{Normal Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.4/Ex3_4_4.R}
-\end{code}
+\chapter{ The pn Junction}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.5}
+\curlable{Exa~7.1}
 \begin{code}
-\tcaption{Finding mu and sigma}{Finding mu and sigma}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.4.5/Ex3_4_5.R}
+\tcaption{calculate the built in potential barrier}{calculate the built in potential barrier}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.1/Ex7_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.5.3}
+\curlable{Exa~7.2}
 \begin{code}
-\tcaption{Population Normal Distribution Example}{Population Normal Distribution Example}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH3/EX3.5.3/Ex3_5_3.R}
+\tcaption{calculate the space charge width}{calculate the space charge width}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.2/Ex7_2.R}
 \end{code}
 
-\chapter{ Some Elementary Statistical Inferences}
-
 \vspace*{10mm}
-\curlable{Exa~4.1.5}
+\curlable{Exa~7.3}
 \begin{code}
-\tcaption{Hair Colour Problem}{Hair Colour Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.5/Ex4_1_5.R}
+\tcaption{calculate the width of the space charge region}{calculate the width of the space charge region}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.3/Ex7_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.1.6}
+\curlable{Exa~7.4}
 \begin{code}
-\tcaption{Simulated Poisson Variates}{Simulated Poisson Variates}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.6/Ex4_1_6.R}
+\tcaption{design a pn junction}{design a pn junction}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.4/Ex7_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.1.7}
+\curlable{Exa~7.5}
 \begin{code}
-\tcaption{Histogram For Normally Generated Data}{Histogram For Normally Generated Data}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.1.7/Ex4_1_7.R}
+\tcaption{calculate the junction capacitance}{calculate the junction capacitance}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.5/Ex7_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.2.4}
+\curlable{Exa~7.6}
 \begin{code}
-\tcaption{Two Sample Confidence Interval Problem}{Two Sample Confidence Interval Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.2.4/Ex4_2_4.R}
+\tcaption{determine the impurity doping concentrations}{determine the impurity doping concentrations}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.6/Ex7_6.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~4.2.5}
-\begin{code}
-\tcaption{Confidence Intervals}{Confidence Intervals}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.2.5/Ex4_2_5.R}
-\end{code}
+\chapter{ The pn Junction Diode}
 
 \vspace*{10mm}
-\curlable{Exa~4.4.3}
+\curlable{Exa~8.1}
 \begin{code}
-\tcaption{Order Statistics of Random Sample}{Order Statistics of Random Sample}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.3/Ex4_4_3.R}
+\tcaption{calculate the minority carrier hole concentration}{calculate the minority carrier hole concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.1/Ex8_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.4.4}
+\curlable{Exa~8.2}
 \begin{code}
-\tcaption{Five Number Summary}{Five Number Summary}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.4/Ex4_4_4.R}
+\tcaption{ideal reverse saturation current density}{ideal reverse saturation current density}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.2/Ex8_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.4.5}
+\curlable{Exa~8.3}
 \begin{code}
-\tcaption{Box And Quantile Plots}{Box And Quantile Plots}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.4.5/Ex4_4_5.R}
+\tcaption{design a pn junction diode}{design a pn junction diode}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.3/Ex8_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.5.2}
+\curlable{Exa~8.4}
 \begin{code}
-\tcaption{Test for Binomial Proportion of Success}{Test for Binomial Proportion of Success}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.5.2/Ex4_5_2.R}
+\tcaption{calculate the electric field}{calculate the electric field}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.4/Ex8_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.5.5}
+\curlable{Exa~8.5}
 \begin{code}
-\tcaption{Box And Quantile Plots}{Box And Quantile Plots}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.5.5/Ex4_5_5.R}
+\tcaption{determine the change in the forward bias voltage}{determine the change in the forward bias voltage}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.6.4}
+\curlable{Exa~8.6}
 \begin{code}
-\tcaption{Randomized Test}{Randomized Test}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.6.4/Ex4_6_4.R}
+\tcaption{calculate the small signal admittance}{calculate the small signal admittance}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.6/Ex8_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.6.5}
+\curlable{Exa~8.7}
 \begin{code}
-\tcaption{P value of Normal Distribution}{P value of Normal Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.6.5/Ex4_6_5.R}
+\tcaption{determine the relative magnitudes}{determine the relative magnitudes}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.7/Ex8_7.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~4.7.1}
-\begin{code}
-\tcaption{Goodness Of Fit}{Goodness Of Fit}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.7.1/Ex4_7_1.R}
-\end{code}
+\chapter{ Metal Semiconductor And Semiconductor Heterojunctions}
 
 \vspace*{10mm}
-\curlable{Exa~4.7.2}
+\curlable{Exa~9.1}
 \begin{code}
-\tcaption{Goodness Of Fit}{Goodness Of Fit}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.7.2/Ex4_7_2.R}
+\tcaption{calculate the theoretical harrier height}{calculate the theoretical harrier height}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.1/Ex9_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.8.1}
+\curlable{Exa~9.2}
 \begin{code}
-\tcaption{Pi Estimation}{Pi Estimation}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.1/Ex4_8_1.R}
+\tcaption{calculate the semiconductor doping}{calculate the semiconductor doping}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.2/Ex9_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.8.4}
+\curlable{Exa~9.3}
 \begin{code}
-\tcaption{Pi Estimation By Monte Carlo Integration}{Pi Estimation By Monte Carlo Integration}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.4/Ex4_8_4.R}
+\tcaption{calculate the Schottky barrier lowering}{calculate the Schottky barrier lowering}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.3/Ex9_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.8.7}
+\curlable{Exa~9.4}
 \begin{code}
-\tcaption{Probability Of Acceptance}{Probability Of Acceptance}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.8.7/Ex4_8_7.R}
+\tcaption{calculate the effective Richardson constant}{calculate the effective Richardson constant}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.4/Ex9_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.9.1}
+\curlable{Exa~9.5}
 \begin{code}
-\tcaption{Bootstrap}{Bootstrap}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.1/Ex4_9_1.R}
+\tcaption{calculate the reverse saturation current densities}{calculate the reverse saturation current densities}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.5/Ex9_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.9.2}
+\curlable{Exa~9.6}
 \begin{code}
-\tcaption{Bootstrap}{Bootstrap}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.2/Ex4_9_2.R}
+\tcaption{calculate the forward bias voltage}{calculate the forward bias voltage}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.6/Ex9_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.9.3}
+\curlable{Exa~9.7}
 \begin{code}
-\tcaption{Bootstrap}{Bootstrap}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.9.3/Ex4_9_3.R}
+\tcaption{calculate the space charge width}{calculate the space charge width}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.7/Ex9_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.10.1}
+\curlable{Exa~9.8}
 \begin{code}
-\tcaption{Tolerance Interval}{Tolerance Interval}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH4/EX4.10.1/Ex4_10_1.R}
+\tcaption{determine Ae At and Vbi}{determine Ae At and Vbi}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.8/Ex9_8.R}
 \end{code}
 
-\chapter{ Consistency and Limiting Distributions}
+\chapter{ The Bipolar Transistor}
 
 \vspace*{10mm}
-\curlable{Exa~5.2.6}
+\curlable{Exa~10.1}
 \begin{code}
-\tcaption{Distribution Comparison}{Distribution Comparison}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.2.6/Ex5_2_6.R}
+\tcaption{design the ratio of emitter doping}{design the ratio of emitter doping}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.1/Ex10_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.2}
+\curlable{Exa~10.2}
 \begin{code}
-\tcaption{Sample Probability}{Sample Probability}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.2/Ex5_3_2.R}
+\tcaption{design the base width}{design the base width}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.2/Ex10_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.3}
+\curlable{Exa~10.3}
 \begin{code}
-\tcaption{Normal Approximation To Binomial Distribution}{Normal Approximation To Binomial Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.3/Ex5_3_3.R}
+\tcaption{calculate the forward biased}{calculate the forward biased}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.3/Ex10_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.4}
+\curlable{Exa~10.4}
 \begin{code}
-\tcaption{Sample Probability}{Sample Probability}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH5/EX5.3.4/Ex5_3_4.R}
+\tcaption{calculate the common emitter current gain}{calculate the common emitter current gain}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.4/Ex10_4.R}
 \end{code}
-
-\chapter{ Maximum Likelihood Methods}
 
 \vspace*{10mm}
-\curlable{Exa~6.2.5}
+\curlable{Exa~10.5}
 \begin{code}
-\tcaption{ARE }{ARE }
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH6/EX6.2.5/Ex6_2_5.R}
+\tcaption{calculate the change in the neutral base width}{calculate the change in the neutral base width}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.5/Ex10_5.R}
 \end{code}
 
-
-\setcounter{chapter}{7}
-\chapter{ Optimal Tests of Hypotheses}
-
 \vspace*{10mm}
-\curlable{Exa~8.1.1}
+\curlable{Exa~10.6}
 \begin{code}
-\tcaption{Multivariate Random Variable Hypotheses}{Multivariate Random Variable Hypotheses}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.1/Ex8_1_1.R}
+\tcaption{to calculate the change in collector current}{to calculate the change in collector current}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.6/Ex10_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.1.2}
+\curlable{Exa~10.7}
 \begin{code}
-\tcaption{Hypothesis}{Hypothesis}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.2/Ex8_1_2.R}
+\tcaption{determine the increase in pE0}{determine the increase in pE0}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.7/Ex10_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.1.3}
+\curlable{Exa~10.8}
 \begin{code}
-\tcaption{Simple Hypotheses}{Simple Hypotheses}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.1.3/Ex8_1_3.R}
+\tcaption{design the collector doping}{design the collector doping}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.8/Ex10_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~8.2.1}
+\curlable{Exa~10.9}
 \begin{code}
-\tcaption{PDF Hypothesis}{PDF Hypothesis}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH8/EX8.2.1/Ex8_2_1.R}
+\tcaption{design a bipolar transistor}{design a bipolar transistor}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.9/Ex10_9.R}
 \end{code}
-
-
-\setcounter{chapter}{9}
-\chapter{ Nonparametric and Robust Statistics}
 
 \vspace*{10mm}
-\curlable{Exa~10.2.2}
+\curlable{Exa~10.10}
 \begin{code}
-\tcaption{ARE Normal Distribution}{ARE Normal Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.2/Ex10_2_2.R}
+\tcaption{calculate the collector emitter saturation voltage}{calculate the collector emitter saturation voltage}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.10/Ex10_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.2.3}
+\curlable{Exa~10.12}
 \begin{code}
-\tcaption{ARE Laplace Distribution}{ARE Laplace Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.3/Ex10_2_3.R}
+\tcaption{calculate the emitter to collector transmit time}{calculate the emitter to collector transmit time}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.12/Ex10_12.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~10.2.5}
-\begin{code}
-\tcaption{Golden Rectangle}{Golden Rectangle}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.2.5/Ex10_2_5.R}
-\end{code}
+\chapter{ Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor}
 
 \vspace*{10mm}
-\curlable{Exa~10.3.1}
+\curlable{Exa~11.1}
 \begin{code}
-\tcaption{Data of Darwin}{Data of Darwin}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.1/Ex10_3_1.R}
+\tcaption{calculate the maximum space charge width}{calculate the maximum space charge width}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.1/Ex11_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.3.2}
+\curlable{Exa~11.2}
 \begin{code}
-\tcaption{ARE at Normal Distribution}{ARE at Normal Distribution}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.2/Ex10_3_2.R}
+\tcaption{calculate the metal semiconductor work function difference}{calculate the metal semiconductor work function difference}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.2/Ex11_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.3.4}
+\curlable{Exa~11.3}
 \begin{code}
-\tcaption{Zea Mays Problem}{Zea Mays Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.3.4/Ex10_3_4.R}
+\tcaption{calculate the flat band voltage}{calculate the flat band voltage}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.3/Ex11_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.4.1}
+\curlable{Exa~11.4}
 \begin{code}
-\tcaption{Water Wheel Problem}{Water Wheel Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.4.1/Ex10_4_1.R}
+\tcaption{design the oxide thickness}{design the oxide thickness}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.4/Ex11_4 .R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.4.2}
+\curlable{Exa~11.5}
 \begin{code}
-\tcaption{MWW Estimate}{MWW Estimate}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.4.2/Ex10_4_2.R}
+\tcaption{calculate the threshold voltage}{calculate the threshold voltage}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.5/Ex11_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.5.3}
+\curlable{Exa~11.6}
 \begin{code}
-\tcaption{General Rank Scores}{General Rank Scores}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.5.3/Ex10_5_3.R}
+\tcaption{design the semiconductor doping concentration}{design the semiconductor doping concentration}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.6/Ex11_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.7.2}
+\curlable{Exa~11.7}
 \begin{code}
-\tcaption{Telephone Data Scores}{Telephone Data Scores}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.7.2/Ex10_7_2.R}
+\tcaption{Calculate Cox}{Calculate Cox}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.7/Ex11_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.8.1}
+\curlable{Exa~11.8}
 \begin{code}
-\tcaption{ Olympic Race Problem}{ Olympic Race Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.8.1/Ex10_8_1.R}
+\tcaption{design the width}{design the width}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.8/Ex11_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~10.8.2}
+\curlable{Exa~11.9}
 \begin{code}
-\tcaption{Olympic Race Problem}{Olympic Race Problem}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH10/EX10.8.2/Ex10_8_2.R}
+\tcaption{determine the inversion carrier mobility}{determine the inversion carrier mobility}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.9/Ex11_9.R}
 \end{code}
-
-\chapter{ Bayesian Statistics}
 
 \vspace*{10mm}
-\curlable{Exa~11.2.6}
+\curlable{Exa~11.10}
 \begin{code}
-\tcaption{Bayesian Testing Procedures}{Bayesian Testing Procedures}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH11/EX11.2.6/Ex11_2_6.R}
+\tcaption{calculate the change in the threshold voltage}{calculate the change in the threshold voltage}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.10/Ex11_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~11.4.2}
+\curlable{Exa~11.11}
 \begin{code}
-\tcaption{Gibbs Sampler}{Gibbs Sampler}
-\lstinputlisting{../Introduction_To_Mathematical_Statistics_by_Robert_V_Hogg_Joseph_W_Mckean_Allen_T_Craig/CH11/EX11.4.2/Ex11_4_2.R}
+\tcaption{calculate the cutoff frequency}{calculate the cutoff frequency}
+\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.11/Ex11_11.R}
 \end{code}
 
 \end{document}
