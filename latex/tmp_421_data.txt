@@ -1,0 +1,517 @@
+19# Index Numbers#19.5#Collection of chain relatives#Ex19_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.5/Ex19_5.R#S##13727
+19# Index Numbers#19.4#Price Relative#Ex19_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.4/Ex19_4.R#S##13726
+19# Index Numbers#19.3#Prices of a commodity#Ex19_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.3/Ex19_3.R#S##13725
+19# Index Numbers#19.2#milk prices#Ex19_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.2/Ex19_2.R#S##12561
+19# Index Numbers#19.19.9#link relatives#Ex19_19_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.9/Ex19_19_9.R#S##12569
+19# Index Numbers#19.19.8#sales of commodity#Ex19_19_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.8/Ex19_19_8.R#S##12568
+19# Index Numbers#19.19.7#factory pay and employees#Ex19_19_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.7/Ex19_19_7.R#S##12567
+19# Index Numbers#19.19.6#quantity relative for the base year#Ex19_19_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.6/Ex19_19_6.R#S##12566
+19# Index Numbers#19.19.5#wheat production of the country#Ex19_19_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.5/Ex19_19_5.R#S##12565
+19# Index Numbers#19.19.40#Consumer price index #Ex19_19_40.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.40/Ex19_19_40.R#S##12589
+19# Index Numbers#19.19.4#Average price of commodity#Ex19_19_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.4/Ex19_19_4.R#S##12564
+19# Index Numbers#19.19.39#Weekly wage of workers in US#Ex19_19_39.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.39/Ex19_19_39.R#S##12588
+19# Index Numbers#19.19.38#Industrial production#Ex19_19_38.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.38/Ex19_19_38.R#S##12587
+19# Index Numbers#19.19.35#Value Index#Ex19_19_35.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.35/Ex19_19_35.R#S##12586
+19# Index Numbers#19.19.33#Fishers ideal volume index number#Ex19_19_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.33/Ex19_19_33.R#S##12585
+19# Index Numbers#19.19.32#Computing the volume index#Ex19_19_32.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.32/Ex19_19_32.R#S##12584
+19# Index Numbers#19.19.31#Weighted arithmetic mean#Ex19_19_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.31/Ex19_19_31.R#S##12583
+19# Index Numbers#19.19.3#Price relatives#Ex19_19_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.3/Ex19_19_3.R#S##14157
+19# Index Numbers#19.19.29#Marshall Edgeworth#Ex19_19_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.29/Ex19_19_29.R#S##12582
+19# Index Numbers#19.19.27#Fishers ideal price index #Ex19_19_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.27/Ex19_19_27.R#S##12581
+19# Index Numbers#19.19.26#Fishers ideal price index for the dairy products#Ex19_19_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.26/Ex19_19_26.R#S##14159
+19# Index Numbers#19.19.20#Laspeyres price index and Paasche price index#Ex19_19_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.20/Ex19_19_20.R#S##12579
+19# Index Numbers#19.19.19#Paasche#Ex19_19_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.19/Ex19_19_19.R#S##12578
+19# Index Numbers#19.19.18#Laspeyres price index#Ex19_19_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.18/Ex19_19_18.R#S##12577
+19# Index Numbers#19.19.17#Using geometric mean#Ex19_19_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.17/Ex19_19_17.R#S##12576
+19# Index Numbers#19.19.16#price relatives index for commodities#Ex19_19_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.16/Ex19_19_16.R#S##12575
+19# Index Numbers#19.19.15#Geometric mean instead of mean#Ex19_19_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.15/Ex19_19_15.R#S##12574
+19# Index Numbers#19.19.14#Median instead mean#Ex19_19_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.14/Ex19_19_14.R#S##12573
+19# Index Numbers#19.19.13#Wholesale price index of dairy products#Ex19_19_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.13/Ex19_19_13.R#S##12572
+19# Index Numbers#19.19.12#Average US prices and production of cotton and wheat#Ex19_19_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.12/Ex19_19_12.R#S##14158
+19# Index Numbers#19.19.10#Milk butter and cheese#Ex19_19_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.10/Ex19_19_10.R#S##12570
+19# Index Numbers#19.19.1#Average retail prices#Ex19_19_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.19.1/Ex19_19_1.R#S##12562
+19# Index Numbers#19.1#consumer prices of a litre of milk#Ex19_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH19/EX19.1/Ex19_1.R#S##12560
+18# Analysis Of Time Series#18.2#weighted moving average#Ex18_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.2/Ex18_2.R#S##12540
+18# Analysis Of Time Series#18.18.9#Electric Energy Production#Ex18_18_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.9/Ex18_18_9.R#S##12547
+18# Analysis Of Time Series#18.18.8#least squares method#Ex18_18_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.8/Ex18_18_8.R#S##12546
+18# Analysis Of Time Series#18.18.7#Freehand and moving average methods#Ex18_18_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.7/Ex18_18_7.R#S##13724
+18# Analysis Of Time Series#18.18.6#Semiaverages method#Ex18_18_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.6/Ex18_18_6.R#S##12545
+18# Analysis Of Time Series#18.18.5#Graph of moving average#Ex18_18_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.5/Ex18_18_5.R#S##13753
+18# Analysis Of Time Series#18.18.4#4 and 5 year centered moving average#Ex18_18_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.4/Ex18_18_4.R#S##12543
+18# Analysis Of Time Series#18.18.3#4 year centered moving average#Ex18_18_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.3/Ex18_18_3.R#S##12542
+18# Analysis Of Time Series#18.18.21#Electric Energy Production#Ex18_18_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.21/Ex18_18_21.R#S##14192
+18# Analysis Of Time Series#18.18.20#Data modification#Ex18_18_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.20/Ex18_18_20.R#S##12558
+18# Analysis Of Time Series#18.18.2#US farm population#Ex18_18_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.2/Ex18_18_2.R#S##12541
+18# Analysis Of Time Series#18.18.19#3 months and 7 months#Ex18_18_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.19/Ex18_18_19.R#S##14289
+18# Analysis Of Time Series#18.18.18#Graph the data#Ex18_18_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.18/Ex18_18_18.R#S##12556
+18# Analysis Of Time Series#18.18.17#Data adjustment#Ex18_18_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.17/Ex18_18_17.R#S##14190
+18# Analysis Of Time Series#18.18.16#Deseasonalized data#ex18_18_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.16/ex18_18_16.R#S##14288
+18# Analysis Of Time Series#18.18.15#Seasonal Variation#Ex18_18_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.15/Ex18_18_15.R#S##14287
+18# Analysis Of Time Series#18.18.14#Comparing seasonal index#Ex18_18_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.14/Ex18_18_14.R#S##12552
+18# Analysis Of Time Series#18.18.13#Seasonal index#Ex18_18_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.13/Ex18_18_13.R#S##14187
+18# Analysis Of Time Series#18.18.12#percentage moving average method#Ex18_18_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.12/Ex18_18_12.R#S##12550
+18# Analysis Of Time Series#18.18.11#least squares method and monthly trend values#Ex18_18_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.11/Ex18_18_11.R#S##12549
+18# Analysis Of Time Series#18.18.10#Seasonal index#Ex18_18_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.18.10/Ex18_18_10.R#S##12548
+18# Analysis Of Time Series#18.1#Moving average#Ex18_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH18/EX18.1/Ex18_1.R#S##12539
+17# Nonparametric Tests#17.17.9#U of the data table#Ex17_17_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.9/Ex17_17_9.R#S##12524
+17# Nonparametric Tests#17.17.8#Professor and psychology classes#Ex17_17_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.8/Ex17_17_8.R#S##14320
+17# Nonparametric Tests#17.17.7#statistics and alloy 2#Ex17_17_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.7/Ex17_17_7.R#S##14179
+17# Nonparametric Tests#17.17.6#Verifying#Ex17_17_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.6/Ex17_17_6.R#S##14178
+17# Nonparametric Tests#17.17.5#Alloy 1 and Alloy 2#Ex17_17_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.5/Ex17_17_5.R#S##14177
+17# Nonparametric Tests#17.17.4#Statewide Examination#Ex17_17_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.4/Ex17_17_4.R#S##14176
+17# Nonparametric Tests#17.17.3#PQR Company#Ex17_17_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.3/Ex17_17_3.R#S##14319
+17# Nonparametric Tests#17.17.25#Father and oldest adult sons#Ex17_17_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.25/Ex17_17_25.R#S##14321
+17# Nonparametric Tests#17.17.24#Alphabetical order#Ex17_17_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.24/Ex17_17_24.R#S##12537
+17# Nonparametric Tests#17.17.23#Work problem#Ex17_17_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.23/Ex17_17_23.R#S##14185
+17# Nonparametric Tests#17.17.22#sample lifetimes and PQR company#Ex17_17_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.22/Ex17_17_22.R#S##12535
+17# Nonparametric Tests#17.17.21#Work problem#Ex17_17_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.21/Ex17_17_21.R#S##12534
+17# Nonparametric Tests#17.17.20#mean and variance#Ex17_17_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.20/Ex17_17_20.R#S##12533
+17# Nonparametric Tests#17.17.2#Normal Approximation#Ex17_17_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.2/Ex17_17_2.R#S##12517
+17# Nonparametric Tests#17.17.19#all possible sequences of a and b#Ex17_17_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.19/Ex17_17_19.R#S##14184
+17# Nonparametric Tests#17.17.18#Good and Defective#Ex17_17_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.18/Ex17_17_18.R#S##14183
+17# Nonparametric Tests#17.17.17#head and tails#Ex17_17_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.17/Ex17_17_17.R#S##12530
+17# Nonparametric Tests#17.17.16#Three samples from a population#Ex17_17_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.16/Ex17_17_16.R#S##12529
+17# Nonparametric Tests#17.17.15#Work problem#Ex17_17_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.15/Ex17_17_15.R#S##14182
+17# Nonparametric Tests#17.17.14# Machines and performances#Ex17_17_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.14/Ex17_17_14.R#S##14181
+17# Nonparametric Tests#17.17.11#Sampling distribution of U#Ex17_17_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.11/Ex17_17_11.R#S##12526
+17# Nonparametric Tests#17.17.10#Population consists of values 7 12 and 15#Ex17_17_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.10/Ex17_17_10.R#S##12525
+17# Nonparametric Tests#17.17.1#Hypothesis and alternate hypothesis#Ex17_17_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH17/EX17.17.1/Ex17_17_1.R#S##12516
+16# Analysis Of Variance#16.16.9# lifetimes in hour and television tubes#Ex16_16_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.9/Ex16_16_9.R#S##14318
+16# Analysis Of Variance#16.16.8#5 machines A B C D E#Ex16_16_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.8/Ex16_16_8.R#S##14225
+16# Analysis Of Variance#16.16.7#Shortcut formulas#Ex16_16_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.7/Ex16_16_7.R#S##12506
+16# Analysis Of Variance#16.16.6#Null hypothesis#Ex16_16_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.6/Ex16_16_6.R#S##14224
+16# Analysis Of Variance#16.16.5#unbiased estimate of the population variance#Ex16_16_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.5/Ex16_16_5.R#S##12504
+16# Analysis Of Variance#16.16.4#Wheat grown and soil type#Ex16_16_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.4/Ex16_16_4.R#S##12503
+16# Analysis Of Variance#16.16.17#Kilometres per litres#Ex16_16_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.17/Ex16_16_17.R#S##12515
+16# Analysis Of Variance#16.16.15#Fertilizers and wheat#Ex16_16_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.15/Ex16_16_15.R#S##14286
+16# Analysis Of Variance#16.16.14#Work problem#Ex16_16_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.14/Ex16_16_14.R#S##14230
+16# Analysis Of Variance#16.16.13#Machine and bolts#Ex16_16_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.13/Ex16_16_13.R#S##14285
+16# Analysis Of Variance#16.16.12#short computational formulas#Ex16_16_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.12/Ex16_16_12.R#S##12511
+16# Analysis Of Variance#16.16.11#Plant crops grown and fertilizers#Ex16_16_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.11/Ex16_16_11.R#S##14284
+16# Analysis Of Variance#16.16.10#Shortcut formulas#Ex16_16_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH16/EX16.16.10/Ex16_16_10.R#S##14283
+15# Multiple And Partial Correlation#15.15.7#average increase per unit#Ex15_15_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.7/Ex15_15_7.R#S##12490
+15# Multiple And Partial Correlation#15.15.6#Work problem#Ex15_15_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.6/Ex15_15_6.R#S##14174
+15# Multiple And Partial Correlation#15.15.5# Computing the data#Ex15_15_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.5/Ex15_15_5.R#S##14173
+15# Multiple And Partial Correlation#15.15.4#standard deviation #Ex15_15_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.4/Ex15_15_4.R#S##12487
+15# Multiple And Partial Correlation#15.15.3#variable and linear function#Ex15_15_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.3/Ex15_15_3.R#S##12486
+15# Multiple And Partial Correlation#15.15.25#multiple correlation coefficient#Ex15_15_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.25/Ex15_15_25.R#S##12501
+15# Multiple And Partial Correlation#15.15.24# verification#Ex15_15_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.24/Ex15_15_24.R#S##14175
+15# Multiple And Partial Correlation#15.15.22#partial correlation coefficients#Ex15_15_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.22/Ex15_15_22.R#S##12499
+15# Multiple And Partial Correlation#15.15.21#students and college entrance examination#Ex15_15_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.21/Ex15_15_21.R#S##12498
+15# Multiple And Partial Correlation#15.15.20#College Entrance Examination#Ex15_15_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.20/Ex15_15_20.R#S##12497
+15# Multiple And Partial Correlation#15.15.17#Coefficient of linear partial correlation#Ex15_15_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.17/Ex15_15_17.R#S##12496
+15# Multiple And Partial Correlation#15.15.14#Comparing the values#Ex15_15_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.14/Ex15_15_14.R#S##12495
+15# Multiple And Partial Correlation#15.15.13#coefficient of multiple determination#Ex15_15_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.13/Ex15_15_13.R#S##12494
+15# Multiple And Partial Correlation#15.15.12#coefficient linear multiple correlation#Ex15_15_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.12/Ex15_15_12.R#S##12493
+15# Multiple And Partial Correlation#15.15.11#Obtaining the result#Ex15_15_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.11/Ex15_15_11.R#S##12492
+15# Multiple And Partial Correlation#15.15.10#Standard error#Ex15_15_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH15/EX15.15.10/Ex15_15_10.R#S##12491
+14# Correlation Theory#14.14.9#Coefficient of determination and correlation#Ex14_14_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.9/Ex14_14_9.R#S##12460
+14# Correlation Theory#14.14.8#Total variation explained variation and unexplained variation#Ex14_14_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.8/Ex14_14_8.R#S##12459
+14# Correlation Theory#14.14.6#Regression line#Ex14_14_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.6/Ex14_14_6.R#S##13723
+14# Correlation Theory#14.14.5#Computing Standard error#Ex14_14_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.5/Ex14_14_5.R#S##14166
+14# Correlation Theory#14.14.39# sons and fathers#Ex14_14_39.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.39/Ex14_14_39.R#S##14172
+14# Correlation Theory#14.14.38#difference between two coefficients#Ex14_14_38.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.38/Ex14_14_38.R#S##14171
+14# Correlation Theory#14.14.37#regression coefficient#Ex14_14_37.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.37/Ex14_14_37.R#S##12483
+14# Correlation Theory#14.14.36#Regression equation#Ex14_14_36.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.36/Ex14_14_36.R#S##12482
+14# Correlation Theory#14.14.35#two correlation coefficients#Ex14_14_35.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.35/Ex14_14_35.R#S##14282
+14# Correlation Theory#14.14.34#Correlation coefficient between final grades#Ex14_14_34.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.34/Ex14_14_34.R#S##12480
+14# Correlation Theory#14.14.33#Correlation coefficient#Ex14_14_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.33/Ex14_14_33.R#S##12479
+14# Correlation Theory#14.14.32#Minimum sample size#Ex14_14_32.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.32/Ex14_14_32.R#S##12478
+14# Correlation Theory#14.14.31# Correlation coefficient#Ex14_14_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.31/Ex14_14_31.R#S##14169
+14# Correlation Theory#14.14.30#standard deviation #Ex14_14_30.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.30/Ex14_14_30.R#S##12476
+14# Correlation Theory#14.14.29#Linear correlation coefficient#Ex14_14_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.29/Ex14_14_29.R#S##12475
+14# Correlation Theory#14.14.28# least squares parabola#Ex14_14_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.28/Ex14_14_28.R#S##14168
+14# Correlation Theory#14.14.27#least squares parabola#Ex14_14_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.27/Ex14_14_27.R#S##12473
+14# Correlation Theory#14.14.26#US consumer price#Ex14_14_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.26/Ex14_14_26.R#S##12472
+14# Correlation Theory#14.14.25#Standard errors#Ex14_14_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.25/Ex14_14_25.R#S##12471
+14# Correlation Theory#14.14.24#Equation of regression lines#Ex14_14_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.24/Ex14_14_24.R#S##14281
+14# Correlation Theory#14.14.23#Linear correlation coefficient#Ex14_14_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.23/Ex14_14_23.R#S##12469
+14# Correlation Theory#14.14.20#Computing and Verify#Ex14_14_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.20/Ex14_14_20.R#S##12468
+14# Correlation Theory#14.14.2#Regression lines#Ex14_14_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.2/Ex14_14_2.R#S##14165
+14# Correlation Theory#14.14.19#Coefficient of linear correlation#Ex14_14_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.19/Ex14_14_19.R#S##12467
+14# Correlation Theory#14.14.17#Frequency distributions#Ex14_14_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.17/Ex14_14_17.R#S##12466
+14# Correlation Theory#14.14.16#Linear correlation coefficient#Ex14_14_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.16/Ex14_14_16.R#S##12465
+14# Correlation Theory#14.14.14#Product moment formula#Ex14_14_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.14/Ex14_14_14.R#S##12464
+14# Correlation Theory#14.14.13#verification#Ex14_14_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.13/Ex14_14_13.R#S##12463
+14# Correlation Theory#14.14.12#standard variation variance and covariance#Ex14_14_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.12/Ex14_14_12.R#S##12462
+14# Correlation Theory#14.14.11#Coefficient of linear correlation#Ex14_14_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.11/Ex14_14_11.R#S##12461
+14# Correlation Theory#14.14.1#Least Squares Regression#Ex14_14_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH14/EX14.14.1/Ex14_14_1.R#S##12456
+13# Curve Fitting And The Method Of Least Squares#13.13.9#Comparing and Estimation#Ex13_13_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.9/Ex13_13_9.R#S##12446
+13# Curve Fitting And The Method Of Least Squares#13.13.8#Straight line#Ex13_13_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.8/Ex13_13_8.R#S##12445
+13# Curve Fitting And The Method Of Least Squares#13.13.7#Equation of line slope#Ex13_13_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.7/Ex13_13_7.R#S##12444
+13# Curve Fitting And The Method Of Least Squares#13.13.5#Slope equation and intercepts#Ex13_13_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.5/Ex13_13_5.R#S##14279
+13# Curve Fitting And The Method Of Least Squares#13.13.3#Equation of a straight line#Ex13_13_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.3/Ex13_13_3.R#S##12442
+13# Curve Fitting And The Method Of Least Squares#13.13.23#Population of United States#Ex13_13_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.23/Ex13_13_23.R#S##14280
+13# Curve Fitting And The Method Of Least Squares#13.13.22#Plotting the data#Ex13_13_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.22/Ex13_13_22.R#S##13722
+13# Curve Fitting And The Method Of Least Squares#13.13.21#Thermodynamic principles#Ex13_13_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.21/Ex13_13_21.R#S##13721
+13# Curve Fitting And The Method Of Least Squares#13.13.20#Farm Employment of the United States#Ex13_13_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.20/Ex13_13_20.R#S##12454
+13# Curve Fitting And The Method Of Least Squares#13.13.2#The increase in Y corresponding to a unit increase in X#Ex13_13_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.2/Ex13_13_2.R#S##12441
+13# Curve Fitting And The Method Of Least Squares#13.13.19#Medical care in United States#Ex13_13_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.19/Ex13_13_19.R#S##14316
+13# Curve Fitting And The Method Of Least Squares#13.13.18#Graphs of two lines#Ex13_13_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.18/Ex13_13_18.R#S##12452
+13# Curve Fitting And The Method Of Least Squares#13.13.17#Fit a least squares lines#Ex13_13_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.17/Ex13_13_17.R#S##14317
+13# Curve Fitting And The Method Of Least Squares#13.13.13#least squares lines#Ex13_13_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.13/Ex13_13_13.R#S##14161
+13# Curve Fitting And The Method Of Least Squares#13.13.12#Graph of two lines#Ex13_13_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.12/Ex13_13_12.R#S##12449
+13# Curve Fitting And The Method Of Least Squares#13.13.11#dependent and independent variables#Ex13_13_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.11/Ex13_13_11.R#S##12448
+13# Curve Fitting And The Method Of Least Squares#13.13.10#Length and Breadth#Ex13_13_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.10/Ex13_13_10.R#S##12447
+13# Curve Fitting And The Method Of Least Squares#13.13.1#Straight line#Ex13_13_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH13/EX13.13.1/Ex13_13_1.R#S##12440
+12# The Chi Square Test#12.12.9#survey of 320 families#Ex12_12_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.9/Ex12_12_9.R#S##12427
+12# The Chi Square Test#12.12.8#360 tosses of a pair of dice#Ex12_12_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.8/Ex12_12_8.R#S##14278
+12# The Chi Square Test#12.12.7#Large number of marbles#Ex12_12_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.7/Ex12_12_7.R#S##12425
+12# The Chi Square Test#12.12.6#Experiments with peas#Ex12_12_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.6/Ex12_12_6.R#S##12424
+12# The Chi Square Test#12.12.5#Random numbers#Ex12_12_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.5/Ex12_12_5.R#S##12423
+12# The Chi Square Test#12.12.4#Observed and Expected frequency#Ex12_12_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.4/Ex12_12_4.R#S##14138
+12# The Chi Square Test#12.12.3# Normal approximation#Ex12_12_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.3/Ex12_12_3.R#S##14137
+12# The Chi Square Test#12.12.25#Hypothesis test#Ex12_12_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.25/Ex12_12_25.R#S##12439
+12# The Chi Square Test#12.12.23#Correlation coefficient#Ex12_12_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.23/Ex12_12_23.R#S##12438
+12# The Chi Square Test#12.12.22#Maximum Value of coefficient#Ex12_12_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.22/Ex12_12_22.R#S##12437
+12# The Chi Square Test#12.12.21#coefficient of contingency#Ex12_12_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.21/Ex12_12_21.R#S##12436
+12# The Chi Square Test#12.12.2#Yates correction#Ex12_12_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.2/Ex12_12_2.R#S##12420
+12# The Chi Square Test#12.12.19#Contingency table#Ex12_12_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.19/Ex12_12_19.R#S##12435
+12# The Chi Square Test#12.12.17#Computing the value#Ex12_12_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.17/Ex12_12_17.R#S##12434
+12# The Chi Square Test#12.12.16#Students passed and failed#Ex12_12_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.16/Ex12_12_16.R#S##12433
+12# The Chi Square Test#12.12.15#Yates correction#Ex12_12_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.15/Ex12_12_15.R#S##14140
+12# The Chi Square Test#12.12.14#chi square test#Ex12_12_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.14/Ex12_12_14.R#S##12431
+12# The Chi Square Test#12.12.13#Goodness of fit#Ex12_12_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.13/Ex12_12_13.R#S##12430
+12# The Chi Square Test#12.12.12#goodness of fit#Ex12_12_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.12/Ex12_12_12.R#S##12429
+12# The Chi Square Test#12.12.11#verification#Ex12_12_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.11/Ex12_12_11.R#S##12428
+12# The Chi Square Test#12.12.1#200 tosses of a coin#Ex12_12_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH12/EX12.12.1/Ex12_12_1.R#S##12419
+11# Small Sampling Theory#11.11.9#Agricultural station#Ex11_11_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.9/Ex11_11_9.R#S##12409
+11# Small Sampling Theory#11.11.8#intelligence quotients#Ex11_11_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.8/Ex11_11_8.R#S##12408
+11# Small Sampling Theory#11.11.7#Test of the breaking strengths#Ex11_11_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.7/Ex11_11_7.R#S##14277
+11# Small Sampling Theory#11.11.6#machine and washers#Ex11_11_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.6/Ex11_11_6.R#S##14134
+11# Small Sampling Theory#11.11.5#Large sampling theory#Ex11_11_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.5/Ex11_11_5.R#S##12405
+11# Small Sampling Theory#11.11.4#sample of 10 diameter measurements#Ex11_11_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.4/Ex11_11_4.R#S##12404
+11# Small Sampling Theory#11.11.3#two tailed test#Ex11_11_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.3/Ex11_11_3.R#S##12403
+11# Small Sampling Theory#11.11.2#sample of 10 measurements#Ex11_11_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.2/Ex11_11_2.R#S##12402
+11# Small Sampling Theory#11.11.19#two sample of sizes 8 and 10#Ex11_11_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.19/Ex11_11_19.R#S##12418
+11# Small Sampling Theory#11.11.18#two sample of sizes 9 and 12#Ex11_11_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.18/Ex11_11_18.R#S##12417
+11# Small Sampling Theory#11.11.17#standard deviation of weights#Ex11_11_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.17/Ex11_11_17.R#S##12416
+11# Small Sampling Theory#11.11.15#standard deviation of the lifetimes of sample of electric bulbs#Ex11_11_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.15/Ex11_11_15.R#S##14136
+11# Small Sampling Theory#11.11.14#degree of freedom#Ex11_11_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.14/Ex11_11_14.R#S##12414
+11# Small Sampling Theory#11.11.13#standard deviation of weights#Ex11_11_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.13/Ex11_11_13.R#S##12413
+11# Small Sampling Theory#11.11.12#median values and degree of freedom#Ex11_11_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.12/Ex11_11_12.R#S##12412
+11# Small Sampling Theory#11.11.11#critical values#Ex11_11_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.11/Ex11_11_11.R#S##12410
+11# Small Sampling Theory#11.11.10#chi square test#Ex11_11_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.10/Ex11_11_10.R#S##12411
+11# Small Sampling Theory#11.11.1#t distribution#Ex11_11_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH11/EX11.11.1/Ex11_11_1.R#S##12401
+10# Statistical Decision Theory#10.10.9#Breaking strengths of cables#Ex10_10_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.9/Ex10_10_9.R#S##14276
+10# Statistical Decision Theory#10.10.8#hypothesis and alternative hypothesis#Ex10_10_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.8/Ex10_10_8.R#S##12386
+10# Statistical Decision Theory#10.10.7# Fluorescent light bulbs#Ex10_10_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.7/Ex10_10_7.R#S##14275
+10# Statistical Decision Theory#10.10.6#Manufacturer of a patent medicine#Ex10_10_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.6/Ex10_10_6.R#S##12384
+10# Statistical Decision Theory#10.10.5#An experiment on extrasensory perception#Ex10_10_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.5/Ex10_10_5.R#S##12383
+10# Statistical Decision Theory#10.10.3#Hypothesis test of a fair coin#Ex10_10_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.3/Ex10_10_3.R#S##12382
+10# Statistical Decision Theory#10.10.28#coin comes up heads five times#Ex10_10_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.28/Ex10_10_28.R#S##12400
+10# Statistical Decision Theory#10.10.27#Coin tossed 6 times#Ex10_10_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.27/Ex10_10_27.R#S##13720
+10# Statistical Decision Theory#10.10.26#Graph of B and P#Ex10_10_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.26/Ex10_10_26.R#S##14133
+10# Statistical Decision Theory#10.10.25#Probability of accepting the hypothesis#Ex10_10_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.25/Ex10_10_25.R#S##12398
+10# Statistical Decision Theory#10.10.24#Probability of accepting the hypothesis#Ex10_10_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.24/Ex10_10_24.R#S##12397
+10# Statistical Decision Theory#10.10.23#An instructor and short quiz#Ex10_10_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.23/Ex10_10_23.R#S##12396
+10# Statistical Decision Theory#10.10.22#A sample poll from district A and B#Ex10_10_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.22/Ex10_10_22.R#S##12395
+10# Statistical Decision Theory#10.10.21#Groups of people cured#Ex10_10_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.21/Ex10_10_21.R#S##12394
+10# Statistical Decision Theory#10.10.20#two groups A and B #Ex10_10_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.20/Ex10_10_20.R#S##12393
+10# Statistical Decision Theory#10.10.2#Hypothesis testing #Ex10_10_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.2/Ex10_10_2.R#S##13714
+10# Statistical Decision Theory#10.10.19#sample of two groups#Ex10_10_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.19/Ex10_10_19.R#S##12392
+10# Statistical Decision Theory#10.10.18#Male students and college athletics#Ex10_10_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.18/Ex10_10_18.R#S##12391
+10# Statistical Decision Theory#10.10.17#Examination of two classes#Ex10_10_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.17/Ex10_10_17.R#S##12390
+10# Statistical Decision Theory#10.10.16#Ball bearing machine is constructed#Ex10_10_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.16/Ex10_10_16.R#S##14314
+10# Statistical Decision Theory#10.10.15#To test hypothesis that a coin is fair#Ex10_10_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.15/Ex10_10_15.R#S##13718
+10# Statistical Decision Theory#10.10.14#OC and power curve#Ex10_10_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.14/Ex10_10_14.R#S##13717
+10# Statistical Decision Theory#10.10.13#Rope manufacturing company#Ex10_10_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.13/Ex10_10_13.R#S##13716
+10# Statistical Decision Theory#10.10.12#Graph of results#Ex10_10_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.12/Ex10_10_12.R#S##13715
+10# Statistical Decision Theory#10.10.11#Work problem#Ex10_10_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.11/Ex10_10_11.R#S##14131
+10# Statistical Decision Theory#10.10.10#Accepting hypothesis#Ex10_10_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.10/Ex10_10_10.R#S##12388
+10# Statistical Decision Theory#10.10.1#Probability of getting heads and tails#Ex10_10_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH10/EX10.10.1/Ex10_10_1.R#S##12381
+9# Statistical Estimation Theory#9.9.9#Random sample of 50 mathematics grades#Ex9_9_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.9/Ex9_9_9.R#S##12370
+9# Statistical Estimation Theory#9.9.8#measuring reaction time#Ex9_9_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.8/Ex9_9_8.R#S##12369
+9# Statistical Estimation Theory#9.9.7#confidence limits for the mean diameters#Ex9_9_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.7/Ex9_9_7.R#S##14124
+9# Statistical Estimation Theory#9.9.6#Measurements of the diameter of a a random sample#Ex9_9_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.6/Ex9_9_6.R#S##12367
+9# Statistical Estimation Theory#9.9.5#XYZ university students#Ex9_9_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.5/Ex9_9_5.R#S##13712
+9# Statistical Estimation Theory#9.9.4#unbiased and efficient estimate#Ex9_9_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.4/Ex9_9_4.R#S##12366
+9# Statistical Estimation Theory#9.9.3#random sample of weights of students#Ex9_9_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.3/Ex9_9_3.R#S##12365
+9# Statistical Estimation Theory#9.9.20#Probable error and confidence limits for a measurement#Ex9_9_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.20/Ex9_9_20.R#S##12380
+9# Statistical Estimation Theory#9.9.2#sample of five measurements#Ex9_9_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.2/Ex9_9_2.R#S##12364
+9# Statistical Estimation Theory#9.9.19#Probable error and confidence limits#Ex9_9_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.19/Ex9_9_19.R#S##12379
+9# Statistical Estimation Theory#9.9.18#Sample of light bulbs#Ex9_9_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.18/Ex9_9_18.R#S##12378
+9# Statistical Estimation Theory#9.9.17#standard deviation of light bulbs#Ex9_9_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.17/Ex9_9_17.R#S##12377
+9# Statistical Estimation Theory#9.9.16#Electromotive force of batteries#Ex9_9_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.16/Ex9_9_16.R#S##14128
+9# Statistical Estimation Theory#9.9.15#random sample of adults and teenagers#Ex9_9_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.15/Ex9_9_15.R#S##12375
+9# Statistical Estimation Theory#9.9.14#sample of 150 and 200 light bulbs#Ex9_9_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.14/Ex9_9_14.R#S##14127
+9# Statistical Estimation Theory#9.9.13#40 tosses of coin#Ex9_9_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.13/Ex9_9_13.R#S##14126
+9# Statistical Estimation Theory#9.9.12#Confidence limits#Ex9_9_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.12/Ex9_9_12.R#S##13713
+9# Statistical Estimation Theory#9.9.11#sample of voters#Ex9_9_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.11/Ex9_9_11.R#S##14125
+9# Statistical Estimation Theory#9.9.10#sample poll of 100 voters#Ex9_9_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH9/EX9.9.10/Ex9_9_10.R#S##12371
+8# Elementary Sampling Theory#8.8.9#Machine and tools#Ex8_8_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.9/Ex8_8_9.R#S##12637
+8# Elementary Sampling Theory#8.8.8#Group of 500 people#Ex8_8_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.8/Ex8_8_8.R#S##13707
+8# Elementary Sampling Theory#8.8.7#120 tosses of a fair coin#Ex8_8_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.7/Ex8_8_7.R#S##13706
+8# Elementary Sampling Theory#8.8.6#Random samples of students#Ex8_8_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.6/Ex8_8_6.R#S##13705
+8# Elementary Sampling Theory#8.8.5#500 ball bearings#Ex8_8_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.5/Ex8_8_5.R#S##12354
+8# Elementary Sampling Theory#8.8.4#mean of samples#Ex8_8_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.4/Ex8_8_4.R#S##12353
+8# Elementary Sampling Theory#8.8.3#weights of 3000 male students#Ex8_8_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.3/Ex8_8_3.R#S##12352
+8# Elementary Sampling Theory#8.8.20#Percentage of the samples#Ex8_8_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.20/Ex8_8_20.R#S##13711
+8# Elementary Sampling Theory#8.8.2#sampling without replacement#Ex8_8_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.2/Ex8_8_2.R#S##14122
+8# Elementary Sampling Theory#8.8.19#Sampling distribution of standard deviation#Ex8_8_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.19/Ex8_8_19.R#S##13710
+8# Elementary Sampling Theory#8.8.18#Sampling without replacement #Ex8_8_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.18/Ex8_8_18.R#S##13709
+8# Elementary Sampling Theory#8.8.17#Mean and Standard deviation#Ex8_8_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.17/Ex8_8_17.R#S##13708
+8# Elementary Sampling Theory#8.8.16#Electric light bulb#Ex8_8_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.16/Ex8_8_16.R#S##12363
+8# Elementary Sampling Theory#8.8.15#Two distances with different standard deviation#Ex8_8_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.15/Ex8_8_15.R#S##12362
+8# Elementary Sampling Theory#8.8.14#heads and tails#Ex8_8_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.14/Ex8_8_14.R#S##12361
+8# Elementary Sampling Theory#8.8.13#Ball bearing#Ex8_8_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.13/Ex8_8_13.R#S##14274
+8# Elementary Sampling Theory#8.8.12#Electric light bulbs#Ex8_8_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.12/Ex8_8_12.R#S##12357
+8# Elementary Sampling Theory#8.8.11#Elements of the population#Ex8_8_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.11/Ex8_8_11.R#S##12356
+8# Elementary Sampling Theory#8.8.10#Election returns#Ex8_8_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.10/Ex8_8_10.R#S##12355
+8# Elementary Sampling Theory#8.8.1# population of sample#Ex8_8_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH8/EX8.8.1/Ex8_8_1.R#S##14121
+7# The Binomial Normal And Poisson Distributions#7.7.9#pair of dice#Ex7_7_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.9/Ex7_7_9.R#S##12340
+7# The Binomial Normal And Poisson Distributions#7.7.8#college student graduation probability#Ex7_7_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.8/Ex7_7_8.R#S##14118
+7# The Binomial Normal And Poisson Distributions#7.7.7#bolts produced by a machine#Ex7_7_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.7/Ex7_7_7.R#S##12338
+7# The Binomial Normal And Poisson Distributions#7.7.6#2000 families with 4 children#Ex7_7_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.6/Ex7_7_6.R#S##14117
+7# The Binomial Normal And Poisson Distributions#7.7.5#family of 4 children#Ex7_7_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.5/Ex7_7_5.R#S##12336
+7# The Binomial Normal And Poisson Distributions#7.7.34#Automobile Accidents#Ex7_7_34.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.34/Ex7_7_34.R#S##13704
+7# The Binomial Normal And Poisson Distributions#7.7.33#Normal curve of data#Ex7_7_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.33/Ex7_7_33.R#S##14273
+7# The Binomial Normal And Poisson Distributions#7.7.32#Probability graph#Ex7_7_32.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.32/Ex7_7_32.R#S##13702
+7# The Binomial Normal And Poisson Distributions#7.7.31#Binomial Distribution#Ex7_7_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.31/Ex7_7_31.R#S##14119
+7# The Binomial Normal And Poisson Distributions#7.7.30#red white and blue balls#Ex7_7_30.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.30/Ex7_7_30.R#S##12349
+7# The Binomial Normal And Poisson Distributions#7.7.3#five tosses of a fair die#Ex7_7_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.3/Ex7_7_3.R#S##12335
+7# The Binomial Normal And Poisson Distributions#7.7.29#poisson distribution#Ex7_7_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.29/Ex7_7_29.R#S##12348
+7# The Binomial Normal And Poisson Distributions#7.7.28#bad reaction from injection#Ex7_7_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.28/Ex7_7_28.R#S##12347
+7# The Binomial Normal And Poisson Distributions#7.7.27#tools from a manufacturing process#Ex7_7_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.27/Ex7_7_27.R#S##12346
+7# The Binomial Normal And Poisson Distributions#7.7.26#Die tossed 120 times#Ex7_7_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.26/Ex7_7_26.R#S##13700
+7# The Binomial Normal And Poisson Distributions#7.7.25#fair coin#Ex7_7_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.25/Ex7_7_25.R#S##12345
+7# The Binomial Normal And Poisson Distributions#7.7.24#10 tosses of fair coin#Ex7_7_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.24/Ex7_7_24.R#S##13699
+7# The Binomial Normal And Poisson Distributions#7.7.23#Sample of 200 washers#Ex7_7_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.23/Ex7_7_23.R#S##13698
+7# The Binomial Normal And Poisson Distributions#7.7.22#Quiz in Biology#Ex7_7_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.22/Ex7_7_22.R#S##13697
+7# The Binomial Normal And Poisson Distributions#7.7.21#500 students#Ex7_7_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.21/Ex7_7_21.R#S##13696
+7# The Binomial Normal And Poisson Distributions#7.7.20#500 male students and problem solving#Ex7_7_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.20/Ex7_7_20.R#S##13695
+7# The Binomial Normal And Poisson Distributions#7.7.2#tossing a coin three times#Ex7_7_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.2/Ex7_7_2.R#S##12334
+7# The Binomial Normal And Poisson Distributions#7.7.19#Ordinate of the normal curve#Ex7_7_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.19/Ex7_7_19.R#S##13694
+7# The Binomial Normal And Poisson Distributions#7.7.18#Determining z value#Ex7_7_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.18/Ex7_7_18.R#S##13693
+7# The Binomial Normal And Poisson Distributions#7.7.17#Area under normal curve#Ex7_7_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.17/Ex7_7_17.R#S##13692
+7# The Binomial Normal And Poisson Distributions#7.7.16#Examination in English#Ex7_7_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.16/Ex7_7_16.R#S##13691
+7# The Binomial Normal And Poisson Distributions#7.7.15#grades corresponding to standard scores#Ex7_7_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.15/Ex7_7_15.R#S##12344
+7# The Binomial Normal And Poisson Distributions#7.7.14#final examination in mathematics#Ex7_7_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.14/Ex7_7_14.R#S##12343
+7# The Binomial Normal And Poisson Distributions#7.7.13#skewness and kurtosis#Ex7_7_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.13/Ex7_7_13.R#S##12342
+7# The Binomial Normal And Poisson Distributions#7.7.12#Defective bolts#Ex7_7_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.12/Ex7_7_12.R#S##12341
+7# The Binomial Normal And Poisson Distributions#7.7.1#Evaluate#Ex7_7_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.7.1/Ex7_7_1.R#S##12333
+7# The Binomial Normal And Poisson Distributions#7.5#fair die toss#Ex7_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.5/Ex7_5.R#S##12332
+7# The Binomial Normal And Poisson Distributions#7.4#standard deviation #Ex7_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.4/Ex7_4.R#S##12331
+7# The Binomial Normal And Poisson Distributions#7.2#tossing a fair coin#Ex7_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.2/Ex7_2.R#S##12330
+7# The Binomial Normal And Poisson Distributions#7.1#fair coin#Ex7_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH7/EX7.1/Ex7_1.R#S##12329
+6# Elementary Probability Theory#6.9#Probability of a man winning #Ex6_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.9/Ex6_9.R#S##13687
+6# Elementary Probability Theory#6.8#Pair of fair dice#Ex6_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.8/Ex6_8.R#S##14271
+6# Elementary Probability Theory#6.7#Drawing an ace and a spade#Ex6_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.7/Ex6_7.R#S##13685
+6# Elementary Probability Theory#6.6.9#games of chess#Ex6_6_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.9/Ex6_6_9.R#S##12303
+6# Elementary Probability Theory#6.6.8#white and black balls#Ex6_6_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.8/Ex6_6_8.R#S##12301
+6# Elementary Probability Theory#6.6.7#Two tosses of a fair dice#Ex6_6_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.7/Ex6_6_7.R#S##12302
+6# Elementary Probability Theory#6.6.6#three balls drawn from a box#Ex6_6_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.6/Ex6_6_6.R#S##12300
+6# Elementary Probability Theory#6.6.5#Deck of 52 cards#Ex6_6_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.5/Ex6_6_5.R#S##13681
+6# Elementary Probability Theory#6.6.4#fair dice tossed twice#Ex6_6_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.4/Ex6_6_4.R#S##12298
+6# Elementary Probability Theory#6.6.39#Algebra physics and statistics#Ex6_6_39.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.39/Ex6_6_39.R#S##12328
+6# Elementary Probability Theory#6.6.37#Sample space#Ex6_6_37.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.37/Ex6_6_37.R#S##14154
+6# Elementary Probability Theory#6.6.36#Defective bolts#Ex6_6_36.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.36/Ex6_6_36.R#S##12327
+6# Elementary Probability Theory#6.6.35#Machine and bolts#Ex6_6_35.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.35/Ex6_6_35.R#S##12326
+6# Elementary Probability Theory#6.6.34#tossing a fair die#Ex6_6_34.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.34/Ex6_6_34.R#S##12325
+6# Elementary Probability Theory#6.6.33#pack of cards#Ex6_6_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.33/Ex6_6_33.R#S##12324
+6# Elementary Probability Theory#6.6.32#Box of red white and blue balls#Ex6_6_32.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.32/Ex6_6_32.R#S##12323
+6# Elementary Probability Theory#6.6.31#Evaluate 50 factorial#Ex6_6_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.31/Ex6_6_31.R#S##14153
+6# Elementary Probability Theory#6.6.30#consonants and vowels#Ex6_6_30.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.30/Ex6_6_30.R#S##12322
+6# Elementary Probability Theory#6.6.3#red white and blue balls#Ex6_6_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.3/Ex6_6_3.R#S##12299
+6# Elementary Probability Theory#6.6.29#Girls and flowers#Ex6_6_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.29/Ex6_6_29.R#S##12321
+6# Elementary Probability Theory#6.6.28#Mathematics and Physics#Ex6_6_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.28/Ex6_6_28.R#S##12320
+6# Elementary Probability Theory#6.6.27#committee of people#Ex6_6_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.27/Ex6_6_27.R#S##12319
+6# Elementary Probability Theory#6.6.26#Evaluation#Ex6_6_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.26/Ex6_6_26.R#S##12318
+6# Elementary Probability Theory#6.6.25#objects into groups#Ex6_6_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.25/Ex6_6_25.R#S##12317
+6# Elementary Probability Theory#6.6.24#people and round table#Ex6_6_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.24/Ex6_6_24.R#S##12316
+6# Elementary Probability Theory#6.6.23#red white and blue marbles#Ex6_6_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.23/Ex6_6_23.R#S##12315
+6# Elementary Probability Theory#6.6.22#Mathematics physics and chemistry#Ex6_6_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.22/Ex6_6_22.R#S##12314
+6# Elementary Probability Theory#6.6.21#Allowed and not allowed repetitions#Ex6_6_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.21/Ex6_6_21.R#S##12313
+6# Elementary Probability Theory#6.6.20#Men and women#Ex6_6_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.20/Ex6_6_20.R#S##12312
+6# Elementary Probability Theory#6.6.19#permutation#Ex6_6_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.19/Ex6_6_19.R#S##12311
+6# Elementary Probability Theory#6.6.18#benches and seats#Ex6_6_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.18/Ex6_6_18.R#S##12310
+6# Elementary Probability Theory#6.6.17#5 different marbles#Ex6_6_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.17/Ex6_6_17.R#S##12309
+6# Elementary Probability Theory#6.6.16#white and black balls#Ex6_6_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.16/Ex6_6_16.R#S##12308
+6# Elementary Probability Theory#6.6.15#probability distribution#Ex6_6_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.15/Ex6_6_15.R#S##12636
+6# Elementary Probability Theory#6.6.14#business venture #Ex6_6_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.14/Ex6_6_14.R#S##12307
+6# Elementary Probability Theory#6.6.13#man purchases a raffle ticket#Ex6_6_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.13/Ex6_6_13.R#S##12306
+6# Elementary Probability Theory#6.6.12#Continuous Random Variable#Ex6_6_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.12/Ex6_6_12.R#S##12305
+6# Elementary Probability Theory#6.6.11# Graph of distribution#Ex6_6_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.11/Ex6_6_11.R#S##14152
+6# Elementary Probability Theory#6.6.10#probability of girls and boys#Ex6_6_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.10/Ex6_6_10.R#S##12304
+6# Elementary Probability Theory#6.6.1#dice and coin and cards#Ex6_6_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6.1/Ex6_6_1.R#S##12295
+6# Elementary Probability Theory#6.6#Pair of fair dice#Ex6_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.6/Ex6_6.R#S##13680
+6# Elementary Probability Theory#6.5#White and black balls#Ex6_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.5/Ex6_5.R#S##13679
+6# Elementary Probability Theory#6.4#Probability that A and B will be alive#Ex6_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.4/Ex6_4.R#S##13678
+6# Elementary Probability Theory#6.3#E1 and E2 events#Ex6_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.3/Ex6_3.R#S##13677
+6# Elementary Probability Theory#6.2#Tossing a coin#Ex6_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.2/Ex6_2.R#S##14151
+6# Elementary Probability Theory#6.13#Number of combinations#Ex6_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.13/Ex6_13.R#S##14272
+6# Elementary Probability Theory#6.12#Number of permutations of letters#Ex6_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.12/Ex6_12.R#S##13689
+6# Elementary Probability Theory#6.10#3 Candidates#Ex6_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.10/Ex6_10.R#S##13688
+6# Elementary Probability Theory#6.1#Events and probability #Ex6_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH6/EX6.1/Ex6_1.R#S##13675
+5# Moments Skewness And Kurtosis#5.5.9#Sheppards correction#Ex5_5_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.9/Ex5_5_9.R#S##12625
+5# Moments Skewness And Kurtosis#5.5.8#Charlies check#Ex5_5_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.8/Ex5_5_8.R#S##12294
+5# Moments Skewness And Kurtosis#5.5.7#Moments for distribution#Ex5_5_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.7/Ex5_5_7.R#S##13674
+5# Moments Skewness And Kurtosis#5.5.6#first four moments about the weight#Ex5_5_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.6/Ex5_5_6.R#S##11925
+5# Moments Skewness And Kurtosis#5.5.4#relation between moments#Ex5_5_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.4/Ex5_5_4.R#S##11924
+5# Moments Skewness And Kurtosis#5.5.3#moments about the origin#Ex5_5_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.3/Ex5_5_3.R#S##11923
+5# Moments Skewness And Kurtosis#5.5.2#moments about the mean#Ex5_5_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.2/Ex5_5_2.R#S##11922
+5# Moments Skewness And Kurtosis#5.5.14#Percentile coefficient of Kurtosis#Ex5_5_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.14/Ex5_5_14.R#S##12630
+5# Moments Skewness And Kurtosis#5.5.13#Coefficient of kurtosis#Ex5_5_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.13/Ex5_5_13.R#S##12629
+5# Moments Skewness And Kurtosis#5.5.12#Coefficient of skewness#Ex5_5_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.12/Ex5_5_12.R#S##12628
+5# Moments Skewness And Kurtosis#5.5.11#Quartile and percentile#Ex5_5_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.11/Ex5_5_11.R#S##12627
+5# Moments Skewness And Kurtosis#5.5.10#Pearsons#Ex5_5_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.10/Ex5_5_10.R#S##12626
+5# Moments Skewness And Kurtosis#5.5.1#moments#Ex5_5_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH5/EX5.5.1/Ex5_5_1.R#S##12635
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.9#standard deviation for each set of numbers#Ex4_4_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.9/Ex4_4_9.R#S##14145
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.8#Weights of students at XYZ University#Ex4_4_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.8/Ex4_4_8.R#S##13664
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.7#Semi interquartile range for wages#Ex4_4_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.7/Ex4_4_7.R#S##13663
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.6#Semi interquartile range#Ex4_4_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.6/Ex4_4_6.R#S##14147
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.5#Percentage of Students weights#Ex4_4_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.5/Ex4_4_5.R#S##14270
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.4#mean deviation of weights of students of XYZ college#Ex4_4_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.4/Ex4_4_4.R#S##11911
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.32#Converting the IQs into standard scores#Ex4_4_32.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.32/Ex4_4_32.R#S##13673
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.31#Higher relative standing#Ex4_4_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.31/Ex4_4_31.R#S##13672
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.30#Measure of relative dispersion#Ex4_4_30.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.30/Ex4_4_30.R#S##13671
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.3#Mean deviation of a set of numbers#Ex4_4_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.3/Ex4_4_3.R#S##11910
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.29#Coefficients of variance#Ex4_4_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.29/Ex4_4_29.R#S##13670
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.28#Television tubes A and B#Ex4_4_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.28/Ex4_4_28.R#S##14149
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.26#Set work problem#Ex4_4_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.26/Ex4_4_26.R#S##13668
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.25#Mean and variance of single and combined sets#Ex4_4_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.25/Ex4_4_25.R#S##12634
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.24# Percentage of Students IQ#Ex4_4_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.24/Ex4_4_24.R#S##14148
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.23#Distribution of weights of students at XYZ University#Ex4_4_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.23/Ex4_4_23.R#S##13666
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.22#second frequency distribution #Ex4_4_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.22/Ex4_4_22.R#S##11921
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.21#standard deviation of data#Ex4_4_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.21/Ex4_4_21.R#S##11920
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.20#Charlies Check#Ex4_4_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.20/Ex4_4_20.R#S##13665
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.2#Range of weights of students#Ex4_4_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.2/Ex4_4_2.R#S##11909
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.19#IQ of elementary school students#Ex4_4_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.19/Ex4_4_19.R#S##11919
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.18#mean and standard deviation for wage distribution#Ex4_4_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.18/Ex4_4_18.R#S##11918
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.17#Standard deviation of weights of students of XYZ university#Ex4_4_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.17/Ex4_4_17.R#S##11917
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.14#standard deviation of a set of data#EX4_4_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.14/EX4_4_14.R#S##11916
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.12#standard deviation of a set of numbers#Ex4_4_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.12/Ex4_4_12.R#S##11915
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.11#Standard deviation of weights of 100 male students#Ex4_4_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.11/Ex4_4_11.R#S##11914
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.10#variance of a set of numbers#Ex4_4_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.10/Ex4_4_10.R#S##14150
+4# The Standard Deviation And Other Measures Of Dispersion#4.4.1#Range of a set of numbers#Ex4_4_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.4.1/Ex4_4_1.R#S##11908
+4# The Standard Deviation And Other Measures Of Dispersion#4.2#mean deviation of a set of numbers#Ex4_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.2/Ex4_2.R#S##11907
+4# The Standard Deviation And Other Measures Of Dispersion#4.1#Range of a set of numbers#Ex4_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH4/EX4.1/Ex4_1.R#S##11906
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.9#median#Ex3_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.9/Ex3_9.R#S##12656
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.8#median#Ex3_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.8/Ex3_8.R#S##12655
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.7#deviation and mean#Ex3_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.7/Ex3_7.R#S##12654
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.6#weighted mean#Ex3_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.6/Ex3_6.R#S##12653
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.5#Arithmetic Mean #Ex3_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.5/Ex3_5.R#S##12652
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.4#arithmetic mean#Ex3_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.4/Ex3_4.R#S##12651
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.9#arithmetic mean of a set of numbers#Ex3_3_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.9/Ex3_3_9.R#S##11881
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.8#annual salaries of four men#Ex3_3_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.8/Ex3_3_8.R#S##11880
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.7#mean of diameter of cylinders#Ex3_3_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.7/Ex3_3_7.R#S##11879
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.6#mean of grades of student#Ex3_3_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.6/Ex3_3_6.R#S##11878
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.5#Calculating the given equation#Ex3_3_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.5/Ex3_3_5.R#S##12650
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.46#Percentage Ogive#Ex3_3_46.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.46/Ex3_3_46.R#S##14269
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.45#Percentiles for the distribution#Ex3_3_45.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.45/Ex3_3_45.R#S##13660
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.44#Quartiles q1 q2 and q3#Ex3_3_44.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.44/Ex3_3_44.R#S##14143
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.42#quadratic mean#Ex3_3_42.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.42/Ex3_3_42.R#S##11905
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.41#average speed for a trip#Ex3_3_41.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.41/Ex3_3_41.R#S##11904
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.40#average oil cost#Ex3_3_40.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.40/Ex3_3_40.R#S##11903
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.4#Calculating the given variables#Ex3_3_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.4/Ex3_3_4.R#S##12649
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.39#harmonic mean#Ex3_3_39.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.39/Ex3_3_39.R#S##11902
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.38#bacterial increase percentage#Ex3_3_38.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.38/Ex3_3_38.R#S##11901
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.37#milk prices to bread prices#Ex3_3_37.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.37/Ex3_3_37.R#S##11900
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.35#geometric mean and arithmetic mean#Ex3_3_35.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.35/Ex3_3_35.R#S##11899
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.34#Empirical formula#Ex3_3_34.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.34/Ex3_3_34.R#S##13658
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.33#modal wage of employees#Ex3_3_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.33/Ex3_3_33.R#S##11898
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.31#mean median and mode#Ex3_3_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.31/Ex3_3_31.R#S##14141
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.30#P and R Company#Ex3_3_30.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.30/Ex3_3_30.R#S##13657
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.29#Histogram and Ogive#Ex3_3_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.29/Ex3_3_29.R#S##14313
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.28# 40 male students solving a problem#Ex3_3_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.28/Ex3_3_28.R#S##13655
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.27#Numbers in an array#Ex3_3_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.27/Ex3_3_27.R#S##13654
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.26#hourly wages of five employees#Ex3_3_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.26/Ex3_3_26.R#S##11896
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.25#median of grades#Ex3_3_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.25/Ex3_3_25.R#S##11895
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.24#mean wage of employees#Ex3_3_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.24/Ex3_3_24.R#S##11894
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.23#mean weekly wage#Ex3_3_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.23/Ex3_3_23.R#S##11893
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.22#Mean weight of all the students of XYZ university#Ex3_3_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.22/Ex3_3_22.R#S##11892
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.20#Mean weight of students at XYZ university using different method#Ex3_3_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.20/Ex3_3_20.R#S##11891
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.19#guessed and arithmetic mean#Ex3_3_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.19/Ex3_3_19.R#S##12633
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.15#Mean weight of students at XYZ university#Ex3_3_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.15/Ex3_3_15.R#S##11890
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.14#Mean annual income of two groups#Ex3_3_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.14/Ex3_3_14.R#S##11889
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.13#mean weight of all the students#Ex3_3_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.13/Ex3_3_13.R#S##11888
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.12#Mean of earning of employees#Ex3_3_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.12/Ex3_3_12.R#S##11886
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.11#Average grade for four subjects and their respective credits#Ex3_3_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.11/Ex3_3_11.R#S##11883
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.3.10#arithmetic mean of numbers#Ex3_3_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.3.10/Ex3_3_10.R#S##11882
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.16#RMS#Ex3_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.16/Ex3_16.R#S##12663
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.15#arithmetic geometric and harmonic mean#Ex3_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.15/Ex3_15.R#S##12662
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.14#harmonic mean#Ex3_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.14/Ex3_14.R#S##12661
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.13#Geometric mean#Ex3_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.13/Ex3_13.R#S##12660
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.12#bimodal#Ex3_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.12/Ex3_12.R#S##12659
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.11#mode#Ex3_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.11/Ex3_11.R#S##12658
+3# The Mean  Median  Mode  And Other Measures Of Central Tendency#3.10#mode#Ex3_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH3/EX3.10/Ex3_10.R#S##12657
+2# Frequency Distributions#2.2.9#histogram and frequency polygon#Ex2_2_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.9/Ex2_2_9.R#S##14311
+2# Frequency Distributions#2.2.8#Frequency distribution#Ex2_2_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.8/Ex2_2_8.R#S##14216
+2# Frequency Distributions#2.2.6#150 measurements#Ex2_2_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.6/Ex2_2_6.R#S##14215
+2# Frequency Distributions#2.2.5#Graphical Representation#Ex2_2_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.5/Ex2_2_5.R#S##14323
+2# Frequency Distributions#2.2.4#Frequency distribution#Ex2_2_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.4/Ex2_2_4.R#S##12614
+2# Frequency Distributions#2.2.3#Frequency distribution#Ex2_2_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.3/Ex2_2_3.R#S##12613
+2# Frequency Distributions#2.2.2#Final grades#Ex2_2_2.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.2/Ex2_2_2.R#S##14222
+2# Frequency Distributions#2.2.18#100 male students at XYZ college#Ex2_2_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.18/Ex2_2_18.R#S##14220
+2# Frequency Distributions#2.2.17#five pennies were tossed 1000 times#Ex2_2_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.17/Ex2_2_17.R#S##12623
+2# Frequency Distributions#2.2.16#Ogive estimation#Ex2_2_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.16/Ex2_2_16.R#S##13756
+2# Frequency Distributions#2.2.15#Frequency distribution#Ex2_2_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.15/Ex2_2_15.R#S##12622
+2# Frequency Distributions#2.2.14#cumulative frequency#Ex2_2_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.14/Ex2_2_14.R#S##14219
+2# Frequency Distributions#2.2.13#Histogram for frequency distribution#Ex2_2_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.13/Ex2_2_13.R#S##12620
+2# Frequency Distributions#2.2.12# P and R company#Ex2_2_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.12/Ex2_2_12.R#S##14218
+2# Frequency Distributions#2.2.10#relative frequency#Ex2_2_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.10/Ex2_2_10.R#S##12618
+2# Frequency Distributions#2.2.1#arrange the numbers#Ex2_2_1.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH2/EX2.2.1/Ex2_2_1.R#S##14221
+1# Variables And Graphs#1.9#Significant figures#Ex1_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.9/Ex1_9.R#S##13734
+1# Variables And Graphs#1.8#Scientific notation#Ex1_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.8/Ex1_8.R#S##13733
+1# Variables And Graphs#1.7#Scientific notation#Ex1_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.7/Ex1_7.R#S##13732
+1# Variables And Graphs#1.6#Scientific notation#Ex1_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.6/Ex1_6.R#S##13731
+1# Variables And Graphs#1.5#Scientific notation#Ex1_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.5/Ex1_5.R#S##13730
+1# Variables And Graphs#1.4#Scientific notation#Ex1_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.4/Ex1_4.R#S##13729
+1# Variables And Graphs#1.36#Antilogarithms#Ex1_36.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.36/Ex1_36.R#S##13748
+1# Variables And Graphs#1.35# Logarithm#Ex1_35.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.35/Ex1_35.R#S##14211
+1# Variables And Graphs#1.34#Logarithm#Ex1_34.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.34/Ex1_34.R#S##13746
+1# Variables And Graphs#1.33#Logarithm#Ex1_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.33/Ex1_33.R#S##13745
+1# Variables And Graphs#1.32#Logarithm#Ex1_32.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.32/Ex1_32.R#S##13744
+1# Variables And Graphs#1.31#Logarithm#Ex1_31.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.31/Ex1_31.R#S##13743
+1# Variables And Graphs#1.3#Scientific notation#Ex1_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.3/Ex1_3.R#S##13728
+1# Variables And Graphs#1.22#Solution to equation #Ex1_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.22/Ex1_22.R#S##13742
+1# Variables And Graphs#1.19#Computation#Ex1_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.19/Ex1_19.R#S##13741
+1# Variables And Graphs#1.18#Computation#Ex1_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.18/Ex1_18.R#S##14206
+1# Variables And Graphs#1.17#Computation#Ex1_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.17/Ex1_17.R#S##13739
+1# Variables And Graphs#1.16#Computation#Ex1_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.16/Ex1_16.R#S##13738
+1# Variables And Graphs#1.15#Computation#Ex1_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.15/Ex1_15.R#S##13737
+1# Variables And Graphs#1.14#Computation#Ex1_14.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.14/Ex1_14.R#S##13736
+1# Variables And Graphs#1.13#Computation#Ex1_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.13/Ex1_13.R#S##13735
+1# Variables And Graphs#1.12#Significant figures#Ex1_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.12/Ex1_12.R#S##14208
+1# Variables And Graphs#1.11#Significant figures#Ex1_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.11/Ex1_11.R#S##14213
+1# Variables And Graphs#1.10#Significant figures#Ex1_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.10/Ex1_10.R#S##14212
+1# Variables And Graphs#1.1.9#Product of numbers#Ex1_1_9.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.9/Ex1_1_9.R#S##14201
+1# Variables And Graphs#1.1.8#Scientific Notation#Ex1_1_8.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.8/Ex1_1_8.R#S##12640
+1# Variables And Graphs#1.1.7#Maximum Error#Ex1_1_7.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.7/Ex1_1_7.R#S##14210
+1# Variables And Graphs#1.1.6# Significant figures#Ex1_1_6.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.6/Ex1_1_6.R#S##14207
+1# Variables And Graphs#1.1.5#Without using powers of 10#Ex1_1_5.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.5/Ex1_1_5.R#S##14209
+1# Variables And Graphs#1.1.45#Calculating logarithms#Ex1_1_45.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.45/Ex1_1_45.R#S##12612
+1# Variables And Graphs#1.1.44#Calculating logarithms#Ex1_1_44.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.44/Ex1_1_44.R#S##12611
+1# Variables And Graphs#1.1.43#Calculating logarithms#Ex1_1_43.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.43/Ex1_1_43.R#S##12610
+1# Variables And Graphs#1.1.42#Calculating logarithms#Ex1_1_42.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.42/Ex1_1_42.R#S##12609
+1# Variables And Graphs#1.1.41#Calculating logarithms#Ex1_1_41.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.41/Ex1_1_41.R#S##12608
+1# Variables And Graphs#1.1.40#Calculating logarithms#Ex1_1_40.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.40/Ex1_1_40.R#S##12607
+1# Variables And Graphs#1.1.4#Adding the numbers#Ex1_1_4.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.4/Ex1_1_4.R#S##12639
+1# Variables And Graphs#1.1.39#Calculating logarithms#Ex1_1_39.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.39/Ex1_1_39.R#S##12606
+1# Variables And Graphs#1.1.38#Calculating logarithms#Ex1_1_38.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.38/Ex1_1_38.R#S##12605
+1# Variables And Graphs#1.1.37#Antilogarithms#Ex1_1_37.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.37/Ex1_1_37.R#S##14205
+1# Variables And Graphs#1.1.36#Logarithms#Ex1_1_36.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.36/Ex1_1_36.R#S##12604
+1# Variables And Graphs#1.1.35#Common logarithm#Ex1_1_35.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.35/Ex1_1_35.R#S##12603
+1# Variables And Graphs#1.1.34#Corresponding Inequality#Ex1_1_34.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.34/Ex1_1_34.R#S##13651
+1# Variables And Graphs#1.1.33#Rearranging the numbers#Ex1_1_33.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.33/Ex1_1_33.R#S##12602
+1# Variables And Graphs#1.1.30#Solving simultaneous equations#Ex1_1_30.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.30/Ex1_1_30.R#S##14200
+1# Variables And Graphs#1.1.3#rounding off the numbers#Ex1_1_3.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.3/Ex1_1_3.R#S##12638
+1# Variables And Graphs#1.1.29#Solving equations#Ex1_1_29.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.29/Ex1_1_29.R#S##14291
+1# Variables And Graphs#1.1.28# Simple pendulum#Ex1_1_28.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.28/Ex1_1_28.R#S##14312
+1# Variables And Graphs#1.1.27#Continents and area#Ex1_1_27.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.27/Ex1_1_27.R#S##12632
+1# Variables And Graphs#1.1.26# Line graph#Ex1_1_26.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.26/Ex1_1_26.R#S##14322
+1# Variables And Graphs#1.1.25# Potatoes and straw#Ex1_1_25.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.25/Ex1_1_25.R#S##14293
+1# Variables And Graphs#1.1.24#bar graph and line graph#Ex1_1_24.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.24/Ex1_1_24.R#S##14290
+1# Variables And Graphs#1.1.23#US population graph#Ex1_1_23.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.23/Ex1_1_23.R#S##14197
+1# Variables And Graphs#1.1.22#Graph the equation#Ex1_1_22.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.22/Ex1_1_22.R#S##14195
+1# Variables And Graphs#1.1.21#Graph the equation#Ex1_1_21.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.21/Ex1_1_21.R#S##14194
+1# Variables And Graphs#1.1.20#Rectangular coordinate#Ex1_1_20.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.20/Ex1_1_20.R#S##14193
+1# Variables And Graphs#1.1.19#Ball bearing in millimeters#Ex1_1_19.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.19/Ex1_1_19.R#S##12593
+1# Variables And Graphs#1.1.18#Locate values on X axis#Ex1_1_18.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.18/Ex1_1_18.R#S##12592
+1# Variables And Graphs#1.1.17#Finding corresponding z value#Ex1_1_17.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.17/Ex1_1_17.R#S##12631
+1# Variables And Graphs#1.1.16#Determining the variables#Ex1_1_16.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.16/Ex1_1_16.R#S##14292
+1# Variables And Graphs#1.1.15#tonnes of potatoes and straw#Ex1_1_15.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.15/Ex1_1_15.R#S##12591
+1# Variables And Graphs#1.1.13#Evaluating#Ex1_1_13.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.13/Ex1_1_13.R#S##12645
+1# Variables And Graphs#1.1.12#Performing indicated operations#Ex1_1_12.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.12/Ex1_1_12.R#S##12644
+1# Variables And Graphs#1.1.11#Scientific Figures#Ex1_1_11.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.11/Ex1_1_11.R#S##12643
+1# Variables And Graphs#1.1.10#Addition#Ex1_1_10.R#Schaum'S_Outline_Series_-_Theory_And_Problems_Of_Statistics_by_Murray_R._Spiegel/CH1/EX1.1.10/Ex1_1_10.R#S##12642
