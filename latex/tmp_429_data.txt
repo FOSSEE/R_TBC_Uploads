@@ -1,0 +1,63 @@
+16# SOME MODERN DEVELOPMENTS#16.8# to solve an example of blums game#Ex16_8.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.8/Ex16_8.R#S##14360
+16# SOME MODERN DEVELOPMENTS#16.7# to find four square roots of a modulo n#Ex16_7.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.7/Ex16_7.R#S##14359
+16# SOME MODERN DEVELOPMENTS#16.6#Using a theorem to check if a number is prime#Ex16_6.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.6/Ex16_6.R#S##14358
+16# SOME MODERN DEVELOPMENTS#16.5# an example of the quadratic sieve algorithm#Ex16_5.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.5/Ex16_5.R#S##14356
+16# SOME MODERN DEVELOPMENTS#16.4#to factor a number using the continued fraction factorization method#Ex16_4.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.4/Ex16_4.R#S##14357
+16# SOME MODERN DEVELOPMENTS#16.3# to factor a number using the continued fraction factorization method#Ex16_3.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.3/Ex16_3.R#S##14355
+16# SOME MODERN DEVELOPMENTS#16.2#to  obtain a nontrivial divisor of a number#Ex16_2.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.2/Ex16_2.R#S##14354
+16# SOME MODERN DEVELOPMENTS#16.1# factorization of a number using Pollards method#Ex16_1.R#Elementary_Number_Theory_by_David_M._Burton/CH16/EX16.1/Ex16_1.R#S##14353
+15#CONTINUED FRACTIONS#15.9# to find a solution of an equation for the smallest positive integer#Ex15_9.R#Elementary_Number_Theory_by_David_M._Burton/CH15/EX15.9/Ex15_9.R#S##14352
+15#CONTINUED FRACTIONS#15.8# to solve an application of above theorem#Ex15_8.R#Elementary_Number_Theory_by_David_M._Burton/CH15/EX15.8/Ex15_8.R#S##14351
+15#CONTINUED FRACTIONS#15.7# an example of illustrating the corollary to sought a fraction#Ex15_7.R#Elementary_Number_Theory_by_David_M._Burton/CH15/EX15.7/Ex15_7.R#S##14350
+15#CONTINUED FRACTIONS#15.6#to find continued fraction expansion of a number#Ex15_6.R#Elementary_Number_Theory_by_David_M._Burton/CH15/EX15.6/Ex15_6.R#S##14349
+15#CONTINUED FRACTIONS#15.5#to find continued fraction expansion of a number#Ex15_5.R#Elementary_Number_Theory_by_David_M._Burton/CH15/EX15.5/Ex15_5.R#S##14348
+15#CONTINUED FRACTIONS#15.3#solve a linear Diophantine equation#Ex15_3.R#Elementary_Number_Theory_by_David_M._Burton/CH15/EX15.3/Ex15_3.R#S##14347
+13# REPRESENTATION OF INTEGERS AS SUMS OF SQUARES#13.3# to write an integer as sum of four squares#Ex13_3.R#Elementary_Number_Theory_by_David_M._Burton/CH13/EX13.3/Ex13_3.R#S##14346
+13# REPRESENTATION OF INTEGERS AS SUMS OF SQUARES#13.2#to prove Lemma 2#Ex13_2.R#Elementary_Number_Theory_by_David_M._Burton/CH13/EX13.2/Ex13_2.R#S##14344
+13# REPRESENTATION OF INTEGERS AS SUMS OF SQUARES#13.1#to represent a positive integer as sum of two squares#Ex13_1.R#Elementary_Number_Theory_by_David_M._Burton/CH13/EX13.1/Ex13_1.R#S##14345
+10# INTRODUCTION TO CRYPTOGRAPHY#10.9# to encrypt a message using ElGamal#Ex10_9.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.9/Ex10_9.R#S##14369
+10# INTRODUCTION TO CRYPTOGRAPHY#10.8# illustrate the selection of the public key#Ex10_8.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.8/Ex10_8.R#S##14367
+10# INTRODUCTION TO CRYPTOGRAPHY#10.7# to encrypt a message using knapsack#Ex10_7.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.7/Ex10_7.R#S##14368
+10# INTRODUCTION TO CRYPTOGRAPHY#10.6#A public key cryptosystem based on the knapsack problem#Ex10_6.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.6/Ex10_6.R#S##14366
+10# INTRODUCTION TO CRYPTOGRAPHY#10.5# to solve the superincreasing knapsack problem#Ex10_5.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.5/Ex10_5.R#S##14365
+10# INTRODUCTION TO CRYPTOGRAPHY#10.4#an illustration of the RSA public key algorithm#Ex10_4.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.4/Ex10_4.R#S##14364
+10# INTRODUCTION TO CRYPTOGRAPHY#10.3#example of cryptographic systems involving modular exponentiation#Ex10_3.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.3/Ex10_3.R#S##14363
+10# INTRODUCTION TO CRYPTOGRAPHY#10.2#To illustrate Hills cipher#Ex10_2.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.2/Ex10_2.R#S##14362
+10# INTRODUCTION TO CRYPTOGRAPHY#10.10#Using ElGamal cryposystem to authenticate a received message#Ex10_10.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.10/Ex10_10.R#S##14370
+10# INTRODUCTION TO CRYPTOGRAPHY#10.1# Example of Vigeneres method of crypography using autokey#Ex10_1.R#Elementary_Number_Theory_by_David_M._Burton/CH10/EX10.1/Ex10_1.R#S##14361
+9# THE QUADRATIC RECIPROCITY LAW#9.6#to find the solution of a quadratic congruence with a composite#Ex9_6.R#Elementary_Number_Theory_by_David_M._Burton/CH9/EX9.6/Ex9_6.R#S##14343
+9# THE QUADRATIC RECIPROCITY LAW#9.5# to prove a Legendre corollary#Ex9_5.R#Elementary_Number_Theory_by_David_M._Burton/CH9/EX9.5/Ex9_5.R#S##14342
+9# THE QUADRATIC RECIPROCITY LAW#9.4#to check if a congruence is solvable#Ex9_4.R#Elementary_Number_Theory_by_David_M._Burton/CH9/EX9.4/Ex9_4.R#S##14341
+9# THE QUADRATIC RECIPROCITY LAW#9.3# Using the Legendre symbol to display results#Ex9_3.R#Elementary_Number_Theory_by_David_M._Burton/CH9/EX9.3/Ex9_3.R#S##14339
+9# THE QUADRATIC RECIPROCITY LAW#9.2# check residues of a number#Ex9_2.R#Elementary_Number_Theory_by_David_M._Burton/CH9/EX9.2/Ex9_2.R#S##14340
+9# THE QUADRATIC RECIPROCITY LAW#9.1#to find quadratic residues and non residues#Ex9_1.R#Elementary_Number_Theory_by_David_M._Burton/CH9/EX9.1/Ex9_1.R#S##14338
+8# PRIMITIVE ROOTS AND INDICES#8.5#solve congruences#Ex8_5.R#Elementary_Number_Theory_by_David_M._Burton/CH8/EX8.5/Ex8_5.R#S##14337
+8# PRIMITIVE ROOTS AND INDICES#8.4#solve congruences using theory of indices#Ex8_4.R#Elementary_Number_Theory_by_David_M._Burton/CH8/EX8.4/Ex8_4.R#S##14335
+8# PRIMITIVE ROOTS AND INDICES#8.3#primitive roots for prime#Ex8_3.R#Elementary_Number_Theory_by_David_M._Burton/CH8/EX8.3/Ex8_3.R#S##14336
+8# PRIMITIVE ROOTS AND INDICES#8.1# to find the integers that also have order 12 modulo 13#Ex8_1.R#Elementary_Number_Theory_by_David_M._Burton/CH8/EX8.1/Ex8_1.R#S##14334
+7# EULERS GENERALIZATION OF FERMATS THEOREM#7.4#an example of theorem 7 7#Ex7_4.R#Elementary_Number_Theory_by_David_M._Burton/CH7/EX7.4/Ex7_4.R#S##14333
+7# EULERS GENERALIZATION OF FERMATS THEOREM#7.3#a numerical example of Gauss theorem#Ex7_3.R#Elementary_Number_Theory_by_David_M._Burton/CH7/EX7.3/Ex7_3.R#S##14332
+7# EULERS GENERALIZATION OF FERMATS THEOREM#7.2# to reduce large powers modulo n using Eulers theorem#Ex7_2.R#Elementary_Number_Theory_by_David_M._Burton/CH7/EX7.2/Ex7_2.R#S##14331
+7# EULERS GENERALIZATION OF FERMATS THEOREM#7.1#to calculate phi of a number#Ex7_1.R#Elementary_Number_Theory_by_David_M._Burton/CH7/EX7.1/Ex7_1.R#S##14330
+6# NUMBER THEORETIC FUNCTIONS#6.5# to calculate on what day of the week will January 14 2020 occur#Ex6_5.R#Elementary_Number_Theory_by_David_M._Burton/CH6/EX6.5/Ex6_5.R#S##14329
+6# NUMBER THEORETIC FUNCTIONS#6.4# to calculate the day of the week on which March 1 1990 fell#Ex6_4.R#Elementary_Number_Theory_by_David_M._Burton/CH6/EX6.4/Ex6_4.R#S##14328
+6# NUMBER THEORETIC FUNCTIONS#6.3# to clarify a Corollary#Ex6_3.R#Elementary_Number_Theory_by_David_M._Burton/CH6/EX6.3/Ex6_3.R#S##14327
+6# NUMBER THEORETIC FUNCTIONS#6.2#to find the number of zeros with which the decimal representation of 50 factorial terminates#Ex6_2.R#Elementary_Number_Theory_by_David_M._Burton/CH6/EX6.2/Ex6_2.R#S##14326
+6# NUMBER THEORETIC FUNCTIONS#6.1#to find the sum of positive divisors of n#Ex6_1.R#Elementary_Number_Theory_by_David_M._Burton/CH6/EX6.1/Ex6_1.R#S##14325
+5# FERMATS THEOREM#5.4#factorization method by Maurice Kraitchik#Ex5_4.R.R#Elementary_Number_Theory_by_David_M._Burton/CH5/EX5.4/Ex5_4.R.R#S##14310
+5# FERMATS THEOREM#5.3#factor the positive integer using the Euclidean Algorithm#Ex5_3.R#Elementary_Number_Theory_by_David_M._Burton/CH5/EX5.3/Ex5_3.R#S##14309
+5# FERMATS THEOREM#5.2#To illustrate the application of Fermats method#Ex5_2.R#Elementary_Number_Theory_by_David_M._Burton/CH5/EX5.2/Ex5_2.R#S##14308
+5# FERMATS THEOREM#5.1#concrete example of Wilsons theorem#Ex5_1.R#Elementary_Number_Theory_by_David_M._Burton/CH5/EX5.1/Ex5_1.R#S##14307
+4# THE THEORY OF CONGRUENCES#4.9#solving linear congruences using Chinese Remainder Theorem#Ex4_9.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.9/Ex4_9.R#S##14306
+4# THE THEORY OF CONGRUENCES#4.8#solve the linear congruence#Ex4_8.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.8/Ex4_8.R#S##14305
+4# THE THEORY OF CONGRUENCES#4.7#solving linear congurrences#Ex4_7.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.7/Ex4_7.R#S##14304
+4# THE THEORY OF CONGRUENCES#4.6#a well known test for divisibility by 11#Ex4_6.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.6/Ex4_6.R#S##14303
+4# THE THEORY OF CONGRUENCES#4.5#to illustrate binary exponential algorithm#Ex4_5.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.5/Ex4_5.R#S##14302
+4# THE THEORY OF CONGRUENCES#4.4#to illustrate With suitable precautions cancellation can be allowed#Ex4_4.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.4/Ex4_4.R#S##14301
+4# THE THEORY OF CONGRUENCES#4.3#use congruences in carrying out certain types of computations#Ex4_3.r#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.3/Ex4_3.r#S##14300
+4# THE THEORY OF CONGRUENCES#4.1#seful characterization of congruence modulo n in terms of remainders upon division by n#Ex4_1.R#Elementary_Number_Theory_by_David_M._Burton/CH4/EX4.1/Ex4_1.R#S##14299
+3# PRIMES AND THEIR DISTRIBUTION#3.1#for determining the canonical form of an integer#Ex3_1.R#Elementary_Number_Theory_by_David_M._Burton/CH3/EX3.1/Ex3_1.R#S##14298
+2# DIVISIBILITY THEORY IN THE INTEGERS#2.4#Applying the Euclidean Algorithm to the linear Diophantine equation#Ex2_4.R#Elementary_Number_Theory_by_David_M._Burton/CH2/EX2.4/Ex2_4.R#S##14297
+2# DIVISIBILITY THEORY IN THE INTEGERS#2.3#the Euclidean Algorithm#Ex2_3.R#Elementary_Number_Theory_by_David_M._Burton/CH2/EX2.3/Ex2_3.R#S##14296
+2# DIVISIBILITY THEORY IN THE INTEGERS#2.2#The greatest common divisor#Ex2_2.R#Elementary_Number_Theory_by_David_M._Burton/CH2/EX2.2/Ex2_2.R#S##14295
+1# PRELIMINARIES#1.1#Second Principle of Finite Induction#Ex1_1.R#Elementary_Number_Theory_by_David_M._Burton/CH1/EX1.1/Ex1_1.R#S##14294
