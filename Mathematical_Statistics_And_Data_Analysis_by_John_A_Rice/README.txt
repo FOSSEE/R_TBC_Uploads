@@ -3,7 +3,7 @@ About The Contributor
 Contributed By: Debatosh Chakraborty
 Course: Bsms (integrated 5 Year)
 Branch: Mathematics
-College/Institute/Organization: National Institute Of Technology Agartala
+College/Institute/Organization: National Institute Of Technology, Agartala
 
 About The Book
 
