@@ -1,0 +1,3 @@
+1# Foundations Sets Logic and Algorithm#1.1.3#set builder notation#Ex_1_1_3.R#Discrete_Mathematical_Structures__Theory_And_Applications_by_D_s_malik_And_M_k_sen/CH1/EX1.1.3/Ex_1_1_3.R#S##14489
+1# Foundations Sets Logic and Algorithm#1.1.2#set builder method#Ex_1_1_2.R#Discrete_Mathematical_Structures__Theory_And_Applications_by_D_s_malik_And_M_k_sen/CH1/EX1.1.2/Ex_1_1_2.R#S##14488
+1# Foundations Sets Logic and Algorithm#1.1.1#Roster method#Ex_1_1_1.R#Discrete_Mathematical_Structures__Theory_And_Applications_by_D_s_malik_And_M_k_sen/CH1/EX1.1.1/Ex_1_1_1.R#S##14490
