@@ -1,0 +1,25 @@
+1# Introduction#1.9#Scheduling speakers for meetings#Ex1_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.9/Ex1_9.R#S##14633
+1# Introduction#1.8#Drawing club officers#Ex1_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.8/Ex1_8.R#S##14632
+1# Introduction#1.7#Permutations of 2 letters#Ex1_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.7/Ex1_7.R#S##14631
+1# Introduction#1.6#Introducing basketball players#Ex1_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.6/Ex1_6.R#S##14629
+1# Introduction#1.5#Permutations of abc#Ex1_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.5/Ex1_5.R#S##14628
+1# Introduction#1.4#Answering true false test#Ex1_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.4/Ex1_4.R#S##14627
+1# Introduction#1.3#Choosing inspection parts#Ex1_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.3/Ex1_3.R#S##14626
+1# Introduction#1.25#Selecting units for inspection#Ex1_25.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.25/Ex1_25.R#S##14649
+1# Introduction#1.24#Selecting integrated circuit chips for assembly#Ex1_24.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.24/Ex1_24.R#S##14648
+1# Introduction#1.23#Finding the coefficient in the expansion#Ex1_23.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.23/Ex1_23.R#S##14647
+1# Introduction#1.22#multinom#Ex1_22.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.22/Ex1_22.R#S##14646
+1# Introduction#1.21#finding the combination#Ex1_21.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.21/Ex1_21.R#S##14645
+1# Introduction#1.20#finding combination of n#Ex1_20.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.20/Ex1_20.R#S##14644
+1# Introduction#1.2#Rolling two dice#Ex1_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.2/Ex1_2.R#S##14625
+1# Introduction#1.19#finding combination for n#Ex1_19.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.19/Ex1_19.R#S##14643
+1# Introduction#1.18#Assigning businessmen to hotel rooms#Ex1_18.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.18/Ex1_18.R#S##14642
+1# Introduction#1.17#Partitioning a set into subsets#Ex1_17.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.17/Ex1_17.R#S##14641
+1# Introduction#1.16#Forming committees of chemists and physicists#Ex1_16.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.16/Ex1_16.R#S##14640
+1# Introduction#1.15#Coin toss outcomes#Ex1_15.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.15/Ex1_15.R#S##14639
+1# Introduction#1.14#Selecting households for market research#Ex1_14.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.14/Ex1_14.R#S##14638
+1# Introduction#1.13#Hanging paintings on a museum wall#Ex1_13.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.13/Ex1_13.R#S##14637
+1# Introduction#1.12#Arranging novels on a shelf#Ex1_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.12/Ex1_12.R#S##14636
+1# Introduction#1.11#Permutations of the word book#Ex1_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.11/Ex1_11.R#S##14635
+1# Introduction#1.10#circular permutations#Ex1_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.10/Ex1_10.R#S##14634
+1# Introduction#1.1#Counting travel options#Ex1_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.1/Ex1_1.R#S##14624
