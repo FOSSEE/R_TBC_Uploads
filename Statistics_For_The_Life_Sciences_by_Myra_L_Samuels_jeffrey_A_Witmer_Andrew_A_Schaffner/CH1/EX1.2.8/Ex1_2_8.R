@@ -1,0 +1,13 @@
+# Page no 21
+adherence <- c(">= 80%", ">= 80%", "<80%", "<80%")
+treatment <- rep(c("Clofibrate", "Placebo"), each = 2)
+n <- c(708, 1813, 357, 882)
+mortality <- c(15.0, 15.1, 24.6, 28.2)
+data <- data.frame(Adherence = adherence, Treatment = treatment, n = n, Mortality = mortality)
+chi_square_result <- chisq.test(data[, c("n", "Mortality")])
+relative_risk <- (data$mortality[1] / data$n[1]) / (data$mortality[2] / data$n[2])
+print("Chi-square test for independence:")
+print(chi_square_result)
+cat("\n")
+print("Relative Risk:")
+print(relative_risk)

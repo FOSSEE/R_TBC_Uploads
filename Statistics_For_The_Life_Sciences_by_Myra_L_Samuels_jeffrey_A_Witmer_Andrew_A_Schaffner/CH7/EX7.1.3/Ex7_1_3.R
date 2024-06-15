@@ -1,0 +1,13 @@
+# page no 233
+control <- c(314, 320, 310, 340, 299, 268, 345, 271, 285)
+stressed <- c(283, 312, 291, 259, 216, 201, 267, 326, 241)
+mean_control <- mean(control)
+mean_stressed <- mean(stressed)
+sd_control <- sd(control)
+sd_stressed <- sd(stressed)
+n_control <- length(control)
+n_stressed <- length(stressed)
+se_control <- sd_control / sqrt(n_control)
+se_stressed <- sd_stressed / sqrt(n_stressed)
+se_difference <- sqrt(se_control^2 + se_stressed^2)
+print(paste("SE of (Control - Stressed):", round(se_difference, 2)))
