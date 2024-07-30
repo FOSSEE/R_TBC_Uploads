@@ -1,0 +1,349 @@
+12# Simulation#12.6.9#Estimating the Standard Deviation of a Statistic#Ex12_6_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.9/Ex12_6_9.R#S##15178
+12# Simulation#12.6.8#Correcting the Bias in the Coefficient of Variation#Ex12_6_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.8/Ex12_6_8.R#S##15177
+12# Simulation#12.6.7# Features of the Distribution of a Sample Correlation#Ex12_6_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.7/Ex12_6_7.R#S##15176
+12# Simulation#12.6.6# Percentile t Confidence Interval for a Median#Ex12_6_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.6/Ex12_6_6.R#S##15175
+12# Simulation#12.6.4#Confidence Interval for the Interquartile Range#Ex12_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.4/Ex12_6_4.R#S##15173
+12# Simulation#12.6.3# The MSE of the Sample Median#Ex12_6_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.3/Ex12_6_3.R#S##15172
+12# Simulation#12.6.10#Comparing Means When Variances Are Unequal#Ex12_6_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.6.10/Ex12_6_10.R#S##15179
+12# Simulation#12.5.8# Censored Arsenic Measurements#Ex12_5_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.5.8/Ex12_5_8.R#S##15171
+12# Simulation#12.5.7# Calories in Hot Dogs#Ex12_5_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.5.7/Ex12_5_7.R#S##15170
+12# Simulation#12.5.6# Bayesian Analysis of OneWay Layout with Unequal Variances#Ex12_5_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.5.6/Ex12_5_6.R#S##15169
+12# Simulation#12.5.5#Unemployment in the 1950s#Ex12_5_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.5.5/Ex12_5_5.R#S##15166
+12# Simulation#12.5.3# Nursing Homes in New Mexico II#Ex12_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.5.3/Ex12_5_3.R#S##15165
+12# Simulation#12.5.2# Nursing Homes in New Mexico I#Ex12_5_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.5.2/Ex12_5_2.R#S##15164
+12# Simulation#12.4.4# Illustration of Stratified Importance Sampling#Ex12_4_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.4.4/Ex12_4_4.R#S##15162
+12# Simulation#12.4.2# Calculating a Mean with No Closed Form Expression#Ex12_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.4.2/Ex12_4_2.R#S##15161
+12# Simulation#12.4.1# Choosing an Importance Function#Ex12_4_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.4.1/Ex12_4_1.R#S##15159
+12# Simulation#12.3.8# Comparing Copper Ores#Ex12_3_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.3.8/Ex12_3_8.R#S##15157
+12# Simulation#12.3.7# Bayesian Analysis of OneWay Layout#Ex12_3_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.3.7/Ex12_3_7.R#S##15156
+12# Simulation#12.3.13# Simulating a Binomial Random Variable Using the Alias Method#Ex12_3_13.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.3.13/Ex12_3_13.R#S##15158
+12# Simulation#12.2.14# A Service Queue with Impatient Customers#Ex12_2_14.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.2.14/Ex12_2_14.R#S##15155
+12# Simulation#12.2.12# The Median of a Complicated Distribution#Ex12_2_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.2.12/Ex12_2_12.R#S##15154
+12# Simulation#12.2.11#The MSE of the Sample Median#Ex12_2_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.2.11/Ex12_2_11.R#S##15153
+12# Simulation#12.1.4# Long Run of Heads#Ex12_1_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.1.4/Ex12_1_4.R#S##15152
+12# Simulation#12.1.3# Waiting for a Break#Ex12_1_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.1.3/Ex12_1_3.R#S##15151
+12# Simulation#12.1.2#A Normal Probability#Ex12_1_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.1.2/Ex12_1_2.R#S##15150
+12# Simulation#12.1.1#The Mean of a Distribution#Ex12_1_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH12/EX12.1.1/Ex12_1_1.R#S##15149
+11# Linear Statistical Models#11.8.5#Gasoline Consumption IV#Ex11_8_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.8.5/Ex11_8_5.R#S##15147
+11# Linear Statistical Models#11.8.4#Gasoline Consumption III#Ex11_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.8.4/Ex11_8_4.R#S##15146
+11# Linear Statistical Models#11.8.3#Gasoline Consumption II#Ex11_8_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.8.3/Ex11_8_3.R#S##15145
+11# Linear Statistical Models#11.8.2# Gasoline Consumption I#Ex11_8_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.8.2/Ex11_8_2.R#S##15144
+11# Linear Statistical Models#11.7.6# Testing for Differences among the Methods of Measurement#Ex11_7_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.7.6/Ex11_7_6.R#S##15143
+11# Linear Statistical Models#11.7.5# Testing for Differences among the Dairies#Ex11_7_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.7.5/Ex11_7_5.R#S##15142
+11# Linear Statistical Models#11.7.3#Radioactive Isotope in Milk II#Ex11_7_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.7.3/Ex11_7_3.R#S##15141
+11# Linear Statistical Models#11.7.2#Radioactive Isotope in Milk I#Ex11_7_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.7.2/Ex11_7_2.R#S##15140
+11# Linear Statistical Models#11.6.6# Calories in Hot Dogs III#Ex11_6_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.6.6/Ex11_6_6.R#S##15139
+11# Linear Statistical Models#11.6.5# Calories in Hot Dogs II#Ex11_6_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.6.5/Ex11_6_5.R#S##15138
+11# Linear Statistical Models#11.6.4# Calories in Hot Dogs I#Ex11_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.6.4/Ex11_6_4.R#S##15137
+11# Linear Statistical Models#11.5.9#Unemployment in the 1950s V#Ex11_5_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.9/Ex11_5_9.R#S##15135
+11# Linear Statistical Models#11.5.8#Unemployment in the 1950s IV#Ex11_5_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.8/Ex11_5_8.R#S##15134
+11# Linear Statistical Models#11.5.7#Predicting Dishwasher Shipments#Ex11_5_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.7/Ex11_5_7.R#S##15133
+11# Linear Statistical Models#11.5.6#Unemployment in the 1950s III#Ex11_5_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.6/Ex11_5_6.R#S##15132
+11# Linear Statistical Models#11.5.5# Dishwasher Shipments II#Ex11_5_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.5/Ex11_5_5.R#S##15131
+11# Linear Statistical Models#11.5.4# Dishwasher Shipments I#Ex11_5_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.4/Ex11_5_4.R#S##15130
+11# Linear Statistical Models#11.5.3#Unemployment in the 1950s II#Ex11_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.3/Ex11_5_3.R#S##15129
+11# Linear Statistical Models#11.5.10# Dishwasher Shipments III#Ex11_5_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.10/Ex11_5_10.R#S##15136
+11# Linear Statistical Models#11.5.1#Unemployment in the 1950s I#Ex11_5_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.5.1/Ex11_5_1.R#S##15128
+11# Linear Statistical Models#11.4.4#Gasoline Mileage IV#Ex11_4_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.4.4/Ex11_4_4.R#S##15127
+11# Linear Statistical Models#11.4.3#Pressure and the Boiling Point of Water VII#Ex11_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.4.3/Ex11_4_3.R#S##15126
+11# Linear Statistical Models#11.4.2#Pressure and the Boiling Point of Water VI#Ex11_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.4.2/Ex11_4_2.R#S##15125
+11# Linear Statistical Models#11.3.9#Pressure and the Boiling Point of Water V#Ex11_3_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.9/Ex11_3_9.R#S##15124
+11# Linear Statistical Models#11.3.7#Pressure and the Boiling Point of Water IV#Ex11_3_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.7/Ex11_3_7.R#S##15123
+11# Linear Statistical Models#11.3.6#Pressure and the Boiling Point of Water III#Ex11_3_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.6/Ex11_3_6.R#S##15122
+11# Linear Statistical Models#11.3.5# Gasoline Mileage III#Ex11_3_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.5/Ex11_3_5.R#S##15121
+11# Linear Statistical Models#11.3.4# Gasoline Mileage II#Ex11_3_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.4/Ex11_3_4.R#S##15120
+11# Linear Statistical Models#11.3.3#Pressure and the Boiling Point of Water II#Ex11_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.3/Ex11_3_3.R#S##15119
+11# Linear Statistical Models#11.3.2# Gasoline Mileage I#Ex11_3_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.3.2/Ex11_3_2.R#S##15118
+11# Linear Statistical Models#11.2.5#Predicting Pressure from the Boiling Point of Water#Ex11_2_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.2.5/Ex11_2_5.R#S##15117
+11# Linear Statistical Models#11.2.1#Pressure and the Boiling Point of Water I#Ex11_2_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.2.1/Ex11_2_1.R#S##15116
+11# Linear Statistical Models#11.1.5#Fitting a Linear Function of Two Variables#Ex11_1_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.1.5/Ex11_1_5.R#S##15115
+11# Linear Statistical Models#11.1.3# Fitting a Parabola#Ex11_1_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.1.3/Ex11_1_3.R#S##15114
+11# Linear Statistical Models#11.1.2# Blood Pressure II#Ex11_1_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.1.2/Ex11_1_2.R#S##15113
+11# Linear Statistical Models#11.1.1# Blood Pressure I#Ex11_1_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH11/EX11.1.1/Ex11_1_1.R#S##15112
+10#Categorical Data and Nonparametric Methods#10.8.5#Calcium Supplements and Blood Pressure II#Ex10_8_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.8.5/Ex10_8_5.R#S##15111
+10#Categorical Data and Nonparametric Methods#10.8.4#Comparing Copper Ores#Ex10_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.8.4/Ex10_8_4.R#S##15110
+10#Categorical Data and Nonparametric Methods#10.8.2# Calorie Counts in Hotdogs#Ex10_8_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.8.2/Ex10_8_2.R#S##15109
+10#Categorical Data and Nonparametric Methods#10.7.3# Rain from Seeded Clouds#Ex10_7_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.7.3/Ex10_7_3.R#S##15108
+10#Categorical Data and Nonparametric Methods#10.6.4# Calcium Supplements and Blood Pressure I#Ex10_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.6.4/Ex10_6_4.R#S##15107
+10#Categorical Data and Nonparametric Methods#10.6.2#Testing Whether a Sample Comes from a Standard Normal Distribution#Ex10_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.6.2/Ex10_6_2.R#S##15106
+10#Categorical Data and Nonparametric Methods#10.4.3# A Clinical Trial#Ex10_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.4.3/Ex10_4_3.R#S##15105
+10#Categorical Data and Nonparametric Methods#10.3.3# Montana Outlook Poll II#Ex10_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.3.3/Ex10_3_3.R#S##15104
+10#Categorical Data and Nonparametric Methods#10.3.2# College Survey#Ex10_3_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.3.2/Ex10_3_2.R#S##15103
+10#Categorical Data and Nonparametric Methods#10.2.6# Prussian Army Deaths#Ex10_2_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.2.6/Ex10_2_6.R#S##15102
+10#Categorical Data and Nonparametric Methods#10.2.5# Failure Times of Ball Bearings#Ex10_2_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.2.5/Ex10_2_5.R#S##15101
+10#Categorical Data and Nonparametric Methods#10.1.7# Blood Types II#Ex10_1_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.1.7/Ex10_1_7.R#S##15100
+10#Categorical Data and Nonparametric Methods#10.1.6# Failure Times of Ball Bearings#Ex10_1_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.1.6/Ex10_1_6.R#S##15099
+10#Categorical Data and Nonparametric Methods#10.1.5#Testing Hypotheses about a Proportion#Ex10_1_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.1.5/Ex10_1_5.R#S##15098
+10#Categorical Data and Nonparametric Methods#10.1.4#Montana Outlook Poll I#Ex10_1_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.1.4/Ex10_1_4.R#S##15097
+10#Categorical Data and Nonparametric Methods#10.1.3#Blood Types I#Ex10_1_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH10/EX10.1.3/Ex10_1_3.R#S##15096
+9# Testing Hypotheses#9.8.7#Roman Pottery in Britain IV#Ex9_8_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.8.7/Ex9_8_7.R#S##15095
+9# Testing Hypotheses#9.8.6#Roman Pottery in Britain III#Ex9_8_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.8.6/Ex9_8_6.R#S##15094
+9# Testing Hypotheses#9.8.5# Pesticide Residue on Celery#Ex9_8_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.8.5/Ex9_8_5.R#S##15093
+9# Testing Hypotheses#9.8.4#Calorie Counts on Food Labels#Ex9_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.8.4/Ex9_8_4.R#S##15092
+9# Testing Hypotheses#9.7.4#Rain from Seeded Clouds II#Ex9_7_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.7.4/Ex9_7_4.R#S##15091
+9# Testing Hypotheses#9.7.3#F Test#Ex9_7_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.7.3/Ex9_7_3.R#S##15090
+9# Testing Hypotheses#9.7.2#Quantile of an F Distribution#Ex9_7_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.7.2/Ex9_7_2.R#S##15089
+9# Testing Hypotheses#9.6.7# Comparing Copper Ores III#Ex9_6_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.6.7/Ex9_6_7.R#S##15088
+9# Testing Hypotheses#9.6.6# Comparing Copper Ores II#Ex9_6_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.6.6/Ex9_6_6.R#S##15087
+9# Testing Hypotheses#9.6.5# Comparing Copper Ores I#Ex9_6_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.6.5/Ex9_6_5.R#S##15086
+9# Testing Hypotheses#9.6.4# Roman Pottery in Britain II#Ex9_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.6.4/Ex9_6_4.R#S##15085
+9# Testing Hypotheses#9.6.3# Roman Pottery in Britain I#Ex9_6_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.6.3/Ex9_6_3.R#S##15084
+9# Testing Hypotheses#9.6.2# Rain from Seeded Clouds I#Ex9_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.6.2/Ex9_6_2.R#S##15083
+9# Testing Hypotheses#9.5.9# Egyptian Skulls II#Ex9_5_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.9/Ex9_5_9.R#S##15080
+9# Testing Hypotheses#9.5.7# Crash Test Dummies#Ex9_5_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.7/Ex9_5_7.R#S##15079
+9# Testing Hypotheses#9.5.6#Lengths of Fibers III#Ex9_5_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.6/Ex9_5_6.R#S##15078
+9# Testing Hypotheses#9.5.5#Lengths of Fibers II#Ex9_5_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.5/Ex9_5_5.R#S##15077
+9# Testing Hypotheses#9.5.4#Lengths of Fibers I#Ex9_5_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.4/Ex9_5_4.R#S##15076
+9# Testing Hypotheses#9.5.3# Nursing Homes in New Mexico#Ex9_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.3/Ex9_5_3.R#S##15075
+9# Testing Hypotheses#9.5.11#Lengths of Fibers V#Ex9_5_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.11/Ex9_5_11.R#S##15082
+9# Testing Hypotheses#9.5.10#Lengths of Fibers IV#Ex9_5_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.5.10/Ex9_5_10.R#S##15081
+9# Testing Hypotheses#9.4.5# Testing an Interval Null Hypothesis#Ex9_4_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.4.5/Ex9_4_5.R#S##15074
+9# Testing Hypotheses#9.4.4#Service Times in a Queue VI#Ex9_4_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.4.4/Ex9_4_4.R#S##15219
+9# Testing Hypotheses#9.4.2# Egyptian Skulls I#Ex9_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.4.2/Ex9_4_2.R#S##15072
+9# Testing Hypotheses#9.3.7#Testing Hypotheses about the Proportion of Defective Items#Ex9_3_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.3.7/Ex9_3_7.R#S##15071
+9# Testing Hypotheses#9.3.6#Service Times in a Queue V#Ex9_3_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.3.6/Ex9_3_6.R#S##15070
+9# Testing Hypotheses#9.2.6# Sampling from a Bernoulli Distribution#Ex9_2_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.2.6/Ex9_2_6.R#S##15069
+9# Testing Hypotheses#9.2.5# Random Sample from a Normal Distribution#Ex9_2_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.2.5/Ex9_2_5.R#S##15068
+9# Testing Hypotheses#9.2.4#Service Times in a Queue IV#Ex9_2_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.2.4/Ex9_2_4.R#S##15067
+9# Testing Hypotheses#9.2.3#Service Times in a Queue III#Ex9_2_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.2.3/Ex9_2_3.R#S##15066
+9# Testing Hypotheses#9.2.2#Service Times in a Queue II#Ex9_2_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.2.2/Ex9_2_2.R#S##15065
+9# Testing Hypotheses#9.2.1#Service Times in a Queue I#Ex9_2_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.2.1/Ex9_2_1.R#S##15064
+9# Testing Hypotheses#9.1.9# Testing Hypotheses about a Bernoulli Parameter I#Ex9_1_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.9/Ex9_1_9.R#S##15057
+9# Testing Hypotheses#9.1.7#Testing Hypotheses about a Uniform Distribution#Ex9_1_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.7/Ex9_1_7.R#S##15056
+9# Testing Hypotheses#9.1.5# Testing Hypotheses about the Mean of a Normal Distribution with Known Variance I#Ex9_1_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.5/Ex9_1_5.R#S##15055
+9# Testing Hypotheses#9.1.19#Likelihood Ratio Test of Two Sided Hypotheses about a Bernoulli Parameter II#Ex9_1_19.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.19/Ex9_1_19.R#S##15063
+9# Testing Hypotheses#9.1.18#Likelihood Ratio Test of Two Sided Hypotheses about a Bernoulli Parameter I#Ex9_1_18.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.18/Ex9_1_18.R#S##15062
+9# Testing Hypotheses#9.1.16#One Sided Confidence Interval for a Bernoulli Parameter#Ex9_1_16.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.16/Ex9_1_16.R#S##15061
+9# Testing Hypotheses#9.1.12# Testing Hypotheses about a Bernoulli Parameter II#Ex9_1_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.12/Ex9_1_12.R#S##15060
+9# Testing Hypotheses#9.1.11# Testing Hypotheses about the Mean of a Normal Distribution with Known Variance III#Ex9_1_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.11/Ex9_1_11.R#S##15059
+9# Testing Hypotheses#9.1.10# Testing Hypotheses about the Mean of a Normal Distribution with Known Variance II#Ex9_1_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH9/EX9.1.10/Ex9_1_10.R#S##15058
+8#Sampling Distributions of Estimators#8.8.12#The Posterior Distribution of the Standard Deviation#Ex8_8_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.8.12/Ex8_8_12.R#S##15054
+8#Sampling Distributions of Estimators#8.7.3#Lifetimes of Electronic Components III#Ex8_7_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.7.3/Ex8_7_3.R#S##15053
+8#Sampling Distributions of Estimators#8.6.4# An Improper Prior for Seeded Cloud Rainfall#Ex8_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.6.4/Ex8_6_4.R#S##15052
+8#Sampling Distributions of Estimators#8.6.3#Nursing Homes in New Mexico#Ex8_6_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.6.3/Ex8_6_3.R#S##15051
+8#Sampling Distributions of Estimators#8.6.2#Acid Concentration in Cheese III#Ex8_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.6.2/Ex8_6_2.R#S##15050
+8#Sampling Distributions of Estimators#8.5.7# Lifetimes of Electronic Components II#Ex8_5_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.7/Ex8_5_7.R#S##15046
+8#Sampling Distributions of Estimators#8.5.6# Rain from Seeded Clouds V#Ex8_5_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.6/Ex8_5_6.R#S##15047
+8#Sampling Distributions of Estimators#8.5.4#Acid Concentration in Cheese II#Ex8_5_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.4/Ex8_5_4.R#S##15044
+8#Sampling Distributions of Estimators#8.5.3# Rain from Seeded Clouds IV#Ex8_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.3/Ex8_5_3.R#S##15043
+8#Sampling Distributions of Estimators#8.5.2# Rain from Seeded Clouds III#Ex8_5_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.2/Ex8_5_2.R#S##15042
+8#Sampling Distributions of Estimators#8.5.11# Uniforms on an Interval of Length One#Ex8_5_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.11/Ex8_5_11.R#S##15049
+8#Sampling Distributions of Estimators#8.5.10#Approximate Confidence Interval for Poisson Mean#Ex8_5_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.5.10/Ex8_5_10.R#S##15048
+8#Sampling Distributions of Estimators#8.4.3# Rain from Seeded Clouds II#Ex8_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.4.3/Ex8_4_3.R#S##15041
+8#Sampling Distributions of Estimators#8.3.2#Rain from Seeded Clouds I#Ex8_3_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.3.2/Ex8_3_2.R#S##15040
+8#Sampling Distributions of Estimators#8.2.3#Acid Concentration in Cheese I#Ex8_2_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.2.3/Ex8_2_3.R#S##15039
+8#Sampling Distributions of Estimators#8.1.6# A Clinical Trial#Ex8_1_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.1.6/Ex8_1_6.R#S##15038
+8#Sampling Distributions of Estimators#8.1.5# Lifetimes of Electronic Components I#Ex8_1_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH8/EX8.1.5/Ex8_1_5.R#S##15014
+7# Estimation#7.6.6# Sampling from a Gamma Distribution#Ex7_6_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.6/Ex7_6_6.R#S##15007
+7# Estimation#7.6.2# Lifetimes of Electronic Components IV#Ex7_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.2/Ex7_6_2.R#S##15006
+7# Estimation#7.6.16#Mixture of Normal Distributions#Ex7_6_16.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.16/Ex7_6_16.R#S##15012
+7# Estimation#7.6.15# Heights and Weights#Ex7_6_15.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.15/Ex7_6_15.R#S##15011
+7# Estimation#7.6.13#Lifetimes of Electronic Components V#Ex7_6_13.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.13/Ex7_6_13.R#S##15010
+7# Estimation#7.6.12# Prussian Army Deaths#Ex7_6_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.12/Ex7_6_12.R#S##15009
+7# Estimation#7.6.10# Sampling from a Uniform Distribution#Ex7_6_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.6.10/Ex7_6_10.R#S##15008
+7# Estimation#7.5.3# Test for a Disease#Ex7_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.5.3/Ex7_5_3.R#S##15005
+7# Estimation#7.5.2# Lifetimes of Electronic Components III#Ex7_5_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.5.2/Ex7_5_2.R#S##15004
+7# Estimation#7.4.8# Lifetimes of Electronic Components II#Ex7_4_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.4.8/Ex7_4_8.R#S##15003
+7# Estimation#7.4.5#Estimating the Parameter of a Bernoulli Distribution#Ex7_4_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.4.5/Ex7_4_5.R#S##15002
+7# Estimation#7.3.8#Automobile Emissions#Ex7_3_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.3.8/Ex7_3_8.R#S##15013
+7# Estimation#7.3.3# Glove Use by Nurses#Ex7_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.3.3/Ex7_3_3.R#S##14999
+7# Estimation#7.3.12# Lifetimes of Electronic Components I#Ex7_3_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.3.12/Ex7_3_12.R#S##15001
+7# Estimation#7.3.10# Calorie Counts on Food Labels#Ex7_3_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.3.10/Ex7_3_10.R#S##15000
+7# Estimation#7.2.8# Lifetimes of Fluorescent Lamps II#Ex7_2_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.2.8/Ex7_2_8.R#S##14998
+7# Estimation#7.2.6# Lifetimes of Fluorescent Lamps I#Ex7_2_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH7/EX7.2.6/Ex7_2_6.R#S##14996
+6# Large Random Samples#6.4.4#Coin Tossing#Ex6_4_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.4.4/Ex6_4_4.R#S##14995
+6# Large Random Samples#6.4.3# Examination Questions II#Ex6_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.4.3/Ex6_4_3.R#S##14994
+6# Large Random Samples#6.4.2#A Large Sample III#Ex6_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.4.2/Ex6_4_2.R#S##14993
+6# Large Random Samples#6.4.1#A Large Sample II#Ex6_4_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.4.1/Ex6_4_1.R#S##14992
+6# Large Random Samples#6.3.9# Examination Questions I#Ex6_3_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.3.9/Ex6_3_9.R#S##14991
+6# Large Random Samples#6.3.5# Determining a Simulation Size#Ex6_3_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.3.5/Ex6_3_5.R#S##14990
+6# Large Random Samples#6.3.3# Sampling from a Uniform Distribution#Ex6_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.3.3/Ex6_3_3.R#S##14989
+6# Large Random Samples#6.3.2#Tossing a Coin#Ex6_3_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.3.2/Ex6_3_2.R#S##14988
+6# Large Random Samples#6.3.1#A Large Sample I#Ex6_3_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.3.1/Ex6_3_1.R#S##14987
+6# Large Random Samples#6.2.6#Binomial Random Variable#Ex6_2_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.2.6/Ex6_2_6.R#S##14986
+6# Large Random Samples#6.2.5#Rate of Service II#Ex6_2_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.2.5/Ex6_2_5.R#S##14985
+6# Large Random Samples#6.2.4#Rate of Service I#Ex6_2_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.2.4/Ex6_2_4.R#S##14984
+6# Large Random Samples#6.2.3#Tossing a Coin#Ex6_2_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.2.3/Ex6_2_3.R#S##14983
+6# Large Random Samples#6.2.2# A Simulation#Ex6_2_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.2.2/Ex6_2_2.R#S##14982
+6# Large Random Samples#6.2.1# Required Number of Observations#Ex6_2_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.2.1/Ex6_2_1.R#S##14981
+6# Large Random Samples#6.1.1# Proportion of Heads#Ex6_1_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH6/EX6.1.1/Ex6_1_1.R#S##14980
+5#Special Distributions#5.9.3# Blood Types#Ex5_9_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.9.3/Ex5_9_3.R#S##14978
+5#Special Distributions#5.9.2#Attendance at a Baseball Game#Ex5_9_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.9.2/Ex5_9_2.R#S##14977
+5#Special Distributions#5.8.5# A Clinical Trial#Ex5_8_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.8.5/Ex5_8_5.R#S##14976
+5#Special Distributions#5.8.4# Castaneda v Partida#Ex5_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.8.4/Ex5_8_4.R#S##14975
+5#Special Distributions#5.7.2#Mean and Variance of Lifetime of a Light Bulb#Ex5_7_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.7.2/Ex5_7_2.R#S##14974
+5#Special Distributions#5.6.9#Failure Times of Ball Bearings#Ex5_6_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.9/Ex5_6_9.R#S##14972
+5#Special Distributions#5.6.8# Interval for Mean#Ex5_6_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.8/Ex5_6_8.R#S##14971
+5#Special Distributions#5.6.7# Determining a Sample Size#Ex5_6_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.7/Ex5_6_7.R#S##14970
+5#Special Distributions#5.6.6# Heights of Men and Women#Ex5_6_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.6/Ex5_6_6.R#S##14969
+5#Special Distributions#5.6.5# Quantiles of Normal Distributions#Ex5_6_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.5/Ex5_6_5.R#S##14968
+5#Special Distributions#5.6.4#Probabilities for a Normal Distribution#Ex5_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.4/Ex5_6_4.R#S##14967
+5#Special Distributions#5.6.10#Stock and Option Prices#Ex5_6_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.6.10/Ex5_6_10.R#S##14973
+5#Special Distributions#5.5.4#Triples in the Lottery II#Ex5_5_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.5.4/Ex5_5_4.R#S##14966
+5#Special Distributions#5.5.3#Triples in the Lottery I#Ex5_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.5.3/Ex5_5_3.R#S##14965
+5#Special Distributions#5.4.7# Cryptosporidium in Drinking Water#Ex5_4_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.4.7/Ex5_4_7.R#S##14964
+5#Special Distributions#5.4.6# Radioactive Particles#Ex5_4_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.4.6/Ex5_4_6.R#S##14963
+5#Special Distributions#5.4.4#Approximating a Probability#Ex5_4_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.4.4/Ex5_4_4.R#S##14962
+5#Special Distributions#5.4.3#Customer Arrivals II#Ex5_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.4.3/Ex5_4_3.R#S##14961
+5#Special Distributions#5.4.2#Customer Arrivals I#Ex5_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.4.2/Ex5_4_2.R#S##14960
+5#Special Distributions#5.2.7# Group Testing#Ex5_2_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.2.7/Ex5_2_7.R#S##14959
+5#Special Distributions#5.10.6# Heights of Husbands and Wives#Ex5_10_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH5/EX5.10.6/Ex5_10_6.R#S##14979
+4#Expectation#4.8.9# Bounding a Random Variable#Ex4_8_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.9/Ex4_8_9.R#S##14957
+4#Expectation#4.8.7# Square Root Utility Function#Ex4_8_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.7/Ex4_8_7.R#S##14956
+4#Expectation#4.8.6#Quadratic Utility Function#Ex4_8_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.6/Ex4_8_6.R#S##14955
+4#Expectation#4.8.5# Logarithmic Utility Function#Ex4_8_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.5/Ex4_8_5.R#S##14954
+4#Expectation#4.8.4# Cubic Utility Function#Ex4_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.4/Ex4_8_4.R#S##14953
+4#Expectation#4.8.3#Linear Utility Function#Ex4_8_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.3/Ex4_8_3.R#S##14952
+4#Expectation#4.8.2# Choice of Gambles II#Ex4_8_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.2/Ex4_8_2.R#S##14951
+4#Expectation#4.8.10#Investment II#Ex4_8_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.10/Ex4_8_10.R#S##14958
+4#Expectation#4.8.1# Choice of Gambles I#Ex4_8_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.8.1/Ex4_8_1.R#S##14950
+4#Expectation#4.7.8# A Clinical Trial#Ex4_7_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.7.8/Ex4_7_8.R#S##14949
+4#Expectation#4.7.6#Points from Uniform Distributions#Ex4_7_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.7.6/Ex4_7_6.R#S##14948
+4#Expectation#4.7.4# Household Survey II#Ex4_7_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.7.4/Ex4_7_4.R#S##14947
+4#Expectation#4.7.2# Household Survey I#Ex4_7_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.7.2/Ex4_7_2.R#S##14946
+4#Expectation#4.6.5#Uniform Distribution Inside a Circle#Ex4_6_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.6.5/Ex4_6_5.R#S##14945
+4#Expectation#4.6.4#Uncorrelated Random Variables#Ex4_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.6.4/Ex4_6_4.R#S##14944
+4#Expectation#4.6.3# Test Scores II#Ex4_6_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.6.3/Ex4_6_3.R#S##14943
+4#Expectation#4.6.2# Test Scores I#Ex4_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.6.2/Ex4_6_2.R#S##14942
+4#Expectation#4.5.9#Discrete Uniform Random Variable#Ex4_5_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.5.9/Ex4_5_9.R#S##14941
+4#Expectation#4.5.8#Last Lottery Number II#Ex4_5_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.5.8/Ex4_5_8.R#S##14940
+4#Expectation#4.5.7#Last Lottery Number I#Ex4_5_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.5.7/Ex4_5_7.R#S##14939
+4#Expectation#4.5.3#Median of a Continuous Distribution#Ex4_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.5.3/Ex4_5_3.R#S##14938
+4#Expectation#4.5.2# Median of a Discrete Distribution II#Ex4_5_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.5.2/Ex4_5_2.R#S##14937
+4#Expectation#4.5.1# Median of a Discrete Distribution I#Ex4_5_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.5.1/Ex4_5_1.R#S##14936
+4#Expectation#4.4.3#Moment Generating Function#Ex4_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.4.3/Ex4_4_3.R#S##14935
+4#Expectation#4.4.2# Skewness of Binomial Distributions#Ex4_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.4.2/Ex4_4_2.R#S##14934
+4#Expectation#4.3.9#The Cauchy Distribution II#Ex4_3_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.9/Ex4_3_9.R#S##14933
+4#Expectation#4.3.7# Investment Portfolio II#Ex4_3_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.7/Ex4_3_7.R#S##14932
+4#Expectation#4.3.6#Variance and Standard Deviation of a Linear Function#Ex4_3_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.6/Ex4_3_6.R#S##14931
+4#Expectation#4.3.5# Modification of a Bernoulli Distribution#Ex4_3_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.5/Ex4_3_5.R#S##14930
+4#Expectation#4.3.4# Variance of a Discrete Distribution#Ex4_3_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.4/Ex4_3_4.R#S##14929
+4#Expectation#4.3.3# Variance and Standard Deviation of a Discrete Distribution#Ex4_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.3/Ex4_3_3.R#S##14928
+4#Expectation#4.3.2#Stock Price Changes II#Ex4_3_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.2/Ex4_3_2.R#S##14927
+4#Expectation#4.3.1#Stock Price Changes I#Ex4_3_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.3.1/Ex4_3_1.R#S##14926
+4#Expectation#4.2.8# Repeated Filtering#Ex4_2_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.8/Ex4_2_8.R#S##14924
+4#Expectation#4.2.7#Expectation of a Combination of Random Variables#Ex4_2_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.7/Ex4_2_7.R#S##14923
+4#Expectation#4.2.6# Expected Number of Matches#Ex4_2_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.6/Ex4_2_6.R#S##14922
+4#Expectation#4.2.3#Investment Portfolio I#Ex4_2_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.3/Ex4_2_3.R#S##14921
+4#Expectation#4.2.2#Investment I#Ex4_2_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.2/Ex4_2_2.R#S##14920
+4#Expectation#4.2.10# Expected Waiting Time#Ex4_2_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.10/Ex4_2_10.R#S##14925
+4#Expectation#4.2.1#Expectation of a Linear Function#Ex4_2_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.2.1/Ex4_2_1.R#S##14919
+4#Expectation#4.1.9#The Cauchy Distribution I#Ex4_1_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.9/Ex4_1_9.R#S##14913
+4#Expectation#4.1.7#Failure after Warranty#Ex4_1_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.7/Ex4_1_7.R#S##14912
+4#Expectation#4.1.6#Expected Failure Time#Ex4_1_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.6/Ex4_1_6.R#S##14911
+4#Expectation#4.1.2#Stock Price Change#Ex4_1_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.2/Ex4_1_2.R#S##14910
+4#Expectation#4.1.16#Expectation of a Function of Two Variables#Ex4_1_16.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.16/Ex4_1_16.R#S##14918
+4#Expectation#4.1.14#Option Pricing#Ex4_1_14.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.14/Ex4_1_14.R#S##14917
+4#Expectation#4.1.13# Expectation of square root of X#Ex4_1_13.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.13/Ex4_1_13.R#S##14916
+4#Expectation#4.1.12# Failure Rate and Time to Failure II#Ex4_1_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.12/Ex4_1_12.R#S##14915
+4#Expectation#4.1.11# Failure Rate and Time to Failure I#Ex4_1_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH4/EX4.1.11/Ex4_1_11.R#S##14914
+3#Random Variables and Distributions#3.9.6# Maximum and Minimum of a Random Sample#Ex3_9_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.9.6/Ex3_9_6.R#S##14897
+3#Random Variables and Distributions#3.9.5# An Investment Portfolio#Ex3_9_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.9.5/Ex3_9_5.R#S##14896
+3#Random Variables and Distributions#3.9.2# Bull Market#Ex3_9_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.9.2/Ex3_9_2.R#S##14895
+3#Random Variables and Distributions#3.8.6# Generating Independent Values from a Specified PDF#Ex3_8_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.8.6/Ex3_8_6.R#S##14894
+3#Random Variables and Distributions#3.8.4#PDF of square of Uniform Distribution#Ex3_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.8.4/Ex3_8_4.R#S##14893
+3#Random Variables and Distributions#3.8.2# Distance from the Middle II#Ex3_8_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.8.2/Ex3_8_2.R#S##14892
+3#Random Variables and Distributions#3.8.1# Distance from the Middle I#Ex3_8_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.8.1/Ex3_8_1.R#S##14891
+3#Random Variables and Distributions#3.7.9#Service Times in a Queue I#Ex3_7_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.9/Ex3_7_9.R#S##14885
+3#Random Variables and Distributions#3.7.8# A Clinical Trial II#Ex3_7_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.8/Ex3_7_8.R#S##14884
+3#Random Variables and Distributions#3.7.7#Arrivals at a Queue#Ex3_7_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.7/Ex3_7_7.R#S##14883
+3#Random Variables and Distributions#3.7.20#Rate of Service II#Ex3_7_20.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.20/Ex3_7_20.R#S##14890
+3#Random Variables and Distributions#3.7.19#Rate of Service I#Ex3_7_19.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.19/Ex3_7_19.R#S##14889
+3#Random Variables and Distributions#3.7.16# Service Times in a Queue III#Ex3_7_16.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.16/Ex3_7_16.R#S##14888
+3#Random Variables and Distributions#3.7.15#Marginal Bivariate PDF#Ex3_7_15.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.15/Ex3_7_15.R#S##14887
+3#Random Variables and Distributions#3.7.14#Service Times in a Queue II#Ex3_7_14.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.7.14/Ex3_7_14.R#S##14886
+3#Random Variables and Distributions#3.6.9#Defective Parts#Ex3_6_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.6.9/Ex3_6_9.R#S##14881
+3#Random Variables and Distributions#3.6.6#Conditional PDF from a Joint PDF#Ex3_6_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.6.6/Ex3_6_6.R#S##14880
+3#Random Variables and Distributions#3.6.5#Processing Times#Ex3_6_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.6.5/Ex3_6_5.R#S##14879
+3#Random Variables and Distributions#3.6.2#Conditional PF from a Joint PF#Ex3_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.6.2/Ex3_6_2.R#S##14878
+3#Random Variables and Distributions#3.6.10# Uniform Distributions#Ex3_6_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.6.10/Ex3_6_10.R#S##14882
+3#Random Variables and Distributions#3.6.1# Auto Insurance#Ex3_6_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.6.1/Ex3_6_1.R#S##14877
+3#Random Variables and Distributions#3.5.9#Probability involving Independent Random Variable#Ex3_5_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.5.9/Ex3_5_9.R#S##14875
+3#Random Variables and Distributions#3.5.8#Independency of Random Variable#Ex3_5_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.5.8/Ex3_5_8.R#S##14874
+3#Random Variables and Distributions#3.5.7# Games of Chance#Ex3_5_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.5.7/Ex3_5_7.R#S##14873
+3#Random Variables and Distributions#3.5.4#Marginal PDF from a Joint PDF#Ex3_5_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.5.4/Ex3_5_4.R#S##14872
+3#Random Variables and Distributions#3.5.2#Marginal PF#Ex3_5_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.5.2/Ex3_5_2.R#S##14871
+3#Random Variables and Distributions#3.5.11#Factorization of a Joint PDF#Ex3_5_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.5.11/Ex3_5_11.R#S##14876
+3#Random Variables and Distributions#3.4.9#Joint PDF by Geometric Methods#Ex3_4_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.4.9/Ex3_4_9.R#S##14868
+3#Random Variables and Distributions#3.4.8#Probability from a Joint PDF#Ex3_4_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.4.8/Ex3_4_8.R#S##14867
+3#Random Variables and Distributions#3.4.7#Normalizing Constant#Ex3_4_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.4.7/Ex3_4_7.R#S##14866
+3#Random Variables and Distributions#3.4.3#Discrete Joint Distribution#Ex3_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.4.3/Ex3_4_3.R#S##14865
+3#Random Variables and Distributions#3.4.12# A Clinical Trial I#Ex3_4_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.4.12/Ex3_4_12.R#S##14870
+3#Random Variables and Distributions#3.4.11#Joint PDF#Ex3_4_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.4.11/Ex3_4_11.R#S##14869
+3#Random Variables and Distributions#3.3.9#Quantiles of a Binomial Distribution#Ex3_3_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.3.9/Ex3_3_9.R#S##14863
+3#Random Variables and Distributions#3.3.3#Voltage II#Ex3_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.3.3/Ex3_3_3.R#S##14862
+3#Random Variables and Distributions#3.3.10# Uniform Distribution on Integers#Ex3_3_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.3.10/Ex3_3_10.R#S##14864
+3#Random Variables and Distributions#3.3.1#Voltage I#Ex3_3_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.3.1/Ex3_3_1.R#S##14861
+3#Random Variables and Distributions#3.2.7#Truncated Voltage#Ex3_2_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.2.7/Ex3_2_7.R#S##14860
+3#Random Variables and Distributions#3.2.5#Unbounded Random Variables#Ex3_2_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.2.5/Ex3_2_5.R#S##14859
+3#Random Variables and Distributions#3.2.4#Probabilities from a PDF#Ex3_2_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.2.4/Ex3_2_4.R#S##14858
+3#Random Variables and Distributions#3.2.3#Incompletely Specified PDF#Ex3_2_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.2.3/Ex3_2_3.R#S##14857
+3#Random Variables and Distributions#3.10.9# Plant Breeding Experiment II#Ex3_10_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.9/Ex3_10_9.R#S##14904
+3#Random Variables and Distributions#3.10.8#Number of Occupied Telephone Lines II#Ex3_10_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.8/Ex3_10_8.R#S##14903
+3#Random Variables and Distributions#3.10.7# Single Server Queue I#Ex3_10_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.7/Ex3_10_7.R#S##14902
+3#Random Variables and Distributions#3.10.6#Plant Breeding Experiment I#Ex3_10_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.6/Ex3_10_6.R#S##14901
+3#Random Variables and Distributions#3.10.5#Number of Occupied Telephone Lines I#Ex3_10_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.5/Ex3_10_5.R#S##14900
+3#Random Variables and Distributions#3.10.4# Shopping for Toothpaste II#Ex3_10_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.4/Ex3_10_4.R#S##14899
+3#Random Variables and Distributions#3.10.2# Shopping for Toothpaste I#Ex3_10_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.2/Ex3_10_2.R#S##14898
+3#Random Variables and Distributions#3.10.15# Alternating Chain#Ex3_10_15.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.15/Ex3_10_15.R#S##14909
+3#Random Variables and Distributions#3.10.14#Toothpaste Shopping#Ex3_10_14.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.14/Ex3_10_14.R#S##14908
+3#Random Variables and Distributions#3.10.12#Distribution for Telephone Lines#Ex3_10_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.12/Ex3_10_12.R#S##14907
+3#Random Variables and Distributions#3.10.11#Number of Occupied Telephone Lines III#Ex3_10_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.11/Ex3_10_11.R#S##14906
+3#Random Variables and Distributions#3.10.10#Single Server Queue II#Ex3_10_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.10.10/Ex3_10_10.R#S##14905
+3#Random Variables and Distributions#3.1.8#Daily Numbers#Ex3_1_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.1.8/Ex3_1_8.R#S##14856
+3#Random Variables and Distributions#3.1.5#Demands for utilities#Ex3_1_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH3/EX3.1.5/Ex3_1_5.R#S##14855
+2# Conditional Probability#2.4.2#The probability of winning in an unfavorable game#Ex2_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.4.2/Ex2_4_2.R#S##14671
+2# Conditional Probability#2.4.1#The probability of winning in a fair game#Ex2_4_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.4.1/Ex2_4_1.R#S##14670
+2# Conditional Probability#2.3.7#A clinical trial III#Ex2_3_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.3.7/Ex2_3_7.R#S##14669
+2# Conditional Probability#2.3.6#Learning about a proportion#Ex2_3_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.3.6/Ex2_3_6.R#S##14668
+2# Conditional Probability#2.3.5#Identifying genotypes#Ex2_3_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.3.5/Ex2_3_5.R#S##14667
+2# Conditional Probability#2.3.4#Identifying the source of a defective item#Ex2_3_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.3.4/Ex2_3_4.R#S##14666
+2# Conditional Probability#2.3.3#Test for a disease#Ex2_3_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.3.3/Ex2_3_3.R#S##14665
+2# Conditional Probability#2.3.2#Selecting bolts II#Ex2_3_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.3.2/Ex2_3_2.R#S##14664
+2# Conditional Probability#2.2.9#People v Collins#Ex2_2_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.9/Ex2_2_9.R#S##14662
+2# Conditional Probability#2.2.7#Tossing a coin until a head appears#Ex2_2_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.7/Ex2_2_7.R#S##14661
+2# Conditional Probability#2.2.4#Pairwise independence#Ex2_2_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.4/Ex2_2_4.R#S##14660
+2# Conditional Probability#2.2.3#Rolling a Die#Ex2_2_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.3/Ex2_2_3.R#S##14659
+2# Conditional Probability#2.2.2#Machine operation#Ex2_2_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.2/Ex2_2_2.R#S##14658
+2# Conditional Probability#2.2.10#Inspecting items#Ex2_2_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.10/Ex2_2_10.R#S##14663
+2# Conditional Probability#2.2.1#Tossing coins#Ex2_2_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.2.1/Ex2_2_1.R#S##14657
+2# Conditional Probability#2.1.9#Selecting bolts#Ex2_1_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.9/Ex2_1_9.R#S##14654
+2# Conditional Probability#2.1.5#Rolling dice repeatedly#Ex2_1_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.5/Ex2_1_5.R#S##14653
+2# Conditional Probability#2.1.4#A clinical trial#Ex2_1_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.4/Ex2_1_4.R#S##14652
+2# Conditional Probability#2.1.3#Rolling dice#Ex2_1_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.3/Ex2_1_3.R#S##14651
+2# Conditional Probability#2.1.2#Lottery ticket#Ex2_1_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.2/Ex2_1_2.R#S##14650
+2# Conditional Probability#2.1.12#A clinical trial II#Ex2_1_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.12/Ex2_1_12.R#S##14656
+2# Conditional Probability#2.1.10#Achieving a high score#Ex2_1_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH2/EX2.1.10/Ex2_1_10.R#S##14655
+1# Introduction to probability#1.9.4#Distributing heart cards#Ex1_9_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.9.4/Ex1_9_4.R#S##14602
+1# Introduction to probability#1.9.3#Rolling dice#Ex1_9_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.9.3/Ex1_9_3.R#S##14601
+1# Introduction to probability#1.9.2#Multinomial coefficient#Ex1_9_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.9.2/Ex1_9_2.R#S##14600
+1# Introduction to probability#1.9.1#Choosing committees#Ex1_9_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.9.1/Ex1_9_1.R#S##14599
+1# Introduction to probability#1.8.9#Playing cards#Ex1_8_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.9/Ex1_8_9.R#S##14596
+1# Introduction to probability#1.8.8#Sampling without replacement#Ex1_8_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.8/Ex1_8_8.R#S##14595
+1# Introduction to probability#1.8.7#Tossing a coin#Ex1_8_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.7/Ex1_8_7.R#S##14594
+1# Introduction to probability#1.8.6#Selecting baked goods from boxes#Ex1_8_6.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.6/Ex1_8_6.R#S##14593
+1# Introduction to probability#1.8.5#Selecting baked goods#Ex1_8_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.5/Ex1_8_5.R#S##14592
+1# Introduction to probability#1.8.4#Blood types#Ex1_8_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.4/Ex1_8_4.R#S##14591
+1# Introduction to probability#1.8.3#Choosing jobs#Ex1_8_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.3/Ex1_8_3.R#S##14590
+1# Introduction to probability#1.8.2#Selecting a committee#Ex1_8_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.2/Ex1_8_2.R#S##14589
+1# Introduction to probability#1.8.11#Lottery ticket#Ex1_8_11.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.11/Ex1_8_11.R#S##14598
+1# Introduction to probability#1.8.10#Playing cards revisited#Ex1_8_10.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.8.10/Ex1_8_10.R#S##14597
+1# Introduction to probability#1.7.9#Arranging books#Ex1_7_9.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.9/Ex1_7_9.R#S##14587
+1# Introduction to probability#1.7.8#Choosing officers#Ex1_7_8.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.8/Ex1_7_8.R#S##14586
+1# Introduction to probability#1.7.7#Current population survey#Ex1_7_7.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.7/Ex1_7_7.R#S##14585
+1# Introduction to probability#1.7.5#Combination lock#Ex1_7_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.5/Ex1_7_5.R#S##14584
+1# Introduction to probability#1.7.4#Tossing several coins#Ex1_7_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.4/Ex1_7_4.R#S##14583
+1# Introduction to probability#1.7.3#Possible outcomes of two dice#Ex1_7_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.3/Ex1_7_3.R#S##14582
+1# Introduction to probability#1.7.12#Approximating the number of permutations#Ex1_7_12.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.12/Ex1_7_12.R#S##14588
+1# Introduction to probability#1.7.1#Routes between cities#Ex1_7_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.7.1/Ex1_7_1.R#S##14581
+1# Introduction to probability#1.6.5#Rolling two dice#Ex1_6_5.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.6.5/Ex1_6_5.R#S##14580
+1# Introduction to probability#1.6.4#Genetics#Ex1_6_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.6.4/Ex1_6_4.R#S##14579
+1# Introduction to probability#1.6.3#Tossing coins#Ex1_6_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.6.3/Ex1_6_3.R#S##14578
+1# Introduction to probability#1.6.2#Fiber breaks#Ex1_6_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.6.2/Ex1_6_2.R#S##14577
+1# Introduction to probability#1.5.4#Demands for utilities#Ex1_5_4.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.5.4/Ex1_5_4.R#S##14576
+1# Introduction to probability#1.5.3#Diagnosing diseases#Ex1_5_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.5.3/Ex1_5_3.R#S##14575
+1# Introduction to probability#1.5.2#A loaded die#Ex1_5_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.5.2/Ex1_5_2.R#S##14574
+1# Introduction to probability#1.4.3#Complement#Ex1_4_3.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.4.3/Ex1_4_3.R#S##14573
+1# Introduction to probability#1.4.2#Subset#Ex1_4_2.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.4.2/Ex1_4_2.R#S##14572
+1# Introduction to probability#1.4.1#Rolling a Die#Ex1_4_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.4.1/Ex1_4_1.R#S##14571
+1# Introduction to probability#1.10.1#Student enrollment#Ex1_10_1.R#Probability_And_Statistics_by_Morris_H_Degroot_Mark_J_Schervish/CH1/EX1.10.1/Ex1_10_1.R#S##15218

@@ -1,4 +1,5 @@
 # page number= 29
+library(MASS)
 prob_HH=1/4
 prob_HT=1/4
 prob_TH=1/4

@@ -35,7 +35,5 @@ fractions(Probability_of_student_is_in_maths_and_music)
 Probability_of_student_is_in_all_three <- Students_in_all_three/Number_of_students
 fractions(Probability_of_student_is_in_all_three)
 
-Probability_of_student_enrolled_in_at_least_one_of_the_three_classes <- Probability_of_student_is_in_all_three + (Probability_of_student_is_in_maths + 
-                                                                                                                  Probability_of_student_is_in_history +
-                                                                                                                  Probability_of_student_is_in_music) - (Probability_of_student_is_in_maths_and_history+Probability_of_student_is_in_maths_and_music+Probability_of_student_is_in_music_and_history)
+Probability_of_student_enrolled_in_at_least_one_of_the_three_classes <- Probability_of_student_is_in_all_three + (Probability_of_student_is_in_maths + Probability_of_student_is_in_history + Probability_of_student_is_in_music) - (Probability_of_student_is_in_maths_and_history+Probability_of_student_is_in_maths_and_music+Probability_of_student_is_in_music_and_history)
 fractions(Probability_of_student_enrolled_in_at_least_one_of_the_three_classes)

@@ -1,5 +1,150 @@
+14# Regression and Correlation#14.9# onefamily houses sold#Ex14_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.9/Ex14_9.R#S##15212
+14# Regression and Correlation#14.8#complete a certain form #Ex14_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.8/Ex14_8.R#S##15211
+14# Regression and Correlation#14.7#complete a certain form #Ex14_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.7/Ex14_7.R#S##15210
+14# Regression and Correlation#14.6#confidence interval#Ex14_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.6/Ex14_6.R#S##15209
+14# Regression and Correlation#14.5# amount of time that 10 persons studied#Ex14_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.5/Ex14_5.R#S##15208
+14# Regression and Correlation#14.4#equation of the least squares line#Ex14_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.4/Ex14_4.R#S##15207
+14# Regression and Correlation#14.13#least squares estimates using hypothesis#Ex14_13.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.13/Ex14_13.R#S##15216
+14# Regression and Correlation#14.12#least squares estimates #Ex14_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.12/Ex14_12.R#S##15215
+14# Regression and Correlation#14.11#least squares estimates #Ex14_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.11/Ex14_11.R#S##15214
+14# Regression and Correlation#14.10#sales price of a threebedroom#Ex14_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.10/Ex14_10.R#S##15213
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.9#oil company claims#Ex13_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.9/Ex13_9.R#S##15202
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.8#patients suffering#Ex13_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.8/Ex13_8.R#S##15201
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.7#structural steel#Ex13_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.7/Ex13_7.R#S##15200
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.6#a semiconductor#Ex13_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.6/Ex13_6.R#S##15199
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.5#consumer testing service#Ex13_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.5/Ex13_5.R#S##15198
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.4#nicotine#Ex13_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.4/Ex13_4.R#S##15197
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.3#ribbon call#Ex13_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.3/Ex13_3.R#S##15196
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.2#high performance tires#Ex13_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.2/Ex13_2.R#S##15195
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.13#measurements of the heat producing capacity#Ex13_13.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.13/Ex13_13.R#S##15206
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.12#a Poisson distribution#Ex13_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.12/Ex13_12.R#S##15205
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.11# persons ability #Ex13_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.11/Ex13_11.R#S##15204
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.10#shoppers favoring detergent#Ex13_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.10/Ex13_10.R#S##15203
+13# Tests of Hypothesis Involving Means Variances and Proportions#13.1# packages of cookies#Ex13_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.1/Ex13_1.R#S##15194
+12# Hypothesis Testing#12.7# likelihood ratio technique#Ex12_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH12/EX12.7/Ex12_7.R#S##15193
+12# Hypothesis Testing#12.1#new medication#Ex12_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH12/EX12.1/Ex12_1.R#S##15192
+11# Interval Estimation#11.9#running for governor of Illinois#Ex11_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.9/Ex11_9.R#S##15188
+11# Interval Estimation#11.8#voters#Ex11_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.8/Ex11_8.R#S##15187
+11# Interval Estimation#11.7#a flu vaccine experienced#Ex11_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.7/Ex11_7.R#S##15186
+11# Interval Estimation#11.6#two brands of cigarettes#Ex11_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.6/Ex11_6.R#S##15185
+11# Interval Estimation#11.5#confidence interval#Ex11_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.5/Ex11_5.R#S##15184
+11# Interval Estimation#11.4#paint manufacturer#Ex11_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.4/Ex11_4.R#S##15183
+11# Interval Estimation#11.3#confidence interval#Ex11_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.3/Ex11_3.R#S##15182
+11# Interval Estimation#11.2#confidence interval#Ex11_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.2/Ex11_2.R#S##15181
+11# Interval Estimation#11.12#car crossings#Ex11_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.12/Ex11_12.R#S##15191
+11# Interval Estimation#11.11#confidence interval#Ex11_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.11/Ex11_11.R#S##15190
+11# Interval Estimation#11.10#gasoline consumption#Ex11_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.10/Ex11_10.R#S##15189
+11# Interval Estimation#11.1#efficiency experts#Ex11_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.1/Ex11_1.R#S##15180
+10# Point Estimation#10.21#voters#Ex10_21.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH10/EX10.21/Ex10_21.R#S##15037
+10# Point Estimation#10.20# soft drink vending machines #Ex10_20.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH10/EX10.20/Ex10_20.R#S##15036
+10# Point Estimation#10.19#binomial trials#Ex10_19.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH10/EX10.19/Ex10_19.R#S##15035
+9# Decision Theory#9.5#minimax strategies#Ex9_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.5/Ex9_5.R#S##15034
+9# Decision Theory#9.4#optimum strategies#Ex9_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.4/Ex9_4.R#S##15033
+9# Decision Theory#9.3# PAYOFF MATRIX#Ex9_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.3/Ex9_3.R#S##15032
+9# Decision Theory#9.2#decide#Ex9_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.2/Ex9_2.R#S##15031
+9# Decision Theory#9.1# deciding#Ex9_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.1/Ex9_1.R#S##15030
+8# Sampling Distributions#8.3#t distribution#Ex8_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH8/EX8.3/Ex8_3.R#S##15029
+8# Sampling Distributions#8.2#Chisquare distribution#Ex8_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH8/EX8.2/Ex8_2.R#S##15028
+8# Sampling Distributions#8.1#central limit theorem#Ex8_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH8/EX8.1/Ex8_1.R#S##15027
+7# Functions of Random Variables#7.5#probability distribution#Ex7_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.5/Ex7_5.R#S##15023
+7# Functions of Random Variables#7.4#probability distribution#Ex7_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.4/Ex7_4.R#S##15022
+7# Functions of Random Variables#7.19# probability #Ex7_19.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.19/Ex7_19.R#S##15026
+7# Functions of Random Variables#7.12# marginal density#Ex7_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.12/Ex7_12.R#S##15025
+7# Functions of Random Variables#7.11# probability density#Ex7_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.11/Ex7_11.R#S##15024
+6# Special Probability Densities#6.8#normality#Ex6_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.8/Ex6_8.R#S##15021
+6# Special Probability Densities#6.7# normal scores#Ex6_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.7/Ex6_7.R#S##15020
+6# Special Probability Densities#6.6#binomial distribution#Ex6_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.6/Ex6_6.R#S##15019
+6# Special Probability Densities#6.5#chisquare distribution#Ex6_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.5/Ex6_5.R#S##15018
+6# Special Probability Densities#6.4#cosmic radiation#Ex6_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.4/Ex6_4.R#S##15017
+6# Special Probability Densities#6.2#standard normal distribution #Ex6_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.2/Ex6_2.R#S##15016
+6# Special Probability Densities#6.1#a Poisson distribution#Ex6_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.1/Ex6_1.R#S##15015
+5# Special Probability Distributions#5.9#Poisson distribution#Ex5_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.9/Ex5_9.R#S##14847
+5# Special Probability Distributions#5.8#Poisson distribution#Ex5_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.8/Ex5_8.R#S##14846
+5# Special Probability Distributions#5.7#hyper and binomial#Ex5_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.7/Ex5_7.R#S##14845
+5# Special Probability Distributions#5.6#hypergeometric distribution#Ex5_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.6/Ex5_6.R#S##14844
+5# Special Probability Distributions#5.5#geometric distribution#Ex5_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.5/Ex5_5.R#S##14843
+5# Special Probability Distributions#5.4#negative binomial distribution#Ex5_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.4/Ex5_4.R#S##14842
+5# Special Probability Distributions#5.3#negative binomial distribution#Ex5_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.3/Ex5_3.R#S##14841
+5# Special Probability Distributions#5.2#binomial distribution#Ex5_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.2/Ex5_2.R#S##14840
+5# Special Probability Distributions#5.16# producer and consumer risks#Ex5_16.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.16/Ex5_16.R#S##14854
+5# Special Probability Distributions#5.15#MULTINOMIAL DISTRIBUTION#Ex5_15.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.15/Ex5_15.R#S##14853
+5# Special Probability Distributions#5.14#MULTINOMIAL DISTRIBUTION#Ex5_14.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.14/Ex5_14.R#S##14852
+5# Special Probability Distributions#5.13#a Poisson distribution#Ex5_13.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.13/Ex5_13.R#S##14851
+5# Special Probability Distributions#5.12#Poisson distribution#Ex5_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.12/Ex5_12.R#S##14850
+5# Special Probability Distributions#5.11#Poisson distribution#Ex5_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.11/Ex5_11.R#S##14849
+5# Special Probability Distributions#5.10#binomial probabilities#Ex5_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.10/Ex5_10.R#S##14848
+5# Special Probability Distributions#5.1#binomial distribution#Ex5_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.1/Ex5_1.R#S##14839
+4# Mathematical Expectation#4.9#expected value#Ex4_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.9/Ex4_9.R#S##14827
+4# Mathematical Expectation#4.8#expected value#Ex4_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.8/Ex4_8.R#S##14826
+4# Mathematical Expectation#4.6#expected value#Ex4_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.6/Ex4_6.R#S##14825
+4# Mathematical Expectation#4.5#expected value#Ex4_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.5/Ex4_5.R#S##14824
+4# Mathematical Expectation#4.4#expected value#Ex4_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.4/Ex4_4.R#S##14823
+4# Mathematical Expectation#4.3# expected value#Ex4_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.3/Ex4_3.R#S##14822
+4# Mathematical Expectation#4.21#mean length and its standard deviation#Ex4_21.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.21/Ex4_21.R#S##14838
+4# Mathematical Expectation#4.20#conditional mean and the conditional variance#Ex4_20.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.20/Ex4_20.R#S##14836
+4# Mathematical Expectation#4.2#expected value#Ex4_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.2/Ex4_2.R#S##14821
+4# Mathematical Expectation#4.19#covariance#Ex4_19.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.19/Ex4_19.R#S##14837
+4# Mathematical Expectation#4.18# mean and the variance#Ex4_18.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.18/Ex4_18.R#S##14835
+4# Mathematical Expectation#4.17# covariance#Ex4_17.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.17/Ex4_17.R#S##14834
+4# Mathematical Expectation#4.16#covariance#Ex4_16.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.16/Ex4_16.R#S##14833
+4# Mathematical Expectation#4.15#covariance of X and Y#Ex4_15.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.15/Ex4_15.R#S##14832
+4# Mathematical Expectation#4.14# moment generating function#Ex4_14.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.14/Ex4_14.R#S##14831
+4# Mathematical Expectation#4.12#Chebyshev theorem#Ex4_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.12/Ex4_12.R#S##14830
+4# Mathematical Expectation#4.11#standard deviation#Ex4_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.11/Ex4_11.R#S##14829
+4# Mathematical Expectation#4.10#calculate the variance#Ex4_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.10/Ex4_10.R#S##14828
+4# Mathematical Expectation#4.1#expect#Ex4_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.1/Ex4_1.R#S##14820
+3# Probability Distributions and Probability Densities#3.9#Probability #Ex3_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.9/Ex3_9.R#S##14804
+3# Probability Distributions and Probability Densities#3.7# probability distribution#Ex3_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.7/Ex3_7.R#S##14803
+3# Probability Distributions and Probability Densities#3.6#distribution function#Ex3_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.6/Ex3_6.R#S##14802
+3# Probability Distributions and Probability Densities#3.5# number of heads#Ex3_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.5/Ex3_5.R#S##14801
+3# Probability Distributions and Probability Densities#3.4# probability distribution#Ex3_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.4/Ex3_4.R#S##14800
+3# Probability Distributions and Probability Densities#3.30#a histogram#Ex3_30.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.30/Ex3_30.R#S##14818
+3# Probability Distributions and Probability Densities#3.3#number of heads#Ex3_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.3/Ex3_3.R#S##14799
+3# Probability Distributions and Probability Densities#3.29#frequency distribution#Ex3_29.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.29/Ex3_29.R#S##14817
+3# Probability Distributions and Probability Densities#3.28#Construct a frequency distribution#Ex3_28.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.28/Ex3_28.R#S##14816
+3# Probability Distributions and Probability Densities#3.27#r joint probability density#Ex3_27.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.27/Ex3_27.R#S##14815
+3# Probability Distributions and Probability Densities#3.24#conditional density#Ex3_24.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.24/Ex3_24.R#S##14814
+3# Probability Distributions and Probability Densities#3.23#conditional distribution#Ex3_23.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.23/Ex3_23.R#S##14813
+3# Probability Distributions and Probability Densities#3.2#number of heads#Ex3_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.2/Ex3_2.R#S##14798
+3# Probability Distributions and Probability Densities#3.19#trivariate probability density#Ex3_19.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.19/Ex3_19.R#S##14812
+3# Probability Distributions and Probability Densities#3.18#Probability #Ex3_18.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.18/Ex3_18.R#S##14811
+3# Probability Distributions and Probability Densities#3.17#Probability #Ex3_17.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.17/Ex3_17.R#S##14810
+3# Probability Distributions and Probability Densities#3.15#Probability #Ex3_15.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.15/Ex3_15.R#S##14809
+3# Probability Distributions and Probability Densities#3.14#find F#Ex3_14.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.14/Ex3_14.R#S##14808
+3# Probability Distributions and Probability Densities#3.13#a joint probability distribution#Ex3_13.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.13/Ex3_13.R#S##14807
+3# Probability Distributions and Probability Densities#3.12#Two caplets are selected#Ex3_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.12/Ex3_12.R#S##14806
+3# Probability Distributions and Probability Densities#3.10#distribution function#Ex3_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.10/Ex3_10.R#S##14805
+3# Probability Distributions and Probability Densities#3.1#brown socks selected#Ex3_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.1/Ex3_1.R#S##14797
+2# probability#2.9#a number greater than 3#Ex2_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.9/Ex2_9.R#S##14776
+2# probability#2.8#atleast one head#Ex2_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.8/Ex2_8.R#S##15217
+2# probability#2.7#union#Ex2_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.7/Ex2_7.R#S##14774
+2# probability#2.5#hit the target once and miss it twice#Ex2_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.5/Ex2_5.R#S##14773
+2# probability#2.4#sum is 7#Ex2_4.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.4/Ex2_4.R#S##14772
+2# probability#2.3#divisible by 3#Ex2_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.3/Ex2_3.R#S##14771
+2# probability#2.29# reliability of the system#Ex2_29.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.29/Ex2_29.R#S##14796
+2# probability#2.28#disease#Ex2_28.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.28/Ex2_28.R#S##14795
+2# probability#2.27#rental agency 2#Ex2_27.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.27/Ex2_27.R#S##14794
+2# probability#2.26#oil change#Ex2_26.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.26/Ex2_26.R#S##14793
+2# probability#2.25# construction job#Ex2_25.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.25/Ex2_25.R#S##14792
+2# probability#2.24#heads and die#Ex2_24.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.24/Ex2_24.R#S##14791
+2# probability#2.23#independent#Ex2_23.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.23/Ex2_23.R#S##14790
+2# probability#2.22#independent#Ex2_22.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.22/Ex2_22.R#S##14789
+2# probability#2.21#3 fuses are defective#Ex2_21.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.21/Ex2_21.R#S##14788
+2# probability#2.20#replacement#Ex2_20.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.20/Ex2_20.R#S##14787
+2# probability#2.2#pair of dice#Ex2_2.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.2/Ex2_2.R#S##14770
+2# probability#2.19# both be defective#Ex2_19.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.19/Ex2_19.R#S##14786
+2# probability#2.18#shipment#Ex2_18.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.18/Ex2_18.R#S##14785
+2# probability#2.17#perfect square given that it is greater than 3#Ex2_17.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.17/Ex2_17.R#S##14784
+2# probability#2.16#good service under warranty#Ex2_16.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.16/Ex2_16.R#S##14783
+2# probability#2.15# services under warranty#Ex2_15.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.15/Ex2_15.R#S##14782
+2# probability#2.14#dentist#Ex2_14.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.14/Ex2_14.R#S##14781
+2# probability#2.13#faulty brakes#Ex2_13.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.13/Ex2_13.R#S##14780
+2# probability#2.12#either or both kinds of sets#Ex2_12.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.12/Ex2_12.R#S##14779
+2# probability#2.11#a full house#Ex2_11.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.11/Ex2_11.R#S##14778
+2# probability#2.10#a probability measure#Ex2_10.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.10/Ex2_10.R#S##14777
+2# probability#2.1#ace in cards#Ex2_1.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.1/Ex2_1.R#S##14769
 1# Introduction#1.9#Scheduling speakers for meetings#Ex1_9.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.9/Ex1_9.R#S##14633
-1# Introduction#1.8#Drawing club officers#Ex1_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.8/Ex1_8.R#S##14632
+1# Introduction#1.8#combination#Ex1_8.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.8/Ex1_8.R#S##14672
 1# Introduction#1.7#Permutations of 2 letters#Ex1_7.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.7/Ex1_7.R#S##14631
 1# Introduction#1.6#Introducing basketball players#Ex1_6.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.6/Ex1_6.R#S##14629
 1# Introduction#1.5#Permutations of abc#Ex1_5.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.5/Ex1_5.R#S##14628
@@ -7,7 +152,7 @@
 1# Introduction#1.3#Choosing inspection parts#Ex1_3.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.3/Ex1_3.R#S##14626
 1# Introduction#1.25#Selecting units for inspection#Ex1_25.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.25/Ex1_25.R#S##14649
 1# Introduction#1.24#Selecting integrated circuit chips for assembly#Ex1_24.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.24/Ex1_24.R#S##14648
-1# Introduction#1.23#Finding the coefficient in the expansion#Ex1_23.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.23/Ex1_23.R#S##14647
+1# Introduction#1.23#multinom#Ex1_23.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.23/Ex1_23.R#S##14673
 1# Introduction#1.22#multinom#Ex1_22.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.22/Ex1_22.R#S##14646
 1# Introduction#1.21#finding the combination#Ex1_21.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.21/Ex1_21.R#S##14645
 1# Introduction#1.20#finding combination of n#Ex1_20.R#John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.20/Ex1_20.R#S##14644

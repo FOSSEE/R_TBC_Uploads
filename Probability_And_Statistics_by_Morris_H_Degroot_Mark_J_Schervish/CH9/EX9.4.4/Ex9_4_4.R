@@ -1,5 +1,7 @@
 #Page 570 
 
+library(nleqslv)
+
 n <- 3
 alpha0 <- 0.05
 
@@ -16,7 +18,7 @@ solve_c1_c2 <- function(c) {
 
 initial_guess <- c(1,15)
 
-solution <- nleqslv::nleqslv(initial_guess, solve_c1_c2)
+solution <- nleqslv(initial_guess, solve_c1_c2)
 
 c1 <- solution$x[1]
 c2 <- solution$x[2]
