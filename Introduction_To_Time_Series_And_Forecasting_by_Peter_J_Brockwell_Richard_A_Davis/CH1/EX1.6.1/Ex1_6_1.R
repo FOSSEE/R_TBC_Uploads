@@ -1,7 +1,7 @@
 # Page No. 33
 # Downloading link: https://storage.googleapis.com/springer-extras/zip/2002/978-0-387-21657-7.zip
-signal= read.csv("SIGNAL.TSM")
-names(signal)[names(signal) == "X1.313713"] <- "signals"
+signal<- read.delim("SIGNAL.TSM", header = FALSE)
+colnames(signal)[1] <- "signals"
 acf_values <- acf(signal$signals, plot = FALSE)$acf
 n <- length(signal$signals)
 conf_bound <- 1.96 / sqrt(n)

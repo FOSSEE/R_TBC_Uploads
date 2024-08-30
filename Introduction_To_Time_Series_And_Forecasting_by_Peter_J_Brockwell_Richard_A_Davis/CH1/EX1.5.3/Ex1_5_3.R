@@ -1,13 +1,12 @@
-# Axes
 # Page No. 11
 # Downloading link: https://storage.googleapis.com/springer-extras/zip/2002/978-0-387-21657-7.zip
 library(ggplot2)
 library(pracma)
 library(dplyr)
-uspop= read.csv("USPOP.TSM")
-names(uspop)[names(uspop) == "X3929214"] <- "population"
+uspop= read.delim("USPOP.TSM", header = FALSE)
+colnames(uspop)[1] <- "population"
 start_year=1790
-num_repeated=20
+num_repeated=21
 interval=10
 uspop$years <- seq_len(num_repeated) * interval+start_year
 diff2 <- diff(diff(uspop$population))

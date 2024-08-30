@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Semiconductor Physics And Devices - Basic Principles\\by D. A. Neamen\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Saurabh Sanjay Agrawal\\B.Tech\\Computer Science and Engineering\\Shri Vile Parle Kelavani Mandal's Institute Of Technology,Dhule\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\John E. Freund's Mathematical Statistics With Applications\\by John E. Freund\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Arpit Dubey\\M.Sc.\\Mathematics\\Indian institute of technology kharagpur\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Semiconductor Physics And Devices - Basic Principles
-\item [Author:] D. A. Neamen
-\item [Publisher:] Mcgraw-hill
-\item [Edition:] 3
-\item [Year:] 2003
-\item [ISBN:] 0-07-1-19862-8
+\item [Title:] John E. Freund's Mathematical Statistics With Applications
+\item [Author:] John E. Freund
+\item [Publisher:] Pearson Education Limited ,india
+\item [Edition:] 8
+\item [Year:] 2013
+\item [ISBN:] 978-9332519053
 \end{description}
 
 \newpage
@@ -26,620 +26,1221 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 \tableofcontents
 \listofcode
 
-\chapter{ The Crystal Structure Of Solids}
+\chapter{ Introduction}
 
 \vspace*{10mm}
 \curlable{Exa~1.1}
 \begin{code}
-\tcaption{find volume density of atoms}{find volume density of atoms}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.1/Ex1_1.R}
+\tcaption{Counting travel options}{Counting travel options}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.1/Ex1_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.2}
+\begin{code}
+\tcaption{Rolling two dice}{Rolling two dice}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.2/Ex1_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~1.3}
 \begin{code}
-\tcaption{Calculate surface density}{Calculate surface density}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.3/Ex1_3.R}
+\tcaption{Choosing inspection parts}{Choosing inspection parts}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.3/Ex1_3.R}
 \end{code}
 
-\chapter{ Introduction to Quantum Mechanics}
+\vspace*{10mm}
+\curlable{Exa~1.4}
+\begin{code}
+\tcaption{Answering true false test}{Answering true false test}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.4/Ex1_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.5}
+\begin{code}
+\tcaption{Permutations of abc}{Permutations of abc}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.5/Ex1_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.6}
+\begin{code}
+\tcaption{Introducing basketball players}{Introducing basketball players}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.6/Ex1_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.7}
+\begin{code}
+\tcaption{Permutations of 2 letters}{Permutations of 2 letters}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.7/Ex1_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.8}
+\begin{code}
+\tcaption{combination}{combination}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.8/Ex1_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.9}
+\begin{code}
+\tcaption{Scheduling speakers for meetings}{Scheduling speakers for meetings}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.9/Ex1_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.10}
+\begin{code}
+\tcaption{circular permutations}{circular permutations}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.10/Ex1_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.11}
+\begin{code}
+\tcaption{Permutations of the word book}{Permutations of the word book}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.11/Ex1_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.12}
+\begin{code}
+\tcaption{Arranging novels on a shelf}{Arranging novels on a shelf}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.12/Ex1_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.13}
+\begin{code}
+\tcaption{Hanging paintings on a museum wall}{Hanging paintings on a museum wall}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.13/Ex1_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.14}
+\begin{code}
+\tcaption{Selecting households for market research}{Selecting households for market research}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.14/Ex1_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.15}
+\begin{code}
+\tcaption{Coin toss outcomes}{Coin toss outcomes}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.15/Ex1_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.16}
+\begin{code}
+\tcaption{Forming committees of chemists and physicists}{Forming committees of chemists and physicists}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.16/Ex1_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.17}
+\begin{code}
+\tcaption{Partitioning a set into subsets}{Partitioning a set into subsets}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.17/Ex1_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.18}
+\begin{code}
+\tcaption{Assigning businessmen to hotel rooms}{Assigning businessmen to hotel rooms}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.18/Ex1_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.19}
+\begin{code}
+\tcaption{finding combination for n}{finding combination for n}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.19/Ex1_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.20}
+\begin{code}
+\tcaption{finding combination of n}{finding combination of n}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.20/Ex1_20.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.21}
+\begin{code}
+\tcaption{finding the combination}{finding the combination}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.21/Ex1_21.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.22}
+\begin{code}
+\tcaption{multinom}{multinom}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.22/Ex1_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.23}
+\begin{code}
+\tcaption{multinom}{multinom}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.23/Ex1_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.24}
+\begin{code}
+\tcaption{Selecting integrated circuit chips for assembly}{Selecting integrated circuit chips for assembly}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.24/Ex1_24.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~1.25}
+\begin{code}
+\tcaption{Selecting units for inspection}{Selecting units for inspection}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH1/EX1.25/Ex1_25.R}
+\end{code}
+
+\chapter{ probability}
 
 \vspace*{10mm}
 \curlable{Exa~2.1}
 \begin{code}
-\tcaption{Calculate photon energy}{Calculate photon energy}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.1/Ex2_1.R}
+\tcaption{ace in cards}{ace in cards}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.1/Ex2_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.2}
 \begin{code}
-\tcaption{Calculate de broglie wavelength}{Calculate de broglie wavelength}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.2/Ex2_2.R}
+\tcaption{pair of dice}{pair of dice}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.2/Ex2_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.3}
 \begin{code}
-\tcaption{Calculate first three energy levels}{Calculate first three energy levels}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.3/Ex2_3.R}
+\tcaption{divisible by 3}{divisible by 3}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.3/Ex2_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.4}
 \begin{code}
-\tcaption{Calculate penetration depth}{Calculate penetration depth}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.4/Ex2_4.R}
+\tcaption{sum is 7}{sum is 7}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.4/Ex2_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~2.5}
 \begin{code}
-\tcaption{Calculate probability}{Calculate probability}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.5/Ex2_5.R}
+\tcaption{hit the target once and miss it twice}{hit the target once and miss it twice}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.5/Ex2_5.R}
 \end{code}
 
-\chapter{ Introduction to the Quantum Theory of Solids}
+\vspace*{10mm}
+\curlable{Exa~2.7}
+\begin{code}
+\tcaption{union}{union}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.7/Ex2_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.8}
+\begin{code}
+\tcaption{atleast one head}{atleast one head}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.8/Ex2_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.9}
+\begin{code}
+\tcaption{a number greater than 3}{a number greater than 3}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.9/Ex2_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.10}
+\begin{code}
+\tcaption{a probability measure}{a probability measure}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.10/Ex2_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.11}
+\begin{code}
+\tcaption{a full house}{a full house}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.11/Ex2_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.12}
+\begin{code}
+\tcaption{either or both kinds of sets}{either or both kinds of sets}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.12/Ex2_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.13}
+\begin{code}
+\tcaption{faulty brakes}{faulty brakes}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.13/Ex2_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.14}
+\begin{code}
+\tcaption{dentist}{dentist}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.14/Ex2_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.15}
+\begin{code}
+\tcaption{ services under warranty}{ services under warranty}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.15/Ex2_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.16}
+\begin{code}
+\tcaption{good service under warranty}{good service under warranty}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.16/Ex2_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.17}
+\begin{code}
+\tcaption{perfect square given that it is greater than 3}{perfect square given that it is greater than 3}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.17/Ex2_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.18}
+\begin{code}
+\tcaption{shipment}{shipment}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.18/Ex2_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.19}
+\begin{code}
+\tcaption{ both be defective}{ both be defective}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.19/Ex2_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.20}
+\begin{code}
+\tcaption{replacement}{replacement}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.20/Ex2_20.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.21}
+\begin{code}
+\tcaption{3 fuses are defective}{3 fuses are defective}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.21/Ex2_21.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.22}
+\begin{code}
+\tcaption{independent}{independent}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.22/Ex2_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.23}
+\begin{code}
+\tcaption{independent}{independent}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.23/Ex2_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.24}
+\begin{code}
+\tcaption{heads and die}{heads and die}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.24/Ex2_24.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.25}
+\begin{code}
+\tcaption{ construction job}{ construction job}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.25/Ex2_25.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.26}
+\begin{code}
+\tcaption{oil change}{oil change}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.26/Ex2_26.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.27}
+\begin{code}
+\tcaption{rental agency 2}{rental agency 2}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.27/Ex2_27.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.28}
+\begin{code}
+\tcaption{disease}{disease}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.28/Ex2_28.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.29}
+\begin{code}
+\tcaption{ reliability of the system}{ reliability of the system}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH2/EX2.29/Ex2_29.R}
+\end{code}
+
+\chapter{ Probability Distributions and Probability Densities}
 
 \vspace*{10mm}
 \curlable{Exa~3.1}
 \begin{code}
-\tcaption{Calculate change in KE}{Calculate change in KE}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.1/Ex3_1.R}
+\tcaption{brown socks selected}{brown socks selected}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.1/Ex3_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.2}
 \begin{code}
-\tcaption{Determine lowest energy bandwidth}{Determine lowest energy bandwidth}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.2/Ex3_2.R}
+\tcaption{number of heads}{number of heads}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.2/Ex3_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.3}
 \begin{code}
-\tcaption{Calculate density of states}{Calculate density of states}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.3/Ex3_3.R}
+\tcaption{number of heads}{number of heads}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.3/Ex3_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.4}
 \begin{code}
-\tcaption{Determine possible no of ways}{Determine possible no of ways}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.4/Ex3_4.R}
+\tcaption{ probability distribution}{ probability distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.4/Ex3_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.5}
 \begin{code}
-\tcaption{Determine possible no of ways}{Determine possible no of ways}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.5/Ex3_5.R}
+\tcaption{ number of heads}{ number of heads}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.5/Ex3_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.6}
 \begin{code}
-\tcaption{Calculate probability}{Calculate probability}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.6/Ex3_6.R}
+\tcaption{distribution function}{distribution function}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.6/Ex3_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~3.7}
 \begin{code}
-\tcaption{Determine temp}{Determine temp}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.7/Ex3_7.R}
+\tcaption{ probability distribution}{ probability distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.7/Ex3_7.R}
 \end{code}
 
-\chapter{ The Semiconductor in Equilibrium}
+\vspace*{10mm}
+\curlable{Exa~3.9}
+\begin{code}
+\tcaption{Probability }{Probability }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.9/Ex3_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.10}
+\begin{code}
+\tcaption{distribution function}{distribution function}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.10/Ex3_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.12}
+\begin{code}
+\tcaption{Two caplets are selected}{Two caplets are selected}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.12/Ex3_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.13}
+\begin{code}
+\tcaption{a joint probability distribution}{a joint probability distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.13/Ex3_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.14}
+\begin{code}
+\tcaption{find F}{find F}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.14/Ex3_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.15}
+\begin{code}
+\tcaption{Probability }{Probability }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.15/Ex3_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.17}
+\begin{code}
+\tcaption{Probability }{Probability }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.17/Ex3_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.18}
+\begin{code}
+\tcaption{Probability }{Probability }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.18/Ex3_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.19}
+\begin{code}
+\tcaption{trivariate probability density}{trivariate probability density}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.19/Ex3_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.23}
+\begin{code}
+\tcaption{conditional distribution}{conditional distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.23/Ex3_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.24}
+\begin{code}
+\tcaption{conditional density}{conditional density}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.24/Ex3_24.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.27}
+\begin{code}
+\tcaption{r joint probability density}{r joint probability density}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.27/Ex3_27.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.28}
+\begin{code}
+\tcaption{Construct a frequency distribution}{Construct a frequency distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.28/Ex3_28.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.29}
+\begin{code}
+\tcaption{frequency distribution}{frequency distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.29/Ex3_29.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.30}
+\begin{code}
+\tcaption{a histogram}{a histogram}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH3/EX3.30/Ex3_30.R}
+\end{code}
+
+\chapter{ Mathematical Expectation}
 
 \vspace*{10mm}
 \curlable{Exa~4.1}
 \begin{code}
-\tcaption{Calculate probability}{Calculate probability}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.1/Ex4_1.R}
+\tcaption{expect}{expect}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.1/Ex4_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.2}
 \begin{code}
-\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.2/Ex4_2.R}
+\tcaption{expected value}{expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.2/Ex4_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.3}
 \begin{code}
-\tcaption{Calculate intrinsic carrier}{Calculate intrinsic carrier}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.3/Ex4_3.R}
+\tcaption{ expected value}{ expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.3/Ex4_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.4}
 \begin{code}
-\tcaption{Calculate position}{Calculate position}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.4/Ex4_4.R}
+\tcaption{expected value}{expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.4/Ex4_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.5}
 \begin{code}
-\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.5/Ex4_5.R}
+\tcaption{expected value}{expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.5/Ex4_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.6}
 \begin{code}
-\tcaption{Calculate electron concentration}{Calculate electron concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.6/Ex4_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.7}
-\begin{code}
-\tcaption{Determine fraction of total electron}{Determine fraction of total electron}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.7/Ex4_7.R}
+\tcaption{expected value}{expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.6/Ex4_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.8}
 \begin{code}
-\tcaption{To detemine the temperature at which 90 percent of acceptor atoms are ionized}{To detemine the temperature at which 90 percent of acceptor atoms are ionized}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.8/Ex4_8.R}
+\tcaption{expected value}{expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.8/Ex4_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.9}
 \begin{code}
-\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.9/Ex4_9.R}
+\tcaption{expected value}{expected value}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.9/Ex4_9.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.10}
 \begin{code}
-\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.10/Ex4_10.R}
+\tcaption{calculate the variance}{calculate the variance}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.10/Ex4_10.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.11}
 \begin{code}
-\tcaption{Calculate thermal equilibrium}{Calculate thermal equilibrium}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.11/Ex4_11.R}
+\tcaption{standard deviation}{standard deviation}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.11/Ex4_11.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.12}
 \begin{code}
-\tcaption{Determine impurity concentration}{Determine impurity concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.12/Ex4_12.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.13}
-\begin{code}
-\tcaption{Determine impurity concentration}{Determine impurity concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.13/Ex4_13.R}
+\tcaption{Chebyshev theorem}{Chebyshev theorem}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.12/Ex4_12.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.14}
 \begin{code}
-\tcaption{Determine fermi level position}{Determine fermi level position}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.14/Ex4_14.R}
+\tcaption{ moment generating function}{ moment generating function}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.14/Ex4_14.R}
 \end{code}
 
-\chapter{ Carrier Transport Phenomena}
+\vspace*{10mm}
+\curlable{Exa~4.15}
+\begin{code}
+\tcaption{covariance of X and Y}{covariance of X and Y}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.15/Ex4_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.16}
+\begin{code}
+\tcaption{covariance}{covariance}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.16/Ex4_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.17}
+\begin{code}
+\tcaption{ covariance}{ covariance}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.17/Ex4_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.18}
+\begin{code}
+\tcaption{ mean and the variance}{ mean and the variance}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.18/Ex4_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.19}
+\begin{code}
+\tcaption{covariance}{covariance}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.19/Ex4_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.20}
+\begin{code}
+\tcaption{conditional mean and the conditional variance}{conditional mean and the conditional variance}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.20/Ex4_20.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.21}
+\begin{code}
+\tcaption{mean length and its standard deviation}{mean length and its standard deviation}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH4/EX4.21/Ex4_21.R}
+\end{code}
+
+\chapter{ Special Probability Distributions}
 
 \vspace*{10mm}
 \curlable{Exa~5.1}
 \begin{code}
-\tcaption{Drift current density}{Drift current density}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.1/Ex5_1.R}
+\tcaption{binomial distribution}{binomial distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.1/Ex5_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.2}
 \begin{code}
-\tcaption{doping concentration}{doping concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.2/Ex5_2.R}
+\tcaption{binomial distribution}{binomial distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.2/Ex5_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.3}
 \begin{code}
-\tcaption{design semiconductor resistor}{design semiconductor resistor}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.3/Ex5_3.R}
+\tcaption{negative binomial distribution}{negative binomial distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.4}
 \begin{code}
-\tcaption{Diffusion current density}{Diffusion current density}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.4/Ex5_4.R}
+\tcaption{negative binomial distribution}{negative binomial distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.4/Ex5_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.5}
 \begin{code}
-\tcaption{Determine induced electric field}{Determine induced electric field}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.5/Ex5_5.R}
+\tcaption{geometric distribution}{geometric distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.5/Ex5_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.6}
 \begin{code}
-\tcaption{Determine diffusion coefficient}{Determine diffusion coefficient}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.6/Ex5_6.R}
+\tcaption{hypergeometric distribution}{hypergeometric distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.6/Ex5_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~5.7}
 \begin{code}
-\tcaption{Determine majority carrier }{Determine majority carrier }
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.7/Ex5_7.R}
+\tcaption{hyper and binomial}{hyper and binomial}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.7/Ex5_7.R}
 \end{code}
 
-\chapter{ Nonequilibrium Excess Carriers in Semiconductors}
+\vspace*{10mm}
+\curlable{Exa~5.8}
+\begin{code}
+\tcaption{Poisson distribution}{Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.8/Ex5_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.9}
+\begin{code}
+\tcaption{Poisson distribution}{Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.9/Ex5_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.10}
+\begin{code}
+\tcaption{binomial probabilities}{binomial probabilities}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.10/Ex5_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.11}
+\begin{code}
+\tcaption{Poisson distribution}{Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.11/Ex5_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.12}
+\begin{code}
+\tcaption{Poisson distribution}{Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.12/Ex5_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.13}
+\begin{code}
+\tcaption{a Poisson distribution}{a Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.13/Ex5_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.14}
+\begin{code}
+\tcaption{MULTINOMIAL DISTRIBUTION}{MULTINOMIAL DISTRIBUTION}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.14/Ex5_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.15}
+\begin{code}
+\tcaption{MULTINOMIAL DISTRIBUTION}{MULTINOMIAL DISTRIBUTION}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.15/Ex5_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.16}
+\begin{code}
+\tcaption{ producer and consumer risks}{ producer and consumer risks}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH5/EX5.16/Ex5_16.R}
+\end{code}
+
+\chapter{ Special Probability Densities}
 
 \vspace*{10mm}
 \curlable{Exa~6.1}
 \begin{code}
-\tcaption{To determine the time behavior of excess carriers}{To determine the time behavior of excess carriers}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.1/Ex6_1.R}
+\tcaption{a Poisson distribution}{a Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.2}
 \begin{code}
-\tcaption{To determine the time dependence of excess carriers }{To determine the time dependence of excess carriers }
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.2/Ex6_2.R}
+\tcaption{standard normal distribution }{standard normal distribution }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.2/Ex6_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.3}
+\curlable{Exa~6.4}
 \begin{code}
-\tcaption{To determine the steady state spatial dependence}{To determine the steady state spatial dependence}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.3/Ex6_3.R}
+\tcaption{cosmic radiation}{cosmic radiation}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.4/Ex6_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.5}
 \begin{code}
-\tcaption{Dielectric relaxation time constant}{Dielectric relaxation time constant}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.5/Ex6_5.R}
+\tcaption{chisquare distribution}{chisquare distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.6}
 \begin{code}
-\tcaption{calculate the quasi fermi energy levels}{calculate the quasi fermi energy levels}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.6/Ex6_6.R}
+\tcaption{binomial distribution}{binomial distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.6/Ex6_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.7}
+\begin{code}
+\tcaption{ normal scores}{ normal scores}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.7/Ex6_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.8}
 \begin{code}
-\tcaption{determine the steady state excess carriers concentration}{determine the steady state excess carriers concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.8/Ex6_8.R}
+\tcaption{normality}{normality}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~6.10}
-\begin{code}
-\tcaption{determine the value of surface recombination velocity}{determine the value of surface recombination velocity}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.10/Ex6_10.R}
-\end{code}
-
-\chapter{ The pn Junction}
-
-\vspace*{10mm}
-\curlable{Exa~7.1}
-\begin{code}
-\tcaption{calculate the built in potential barrier}{calculate the built in potential barrier}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.1/Ex7_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.2}
-\begin{code}
-\tcaption{calculate the space charge width}{calculate the space charge width}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.2/Ex7_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.3}
-\begin{code}
-\tcaption{calculate the width of the space charge region}{calculate the width of the space charge region}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.3/Ex7_3.R}
-\end{code}
+\chapter{ Functions of Random Variables}
 
 \vspace*{10mm}
 \curlable{Exa~7.4}
 \begin{code}
-\tcaption{design a pn junction}{design a pn junction}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.4/Ex7_4.R}
+\tcaption{probability distribution}{probability distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.4/Ex7_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~7.5}
 \begin{code}
-\tcaption{calculate the junction capacitance}{calculate the junction capacitance}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.5/Ex7_5.R}
+\tcaption{probability distribution}{probability distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.5/Ex7_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.6}
+\curlable{Exa~7.11}
 \begin{code}
-\tcaption{determine the impurity doping concentrations}{determine the impurity doping concentrations}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.6/Ex7_6.R}
+\tcaption{ probability density}{ probability density}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.11/Ex7_11.R}
 \end{code}
 
-\chapter{ The pn Junction Diode}
+\vspace*{10mm}
+\curlable{Exa~7.12}
+\begin{code}
+\tcaption{ marginal density}{ marginal density}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.12/Ex7_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.19}
+\begin{code}
+\tcaption{ probability }{ probability }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH7/EX7.19/Ex7_19.R}
+\end{code}
+
+\chapter{ Sampling Distributions}
 
 \vspace*{10mm}
 \curlable{Exa~8.1}
 \begin{code}
-\tcaption{calculate the minority carrier hole concentration}{calculate the minority carrier hole concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.1/Ex8_1.R}
+\tcaption{central limit theorem}{central limit theorem}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH8/EX8.1/Ex8_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.2}
 \begin{code}
-\tcaption{ideal reverse saturation current density}{ideal reverse saturation current density}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.2/Ex8_2.R}
+\tcaption{Chisquare distribution}{Chisquare distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH8/EX8.2/Ex8_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.3}
 \begin{code}
-\tcaption{design a pn junction diode}{design a pn junction diode}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.3/Ex8_3.R}
+\tcaption{t distribution}{t distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH8/EX8.3/Ex8_3.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~8.4}
-\begin{code}
-\tcaption{calculate the electric field}{calculate the electric field}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.4/Ex8_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.5}
-\begin{code}
-\tcaption{determine the change in the forward bias voltage}{determine the change in the forward bias voltage}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.6}
-\begin{code}
-\tcaption{calculate the small signal admittance}{calculate the small signal admittance}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.6/Ex8_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~8.7}
-\begin{code}
-\tcaption{determine the relative magnitudes}{determine the relative magnitudes}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.7/Ex8_7.R}
-\end{code}
-
-\chapter{ Metal Semiconductor And Semiconductor Heterojunctions}
+\chapter{ Decision Theory}
 
 \vspace*{10mm}
 \curlable{Exa~9.1}
 \begin{code}
-\tcaption{calculate the theoretical harrier height}{calculate the theoretical harrier height}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.1/Ex9_1.R}
+\tcaption{ deciding}{ deciding}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.1/Ex9_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.2}
 \begin{code}
-\tcaption{calculate the semiconductor doping}{calculate the semiconductor doping}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.2/Ex9_2.R}
+\tcaption{decide}{decide}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.2/Ex9_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.3}
 \begin{code}
-\tcaption{calculate the Schottky barrier lowering}{calculate the Schottky barrier lowering}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.3/Ex9_3.R}
+\tcaption{ PAYOFF MATRIX}{ PAYOFF MATRIX}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.3/Ex9_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.4}
 \begin{code}
-\tcaption{calculate the effective Richardson constant}{calculate the effective Richardson constant}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.4/Ex9_4.R}
+\tcaption{optimum strategies}{optimum strategies}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.4/Ex9_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.5}
 \begin{code}
-\tcaption{calculate the reverse saturation current densities}{calculate the reverse saturation current densities}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.5/Ex9_5.R}
+\tcaption{minimax strategies}{minimax strategies}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH9/EX9.5/Ex9_5.R}
+\end{code}
+
+\chapter{ Point Estimation}
+
+\vspace*{10mm}
+\curlable{Exa~10.19}
+\begin{code}
+\tcaption{binomial trials}{binomial trials}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH10/EX10.19/Ex10_19.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.6}
+\curlable{Exa~10.20}
 \begin{code}
-\tcaption{calculate the forward bias voltage}{calculate the forward bias voltage}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.6/Ex9_6.R}
+\tcaption{ soft drink vending machines }{ soft drink vending machines }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH10/EX10.20/Ex10_20.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.7}
+\curlable{Exa~10.21}
 \begin{code}
-\tcaption{calculate the space charge width}{calculate the space charge width}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.7/Ex9_7.R}
+\tcaption{voters}{voters}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH10/EX10.21/Ex10_21.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~9.8}
-\begin{code}
-\tcaption{determine Ae At and Vbi}{determine Ae At and Vbi}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH9/EX9.8/Ex9_8.R}
-\end{code}
-
-\chapter{ The Bipolar Transistor}
-
-\vspace*{10mm}
-\curlable{Exa~10.1}
-\begin{code}
-\tcaption{design the ratio of emitter doping}{design the ratio of emitter doping}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.1/Ex10_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.2}
-\begin{code}
-\tcaption{design the base width}{design the base width}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.2/Ex10_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.3}
-\begin{code}
-\tcaption{calculate the forward biased}{calculate the forward biased}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.3/Ex10_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.4}
-\begin{code}
-\tcaption{calculate the common emitter current gain}{calculate the common emitter current gain}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.4/Ex10_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.5}
-\begin{code}
-\tcaption{calculate the change in the neutral base width}{calculate the change in the neutral base width}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.5/Ex10_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.6}
-\begin{code}
-\tcaption{to calculate the change in collector current}{to calculate the change in collector current}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.6/Ex10_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.7}
-\begin{code}
-\tcaption{determine the increase in pE0}{determine the increase in pE0}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.7/Ex10_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.8}
-\begin{code}
-\tcaption{design the collector doping}{design the collector doping}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.8/Ex10_8.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.9}
-\begin{code}
-\tcaption{design a bipolar transistor}{design a bipolar transistor}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.9/Ex10_9.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.10}
-\begin{code}
-\tcaption{calculate the collector emitter saturation voltage}{calculate the collector emitter saturation voltage}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.10/Ex10_10.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.12}
-\begin{code}
-\tcaption{calculate the emitter to collector transmit time}{calculate the emitter to collector transmit time}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH10/EX10.12/Ex10_12.R}
-\end{code}
-
-\chapter{ Fundamentals of the Metal Oxide Semiconductor Field Effect Transistor}
+\chapter{ Interval Estimation}
 
 \vspace*{10mm}
 \curlable{Exa~11.1}
 \begin{code}
-\tcaption{calculate the maximum space charge width}{calculate the maximum space charge width}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.1/Ex11_1.R}
+\tcaption{efficiency experts}{efficiency experts}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.1/Ex11_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.2}
 \begin{code}
-\tcaption{calculate the metal semiconductor work function difference}{calculate the metal semiconductor work function difference}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.2/Ex11_2.R}
+\tcaption{confidence interval}{confidence interval}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.2/Ex11_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.3}
 \begin{code}
-\tcaption{calculate the flat band voltage}{calculate the flat band voltage}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.3/Ex11_3.R}
+\tcaption{confidence interval}{confidence interval}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.3/Ex11_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.4}
 \begin{code}
-\tcaption{design the oxide thickness}{design the oxide thickness}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.4/Ex11_4 .R}
+\tcaption{paint manufacturer}{paint manufacturer}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.4/Ex11_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.5}
 \begin{code}
-\tcaption{calculate the threshold voltage}{calculate the threshold voltage}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.5/Ex11_5.R}
+\tcaption{confidence interval}{confidence interval}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.5/Ex11_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.6}
 \begin{code}
-\tcaption{design the semiconductor doping concentration}{design the semiconductor doping concentration}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.6/Ex11_6.R}
+\tcaption{two brands of cigarettes}{two brands of cigarettes}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.6/Ex11_6.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.7}
 \begin{code}
-\tcaption{Calculate Cox}{Calculate Cox}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.7/Ex11_7.R}
+\tcaption{a flu vaccine experienced}{a flu vaccine experienced}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.7/Ex11_7.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.8}
 \begin{code}
-\tcaption{design the width}{design the width}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.8/Ex11_8.R}
+\tcaption{voters}{voters}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.8/Ex11_8.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.9}
 \begin{code}
-\tcaption{determine the inversion carrier mobility}{determine the inversion carrier mobility}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.9/Ex11_9.R}
+\tcaption{running for governor of Illinois}{running for governor of Illinois}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.9/Ex11_9.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.10}
 \begin{code}
-\tcaption{calculate the change in the threshold voltage}{calculate the change in the threshold voltage}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.10/Ex11_10.R}
+\tcaption{gasoline consumption}{gasoline consumption}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.10/Ex11_10.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~11.11}
 \begin{code}
-\tcaption{calculate the cutoff frequency}{calculate the cutoff frequency}
-\lstinputlisting{../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH11/EX11.11/Ex11_11.R}
+\tcaption{confidence interval}{confidence interval}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.11/Ex11_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~11.12}
+\begin{code}
+\tcaption{car crossings}{car crossings}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH11/EX11.12/Ex11_12.R}
+\end{code}
+
+\chapter{ Hypothesis Testing}
+
+\vspace*{10mm}
+\curlable{Exa~12.1}
+\begin{code}
+\tcaption{new medication}{new medication}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH12/EX12.1/Ex12_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~12.7}
+\begin{code}
+\tcaption{ likelihood ratio technique}{ likelihood ratio technique}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH12/EX12.7/Ex12_7.R}
+\end{code}
+
+\chapter{ Tests of Hypothesis Involving Means Variances and Proportions}
+
+\vspace*{10mm}
+\curlable{Exa~13.1}
+\begin{code}
+\tcaption{ packages of cookies}{ packages of cookies}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.1/Ex13_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.2}
+\begin{code}
+\tcaption{high performance tires}{high performance tires}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.2/Ex13_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.3}
+\begin{code}
+\tcaption{ribbon call}{ribbon call}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.3/Ex13_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.4}
+\begin{code}
+\tcaption{nicotine}{nicotine}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.4/Ex13_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.5}
+\begin{code}
+\tcaption{consumer testing service}{consumer testing service}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.5/Ex13_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.6}
+\begin{code}
+\tcaption{a semiconductor}{a semiconductor}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.6/Ex13_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.7}
+\begin{code}
+\tcaption{structural steel}{structural steel}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.7/Ex13_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.8}
+\begin{code}
+\tcaption{patients suffering}{patients suffering}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.8/Ex13_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.9}
+\begin{code}
+\tcaption{oil company claims}{oil company claims}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.9/Ex13_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.10}
+\begin{code}
+\tcaption{shoppers favoring detergent}{shoppers favoring detergent}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.10/Ex13_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.11}
+\begin{code}
+\tcaption{ persons ability }{ persons ability }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.11/Ex13_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.12}
+\begin{code}
+\tcaption{a Poisson distribution}{a Poisson distribution}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.12/Ex13_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~13.13}
+\begin{code}
+\tcaption{measurements of the heat producing capacity}{measurements of the heat producing capacity}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH13/EX13.13/Ex13_13.R}
+\end{code}
+
+\chapter{ Regression and Correlation}
+
+\vspace*{10mm}
+\curlable{Exa~14.4}
+\begin{code}
+\tcaption{equation of the least squares line}{equation of the least squares line}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.4/Ex14_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.5}
+\begin{code}
+\tcaption{ amount of time that 10 persons studied}{ amount of time that 10 persons studied}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.5/Ex14_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.6}
+\begin{code}
+\tcaption{confidence interval}{confidence interval}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.6/Ex14_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.7}
+\begin{code}
+\tcaption{complete a certain form }{complete a certain form }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.7/Ex14_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.8}
+\begin{code}
+\tcaption{complete a certain form }{complete a certain form }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.8/Ex14_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.9}
+\begin{code}
+\tcaption{ onefamily houses sold}{ onefamily houses sold}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.9/Ex14_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.10}
+\begin{code}
+\tcaption{sales price of a threebedroom}{sales price of a threebedroom}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.10/Ex14_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.11}
+\begin{code}
+\tcaption{least squares estimates }{least squares estimates }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.11/Ex14_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.12}
+\begin{code}
+\tcaption{least squares estimates }{least squares estimates }
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.12/Ex14_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~14.13}
+\begin{code}
+\tcaption{least squares estimates using hypothesis}{least squares estimates using hypothesis}
+\lstinputlisting{../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/CH14/EX14.13/Ex14_13.R}
 \end{code}
 

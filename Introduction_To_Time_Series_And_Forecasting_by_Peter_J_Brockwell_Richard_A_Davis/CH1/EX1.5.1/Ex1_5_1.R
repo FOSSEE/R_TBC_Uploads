@@ -2,9 +2,9 @@
 # Downloading link: https://storage.googleapis.com/springer-extras/zip/2002/978-0-387-21657-7.zip
 library(ggplot2)
 library(zoo)
-strike= read.csv("STRIKES.TSM")
-names(strike)[names(strike) == "X4737"] <- "Strikes"
-start_year=1952
+strike<- read.csv("STRIKES.TSM", header =FALSE)
+colnames(strike)[1] <- "Strikes"
+start_year=1951
 end_year=1980
 window_size <- 5 
 strike$Moving_Avg <- rollmean(strike$Strikes, k = window_size, fill = NA)

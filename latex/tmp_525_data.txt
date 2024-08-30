@@ -47,39 +47,17 @@
 3# Probability and the Binomial Distribution #3.2.1#Coin Tossing#Ex3_2_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH3/EX3.2.1/Ex3_2_1.R#S##14711
 3# Probability and the Binomial Distribution #2.5.9#Temperature#Ex3_5_9.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH3/EX2.5.9/Ex3_5_9.R#S##14724
 2# Description of Samples and Populations#2.8.6#Tobacco Leaves#Ex2_8_6.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.8.6/Ex2_8_6.R#S##14710
-2# Description of Samples and Populations#2.8.4#Oat Plants#Ex2_8_4.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.8.4/Ex2_8_4.R#S##14709
-2# Description of Samples and Populations#2.8.3#Alcohol and MOPEG#Ex2_8_3.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.8.3/Ex2_8_3.R#S##14708
 2# Description of Samples and Populations#2.8.1#Blood Types#Ex2_8_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.8.1/Ex2_8_1.R#S##14707
 2# Description of Samples and Populations#2.7.2#Body Temperature#Ex2_7_2.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.7.2/Ex2_7_2.R#S##14706
 2# Description of Samples and Populations#2.7.1#Weight#Ex2_7_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.7.1/Ex2_7_1.R#S##14705
 2# Description of Samples and Populations#2.6.6#Daily Gain of Cattle#Ex2_6_6.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.6.6/Ex2_6_6.R#S##14704
 2# Description of Samples and Populations#2.5.4#Whale Selenium#Ex2_5_4.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.5.4/Ex2_5_4.R#S##14703
 2# Description of Samples and Populations#2.5.2#E Coli Watershed Contamination#Ex2_5_2.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.5.2/Ex2_5_2.R#S##14702
-2# Description of Samples and Populations#2.5.1#E Coli Watershed Contamination#Ex2_5_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.5.1/Ex2_5_1.R#S##14701
 2# Description of Samples and Populations#2.4.5#Radish Growth#Ex2_4_5.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.4.5/Ex2_4_5.R#S##14700
 2# Description of Samples and Populations#2.3.6#Cricket Singing Times#Ex2_3_6.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.3.6/Ex2_3_6.R#S##14699
 2# Description of Samples and Populations#2.3.2#Weight Gain of Lambs#Ex2_3_2.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.3.2/Ex2_3_2.R#S##14698
 2# Description of Samples and Populations#2.3.1#Weight Gain of Lambs#Ex2_3_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.3.1/Ex2_3_1.R#S##14697
 2# Description of Samples and Populations#2.2.5#Color of Poinsettias#Ex2_2_5.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.2.5/Ex2_2_5.R#S##14696
 2# Description of Samples and Populations#2.2.4#Litter Size of Sows#Ex2_2_4.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.2.4/Ex2_2_4.R#S##14695
-2# Description of Samples and Populations#2.2.3#Infant Mortality#Ex2_2_3.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.2.3/Ex2_2_3.R#S##14694
 2# Description of Samples and Populations#2.2.2#School Bags and Neck Pain#Ex2_2_2.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.2.2/Ex2_2_2.R#S##14693
 2# Description of Samples and Populations#2.2.1#Color of Poinsettias#Ex2_2_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH2/EX2.2.1/Ex2_2_1.R#S##14692
-1#Introduction#1.3.3#Sand Crabs#Ex1_3_3.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.3.3/Ex1_3_3.R#S##14688
-1#Introduction#1.3.12#Sugar and Hyperactivity#Ex1_3_12.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.3.12/Ex1_3_12.R#S##14691
-1#Introduction#1.3.11#HIV Testing#Ex1_3_11.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.3.11/Ex1_3_11.R#S##14690
-1#Introduction#1.3.10#Abortion Funding#Ex1_3_10.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.3.10/Ex1_3_10.R#S##14689
-1#Introduction#1.2.9#The Common Cold#Ex1_2_9.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.9/Ex1_2_9.R#S##14685
-1#Introduction#1.2.8#Clofibrate#Ex1_2_8.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.8/Ex1_2_8.R#S##14684
-1#Introduction#1.2.7#Renal Denervation#Ex1_2_7.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.7/Ex1_2_7.R#S##14683
-1#Introduction#1.2.4#Toxicity in Dogs#Ex1_2_4.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.4/Ex1_2_4.R#S##14682
-1#Introduction#1.2.2#Sexual Orientation#Ex1_2_2.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.2/Ex1_2_2.R#S##14681
-1#Introduction#1.2.12#Healthcare Trials#Ex1_2_12.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.12/Ex1_2_12.R#S##14687
-1#Introduction#1.2.11#Coronary Artery Disease#Ex1_2_11.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.11/Ex1_2_11.R#S##14686
-1#Introduction#1.2.1#Lightning and Deafness#Ex1_2_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.2.1/Ex1_2_1.R#S##14680
-1#Introduction#1.1.6#Body Size and Energy Expenditure#Ex1_1_6.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.1.6/Ex1_1_6.R#S##14679
-1#Introduction#1.1.5#Food Choice by Insect Larvae#Ex1_1_5.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.1.5/Ex1_1_5.R#S##14678
-1#Introduction#1.1.4#MAO and Schizophrenia#Ex1_1_4.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.1.4/Ex1_1_4.R#S##14677
-1#Introduction#1.1.3#Flooding and ATP#Ex1_1_3.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.1.3/Ex1_1_3.R#S##14676
-1#Introduction#1.1.2#Bacteria and Cancer#Ex1_1_2.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.1.2/Ex1_1_2.R#S##14675
-1#Introduction#1.1.1#Vaccine for Anthrax#Ex1_1_1.R#Statistics_For_The_Life_Sciences_by_Myra_L_Samuels_jeffrey_A_Witmer_Andrew_A_Schaffner/CH1/EX1.1.1/Ex1_1_1.R#S##14674

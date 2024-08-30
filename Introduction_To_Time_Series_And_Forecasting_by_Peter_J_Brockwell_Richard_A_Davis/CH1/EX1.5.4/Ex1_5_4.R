@@ -2,10 +2,10 @@
 # Downloading link: https://storage.googleapis.com/springer-extras/zip/2002/978-0-387-21657-7.zip
 library(ggplot2)
 library(pracma)
-deaths<-read.csv("DEATHS.TSM")
-deaths$years<- seq(as.Date("1973-01-01"), as.Date("1978-11-01"), by = "month")
+deaths<-read.delim("DEATHS.TSM", header =FALSE)
+deaths$years<- seq(as.Date("1973-01-01"), as.Date("1978-12-01"), by = "month")
 period <- 12
-names(deaths)[names(deaths) == "X9007"] <- "deaths"
+colnames(deaths)[1] <- "deaths"
 decomposition <- decompose(ts(deaths$deaths, frequency = period))
 seasonal_component <- decomposition$seasonal
 deseasonalized_data <- deaths$deaths - seasonal_component

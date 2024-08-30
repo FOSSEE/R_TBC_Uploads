@@ -1,27 +1,21 @@
 # Page No. 9
 # Downloading link: https://storage.googleapis.com/springer-extras/zip/2002/978-0-387-21657-7.zip
 library(ggplot2)
-hudson= read.csv("LAKE.TSM")
-names(hudson)[names(hudson) == "X10.38"] <- "level"
-start_year=1876
+hudson= read.csv("LAKE.TSM", header = FALSE)
+colnames(hudson)[1] <- "level"
+start_year=1875
 end_year=1972
-hudson$years <- seq(start_year,end_year)
+hudson$years <-(seq(start_year,end_year))
 fit<-lm(level~years,data = hudson)
 residuals <- resid(fit)
 residual_df <- data.frame(years = hudson$years, residuals = residuals)
+par(mfrow=c(1,2))
 # Figure 1-9
-ggplot(hudson, aes(x=years, y=level)) +
-  geom_point() +  
-  geom_line()+
-  geom_smooth(method = "lm", formula = y ~ x, se = FALSE) +
-  labs(title = "Lake Hudson",
-       x = "Years",
-       y = "Water levels") +
-  theme_minimal()
+plot(hudson$years, hudson$level, type = "o", 
+     main = "Lake Hudson", xlab = "Years", ylab = "Water levels", pch = 19)
+abline(fit, col = "blue",lw=2)
 # Figure 1-10
-ggplot(residual_df, aes(x = years, y = residuals)) +
-  geom_point(size = 2) +
-  geom_line()+
-  geom_hline(yintercept = 0, color = "blue") + 
-  labs(title = "Residuals Plot", x = "Years", y = "Residuals") +
-  theme_minimal()
+plot(residual_df$years,residual_df$residuals, type = "o",pch = 19,
+     xlab = "Years", ylab = "Residuals", main = "Residuals plot")
+abline(h = 0, col = "blue", lw = 2)
+print(coef(fit))
