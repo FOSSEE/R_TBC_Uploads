@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  30 AUG 2024 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  31 AUG 2024 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,506 +318,190 @@ eady used, duplicate ignored
 l.73 \newpage
               [1
 
-] [2] (./TEX_final.toc
-Overfull \hbox (70.614pt too wide) detected at line 1
-\OT1/cmr/bx/n/12 List of R Codes 
- []
-
-)
+] [2] (./TEX_final.toc)
 \tf@toc=\write4
 \openout4 = `TEX_final.toc'.
 
  [3
 
-] (./TEX_final.cod [4
-
-] [5] [6] [7])
+] (./TEX_final.cod)
 \tf@cod=\write5
 \openout5 = `TEX_final.cod'.
 
- [8]
-Chapter 1.
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 91.
-
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.1/Ex1_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.2/Ex1_2.R) [9
+ [4
 
 ]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.3/Ex1_3.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.4/Ex1_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.5/Ex1_5.R) [10]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.6/Ex1_6.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.7/Ex1_7.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.8/Ex1_8.R) [11]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.9/Ex1_9.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.10/Ex1_10.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.11/Ex1_11.R) [12]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.12/Ex1_12.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.13/Ex1_13.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.14/Ex1_14.R [13])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.15/Ex1_15.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.16/Ex1_16.R [14])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.17/Ex1_17.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.18/Ex1_18.R) [15]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.19/Ex1_19.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.20/Ex1_20.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.21/Ex1_21.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.22/Ex1_22.R [16])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.23/Ex1_23.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.24/Ex1_24.R) [17]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH1/EX1.25/Ex1_25.R) [18]
 Chapter 2.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 93.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.1/Ex2_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.2/Ex2_2.R) [19
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R) [5
 
 ]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.3/Ex2_3.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.4/Ex2_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.5/Ex2_5.R [20])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.7/Ex2_7.R) [21]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.8/Ex2_8.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.9/Ex2_9.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.10/Ex2_10.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.11/Ex2_11.R [22])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.12/Ex2_12.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.13/Ex2_13.R) [23]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.14/Ex2_14.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.15/Ex2_15.R [24])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.16/Ex2_16.R) [25]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.17/Ex2_17.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.18/Ex2_18.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.19/Ex2_19.R [26])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.20/Ex2_20.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.21/Ex2_21.R) [27]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.22/Ex2_22.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.23/Ex2_23.R
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no © in font cmr12!
- [28]
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no   in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no © in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ˆ in font cmr12!
-Missing character: There is no © in font cmr12!
-)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.24/Ex2_24.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.25/Ex2_25.R) [29]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.26/Ex2_26.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.27/Ex2_27.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.28/Ex2_28.R [30])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH2/EX2.29/Ex2_29.R) [31]
-Chapter 3.
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R [6])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.1/Ex3_1.R [32
-
-])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.2/Ex3_2.R [33])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.3/Ex3_3.R
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
-)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.4/Ex3_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.5/Ex3_5.R [34])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.6/Ex3_6.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.7/Ex3_7.R [35])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.9/Ex3_9.R) [36]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.10/Ex3_10.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.12/Ex3_12.R [37])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.13/Ex3_13.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.14/Ex3_14.R) [38]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.15/Ex3_15.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.17/Ex3_17.R [39])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.18/Ex3_18.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.19/Ex3_19.R) [40]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.23/Ex3_23.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.24/Ex3_24.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.27/Ex3_27.R [41])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.28/Ex3_28.R [42])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.29/Ex3_29.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH3/EX3.30/Ex3_30.R [43]) [44]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+ [9] [10])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R) [11]
+Chapter 3.
+
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R) [12
+
+]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R [13])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R) [14]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R [15])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R [16])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R) [17]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R [18])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R [19])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R [20])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R [21]) [22]
 Chapter 4.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.1/Ex4_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.2/Ex4_2.R) [45
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R [23
 
-]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.3/Ex4_3.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.4/Ex4_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.5/Ex4_5.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.6/Ex4_6.R [46])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.8/Ex4_8.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.9/Ex4_9.R [47])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.10/Ex4_10.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.11/Ex4_11.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.12/Ex4_12.R [48])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.14/Ex4_14.R) [49]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.15/Ex4_15.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.16/Ex4_16.R [50])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.17/Ex4_17.R) [51]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.18/Ex4_18.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.19/Ex4_19.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.20/Ex4_20.R [52])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH4/EX4.21/Ex4_21.R
-Overfull \hbox (7.9133pt too wide) in paragraph at lines 2--3
-[][][] 
- []
-
-) [53]
+])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R [24])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R [25])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R [26])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R [27])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R [28])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R [29])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R [30] [31] [32])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R [33])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R [34] [35])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R [36] [37])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R [38] [39])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R [40])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R) [41]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R [42]) [43]
 Chapter 5.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.1/Ex5_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.2/Ex5_2.R) [54
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R [44
 
-]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.3/Ex5_3.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.4/Ex5_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.5/Ex5_5.R) [55]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.6/Ex5_6.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.7/Ex5_7.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.8/Ex5_8.R [56])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.9/Ex5_9.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.10/Ex5_10.R [57])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.11/Ex5_11.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.12/Ex5_12.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.13/Ex5_13.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.14/Ex5_14.R [58])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.15/Ex5_15.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH5/EX5.16/Ex5_16.R [59]) [60]
+] [45])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R [46])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R [47]) [48]
 Chapter 6.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.1/Ex6_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.2/Ex6_2.R
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 6.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R [49
+
+])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 4.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 6.
-[61
-
-])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.4/Ex6_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.5/Ex6_5.R [62])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.6/Ex6_6.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.7/Ex6_7.R [63])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH6/EX6.8/Ex6_8.R) [64]
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
+)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R) [50]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R) [51]
 Chapter 7.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH7/EX7.4/Ex7_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH7/EX7.5/Ex7_5.R [65
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R [52
 
 ])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH7/EX7.11/Ex7_11.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH7/EX7.12/Ex7_12.R [66])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH7/EX7.19/Ex7_19.R) [67]
-Chapter 8.
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R [53])
+! Missing $ inserted.
+<inserted text> 
+                $
+l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH8/EX8.1/Ex8_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH8/EX8.2/Ex8_2.R [68
 
-])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH8/EX8.3/Ex8_3.R) [69]
-Chapter 9.
+! Package Listings Error: File `../Numerical_Methods_In_Finance_And_Economics:_
+A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_
+Investment Science_Ex13_11(.R)' not found.
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH9/EX9.1/Ex9_1.R) [70
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: R)
 
-]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH9/EX9.2/Ex9_2.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH9/EX9.3/Ex9_3.R [71])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH9/EX9.4/Ex9_4.R) [72]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH9/EX9.5/Ex9_5.R) [73]
-Chapter 10.
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+                                                  ^^M
+*** (cannot \read from terminal in nonstop modes)
 
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH10/EX10.19/Ex10_19.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH10/EX10.20/Ex10_20.R [74
-
-])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH10/EX10.21/Ex10_21.R) [75]
-Chapter 11.
-
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.1/Ex11_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.2/Ex11_2.R [76
-
-]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
-)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.3/Ex11_3.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.4/Ex11_4.R [77])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.5/Ex11_5.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.6/Ex11_6.R [78])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.7/Ex11_7.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.8/Ex11_8.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.9/Ex11_9.R [79])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.10/Ex11_10.R
-Missing character: There is no Ï in font cmr12!
-Missing character: There is no ƒ in font cmr12!
-)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.11/Ex11_11.R [80]
-Missing character: There is no Ï in font cmr12!
-Missing character: There is no ƒ in font cmr12!
-Missing character: There is no Ï in font cmr12!
-Missing character: There is no ƒ in font cmr12!
-)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH11/EX11.12/Ex11_12.R) [81]
-Chapter 12.
-
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH12/EX12.1/Ex12_1.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH12/EX12.7/Ex12_7.R [82
-
-]) [83]
-Chapter 13.
-
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.1/Ex13_1.R) [84
-
-]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.2/Ex13_2.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.3/Ex13_3.R [85])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.4/Ex13_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.5/Ex13_5.R [86])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.6/Ex13_6.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.7/Ex13_7.R [87])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.8/Ex13_8.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.9/Ex13_9.R [88])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.10/Ex13_10.R) [89]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.11/Ex13_11.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.12/Ex13_12.R) [90]
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH13/EX13.13/Ex13_13.R) [91]
-Chapter 14.
-
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.4/Ex14_4.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.5/Ex14_5.R [92
-
-])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.6/Ex14_6.R
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ² in font cmr12!
-)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.7/Ex14_7.R [93])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.8/Ex14_8.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.9/Ex14_9.R [94])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.10/Ex14_10.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.11/Ex14_11.R [95])
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.12/Ex14_12.R)
-(../John_E_Freund_S_Mathematical_Statistics_With_Applications_by_John_E_Freund/
-CH14/EX14.13/Ex14_13.R [96])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1303.
- [97]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1303.
- (./TEX_final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1303.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1303.
-
-Package rerunfilecheck Info: File `TEX_final.out' has not changed.
-(rerunfilecheck)             Checksum: 9A88EC83CD7FF7B11CCC210335590F10;917.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1303.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 11062 strings out of 493013
- 196769 string characters out of 6133328
- 325647 words of memory out of 5000000
- 11662 multiletter control sequences out of 15000+600000
+ 9617 strings out of 493013
+ 150990 string characters out of 6133328
+ 338647 words of memory out of 5000000
+ 11447 multiletter control sequences out of 15000+600000
  10548 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,7n,40p,523b,1728s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TEX_final.pdf (98 pages, 309407 bytes).
-PDF statistics:
- 3268 PDF objects out of 3580 (max. 8388607)
- 3128 compressed objects within 32 object streams
- 2206 named destinations out of 2487 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 30i,7n,40p,539b,1728s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
