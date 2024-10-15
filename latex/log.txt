@@ -47,174 +47,25 @@ No file TEX_final.aux.
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 (/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
-Overfull \hbox (22.40999pt too wide) in paragraph at lines 62--62
- [][] 
 [1{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX
  warning (ext4): destination with the same identifier (name{page.1}) has been a
 lready used, duplicate ignored
 <to be read again> 
                    \relax 
 l.73 \newpage
-              [1] [2] [3] [4]
-Chapter 1.
+              [1] [2] [3] [4] (./TEX_final.aux)
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
-1/Ex1_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
-3/Ex1_3.R) [5]
-Chapter 2.
+Package rerunfilecheck Warning: File `TEX_final.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-1/Ex2_1.R (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd))
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-2/Ex2_2.R [6])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-3/Ex2_3.R) [7]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-4/Ex2_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-5/Ex2_5.R [8]) [9]
-Chapter 3.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-1/Ex3_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-2/Ex3_2.R [10])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-3/Ex3_3.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-4/Ex3_4.R [11])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-5/Ex3_5.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-6/Ex3_6.R) [12]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-7/Ex3_7.R) [13]
-Chapter 4.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-1/Ex4_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-2/Ex4_2.R [14])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-3/Ex4_3.R) [15]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-4/Ex4_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-5/Ex4_5.R [16])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-6/Ex4_6.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-7/Ex4_7.R) [17]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-8/Ex4_8.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-9/Ex4_9.R [18])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-10/Ex4_10.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-11/Ex4_11.R [19])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-12/Ex4_12.R) [20]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-13/Ex4_13.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-14/Ex4_14.R) [21]
-Chapter 5.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-1/Ex5_1.R [22])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-2/Ex5_2.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-3/Ex5_3.R [23])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-4/Ex5_4.R [24])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-5/Ex5_5.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-6/Ex5_6.R [25])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-7/Ex5_7.R) [26]
-Chapter 6.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-1/Ex6_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-2/Ex6_2.R) [27]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-3/Ex6_3.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-5/Ex6_5.R) [28]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-6/Ex6_6.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-8/Ex6_8.R [29])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-10/Ex6_10.R) [30]
-Chapter 7.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-1/Ex7_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-2/Ex7_2.R [31])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-3/Ex7_3.R
-Overfull \hbox (143.52466pt too wide) in paragraph at lines 12--14
-[][][][][][] 
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (170.93472pt too wide) in paragraph at lines 12--14
-[][] 
-
-Overfull \hbox (148.70453pt too wide) in paragraph at lines 12--14
-[]  
-[32])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-4/Ex7_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-5/Ex7_5.R [33])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-6/Ex7_6.R) [34] [35]
-Chapter 8.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-1/Ex8_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-2/Ex8_2.R [36])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-3/Ex8_3.R [37])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-4/Ex8_4.R) [38]
-
-! Package Listings Error: File `../Semiconductor_Physics_And_Devices_-_Basic_Pr
-inciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 (.R)' not found.
-
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: R)
-
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.469 ...nciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R}
-                                                  ^^M
-!  ==> Fatal error occurred, no output PDF file produced!
+ )
+(see the transcript file for additional information)</usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr8.pfb>
+Output written on TEX_final.pdf (5 pages, 71219 bytes).
 Transcript written on TEX_final.log.
+'TEX_final.pdf' -> 'book_Data_Mining_by_Pang-Ning_Tan_Michael_Steinbach_Vipin_Kumar.pdf'
