@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Dummy Book Title For Testing\\by Dummy\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Sashirekha\\B.Tech.\\Computer Science and Engineering\\FOSSEE\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Dummy Book Title For Testing
-\item [Author:] Dummy
-\item [Publisher:] Mumbai
-\item [Edition:] 5
-\item [Year:] 2024
-\item [ISBN:] 12345
+\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
+\item [Author:] Paolo Brandimarte
+\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
+\item [Edition:] 2
+\item [Year:] 2006
+\item [ISBN:] 0471745030
 \end{description}
 
 \newpage
@@ -25,4 +25,556 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 
 \tableofcontents
 \listofcode
+
+
+\setcounter{chapter}{1}
+\chapter{ Financial Theory}
+
+\vspace*{10mm}
+\curlable{Exa~2.7}
+\begin{code}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.8}
+\begin{code}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.9}
+\begin{code}
+\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.10}
+\begin{code}
+\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~2.24}
+\begin{code}
+\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
+\end{code}
+
+\chapter{Basics of Numerical Analysis}
+
+\vspace*{10mm}
+\curlable{Exa~3.2}
+\begin{code}
+\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.4}
+\begin{code}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.6}
+\begin{code}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.7}
+\begin{code}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.8}
+\begin{code}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.11}
+\begin{code}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.12}
+\begin{code}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.13}
+\begin{code}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.14}
+\begin{code}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.15}
+\begin{code}
+\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.16}
+\begin{code}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.17}
+\begin{code}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.18}
+\begin{code}
+\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.22}
+\begin{code}
+\tcaption{Bisection method}{Bisection method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.23}
+\begin{code}
+\tcaption{Newtons method}{Newtons method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.24}
+\begin{code}
+\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
+\end{code}
+
+\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
+
+\vspace*{10mm}
+\curlable{Exa~4.1}
+\begin{code}
+\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.2}
+\begin{code}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.3}
+\begin{code}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.4}
+\begin{code}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.5}
+\begin{code}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.6}
+\begin{code}
+\tcaption{Inverse transform method}{Inverse transform method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.8}
+\begin{code}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.9}
+\begin{code}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.10}
+\begin{code}
+\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.11}
+\begin{code}
+\tcaption{Antithetic sampling}{Antithetic sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.12}
+\begin{code}
+\tcaption{BlsMCAV}{BlsMCAV}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.14}
+\begin{code}
+\tcaption{Importance sampling}{Importance sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.15}
+\begin{code}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.16}
+\begin{code}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.17}
+\begin{code}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.18}
+\begin{code}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.19}
+\begin{code}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~4.20}
+\begin{code}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
+\end{code}
+
+\chapter{ Finite Difference Methods for Partial Differential Equations}
+
+\vspace*{10mm}
+\curlable{Exa~5.1}
+\begin{code}
+\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.3}
+\begin{code}
+\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~5.4}
+\begin{code}
+\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
+\end{code}
+
+\chapter{ Convex Optimization}
+
+\vspace*{10mm}
+\curlable{Exa~6.1}
+\begin{code}
+\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.3}
+\begin{code}
+\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.5}
+\begin{code}
+\tcaption{Penalty function approach}{Penalty function approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.8}
+\begin{code}
+\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~6.12}
+\begin{code}
+\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
+\end{code}
+
+\chapter{ Option Pricing by Binomial and Trinomial Lattices}
+
+\vspace*{10mm}
+\curlable{Exa~7.1}
+\begin{code}
+\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.2}
+\begin{code}
+\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.3}
+\begin{code}
+\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.4}
+\begin{code}
+\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.5}
+\begin{code}
+\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.6}
+\begin{code}
+\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~7.7}
+\begin{code}
+\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
+\end{code}
+
+\chapter{Option Pricing by Monte Carlo Methods }
+
+\vspace*{10mm}
+\curlable{Exa~8.1}
+\begin{code}
+\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.2}
+\begin{code}
+\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.3}
+\begin{code}
+\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.4}
+\begin{code}
+\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.5}
+\begin{code}
+\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.6}
+\begin{code}
+\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.7}
+\begin{code}
+\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.8}
+\begin{code}
+\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.9}
+\begin{code}
+\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.10}
+\begin{code}
+\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.11}
+\begin{code}
+\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.12}
+\begin{code}
+\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.13}
+\begin{code}
+\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.14}
+\begin{code}
+\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.15}
+\begin{code}
+\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.16}
+\begin{code}
+\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.17}
+\begin{code}
+\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.18}
+\begin{code}
+\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
+\end{code}
+
+\chapter{ Option Pricing by Finite Difference Methods}
+
+\vspace*{10mm}
+\curlable{Exa~9.3}
+\begin{code}
+\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.4}
+\begin{code}
+\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~9.5}
+\begin{code}
+\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
+\end{code}
+
+\chapter{ Dynamic Programming}
+
+\vspace*{10mm}
+\curlable{Exa~10.4}
+\begin{code}
+\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
+\end{code}
 

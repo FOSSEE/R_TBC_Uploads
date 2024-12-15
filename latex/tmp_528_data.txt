@@ -1,0 +1,6 @@
+4# Commonly Used Distributions#4.8#Binomial Distribution#Ex4_8.R#Statistics_For_Engineers_And_Scientists_by_William_Navidi/CH4/EX4.8/Ex4_8.R#S##14760
+4# Commonly Used Distributions#4.53#The mentioned error has been rectified#Ex4_53.R#Statistics_For_Engineers_And_Scientists_by_William_Navidi/CH4/EX4.53/Ex4_53.R#S##14761
+4# Commonly Used Distributions#4.13#Uncertainty#Ex4_13.R#Statistics_For_Engineers_And_Scientists_by_William_Navidi/CH4/EX4.13/Ex4_13.R#S##14765
+4# Commonly Used Distributions#4.12#Normal Distribution#Ex4_12.R#Statistics_For_Engineers_And_Scientists_by_William_Navidi/CH4/EX4.12/Ex4_12.R#S##14768
+4# Commonly Used Distributions#4.11#Find p#Ex4_11.R#Statistics_For_Engineers_And_Scientists_by_William_Navidi/CH4/EX4.11/Ex4_11.R#S##14767
+4# Commonly Used Distributions#4.10#Binomial Distribution#Ex4_10.R#Statistics_For_Engineers_And_Scientists_by_William_Navidi/CH4/EX4.10/Ex4_10.R#S##14766
