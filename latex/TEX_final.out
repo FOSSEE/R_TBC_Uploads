@@ -1,12 +1,7 @@
 \BOOKMARK [0][-]{chapter*.3}{}{}% 1
-\BOOKMARK [0][-]{chapter.1}{ Introduction}{}% 2
-\BOOKMARK [0][-]{chapter.2}{ Stationary Processes}{}% 3
-\BOOKMARK [0][-]{chapter.3}{ ARMA Models}{}% 4
-\BOOKMARK [0][-]{chapter.4}{ Spectral Analysis}{}% 5
-\BOOKMARK [0][-]{chapter.5}{ Modeling and Forecasting with ARMA Processes}{}% 6
-\BOOKMARK [0][-]{chapter.6}{ Nonstationary and Seasonal time series models}{}% 7
-\BOOKMARK [0][-]{chapter.7}{ Time Series Models for Financial Data}{}% 8
-\BOOKMARK [0][-]{chapter.8}{ Multivariate Time Series}{}% 9
-\BOOKMARK [0][-]{chapter.9}{ State Space Models}{}% 10
-\BOOKMARK [0][-]{chapter.10}{ Forecasting Techniques}{}% 11
-\BOOKMARK [0][-]{chapter.11}{Further Topics}{}% 12
+\BOOKMARK [0][-]{chapter.2}{ Financial Theory}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Basics of Numerical Analysis}{}% 3
+\BOOKMARK [0][-]{chapter.4}{ Numerical Integration Deterministic and Monte Carlo Methods}{}% 4
+\BOOKMARK [0][-]{chapter.5}{ Finite Difference Methods for Partial Differential Equations}{}% 5
+\BOOKMARK [0][-]{chapter.6}{ Convex Optimization}{}% 6
+\BOOKMARK [0][-]{chapter.7}{ Option Pricing by Binomial and Trinomial Lattices}{}% 7
