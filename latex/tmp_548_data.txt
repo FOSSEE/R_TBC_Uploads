@@ -105,13 +105,13 @@
 4# Describing Data#4.7#CONTINGENCY TABLES#Applewood.csv#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.7/Applewood.csv#D##15338
 4# Describing Data#4.6#DESCRIBING THE RELATIONSHIP BETWEEN TWO VARIABLES#Ex4_6.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.6/Ex4_6.R#S##15335
 4# Describing Data#4.6#DESCRIBING THE RELATIONSHIP BETWEEN TWO VARIABLES#Applewood.csv#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.6/Applewood.csv#D##15336
-4# Describing Data#4.5#SKEWNESS#Ex4_5.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.5/Ex4_5.R#S##15334
-4# Describing Data#4.4.2#BOX PLOTS#Ex4_4_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Ex4_4_2.R#S##15332
-4# Describing Data#4.4.2#BOX PLOTS#Applewood.csv#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Applewood.csv#D##15333
+4# Describing Data#4.5#SKEWNESS#Ex4_5.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.5/Ex4_5.R#S##15450
+4# Describing Data#4.4.2#BOX PLOTS#Ex4_4_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Ex4_4_2.R#S##15448
+4# Describing Data#4.4.2#BOX PLOTS#Applewood.csv#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Applewood.csv#D##15449
 4# Describing Data#4.4.1#BOX PLOTS#Ex4_4_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.1/Ex4_4_1.R#S##15331
 4# Describing Data#4.3#Quartiles Deciles and Percentiles#Ex4_3.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.3/Ex4_3.R#S##15329
-4# Describing Data#4.2#STEM AND LEAF DISPLAYS#Ex4_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.2/Ex4_2.R#S##15328
-4# Describing Data#4.1#DOT PLOTS#Ex4_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.1/Ex4_1.R#S##15327
+4# Describing Data#4.2#STEM AND LEAF DISPLAYS#Ex4_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.2/Ex4_2.R#S##15447
+4# Describing Data#4.1#DOT PLOTS#Ex4_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.1/Ex4_1.R#S##15446
 3# Describing Data#3.6.2#Standard Deviation of Grouped Data#Ex3_6_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.6.2/Ex3_6_2.R#S##15326
 3# Describing Data#3.6.1#Arithmetic Mean of Grouped Data#Ex3_6_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.6.1/Ex3_6_1.R#S##15325
 3# Describing Data#3.5.2#Empirical Rule#Ex3_5_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.5.2/Ex3_5_2.R#S##15324
@@ -129,6 +129,7 @@
 3# Describing Data#3.1.3#Median#Ex3_1_3.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.3/Ex3_1_3.R#S##15312
 3# Describing Data#3.1.2#Sample Mean#Ex3_1_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.2/Ex3_1_2.R#S##15311
 3# Describing Data#3.1.1#Population Mean#Ex3_1_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.1/Ex3_1_1.R#S##15313
-2# Describing Data#2.4.2#Cumulative Distributions#Ex2_4_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.4.2/Ex2_4_2.R#S##15310
-2# Describing Data#2.4.1#Histogram#Ex2_4_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.4.1/Ex2_4_1.R#S##15309
-2# Describing Data#2.3#FREQUENCY DISTRIBUTIONS#Ex2_3.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.3/Ex2_3.R#S##15308
+2# Describing Data#2.4.2#Cumulative Distributions#Ex2_4_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.4.2/Ex2_4_2.R#S##15443
+2# Describing Data#2.4.1#Histogram#Ex2_4_1.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.4.1/Ex2_4_1.R#S##15444
+2# Describing Data#2.3#FREQUENCY DISTRIBUTIONS#Ex2_3.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.3/Ex2_3.R#S##15442
+2# Describing Data#2.2#GRAPHIC PRESENTATION OF QUALITATIVE DATA#Ex2_2.R#Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.2/Ex2_2.R#S##15445
