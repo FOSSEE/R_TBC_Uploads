@@ -56,341 +56,134 @@ l.73 \newpage
               [1] [2] [3] [4]
 Chapter 2.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.2/Ex2_2.R
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd)) [5]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.3/Ex2_3.R [6])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.4.1/Ex2_4_1.R [7])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.4.2/Ex2_4_2.R
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd) [8]) [9] [10]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R) [5]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R [6])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R [7] [8]
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd) [9] [10])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R) [11]
 Chapter 3.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.1/Ex3_1_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.2/Ex3_1_2.R [11])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.3/Ex3_1_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.4/Ex3_1_4.R) [12]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.5/Ex3_1_5.R [13])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.2/Ex3_2.R [14])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.3.1/Ex3_3_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.3.2/Ex3_3_2.R [15])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.1/Ex3_4_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.2/Ex3_4_2.R) [16]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.3/Ex3_4_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.4/Ex3_4_4.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.5/Ex3_4_5.R [17])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.5.1/Ex3_5_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.5.2/Ex3_5_2.R) [18]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.6.1/Ex3_6_1.R) [19]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.6.2/Ex3_6_2.R [20]) [21]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R) [12]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R [13])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R) [14]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R [15])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R [16])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R) [17]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R [18])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R [19])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R [20])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R [21]) [22]
 Chapter 4.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.1/Ex4_1.R [22])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.2/Ex4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.3/Ex4_3.R [23])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.4.1/Ex4_4_1.R) [24]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Ex4_4_2.R [25])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.5/Ex4_5.R [26])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.6/Ex4_6.R
-Overfull \hbox (3661.0752pt too wide) in paragraph at lines 2--3
-[][][] 
-
-Overfull \hbox (6165.67706pt too wide) in paragraph at lines 3--5
-[][][] 
-[27])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.7/Ex4_7.R [28] [29] [30]) [31]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R [23])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R [24])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R [25])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R [26])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R [27])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R [28])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R [29])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R [30] [31] [32])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R [33])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R [34] [35])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R [36] [37])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R [38] [39])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R [40])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R) [41]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R [42]) [43]
 Chapter 5.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.2.1/Ex5_2_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.2.2/Ex5_2_2.R [32])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.3.1/Ex5_3_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.3.2/Ex5_3_2.R) [33]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.3.3/Ex5_3_3.R) [34]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.4.1/Ex5_4_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.4.2/Ex5_4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.5/Ex5_5.R [35])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.6/Ex5_6.R [36])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.1/Ex5_7_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.2/Ex5_7_2.R [37])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.3/Ex5_7_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.4/Ex5_7_4.R) [38]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R [44] [45])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R [46])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R [47]) [48]
 Chapter 6.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.1/Ex6_1.R) [39]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.3/Ex6_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.4.1/Ex6_4_1.R) [40]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.4.2/Ex6_4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.4.3/Ex6_4_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.5/Ex6_5.R [41])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.6.1/Ex6_6_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.6.2/Ex6_6_2.R [42]) [43]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R [49])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd))
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R) [50]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R) [51]
 Chapter 7.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.1/Ex7_1.R [44]) [45]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.1/Ex7_3_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.2/Ex7_3_2.R) [46]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.3/Ex7_3_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.4/Ex7_3_4.R) [47]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.5/Ex7_3_5.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.6/Ex7_3_6.R [48])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.7/Ex7_3_7.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.5.1/Ex7_5_1.R) [49]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.5.2/Ex7_5_2.R) [50]
-Chapter 8.
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R [52])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R [53])
+! Missing $ inserted.
+<inserted text> 
+                $
+l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+                                                  
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.1/Ex8_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.2/Ex8_2.R [51])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.3/Ex8_3.R [52])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.4/Ex8_4.R [53] [54])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.5/Ex8_5.R [55]) [56]
-Chapter 9.
+! Package Listings Error: File `../Numerical_Methods_In_Finance_And_Economics:_
+A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_
+Investment Science_Ex13_11(.R)' not found.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.1/Ex9_2_1.R [57])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.2/Ex9_2_2.R [58]) [59]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.3/Ex9_2_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.4/Ex9_2_4.R [60])
-Overfull \hbox (3.27939pt too wide) in paragraph at lines 589--590
-[]\OT1/cmr/m/n/12 CONFIDENCE IN-TER-VAL FOR A POP-U-LA-TION PRO-
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: R)
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.3/Ex9_3.R [61])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.4.1/Ex9_4_1.R [62])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.4.2/Ex9_4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.5/Ex9_5.R [63]) [64]
-Chapter 10.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.4/Ex10_4.R [65])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.6.1/Ex10_6_1.R [66])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.6.2/Ex10_6_2.R [67])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.7/Ex10_7.R [68]) [69]
-Chapter 11.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.1/Ex11_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.2.1/Ex11_2_1.R [70]) [71]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.2.2/Ex11_2_2.R [72])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.3/Ex11_3.R) [73]
-Chapter 12.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.1/Ex12_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.2.1/Ex12_2_1.R [74])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.2.2/Ex12_2_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.4/Ex12_4.R [75]) [76]
-Chapter 13.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.1/Ex13_1.R [77])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.2.1/Ex13_2_1.R [78] [79])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.2.2/Ex13_2_2.R
-Overfull \hbox (3638.845pt too wide) in paragraph at lines 4--5
-[][][] 
-
-Overfull \hbox (6165.67706pt too wide) in paragraph at lines 5--7
-[][][] 
-[80])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.3/Ex13_3.R) [81]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.6/Ex13_6.R [82])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.7/Ex13_7.R [83]) [84] [85]
-Chapter 14.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.1/Ex14_1.R [86])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.4/Ex14_4.R [87])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.6/Ex14_6.R) [88]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.8/Ex14_8.R [89]) [90]
-Chapter 15.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.1/Ex15_1.R [91])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.2/Ex15_2.R [92] [93])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.3.1/Ex15_3_1.R [94])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.3.2/Ex15_3_2.R [95])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.5/Ex15_5.R [96])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.6/Ex15_6.R [97]) [98]
-Chapter 16.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.1.1/Ex16_1_1.R [99])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.1.2/Ex16_1_2.R) [100]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.2/Ex16_2.R)
-Overfull \hbox (7.01553pt too wide) in paragraph at lines 848--849
-[]\OT1/cmr/m/n/12 WILCOXON SIGNED RANK TEST FOR DE-PEN-DENT
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.3/Ex16_3.R [101])
-Overfull \hbox (0.40308pt too wide) in paragraph at lines 855--856
-[]\OT1/cmr/m/n/12 WILCOXON RANK SUM TEST FOR IN-DE-PEN-DENT
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.4/Ex16_4.R [102] [103])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.5/Ex16_5.R [104])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.6/Ex16_6.R [105]) [106]
-Chapter 17.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.1.1/Ex17_1_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.1.2/Ex17_1_2.R [107])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.1.3/Ex17_1_3.R) [108]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.1/Ex17_3_1.R) [109]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.2/Ex17_3_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.3/Ex17_3_3.R [110])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.4/Ex17_3_4.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.4/Ex17_4.R [111])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.5.1/Ex17_5_1.R)
-Overfull \hbox (5.8324pt too wide) in paragraph at lines 941--942
-[]\OT1/cmr/m/n/12 USING AN IN-DEX TO FIND PUR-CHAS-ING POWER 
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.5.2/Ex17_5_2.R) [112]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.5.3/Ex17_5_3.R [113]) [114]
-Chapter 18.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.3/Ex18_3.R [115]) [116]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.4/Ex18_4.R [117])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.6/Ex18_6.R [118])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.7/Ex18_7.R [119])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.8/Ex18_8.R [120]) [121]
-Chapter 19.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.3/Ex19_3.R [122])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.4.1/Ex19_4_1.R [123] [124])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.4.2/Ex19_4_2.R [125])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.6.1/Ex19_6_1.R [126] [127])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.6.2/Ex19_6_2.R [128])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.7/Ex19_7.R [129]) [130] (./TEX_final.aux)
-
-Package rerunfilecheck Warning: File `TEX_final.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
- )
-(see the transcript file for additional information)</usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2016/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2016/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TEX_final.pdf (131 pages, 409978 bytes).
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+                                                  ^^M
+!  ==> Fatal error occurred, no output PDF file produced!
 Transcript written on TEX_final.log.
-'TEX_final.pdf' -> 'book_Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen.pdf'

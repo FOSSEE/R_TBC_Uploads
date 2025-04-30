@@ -1,17 +1,17 @@
-\title{R Textbook Companion for \\Statistical Techniques In Business And Economics\\by Douglas A. Lind, William G. Marchal, Samuel A. Wathen\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
-\author{ Created by \\Swaraj Vishwas Sawant\\B.Sc.\\Data Science\\Vidyalankar School Of Information Technology\\ Cross-Checked by \\R TBC Team\\}
+\title{R Textbook Companion for \\Numerical Methods in Finance and Economics: A MATLAB-Based Introduction\\by Paolo Brandimarte\footnote{Funded by a grant from the National Mission on Education through ICT - \href{http://spoken-tutorial.org/NMEICT-Intro}{http://spoken-tutorial.org/NMEICT-Intro}. This Textbook Companion and R codes written in it can be downloaded from the "Textbook Companion Project" section at the website - \href{https://r.fossee.in}{https://r.fossee.in}.}}
+\author{ Created by \\Bhushan Sahadeo Manjarekar\\B.E.\\Others\\University of Mumbai\\ Cross-Checked by \\R TBC Team\\}
 \date{\today}
 \begin{document}
 \maketitle
 
 \chapter*{Book Description}
 \begin{description}
-\item [Title:] Statistical Techniques In Business And Economics
-\item [Author:] Douglas A. Lind, William G. Marchal, Samuel A. Wathen
-\item [Publisher:] Mcgraw-hill Education, New York
-\item [Edition:] 17
-\item [Year:] 2018
-\item [ISBN:] 978-1-259-66636-0
+\item [Title:] Numerical Methods in Finance and Economics: A MATLAB-Based Introduction
+\item [Author:] Paolo Brandimarte
+\item [Publisher:] John Wiley \& Sons, Inc., Hoboken, New Jersey
+\item [Edition:] 2
+\item [Year:] 2006
+\item [ISBN:] 0471745030
 \end{description}
 
 \newpage
@@ -28,949 +28,553 @@ For example, Exa~3.51 means solved example 3.51 of this book. Sec~2.3 means an R
 
 
 \setcounter{chapter}{1}
-\chapter{ Describing Data}
+\chapter{ Financial Theory}
 
 \vspace*{10mm}
-\curlable{Exa~2.2}
+\curlable{Exa~2.7}
 \begin{code}
-\tcaption{GRAPHIC PRESENTATION OF QUALITATIVE DATA}{GRAPHIC PRESENTATION OF QUALITATIVE DATA}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.2/Ex2_2.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.3}
+\curlable{Exa~2.8}
 \begin{code}
-\tcaption{FREQUENCY DISTRIBUTIONS}{FREQUENCY DISTRIBUTIONS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.3/Ex2_3.R}
+\tcaption{Basic theory of interest rates}{Basic theory of interest rates}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.4.1}
+\curlable{Exa~2.9}
 \begin{code}
-\tcaption{Histogram}{Histogram}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.4.1/Ex2_4_1.R}
+\tcaption{Basic pricing of fixed income securities}{Basic pricing of fixed income securities}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~2.4.2}
+\curlable{Exa~2.10}
 \begin{code}
-\tcaption{Cumulative Distributions}{Cumulative Distributions}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH2/EX2.4.2/Ex2_4_2.R}
-\end{code}
-
-\chapter{ Describing Data}
-
-\vspace*{10mm}
-\curlable{Exa~3.1.1}
-\begin{code}
-\tcaption{Population Mean}{Population Mean}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.1/Ex3_1_1.R}
+\tcaption{Interest rate sensitivity and bond portfolio immunization}{Interest rate sensitivity and bond portfolio immunization}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.1.2}
+\curlable{Exa~2.24}
 \begin{code}
-\tcaption{Sample Mean}{Sample Mean}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.2/Ex3_1_2.R}
+\tcaption{Black Scholes model in MATLAB}{Black Scholes model in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~3.1.3}
-\begin{code}
-\tcaption{Median}{Median}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.3/Ex3_1_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.1.4}
-\begin{code}
-\tcaption{Mode}{Mode}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.4/Ex3_1_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~3.1.5}
-\begin{code}
-\tcaption{Software Solution}{Software Solution}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.1.5/Ex3_1_5.R}
-\end{code}
+\chapter{Basics of Numerical Analysis}
 
 \vspace*{10mm}
 \curlable{Exa~3.2}
 \begin{code}
-\tcaption{WEIGHTED MEAN}{WEIGHTED MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.2/Ex3_2.R}
+\tcaption{Error propagation conditioning and instability}{Error propagation conditioning and instability}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.3.1}
+\curlable{Exa~3.4}
 \begin{code}
-\tcaption{GEOMETRIC MEAN}{GEOMETRIC MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.3.1/Ex3_3_1.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.3.2}
+\curlable{Exa~3.6}
 \begin{code}
-\tcaption{GEOMETRIC MEAN}{GEOMETRIC MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.3.2/Ex3_3_2.R}
+\tcaption{Vector and matrix norms}{Vector and matrix norms}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.1}
+\curlable{Exa~3.7}
 \begin{code}
-\tcaption{Range}{Range}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.4.1/Ex3_4_1.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.2}
+\curlable{Exa~3.8}
 \begin{code}
-\tcaption{Variance}{Variance}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.4.2/Ex3_4_2.R}
+\tcaption{Condition number for a matrix}{Condition number for a matrix}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.3}
+\curlable{Exa~3.11}
 \begin{code}
-\tcaption{Population Variance}{Population Variance}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.4.3/Ex3_4_3.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.4}
+\curlable{Exa~3.12}
 \begin{code}
-\tcaption{Sample Variance}{Sample Variance}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.4.4/Ex3_4_4.R}
+\tcaption{Direct methods for solving systems of linear equations}{Direct methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.4.5}
+\curlable{Exa~3.13}
 \begin{code}
-\tcaption{Sample Standard Deviation}{Sample Standard Deviation}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.4.5/Ex3_4_5.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.5.1}
+\curlable{Exa~3.14}
 \begin{code}
-\tcaption{Chebyshev Theorem}{Chebyshev Theorem}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.5.1/Ex3_5_1.R}
+\tcaption{Iterative methods for solving systems of linear equations}{Iterative methods for solving systems of linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.5.2}
+\curlable{Exa~3.15}
 \begin{code}
-\tcaption{Empirical Rule}{Empirical Rule}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.5.2/Ex3_5_2.R}
+\tcaption{FUNCTION APPROXIMATION AND INTERPOLATION}{FUNCTION APPROXIMATION AND INTERPOLATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.6.1}
+\curlable{Exa~3.16}
 \begin{code}
-\tcaption{Arithmetic Mean of Grouped Data}{Arithmetic Mean of Grouped Data}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.6.1/Ex3_6_1.R}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~3.6.2}
+\curlable{Exa~3.17}
 \begin{code}
-\tcaption{Standard Deviation of Grouped Data}{Standard Deviation of Grouped Data}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH3/EX3.6.2/Ex3_6_2.R}
+\tcaption{Elementary polynomial interpolation}{Elementary polynomial interpolation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R}
 \end{code}
 
-\chapter{ Describing Data}
+\vspace*{10mm}
+\curlable{Exa~3.18}
+\begin{code}
+\tcaption{Interpolation by cubic splines}{Interpolation by cubic splines}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.22}
+\begin{code}
+\tcaption{Bisection method}{Bisection method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.23}
+\begin{code}
+\tcaption{Newtons method}{Newtons method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~3.24}
+\begin{code}
+\tcaption{Optimization based solution of non linear equations}{Optimization based solution of non linear equations}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R}
+\end{code}
+
+\chapter{ Numerical Integration Deterministic and Monte Carlo Methods}
 
 \vspace*{10mm}
 \curlable{Exa~4.1}
 \begin{code}
-\tcaption{DOT PLOTS}{DOT PLOTS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.1/Ex4_1.R}
+\tcaption{Numerical integration in MATLAB}{Numerical integration in MATLAB}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.2}
 \begin{code}
-\tcaption{STEM AND LEAF DISPLAYS}{STEM AND LEAF DISPLAYS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.2/Ex4_2.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.3}
 \begin{code}
-\tcaption{Quartiles Deciles and Percentiles}{Quartiles Deciles and Percentiles}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.3/Ex4_3.R}
+\tcaption{MONTE CARLO INTEGRATION}{MONTE CARLO INTEGRATION}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.4.1}
+\curlable{Exa~4.4}
 \begin{code}
-\tcaption{BOX PLOTS}{BOX PLOTS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.1/Ex4_4_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~4.4.2}
-\begin{code}
-\tcaption{BOX PLOTS}{BOX PLOTS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Ex4_4_2.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.5}
 \begin{code}
-\tcaption{SKEWNESS}{SKEWNESS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.5/Ex4_5.R}
+\tcaption{Generating pseudorandom numbers}{Generating pseudorandom numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~4.6}
 \begin{code}
-\tcaption{DESCRIBING THE RELATIONSHIP BETWEEN TWO VARIABLES}{DESCRIBING THE RELATIONSHIP BETWEEN TWO VARIABLES}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.6/Ex4_6.R}
+\tcaption{Inverse transform method}{Inverse transform method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~4.7}
+\curlable{Exa~4.8}
 \begin{code}
-\tcaption{CONTINGENCY TABLES}{CONTINGENCY TABLES}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH4/EX4.7/Ex4_7.R}
-\end{code}
-
-\chapter{ A Survey of Probability Concepts}
-
-\vspace*{10mm}
-\curlable{Exa~5.2.1}
-\begin{code}
-\tcaption{Classical Probability}{Classical Probability}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.2.1/Ex5_2_1.R}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.2.2}
+\curlable{Exa~4.9}
 \begin{code}
-\tcaption{Empirical Probability}{Empirical Probability}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.2.2/Ex5_2_2.R}
+\tcaption{Generating normal variates by the polar approach}{Generating normal variates by the polar approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.1}
+\curlable{Exa~4.10}
 \begin{code}
-\tcaption{Special Rule of Addition}{Special Rule of Addition}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.3.1/Ex5_3_1.R}
+\tcaption{SETTING THE NUMBER OF REPLICATIONS}{SETTING THE NUMBER OF REPLICATIONS}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.2}
+\curlable{Exa~4.11}
 \begin{code}
-\tcaption{Complement Rule}{Complement Rule}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.3.2/Ex5_3_2.R}
+\tcaption{Antithetic sampling}{Antithetic sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.3.3}
+\curlable{Exa~4.12}
 \begin{code}
-\tcaption{General Rule of Addition}{General Rule of Addition}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.3.3/Ex5_3_3.R}
+\tcaption{BlsMCAV}{BlsMCAV}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.4.1}
+\curlable{Exa~4.14}
 \begin{code}
-\tcaption{Special Rule of Multiplication}{Special Rule of Multiplication}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.4.1/Ex5_4_1.R}
+\tcaption{Importance sampling}{Importance sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.4.2}
+\curlable{Exa~4.15}
 \begin{code}
-\tcaption{General Rule of Multiplication}{General Rule of Multiplication}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.4.2/Ex5_4_2.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.5}
+\curlable{Exa~4.16}
 \begin{code}
-\tcaption{CONTINGENCY TABLES}{CONTINGENCY TABLES}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.5/Ex5_5.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.6}
+\curlable{Exa~4.17}
 \begin{code}
-\tcaption{BAYES THEOREM}{BAYES THEOREM}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.6/Ex5_6.R}
+\tcaption{Generating Halton low discrepancy sequences}{Generating Halton low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.7.1}
+\curlable{Exa~4.18}
 \begin{code}
-\tcaption{Multiplication Formula}{Multiplication Formula}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.7.1/Ex5_7_1.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.7.2}
+\curlable{Exa~4.19}
 \begin{code}
-\tcaption{Permutation}{Permutation}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.7.2/Ex5_7_2.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.7.3}
+\curlable{Exa~4.20}
 \begin{code}
-\tcaption{Permutation}{Permutation}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.7.3/Ex5_7_3.R}
+\tcaption{Generating Sobol low discrepancy sequences}{Generating Sobol low discrepancy sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R}
+\end{code}
+
+\chapter{ Finite Difference Methods for Partial Differential Equations}
+
+\vspace*{10mm}
+\curlable{Exa~5.1}
+\begin{code}
+\tcaption{Instability in a finite difference scheme}{Instability in a finite difference scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~5.7.4}
+\curlable{Exa~5.3}
 \begin{code}
-\tcaption{Combination}{Combination}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH5/EX5.7.4/Ex5_7_4.R}
+\tcaption{Solving the heat equation by an explicit method}{Solving the heat equation by an explicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R}
 \end{code}
 
-\chapter{ Discrete Probability Distributions}
+\vspace*{10mm}
+\curlable{Exa~5.4}
+\begin{code}
+\tcaption{Solving the heat equation by a fully implicit method}{Solving the heat equation by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R}
+\end{code}
+
+\chapter{ Convex Optimization}
 
 \vspace*{10mm}
 \curlable{Exa~6.1}
 \begin{code}
-\tcaption{PROBABILITY DISTRIBUTION}{PROBABILITY DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.1/Ex6_1.R}
+\tcaption{Finite vs infinite dimensional problems}{Finite vs infinite dimensional problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.3}
 \begin{code}
-\tcaption{MEAN AND VARIANCE OF A PROBABILITY DISTRIBUTION}{MEAN AND VARIANCE OF A PROBABILITY DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.3/Ex6_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.4.1}
-\begin{code}
-\tcaption{BINOMIAL PROBABILITY}{BINOMIAL PROBABILITY}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.4.1/Ex6_4_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.4.2}
-\begin{code}
-\tcaption{Binomial Probability Tables}{Binomial Probability Tables}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.4.2/Ex6_4_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~6.4.3}
-\begin{code}
-\tcaption{Cumulative Binomial Probability Distributions}{Cumulative Binomial Probability Distributions}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.4.3/Ex6_4_3.R}
+\tcaption{Linear vs non linear problems}{Linear vs non linear problems}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~6.5}
 \begin{code}
-\tcaption{HYPERGEOMETRIC DISTRIBUTION}{HYPERGEOMETRIC DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.5/Ex6_5.R}
+\tcaption{Penalty function approach}{Penalty function approach}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.6.1}
+\curlable{Exa~6.8}
 \begin{code}
-\tcaption{POISSON DISTRIBUTION}{POISSON DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.6.1/Ex6_6_1.R}
+\tcaption{Kuhn Tucker conditions}{Kuhn Tucker conditions}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~6.6.2}
+\curlable{Exa~6.12}
 \begin{code}
-\tcaption{POISSON DISTRIBUTION}{POISSON DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH6/EX6.6.2/Ex6_6_2.R}
+\tcaption{Geometric and algebraic features of linear programming}{Geometric and algebraic features of linear programming}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R}
 \end{code}
 
-\chapter{Continuous Probability Distributions}
+\chapter{ Option Pricing by Binomial and Trinomial Lattices}
 
 \vspace*{10mm}
 \curlable{Exa~7.1}
 \begin{code}
-\tcaption{UNIFORM DISTRIBUTION}{UNIFORM DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.1/Ex7_1.R}
+\tcaption{Calibrating a binomial lattice}{Calibrating a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.1}
+\curlable{Exa~7.2}
 \begin{code}
-\tcaption{STANDARD NORMAL PROBABILITY DISTRIBUTION}{STANDARD NORMAL PROBABILITY DISTRIBUTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.1/Ex7_3_1.R}
+\tcaption{Accuracy of the binomial lattice for decreasing deltaT}{Accuracy of the binomial lattice for decreasing deltaT}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.2}
+\curlable{Exa~7.3}
 \begin{code}
-\tcaption{Empirical Rule}{Empirical Rule}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.2/Ex7_3_2.R}
+\tcaption{Price a pay later option by a binomial lattice}{Price a pay later option by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_Investment Science_Ex13_11.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.3}
+\curlable{Exa~7.4}
 \begin{code}
-\tcaption{Areas under the Normal Curve}{Areas under the Normal Curve}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.3/Ex7_3_3.R}
+\tcaption{Pricing an European call by a binomial lattice}{Pricing an European call by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.4/Page_413_SmartEurLattice.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.4}
+\curlable{Exa~7.5}
 \begin{code}
-\tcaption{Areas under the Normal Curve}{Areas under the Normal Curve}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.4/Ex7_3_4.R}
+\tcaption{Pricing an American put by a binomial lattice}{Pricing an American put by a binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.5/Page_416_AmPutLattice.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.5}
+\curlable{Exa~7.6}
 \begin{code}
-\tcaption{Areas under the Normal Curve}{Areas under the Normal Curve}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.5/Ex7_3_5.R}
+\tcaption{Pricing an American spread option by a bidimensional binomial lattice}{Pricing an American spread option by a bidimensional binomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.6/Page_420_AmSpreadLattice.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~7.3.6}
+\curlable{Exa~7.7}
 \begin{code}
-\tcaption{Areas under the Normal Curve}{Areas under the Normal Curve}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.6/Ex7_3_6.R}
+\tcaption{Pricing an European call by a trinomial lattice}{Pricing an European call by a trinomial lattice}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.7/Page_424_EuCallTrinomial.R}
 \end{code}
 
-\vspace*{10mm}
-\curlable{Exa~7.3.7}
-\begin{code}
-\tcaption{Empirical Rule}{Empirical Rule}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.3.7/Ex7_3_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.5.1}
-\begin{code}
-\tcaption{EXPONENTIAL DISTRIBUTION }{EXPONENTIAL DISTRIBUTION }
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.5.1/Ex7_5_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~7.5.2}
-\begin{code}
-\tcaption{EXPONENTIAL DISTRIBUTION }{EXPONENTIAL DISTRIBUTION }
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH7/EX7.5.2/Ex7_5_2.R}
-\end{code}
-
-\chapter{Sampling Methods and the Central Limit Theorem}
+\chapter{Option Pricing by Monte Carlo Methods }
 
 \vspace*{10mm}
 \curlable{Exa~8.1}
 \begin{code}
-\tcaption{Simple Random Sampling}{Simple Random Sampling}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH8/EX8.1/Ex8_1.R}
+\tcaption{Generate asset price paths by Monte Carlo simulation}{Generate asset price paths by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.1/Page_433_AssetPaths.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.2}
 \begin{code}
-\tcaption{SAMPLING ERROR}{SAMPLING ERROR}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH8/EX8.2/Ex8_2.R}
+\tcaption{Vectorized code to generate asset price paths}{Vectorized code to generate asset price paths}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.2/Page_434_AssetPathsV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.3}
 \begin{code}
-\tcaption{SAMPLING DISTRIBUTION OF THE SAMPLE MEAN}{SAMPLING DISTRIBUTION OF THE SAMPLE MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH8/EX8.3/Ex8_3.R}
+\tcaption{Evaluating the cost of a stop loss hedging strategy}{Evaluating the cost of a stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.3/Page_436_StopLoss.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.4}
 \begin{code}
-\tcaption{THE CENTRAL LIMIT THEOREM}{THE CENTRAL LIMIT THEOREM}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH8/EX8.4/Ex8_4.R}
+\tcaption{Vectorized code for the stop loss hedging strategy}{Vectorized code for the stop loss hedging strategy}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.4/Page_437_StopLossV.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~8.5}
 \begin{code}
-\tcaption{SAMPLING DISTRIBUTION OF THE SAMPLE MEAN}{SAMPLING DISTRIBUTION OF THE SAMPLE MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH8/EX8.5/Ex8_5.R}
-\end{code}
-
-\chapter{Estimation and Confidence Intervals}
-
-\vspace*{10mm}
-\curlable{Exa~9.2.1}
-\begin{code}
-\tcaption{Population Standard Deviation}{Population Standard Deviation}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.2.1/Ex9_2_1.R}
+\tcaption{Evaluating the performance of delta hedging}{Evaluating the performance of delta hedging}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.5/Page_438_DeltaHedging.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.2.2}
+\curlable{Exa~8.6}
 \begin{code}
-\tcaption{Computer Simulation}{Computer Simulation}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.2.2/Ex9_2_2.R}
+\tcaption{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}{Implementing and checking path generation for the standard Wiener process by a Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.6/Page_442_WienerBridge.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.2.3}
+\curlable{Exa~8.7}
 \begin{code}
-\tcaption{Population Standard Deviation}{Population Standard Deviation}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.2.3/Ex9_2_3.R}
+\tcaption{Code to price an exchange option analytically}{Code to price an exchange option analytically}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.7/Page_444_Exchange.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.2.4}
+\curlable{Exa~8.8}
 \begin{code}
-\tcaption{Population Mean}{Population Mean}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.2.4/Ex9_2_4.R}
+\tcaption{Code to price an exchange option by Monte Carlo simulation}{Code to price an exchange option by Monte Carlo simulation}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.8/Page_445_ExchangeMC.R}
 \end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.9}
+\begin{code}
+\tcaption{Crude Monte Carlo simulation for a discrete barrier option}{Crude Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.9/Page_446_DOPutMC.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.10}
+\begin{code}
+\tcaption{Conditional Monte Carlo simulation for a discrete barrier option}{Conditional Monte Carlo simulation for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.10/Page_449_D0PutMCCond.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.11}
+\begin{code}
+\tcaption{Using conditional Monte Carlo and importance sampling for a discrete barrier option}{Using conditional Monte Carlo and importance sampling for a discrete barrier option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.11/Page_453_DOPutMCCondIS.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.12}
+\begin{code}
+\tcaption{Monte Carlo simulation for an Asian option}{Monte Carlo simulation for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.12/Page_455_AsianMC.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.13}
+\begin{code}
+\tcaption{Monte Carlo simulation with control variates for an Asian option}{Monte Carlo simulation with control variates for an Asian option}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.13/Page_456_AsianMCCV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.14}
+\begin{code}
+\tcaption{Using the geometric average Asian option as a control variate}{Using the geometric average Asian option as a control variate}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.14/Page_459_AsianMCGeoCV.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.15}
+\begin{code}
+\tcaption{Pricing an Asian option by Halton sequences}{Pricing an Asian option by Halton sequences}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.15/Page_460_AsianHalton.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.16}
+\begin{code}
+\tcaption{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}{Simulating geometric Brownian motion by Halton sequences and the Brownian bridge}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.16/Page_464_GBMHaltonBridge.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.17}
+\begin{code}
+\tcaption{Improving the estimate of the option Delta by Common Random Numbers}{Improving the estimate of the option Delta by Common Random Numbers}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.17/Page_470_BlsDeltaMCNaive.R}
+\end{code}
+
+\vspace*{10mm}
+\curlable{Exa~8.18}
+\begin{code}
+\tcaption{Estimating the option Delta by a pathwise estimator}{Estimating the option Delta by a pathwise estimator}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH8/EX8.18/Page_472_BlsDeltaMCPath.R}
+\end{code}
+
+\chapter{ Option Pricing by Finite Difference Methods}
 
 \vspace*{10mm}
 \curlable{Exa~9.3}
 \begin{code}
-\tcaption{CONFIDENCE INTERVAL FOR A POPULATION PROPORTION}{CONFIDENCE INTERVAL FOR A POPULATION PROPORTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.3/Ex9_3.R}
+\tcaption{price a European vanilla put by a straightforward explicit scheme}{price a European vanilla put by a straightforward explicit scheme}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.3/Page_479_EuPutExpl.R}
 \end{code}
 
 \vspace*{10mm}
-\curlable{Exa~9.4.1}
+\curlable{Exa~9.4}
 \begin{code}
-\tcaption{Sample Size to Estimate a Population Mean}{Sample Size to Estimate a Population Mean}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.4.1/Ex9_4_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~9.4.2}
-\begin{code}
-\tcaption{Sample Size to Estimate a Population Proportion}{Sample Size to Estimate a Population Proportion}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.4.2/Ex9_4_2.R}
+\tcaption{price a vanilla European option by a fully implicit method}{price a vanilla European option by a fully implicit method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.4/Page_484_EuPutImpl.R}
 \end{code}
 
 \vspace*{10mm}
 \curlable{Exa~9.5}
 \begin{code}
-\tcaption{FINITE POPULATION CORRECTION FACTOR}{FINITE POPULATION CORRECTION FACTOR}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH9/EX9.5/Ex9_5.R}
+\tcaption{price a down and out put option by the Crank Nicolson method}{price a down and out put option by the Crank Nicolson method}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH9/EX9.5/Page_487_DOPutCK.R}
 \end{code}
 
-\chapter{ One Sample Tests of Hypothesis}
+\chapter{ Dynamic Programming}
 
 \vspace*{10mm}
 \curlable{Exa~10.4}
 \begin{code}
-\tcaption{Two Tailed Test}{Two Tailed Test}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH10/EX10.4/Ex10_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.6.1}
-\begin{code}
-\tcaption{TESTING A MEAN}{TESTING A MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH10/EX10.6.1/Ex10_6_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.6.2}
-\begin{code}
-\tcaption{TESTING A MEAN}{TESTING A MEAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH10/EX10.6.2/Ex10_6_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~10.7}
-\begin{code}
-\tcaption{TYPE II ERROR}{TYPE II ERROR}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH10/EX10.7/Ex10_7.R}
-\end{code}
-
-\chapter{ Two Sample Tests of Hypothesis}
-
-\vspace*{10mm}
-\curlable{Exa~11.1}
-\begin{code}
-\tcaption{TWO SAMPLE TEST}{TWO SAMPLE TEST}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH11/EX11.1/Ex11_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.2.1}
-\begin{code}
-\tcaption{Two Sample Pooled Test}{Two Sample Pooled Test}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH11/EX11.2.1/Ex11_2_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.2.2}
-\begin{code}
-\tcaption{Unequal Population Standard Deviations}{Unequal Population Standard Deviations}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH11/EX11.2.2/Ex11_2_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~11.3}
-\begin{code}
-\tcaption{PAIRED t TEST}{PAIRED t TEST}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH11/EX11.3/Ex11_3.R}
-\end{code}
-
-\chapter{ Analysis of Variance}
-
-\vspace*{10mm}
-\curlable{Exa~12.1}
-\begin{code}
-\tcaption{Testing a Hypothesis of Equal Population Variances}{Testing a Hypothesis of Equal Population Variances}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH12/EX12.1/Ex12_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.2.1}
-\begin{code}
-\tcaption{ANOVA}{ANOVA}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH12/EX12.2.1/Ex12_2_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.2.2}
-\begin{code}
-\tcaption{ANOVA Test}{ANOVA Test}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH12/EX12.2.2/Ex12_2_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~12.4}
-\begin{code}
-\tcaption{TWO WAY ANALYSIS OF VARIANCE}{TWO WAY ANALYSIS OF VARIANCE}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH12/EX12.4/Ex12_4.R}
-\end{code}
-
-\chapter{ Correlation and Linear Regression}
-
-\vspace*{10mm}
-\curlable{Exa~13.1}
-\begin{code}
-\tcaption{CORRELATION ANALYSIS}{CORRELATION ANALYSIS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH13/EX13.1/Ex13_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.2.1}
-\begin{code}
-\tcaption{CORRELATION COEFFICIENT}{CORRELATION COEFFICIENT}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH13/EX13.2.1/Ex13_2_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.2.2}
-\begin{code}
-\tcaption{t TEST FOR THE CORRELATION COEFFICIENT}{t TEST FOR THE CORRELATION COEFFICIENT}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH13/EX13.2.2/Ex13_2_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.3}
-\begin{code}
-\tcaption{REGRESSION ANALYSIS}{REGRESSION ANALYSIS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH13/EX13.3/Ex13_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.6}
-\begin{code}
-\tcaption{Constructing Confidence and Prediction Intervals}{Constructing Confidence and Prediction Intervals}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH13/EX13.6/Ex13_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~13.7}
-\begin{code}
-\tcaption{TRANSFORMING DATA}{TRANSFORMING DATA}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH13/EX13.7/Ex13_7.R}
-\end{code}
-
-\chapter{ Multiple Regression Analysis}
-
-\vspace*{10mm}
-\curlable{Exa~14.1}
-\begin{code}
-\tcaption{MULTIPLE REGRESSION ANALYSIS}{MULTIPLE REGRESSION ANALYSIS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH14/EX14.1/Ex14_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.4}
-\begin{code}
-\tcaption{Multicollinearity}{Multicollinearity}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH14/EX14.4/Ex14_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.6}
-\begin{code}
-\tcaption{REGRESSION MODELS WITH INTERACTION}{REGRESSION MODELS WITH INTERACTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH14/EX14.6/Ex14_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~14.8}
-\begin{code}
-\tcaption{REVIEW OF MULTIPLE REGRESSION}{REVIEW OF MULTIPLE REGRESSION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH14/EX14.8/Ex14_8.R}
-\end{code}
-
-\chapter{ Nonparametric Methods}
-
-\vspace*{10mm}
-\curlable{Exa~15.1}
-\begin{code}
-\tcaption{TEST A HYPOTHESIS OF A POPULATION PROPORTION}{TEST A HYPOTHESIS OF A POPULATION PROPORTION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH15/EX15.1/Ex15_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.2}
-\begin{code}
-\tcaption{TWO SAMPLE TESTS ABOUT PROPORTIONS}{TWO SAMPLE TESTS ABOUT PROPORTIONS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH15/EX15.2/Ex15_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.3.1}
-\begin{code}
-\tcaption{Hypothesis Test of Equal Expected Frequencies}{Hypothesis Test of Equal Expected Frequencies}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH15/EX15.3.1/Ex15_3_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.3.2}
-\begin{code}
-\tcaption{Hypothesis Test of Unequal Expected Frequencies}{Hypothesis Test of Unequal Expected Frequencies}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH15/EX15.3.2/Ex15_3_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.5}
-\begin{code}
-\tcaption{TESTING THE HYPOTHESIS THAT A DISTRIBUTION IS NORMAL}{TESTING THE HYPOTHESIS THAT A DISTRIBUTION IS NORMAL}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH15/EX15.5/Ex15_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~15.6}
-\begin{code}
-\tcaption{CONTINGENCY TABLE ANALYSIS}{CONTINGENCY TABLE ANALYSIS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH15/EX15.6/Ex15_6.R}
-\end{code}
-
-\chapter{ Nonparametric Methods}
-
-\vspace*{10mm}
-\curlable{Exa~16.1.1}
-\begin{code}
-\tcaption{THE SIGN TEST}{THE SIGN TEST}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.1.1/Ex16_1_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~16.1.2}
-\begin{code}
-\tcaption{Normal Approximation to the Binomial}{Normal Approximation to the Binomial}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.1.2/Ex16_1_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~16.2}
-\begin{code}
-\tcaption{TESTING A HYPOTHESIS ABOUT A MEDIAN}{TESTING A HYPOTHESIS ABOUT A MEDIAN}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.2/Ex16_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~16.3}
-\begin{code}
-\tcaption{WILCOXON SIGNED RANK TEST FOR DEPENDENT POPULATIONS}{WILCOXON SIGNED RANK TEST FOR DEPENDENT POPULATIONS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.3/Ex16_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~16.4}
-\begin{code}
-\tcaption{WILCOXON RANK SUM TEST FOR INDEPENDENT POPULATIONS}{WILCOXON RANK SUM TEST FOR INDEPENDENT POPULATIONS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.4/Ex16_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~16.5}
-\begin{code}
-\tcaption{KRUSKAL WALLIS TEST}{KRUSKAL WALLIS TEST}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.5/Ex16_5.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~16.6}
-\begin{code}
-\tcaption{RANK ORDER CORRELATION}{RANK ORDER CORRELATION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH16/EX16.6/Ex16_6.R}
-\end{code}
-
-\chapter{ Index Numbers}
-
-\vspace*{10mm}
-\curlable{Exa~17.1.1}
-\begin{code}
-\tcaption{SIMPLE INDEX NUMBERS}{SIMPLE INDEX NUMBERS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.1.1/Ex17_1_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.1.2}
-\begin{code}
-\tcaption{SIMPLE INDEX NUMBERS}{SIMPLE INDEX NUMBERS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.1.2/Ex17_1_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.1.3}
-\begin{code}
-\tcaption{SIMPLE INDEX NUMBERS}{SIMPLE INDEX NUMBERS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.1.3/Ex17_1_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.3.1}
-\begin{code}
-\tcaption{WEIGHTED INDEXES}{WEIGHTED INDEXES}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.3.1/Ex17_3_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.3.2}
-\begin{code}
-\tcaption{Paasche Price Index}{Paasche Price Index}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.3.2/Ex17_3_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.3.3}
-\begin{code}
-\tcaption{Fishers Ideal Index}{Fishers Ideal Index}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.3.3/Ex17_3_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.3.4}
-\begin{code}
-\tcaption{Value Index}{Value Index}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.3.4/Ex17_3_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.4}
-\begin{code}
-\tcaption{SPECIAL PURPOSE INDEXES}{SPECIAL PURPOSE INDEXES}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.4/Ex17_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.5.1}
-\begin{code}
-\tcaption{USING AN INDEX AS A DEFLATOR }{USING AN INDEX AS A DEFLATOR }
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.5.1/Ex17_5_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.5.2}
-\begin{code}
-\tcaption{USING AN INDEX TO FIND PURCHASING POWER}{USING AN INDEX TO FIND PURCHASING POWER}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.5.2/Ex17_5_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~17.5.3}
-\begin{code}
-\tcaption{Shifting the Base}{Shifting the Base}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH17/EX17.5.3/Ex17_5_3.R}
-\end{code}
-
-\chapter{Time Series and Forecasting}
-
-\vspace*{10mm}
-\curlable{Exa~18.3}
-\begin{code}
-\tcaption{WEIGHTED MOVING AVERAGE}{WEIGHTED MOVING AVERAGE}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH18/EX18.3/Ex18_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~18.4}
-\begin{code}
-\tcaption{Least Squares Method}{Least Squares Method}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH18/EX18.4/Ex18_4.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~18.6}
-\begin{code}
-\tcaption{SEASONAL VARIATION}{SEASONAL VARIATION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH18/EX18.6/Ex18_6.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~18.7}
-\begin{code}
-\tcaption{Deseasonalized Data to Forecast}{Deseasonalized Data to Forecast}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH18/EX18.7/Ex18_7.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~18.8}
-\begin{code}
-\tcaption{ DURBIN WATSON STATISTIC}{ DURBIN WATSON STATISTIC}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH18/EX18.8/Ex18_8.R}
-\end{code}
-
-\chapter{ Statistical Process Control and Quality Management}
-
-\vspace*{10mm}
-\curlable{Exa~19.3}
-\begin{code}
-\tcaption{SOURCES OF VARIATION}{SOURCES OF VARIATION}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH19/EX19.3/Ex19_3.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.4.1}
-\begin{code}
-\tcaption{PURPOSE AND TYPES OF QUALITY CONTROL CHARTS}{PURPOSE AND TYPES OF QUALITY CONTROL CHARTS}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH19/EX19.4.1/Ex19_4_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.4.2}
-\begin{code}
-\tcaption{Control Charts for Variables}{Control Charts for Variables}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH19/EX19.4.2/Ex19_4_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.6.1}
-\begin{code}
-\tcaption{p Charts}{p Charts}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH19/EX19.6.1/Ex19_6_1.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.6.2}
-\begin{code}
-\tcaption{cBar Charts}{cBar Charts}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH19/EX19.6.2/Ex19_6_2.R}
-\end{code}
-
-\vspace*{10mm}
-\curlable{Exa~19.7}
-\begin{code}
-\tcaption{ACCEPTANCE SAMPLING}{ACCEPTANCE SAMPLING}
-\lstinputlisting{../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_G_Marchal_Samuel_A_Wathen/CH19/EX19.7/Ex19_7.R}
+\tcaption{Simple asset allocation problem under uncertainty Monte Carlo sampling}{Simple asset allocation problem under uncertainty Monte Carlo sampling}
+\lstinputlisting{../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH10/EX10.4/Ex10_4.R}
 \end{code}
 

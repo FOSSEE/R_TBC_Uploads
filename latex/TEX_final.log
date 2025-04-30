@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  15 APR 2025 21:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  28 APR 2025 22:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -318,584 +318,190 @@ eady used, duplicate ignored
 l.73 \newpage
               [1
 
-] [2] (./TEX_final.toc
-Overfull \hbox (70.614pt too wide) detected at line 1
-\OT1/cmr/bx/n/12 List of R Codes 
- []
-
-[3
-
-])
+] [2] (./TEX_final.toc)
 \tf@toc=\write4
 \openout4 = `TEX_final.toc'.
 
- [4] (./TEX_final.cod
-Overfull \hbox (4.46172pt too wide) in paragraph at lines 1--1
- [][] [][][]\OT1/cmr/m/n/12 GRAPHIC PRE-SEN-TA-TION OF QUAL-I-TA-TIVE DATA[][] 
-[][]  
- []
+ [3
 
-
-Overfull \hbox (8.61305pt too wide) in paragraph at lines 28--28
- [][] [][][]\OT1/cmr/m/n/12 DESCRIBING THE RE-LA-TION-SHIP BE-TWEEN TWO 
- []
-
-[5
-
-]
-Overfull \hbox (4.62154pt too wide) in paragraph at lines 63--63
- [][] [][][]\OT1/cmr/m/n/12 SAMPLING DIS-TRI-BU-TION OF THE SAM-PLE MEAN[][] []
-[]  
- []
-
-[6]
-Overfull \hbox (4.62154pt too wide) in paragraph at lines 65--65
- [][] [][][]\OT1/cmr/m/n/12 SAMPLING DIS-TRI-BU-TION OF THE SAM-PLE MEAN[][] []
-[]  
- []
-
-
-Overfull \hbox (13.58809pt too wide) in paragraph at lines 70--70
- [][] [][][]\OT1/cmr/m/n/12 CONFIDENCE IN-TER-VAL FOR A POP-U-LA-TION PRO- 
- []
-
-[7]
-Overfull \hbox (10.57423pt too wide) in paragraph at lines 105--105
- [][] [][][]\OT1/cmr/m/n/12 WILCOXON SIGNED RANK TEST FOR DE-PEN-DENT 
- []
-
-
-Overfull \hbox (3.96178pt too wide) in paragraph at lines 106--106
- [][] [][][]\OT1/cmr/m/n/12 WILCOXON RANK SUM TEST FOR IN-DE-PEN-DENT 
- []
-
-)
+] (./TEX_final.cod)
 \tf@cod=\write5
 \openout5 = `TEX_final.cod'.
 
- [8]
+ [4
+
+]
 Chapter 2.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 93.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.2/Ex2_2.R
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 7.
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.7/Ex2_7.R) [5
+
+]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.8/Ex2_8.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.9/Ex2_9.R [6])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.10/Ex2_10.R [7] [8]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 55.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 7.
-) [9
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+ [9] [10])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH2/EX2.24/Ex2_24.R) [11]
+Chapter 3.
+
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.2/Ex3_2.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.4/Ex3_4.R) [12
 
 ]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.3/Ex2_3.R [10])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.4.1/Ex2_4_1.R [11])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH2/EX2.4.2/Ex2_4_2.R
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 12.
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.6/Ex3_6.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.7/Ex3_7.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.8/Ex3_8.R [13])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.11/Ex3_11.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.12/Ex3_12.R) [14]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.13/Ex3_13.R [15])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.14/Ex3_14.R [16])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.15/Ex3_15.R) [17]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.16/Ex3_16.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.17/Ex3_17.R [18])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.18/Ex3_18.R [19])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.22/Ex3_22.R [20])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.23/Ex3_23.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH3/EX3.24/Ex3_24.R [21]) [22]
+Chapter 4.
+
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.1/Ex4_1.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.2/Ex4_2.R [23
+
+])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.3/Ex4_3.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.4/Ex4_4.R [24])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.5/Ex4_5.R [25])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.6/Ex4_6.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.8/Ex4_8.R [26])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.9/Ex4_9.R [27])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.10/Ex4_10.R [28])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.11/Ex4_11.R [29])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.12/Ex4_12.R [30] [31] [32])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.14/Ex4_14.R [33])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.15/Ex4_15.R [34] [35])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.16/Ex4_16.R [36] [37])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.17/Ex4_17.R [38] [39])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.18/Ex4_18.R [40])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.19/Ex4_19.R) [41]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH4/EX4.20/Ex4_20.R [42]) [43]
+Chapter 5.
+
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.1/Ex5_1.R [44
+
+] [45])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.3/Ex5_3.R [46])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH5/EX5.4/Ex5_4.R [47]) [48]
+Chapter 6.
+
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.1/Ex6_1.R [49
+
+])
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.3/Ex6_3.R
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 4.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 12.
- [12]) [13]
-[14]
-Chapter 3.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.1/Ex3_1_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.2/Ex3_1_2.R [15
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.3/Ex3_1_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.4/Ex3_1_4.R) [16]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.1.5/Ex3_1_5.R [17])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.2/Ex3_2.R [18])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.3.1/Ex3_3_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.3.2/Ex3_3_2.R [19])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.1/Ex3_4_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.2/Ex3_4_2.R) [20]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.3/Ex3_4_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.4/Ex3_4_4.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.4.5/Ex3_4_5.R [21])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.5.1/Ex3_5_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.5.2/Ex3_5_2.R) [22]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.6.1/Ex3_6_1.R
-Missing character: There is no Î in font cmr12!
-Missing character: There is no £ in font cmr12!
-) [23]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH3/EX3.6.2/Ex3_6_2.R
-Missing character: There is no ð in font cmr12!
-Missing character: There is no Ÿ in font cmr12!
-Missing character: There is no ” in font cmr12!
-Missing character: There is no ¹ in font cmr12!
-Missing character: There is no Î in font cmr12!
-Missing character: There is no £ in font cmr12!
-Missing character: There is no Î in font cmr12!
-Missing character: There is no £ in font cmr12!
- [24]
-Missing character: There is no ð in font cmr12!
-Missing character: There is no Ÿ in font cmr12!
-Missing character: There is no ” in font cmr12!
-Missing character: There is no ¹ in font cmr12!
-Missing character: There is no ð in font cmr12!
-Missing character: There is no Ÿ in font cmr12!
-Missing character: There is no ” in font cmr12!
-Missing character: There is no ¹ in font cmr12!
-) [25]
-Chapter 4.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.1/Ex4_1.R [26
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.2/Ex4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.3/Ex4_3.R [27])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.4.1/Ex4_4_1.R) [28]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.4.2/Ex4_4_2.R [29])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.5/Ex4_5.R [30]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 4.
 )
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.6/Ex4_6.R
-Overfull \hbox (3661.0752pt too wide) in paragraph at lines 2--3
-[][][] 
- []
-
-
-Overfull \hbox (6165.67706pt too wide) in paragraph at lines 3--5
-[][][] 
- []
-
-[31])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH4/EX4.7/Ex4_7.R [32] [33] [34]) [35]
-Chapter 5.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.2.1/Ex5_2_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.2.2/Ex5_2_2.R [36
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.3.1/Ex5_3_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.3.2/Ex5_3_2.R) [37]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.3.3/Ex5_3_3.R) [38]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.4.1/Ex5_4_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.4.2/Ex5_4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.5/Ex5_5.R [39])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.6/Ex5_6.R [40])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.1/Ex5_7_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.2/Ex5_7_2.R [41])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.3/Ex5_7_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH5/EX5.7.4/Ex5_7_4.R) [42]
-Chapter 6.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.1/Ex6_1.R) [43
-
-]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.3/Ex6_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.4.1/Ex6_4_1.R) [44]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.4.2/Ex6_4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.4.3/Ex6_4_3.R
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no ¥ in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.5/Ex6_5.R [45])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.6.1/Ex6_6_1.R
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no ¥ in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH6/EX6.6.2/Ex6_6_2.R [46]
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‰ in font cmr12!
-Missing character: There is no ¥ in font cmr12!
-) [47]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.5/Ex6_5.R) [50]
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.8/Ex6_8.R)
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH6/EX6.12/Ex6_12.R) [51]
 Chapter 7.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.1/Ex7_1.R [48
-
-]) [49]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.1/Ex7_3_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.2/Ex7_3_2.R) [50]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.3/Ex7_3_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.4/Ex7_3_4.R) [51]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.5/Ex7_3_5.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.6/Ex7_3_6.R [52])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.3.7/Ex7_3_7.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.5.1/Ex7_5_1.R) [53]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH7/EX7.5.2/Ex7_5_2.R) [54]
-Chapter 8.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.1/Ex8_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.2/Ex8_2.R [55
-
-]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.3/Ex8_3.R
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
- [56]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.4/Ex8_4.R [57]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
- [58])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH8/EX8.5/Ex8_5.R [59]) [60]
-Chapter 9.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.1/Ex9_2_1.R [61
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH7/EX7.1/Ex7_1.R [52
 
 ])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.2/Ex9_2_2.R [62]) [63]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.3/Ex9_2_3.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.2.4/Ex9_2_4.R [64])
-Overfull \hbox (3.27939pt too wide) in paragraph at lines 589--590
-[]\OT1/cmr/m/n/12 CONFIDENCE IN-TER-VAL FOR A POP-U-LA-TION PRO-
- []
+(../Numerical_Methods_In_Finance_And_Economics:_A_Matlab-Based_Introduction_by_
+Paolo_Brandimarte/CH7/EX7.2/Page_409_CompLatticeBLS.R [53])
+! Missing $ inserted.
+<inserted text> 
+                $
+l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.3/Ex9_3.R [65])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.4.1/Ex9_4_1.R [66])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.4.2/Ex9_4_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH9/EX9.5/Ex9_5.R [67]) [68]
-Chapter 10.
+! Package Listings Error: File `../Numerical_Methods_In_Finance_And_Economics:_
+A_Matlab-Based_Introduction_by_Paolo_Brandimarte/CH7/EX7.3/Page_411_Luenberger_
+Investment Science_Ex13_11(.R)' not found.
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.4/Ex10_4.R [69
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: R)
 
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.6.1/Ex10_6_1.R [70])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.6.2/Ex10_6_2.R [71])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH10/EX10.7/Ex10_7.R [72]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ² in font cmr12!
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ² in font cmr12!
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ¼ in font cmr12!
-) [73]
-Chapter 11.
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.446 ..._Luenberger_Investment Science_Ex13_11.R}
+                                                  ^^M
+*** (cannot \read from terminal in nonstop modes)
 
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.1/Ex11_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.2.1/Ex11_2_1.R [74
-
-]) [75]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.2.2/Ex11_2_2.R [76])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH11/EX11.3/Ex11_3.R) [77]
-Chapter 12.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.1/Ex12_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.2.1/Ex12_2_1.R [78
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.2.2/Ex12_2_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH12/EX12.4/Ex12_4.R [79]) [80]
-Chapter 13.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.1/Ex13_1.R [81
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.2.1/Ex13_2_1.R [82] [83])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.2.2/Ex13_2_2.R
-Overfull \hbox (3638.845pt too wide) in paragraph at lines 4--5
-[][][] 
- []
-
-
-Overfull \hbox (6165.67706pt too wide) in paragraph at lines 5--7
-[][][] 
- []
-
-[84])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.3/Ex13_3.R
-Missing character: There is no Å in font cmr12!
-Missing character: There is no · in font cmr12!
-) [85]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.6/Ex13_6.R [86])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH13/EX13.7/Ex13_7.R [87]) [88] [89]
-Chapter 14.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.1/Ex14_1.R [90
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.4/Ex14_4.R [91])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.6/Ex14_6.R) [92]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH14/EX14.8/Ex14_8.R [93]) [94]
-Chapter 15.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.1/Ex15_1.R [95
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.2/Ex15_2.R [96] [97]
-Missing character: There is no Â in font cmr12!
-Missing character: There is no ± in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.3.1/Ex15_3_1.R [98])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.3.2/Ex15_3_2.R [99])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.5/Ex15_5.R [100]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ± in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH15/EX15.6/Ex15_6.R [101]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ± in font cmr12!
-) [102]
-Chapter 16.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.1.1/Ex16_1_1.R [103
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.1.2/Ex16_1_2.R) [104]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.2/Ex16_2.R)
-Overfull \hbox (7.01553pt too wide) in paragraph at lines 848--849
-[]\OT1/cmr/m/n/12 WILCOXON SIGNED RANK TEST FOR DE-PEN-DENT
- []
-
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.3/Ex16_3.R [105]
-Missing character: There is no Î in font cmr12!
-Missing character: There is no ± in font cmr12!
-)
-Overfull \hbox (0.40308pt too wide) in paragraph at lines 855--856
-[]\OT1/cmr/m/n/12 WILCOXON RANK SUM TEST FOR IN-DE-PEN-DENT
- []
-
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.4/Ex16_4.R [106] [107])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.5/Ex16_5.R [108])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH16/EX16.6/Ex16_6.R [109]) [110]
-Chapter 17.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.1.1/Ex17_1_1.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.1.2/Ex17_1_2.R [111
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.1.3/Ex17_1_3.R
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-) [112]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.1/Ex17_3_1.R) [113]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.2/Ex17_3_2.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.3/Ex17_3_3.R [114]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.3.4/Ex17_3_4.R)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.4/Ex17_4.R [115])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.5.1/Ex17_5_1.R)
-Overfull \hbox (5.8324pt too wide) in paragraph at lines 941--942
-[]\OT1/cmr/m/n/12 USING AN IN-DEX TO FIND PUR-CHAS-ING POWER 
- []
-
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.5.2/Ex17_5_2.R) [116]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH17/EX17.5.3/Ex17_5_3.R [117]) [118]
-Chapter 18.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.3/Ex18_3.R [119
-
-]) [120]
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.4/Ex18_4.R
-Missing character: There is no Å in font cmr12!
-Missing character: There is no · in font cmr12!
-Missing character: There is no Å in font cmr12!
-Missing character: There is no · in font cmr12!
-Missing character: There is no Å in font cmr12!
-Missing character: There is no · in font cmr12!
- [121])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.6/Ex18_6.R [122])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.7/Ex18_7.R [123])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH18/EX18.8/Ex18_8.R [124]) [125]
-Chapter 19.
-
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.3/Ex19_3.R [126
-
-])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.4.1/Ex19_4_1.R [127] [128])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.4.2/Ex19_4_2.R [129]
-Missing character: There is no Ì in font cmr12!
-Missing character: There is no „ in font cmr12!
-)
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.6.1/Ex19_6_1.R [130]
-Missing character: There is no Ì in font cmr12!
-Missing character: There is no „ in font cmr12!
- [131])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.6.2/Ex19_6_2.R
-Missing character: There is no Ì in font cmr12!
-Missing character: There is no „ in font cmr12!
- [132])
-(../Statistical_Techniques_In_Business_And_Economics_by_Douglas_A_Lind_William_
-G_Marchal_Samuel_A_Wathen/CH19/EX19.7/Ex19_7.R [133]
-Missing character: There is no Ï in font cmr12!
-Missing character: There is no € in font cmr12!
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1033.
- [134]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1033.
- (./TEX_final.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1033.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1033.
-
-Package rerunfilecheck Info: File `TEX_final.out' has not changed.
-(rerunfilecheck)             Checksum: 1A15D3A601B2CB38223E4AF1D5DD42E4;1201.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1033.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 12000 strings out of 493013
- 212411 string characters out of 6133328
- 383647 words of memory out of 5000000
- 11949 multiletter control sequences out of 15000+600000
+ 9617 strings out of 493013
+ 150990 string characters out of 6133328
+ 338647 words of memory out of 5000000
+ 11447 multiletter control sequences out of 15000+600000
  10548 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,40p,1255b,1934s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loca
-l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TEX_final.pdf (135 pages, 422463 bytes).
-PDF statistics:
- 4352 PDF objects out of 5155 (max. 8388607)
- 4165 compressed objects within 42 object streams
- 3017 named destinations out of 3580 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+ 30i,7n,40p,539b,1728s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
