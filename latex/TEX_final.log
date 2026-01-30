@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  14 JAN 2026 17:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.8.26)  30 JAN 2026 14:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,17 +301,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 62.
-
-Overfull \hbox (22.40999pt too wide) in paragraph at lines 62--62
- [][] 
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 62.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 62.
+
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]pdfTeX w
@@ -322,231 +318,273 @@ eady used, duplicate ignored
 l.73 \newpage
               [1
 
-] [2] (./TEX_final.toc)
+] [2] (./TEX_final.toc
+Overfull \hbox (70.614pt too wide) detected at line 1
+\OT1/cmr/bx/n/12 List of R Codes 
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `TEX_final.toc'.
 
  [3
 
-] (./TEX_final.cod)
+] (./TEX_final.cod [4
+
+] [5])
 \tf@cod=\write5
 \openout5 = `TEX_final.cod'.
 
- [4
-
-]
+ [6]
 Chapter 1.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 91.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
-1/Ex1_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH1/EX1.
-3/Ex1_3.R) [5
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.1.1/Ex1_1_1.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.1.3/Ex1_1_3.R [7
 
-]
+])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.1.4/Ex1_1_4.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.1.5/Ex1_1_5.R [8])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.1.6/Ex1_1_6.R) [9]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.3.3/Ex1_3_3.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.3.4/Ex1_3_4.R [10])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.3.5/Ex1_3_5.R) [11]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.3.6/Ex1_3_6.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.4.6/Ex1_4_6.R [12])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.5.1/Ex1_5_1.R [13])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.5.2/Ex1_5_2.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.5.3/Ex1_5_3.R [14])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.5.4/Ex1_5_4.R [15])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.5.5/Ex1_5_5.R [16])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH1/EX1.6.1/Ex1_6_1.R [17]) [18]
 Chapter 2.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-1/Ex2_1.R
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
- (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH2/EX2.4.3/Ex2_4_3.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH2/EX2.4.4/Ex2_4_4.R [19
+
+] [20])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH2/EX2.5.5/Ex2_5_5.R
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 20.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
-)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-2/Ex2_2.R [6
-
-])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-3/Ex2_3.R) [7]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-4/Ex2_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH2/EX2.
-5/Ex2_5.R [8]) [9]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+) [21]
 Chapter 3.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-1/Ex3_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-2/Ex3_2.R [10
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.1.1/Ex3_1_1.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.1.2/Ex3_1_2.R [22
 
 ])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-3/Ex3_3.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-4/Ex3_4.R [11])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-5/Ex3_5.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-6/Ex3_6.R) [12]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH3/EX3.
-7/Ex3_7.R) [13]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.1.3/Ex3_1_3.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.2.4/Ex3_2_4.R [23])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.2.8/Ex3_2_8.R [24])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.2.9/Ex3_2_9.R) [25]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.3.4/Ex3_3_4.R [26])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH3/EX3.3.5/Ex3_3_5.R) [27]
 Chapter 4.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-1/Ex4_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-2/Ex4_2.R [14
-
-])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-3/Ex4_3.R) [15]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-4/Ex4_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-5/Ex4_5.R [16])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-6/Ex4_6.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-7/Ex4_7.R) [17]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-8/Ex4_8.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-9/Ex4_9.R [18])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-10/Ex4_10.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-11/Ex4_11.R [19])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-12/Ex4_12.R) [20]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-13/Ex4_13.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH4/EX4.
-14/Ex4_14.R) [21]
-Chapter 5.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-1/Ex5_1.R [22
-
-])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-2/Ex5_2.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-3/Ex5_3.R [23])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-4/Ex5_4.R [24])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-5/Ex5_5.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-6/Ex5_6.R [25])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH5/EX5.
-7/Ex5_7.R) [26]
-Chapter 6.
-
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-1/Ex6_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-2/Ex6_2.R) [27
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH4/EX4.1.2/Ex4_1_2.R [28
 
 ]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-3/Ex6_3.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-5/Ex6_5.R) [28]
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-6/Ex6_6.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-8/Ex6_8.R [29])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH6/EX6.
-10/Ex6_10.R) [30]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH4/EX4.1.4/Ex4_1_4.R [29]
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no Î in font cmr12!
+Missing character: There is no » in font cmr12!
+) [30]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH4/EX4.1.5/Ex4_1_5.R [31])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH4/EX4.2.2/Ex4_2_2.R [32])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH4/EX4.4.1/Ex4_4_1.R [33] [34]) [35]
+Chapter 5.
+
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.1/Ex5_1_1.R [36
+
+])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.2/Ex5_1_2.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.3/Ex5_1_3.R [37])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.4/Ex5_1_4.R [38])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.5/Ex5_1_5.R [39])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.6/Ex5_1_6.R [40])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.1.7/Ex5_1_7.R [41])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.2.4/Ex5_2_4.R [42])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.2.5/Ex5_2_5.R [43])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.4.1/Ex5_4_1.R [44])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.5.1/Ex5_5_1.R [45])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH5/EX5.5.2/Ex5_5_2.R) [46]
+Chapter 6.
+
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.1.1/Ex6_1_1.R [47
+
+])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.2.1/Ex6_2_1.R) [48]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.2.2/Ex6_2_2.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.3.1/Ex6_3_1.R [49])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.3.2/Ex6_3_2.R) [50]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.4.1/Ex6_4_1.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.5.2/Ex6_5_2.R) [51]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.5.3/Ex6_5_3.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.5.4/Ex6_5_4.R [52])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.5.5/Ex6_5_5.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.6.1/Ex6_6_1.R [53])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.6.2/Ex6_6_2.R) [54]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH6/EX6.6.3/Ex6_6_3.R [55]) [56]
 Chapter 7.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-1/Ex7_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-2/Ex7_2.R [31
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH7/EX7.2.1/Ex7_2_1.R) [57
 
-])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-3/Ex7_3.R
-Overfull \hbox (143.52466pt too wide) in paragraph at lines 12--14
-[][][][][][] 
- []
-
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (156.1146pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (170.93472pt too wide) in paragraph at lines 12--14
-[][] 
- []
-
-
-Overfull \hbox (148.70453pt too wide) in paragraph at lines 12--14
-[]  
- []
-
-[32])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-4/Ex7_4.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-5/Ex7_5.R [33])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH7/EX7.
-6/Ex7_6.R) [34] [35]
+]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH7/EX7.2.2/Ex7_2_2.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH7/EX7.2.3/Ex7_2_3.R [58])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH7/EX7.5.1/Ex7_5_1.R [59])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH7/EX7.5.2/Ex7_5_2.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH7/EX7.5.3/Ex7_5_3.R [60]) [61]
 Chapter 8.
 
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-1/Ex8_1.R)
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-2/Ex8_2.R [36
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH8/EX8.1.1/Ex8_1_1.R [62
 
 ])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-3/Ex8_3.R [37])
-(../Semiconductor_Physics_And_Devices_-_Basic_Principles_by_D_A_Neamen/CH8/EX8.
-4/Ex8_4.R) [38]
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH8/EX8.1.2/Ex8_1_2.R [63])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH8/EX8.3.1/Ex8_3_1.R [64])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH8/EX8.6.1/Ex8_6_1.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH8/EX8.6.2/Ex8_6_2.R [65])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH8/EX8.6.3/Ex8_6_3.R [66]) [67]
+Chapter 9.
 
-! Package Listings Error: File `../Semiconductor_Physics_And_Devices_-_Basic_Pr
-inciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 (.R)' not found.
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH9/EX9.2.1/Ex9_2_1.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH9/EX9.5.2/Ex9_5_2.R [68
 
-Type X to quit or <RETURN> to proceed,
-or enter new name. (Default extension: R)
+])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH9/EX9.8.3/Ex9_8_3.R [69])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH9/EX9.8.7/Ex9_8_7.R [70] [71]) [72]
+Chapter 10.
 
-Enter file name: 
-! Emergency stop.
-<read *> 
-         
-l.469 ...nciples_by_D_A_Neamen/CH8/EX8.5/Ex8_5 .R}
-                                                  ^^M
-*** (cannot \read from terminal in nonstop modes)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH10/EX10.1.1/Ex10_1_1.R)
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH10/EX10.2.1/Ex10_2_1.R [73
 
- 
+])
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH10/EX10.3.1/Ex10_3_1.R) [74]
+Chapter 11.
+
+(../Introduction_To_Time_Series_And_Forecasting_by_Peter_J_Brockwell_Richard_A_
+Davis/CH11/EX11.4.1/Ex11_4_1.R)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 646.
+ [75
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 646.
+ (./TEX_final.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 646.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 646.
+Package rerunfilecheck Info: File `TEX_final.out' has not changed.
+(rerunfilecheck)             Checksum: 09871471FC79EF8321CC41F5DA9113C5;700.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 646.
+ ) 
 Here is how much of TeX's memory you used:
- 8617 strings out of 493013
- 134032 string characters out of 6133328
- 314647 words of memory out of 5000000
- 10984 multiletter control sequences out of 15000+600000
+ 10193 strings out of 493013
+ 164594 string characters out of 6133328
+ 345647 words of memory out of 5000000
+ 11562 multiletter control sequences out of 15000+600000
  10548 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,40p,515b,1722s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 29i,7n,40p,530b,1728s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/loc
+al/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on TEX_final.pdf (76 pages, 302919 bytes).
+PDF statistics:
+ 2608 PDF objects out of 2984 (max. 8388607)
+ 2498 compressed objects within 25 object streams
+ 1812 named destinations out of 2073 (max. 500000)
+ 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+
